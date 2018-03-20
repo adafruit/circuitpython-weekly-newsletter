@@ -1,10 +1,20 @@
 github: [metadata]
 encoding: UTF-8
 kramdown:
-  input: GFM
-  hard_wrap: false
+    input: GFM
+    hard_wrap: false
 future: true
 jailed: false
 theme: jekyll-theme-primer
 gfm_quirks: paragraph_end
 repository: adafruit/circuitpython-weekly-newsletter
+collections:
+    drafts:
+        output: true
+defaults:
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
