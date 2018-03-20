@@ -20,7 +20,7 @@ boards). Towards the end they discuss high level goals of the CircuitPython comm
 ## News from around the web!
 * [CircuitPython 3.0.0 Alpha 3 Released!](https://blog.adafruit.com/2018/03/14/circuitpython-3-0-0-alpha-3-released/)
 * [Circuit Playground Express TV Zapper guide by ladyada](https://learn.adafruit.com/circuitpython-tv-zapper-with-circuit-playground-express)
-* [CircuitPython Weekly Meeting recording]() and [notes]()
+* [CircuitPython Weekly Meeting recording](https://youtu.be/G_br7smHsvU) and [notes](https://gist.github.com/tannewt/5f0a7deca58bd451762ec340a62bdba4)
 * [New WS2801 RGB LED CircuitPython library](https://github.com/adafruit/Adafruit_CircuitPython_WS2801)
 * [Hackernoon's quick tour of built in breakpoints in Python 3.7](https://blog.adafruit.com/2018/03/19/python-3-7s-new-builtin-breakpoint-a-quick-tour-hackernoon/)
 * [New Raspberry Pi Model 3 B+](https://blog.adafruit.com/2018/03/14/new-raspberry-pi-3-model-b-adafruit-raspberry_pi-pi3b/)
@@ -44,6 +44,8 @@ is [here](http://docs.micropython.org/en/latest/pyboard/).
 
 The CircuitPython Weekly Newsletter is a CircuitPython community-run newsletter emailed every
 Tuesday. It highlights the latest CircuitPython related news from around the web including Python
-and MicroPython developments. To contribute, edit next week's draft [on GitHub]() and [submit a pull
-request]() with the changes. Join our [Discord](https://adafru.it/discord) or [post to the
+and MicroPython developments. To contribute, edit next week's draft [on
+GitHub](https://github.com/adafruit/circuitpython-weekly-newsletter/tree/gh-pages/_posts) and
+[submit a pull request](https://help.github.com/articles/editing-files-in-your-repository/) with the
+changes. Join our [Discord](https://adafru.it/discord) or [post to the
 forum](https://forums.adafruit.com/viewforum.php?f=60) for any further questions.
