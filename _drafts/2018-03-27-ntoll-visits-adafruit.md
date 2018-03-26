@@ -50,6 +50,8 @@ Mu is a simple code editor for beginner programmers. It's written in Python and 
 
 [SparkFun is looking for an embedded software engineer with MicroPython experience](https://www.sparkfun.com/jobs/89)
 
+[CircuitPython Weekly for March 26th, 2018](https://youtu.be/G1VCdbNQvyU)
+
 [We have a post on how to contribute to this newsletter too](https://blog.adafruit.com/2018/03/22/contribute-to-the-circuitpython-weekly-newsletter-adafruit-on-github-circuitpython/)
 
 # Upcoming events!
