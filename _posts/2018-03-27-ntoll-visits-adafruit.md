@@ -17,7 +17,7 @@ Mu is a modal editor with modes for Adafruit's CircuitPython, the micro:bit's ve
 
 It's written in Python and works on Windows, OSX, Linux and Raspberry Pi.
 
-Nicholas Tollervey is a classically trained musician, philosophy graduate, teacher, writer and software developer. Nicholas has been programming since 1984 when he taught himyself using his school's BBC B. He's been online since 1994 and made software development [his career in 2002](http://ntoll.org/about/) & is a [Python fellow](https://www.python.org/psf/).
+Nicholas Tollervey is a classically trained musician, philosophy graduate, teacher, writer and software developer. Nicholas has been programming since 1984 when he taught himself using his school's BBC B. He's been online since 1994 and made software development [his career in 2002](http://ntoll.org/about/) & is a [Python fellow](https://www.python.org/psf/).
 
 Mu is a simple code editor for beginner programmers. It's written in Python and works on Windows, OSX, Linux and Raspberry Pi.
 
