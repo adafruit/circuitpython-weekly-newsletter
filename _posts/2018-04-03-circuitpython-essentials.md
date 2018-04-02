@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New CircuitPython Essentials Guide!"
-date: 2018-04-02 07:00:00 -0800
+date: 2018-04-03 07:00:00 -0800
 categories: weekly
 ---
 
