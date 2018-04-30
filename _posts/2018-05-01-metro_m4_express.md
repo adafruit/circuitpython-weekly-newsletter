@@ -5,9 +5,9 @@ date: 2018-03-19 07:00:00 -0800
 categories: weekly
 ---
 
-![CircuitPython 3.0.0 Logo]({{ "/assets/circuitpython300a.png" | absolute_url }}){:width="550px"}
+[![CircuitPython 3.0.0 Logo]({{ "/assets/metro_m4_blinka.jpg" | absolute_url }}){:width="550px"}](https://www.adafruit.com/product/3382)
 
-The Metro M4 Express running CircuitPython was the hot product launch two weeks ago. While the hardware itself is in Beta, CircuitPython is still in Alpha. Last week, we released CircuitPython 3.0.0 Alpha 6. It gets closer to Beta by reintroducing the `nvm` module and audio output support (including I2S). It also introduces real-time clock support and USB HID gamepad support! Please update and let us know how it works for you on [Discord](https://adafru.it/discord)!
+The [Metro M4 Express](https://www.adafruit.com/product/3382) running CircuitPython was the hot product launch two weeks ago. While the hardware itself is in Beta, CircuitPython is still in Alpha. Last week, we released [CircuitPython 3.0.0 Alpha 6](https://github.com/adafruit/circuitpython/releases/tag/3.0.0-alpha.6). It gets closer to Beta by reintroducing the `nvm` module and audio output support (including I2S). It also introduces real-time clock support and USB HID gamepad support! Please update and let us know how it works for you on [Discord](https://adafru.it/discord)!
 
 ## Metro M4 Express Bootloader Fix!
 
@@ -72,13 +72,13 @@ May 2018 - [The PyCon 2018 conference](https://us.pycon.org/2018/about/), which 
 
 ## Latest releases
 
-CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [#.#.#-##.#](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
+CircuitPython's stable release is [2.2.4](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [3.0.0-alpha.6](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
 
-[2018####](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
+[20180430](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
 
-[v#.#.#](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
+[v1.9.3](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
 
-[#.#.#](https://www.python.org/downloads/) is the latest Python release.
+[3.6.5](https://www.python.org/downloads/) is the latest Python release.
 
 ## Contribute!
 
