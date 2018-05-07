@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Featured story title here!"
-date: 2018-03-19 07:00:00 -0800
+title: "May 15th draft!"
+date: 2018-05-15 07:00:00 -0800
 categories: weekly
 ---
 
