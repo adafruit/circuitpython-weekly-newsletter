@@ -31,13 +31,13 @@ Writing code for robotics needs to be real-time, have frequent iterations, most 
 
 More later - pt.
 
-Alice came to a fork in the road.  “Which road do I take?” she asked.
+*Alice came to a fork in the road.  “Which road do I take?” she asked.*
 
-“Where do you want to go?” responded the Cheshire cat.
+*“Where do you want to go?” responded the Cheshire cat.*
 
-“I don’t know,” Alice answered.
+*“I don’t know,” Alice answered.*
 
-“Then,” said the cat, “it doesn’t matter.”
+*“Then,” said the cat, “it doesn’t matter.”*
 
 – Alice in Wonderland
 
@@ -86,6 +86,8 @@ Adafruit CircuitPython Weekly for June 11th, 2018 [Recording](https://youtu.be/L
 Get your own Blinka PCB pin [from OSH Park](https://oshpark.com/shared_projects/gLEb9MlK)
 
 ## Upcoming events!
+
+![Hack Chat]({{ "/assets/hackchat.png" | absolute_url }}){:width="550px"}
 
 June 22nd at 3pm ET the Adafruit team will be doing a "HackChat" on [Hackaday.io](https://hackaday.io/) all about Crickit and CircuitPython. We'll add all the specifics once hackaday posts'em up.
 

@@ -13,6 +13,8 @@ Feature story text here
 
 ## Upcoming events!
 
+![Hack Chat]({{ "/assets/hackchat.png" | absolute_url }}){:width="550px"}
+
 June 22nd at 3pm ET the Adafruit team will be doing a "HackChat" on [Hackaday.io](https://hackaday.io/) all about Crickit and CircuitPython. We'll add all the specifics once hackaday posts'em up.
 
 July 23rd to July 29th, 2018 is [EuroPython](https://ep2018.europython.eu/), a community conference with a [call for proposals until May 20th](https://ep2018.europython.eu/en/call-for-proposals/) on every aspect of Python: programming from novice to advanced levels, applications and frameworks, or how you have been involved in introducing Python into your organization.
