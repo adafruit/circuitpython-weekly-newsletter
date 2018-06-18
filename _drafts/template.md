@@ -19,6 +19,8 @@ June 22nd at 3pm ET the Adafruit team will be doing a "HackChat" on [Hackaday.io
 
 July 23rd to July 29th, 2018 is [EuroPython](https://ep2018.europython.eu/), a community conference with a [call for proposals until May 20th](https://ep2018.europython.eu/en/call-for-proposals/) on every aspect of Python: programming from novice to advanced levels, applications and frameworks, or how you have been involved in introducing Python into your organization.
 
+August 24-28, 2018 is [PyCon.AU](https://2018.pycon-au.org/) in Sydney, Australia. It is the national Python conference for Australia and the home PyCon of MicroPython! Videos of past talks are [here](https://www.youtube.com/user/PyConAU).
+
 ## New Learn Guides!
 
 ## Latest releases
