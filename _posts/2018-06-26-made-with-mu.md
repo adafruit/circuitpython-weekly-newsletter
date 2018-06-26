@@ -13,9 +13,9 @@ Is it possible to have a favorite new blog the day it launched, YES. A blog to c
 
 Welcome to [Made With Mu](https://madewith.mu/), a blog to celebrate the projects and achievements of users of the Mu Python code editor. Mu is a Python editor for beginner programmers based on extensive feedback given by teachers and learners. The project’s main website can be found at [codewith.mu](https://codewith.mu/).
 
-If you have a project you’d like celebrated, use the form on the submit page (also linked from the site’s header) to tell them about it..
+If you have a project you’d like celebrated, use the form on the submit page (also linked from the site’s header) to tell them about it.
 
-The blog is by Nicholas H.Tollervey, [@ntoll](https://twitter.com/ntoll) on Twitter.
+The blog is by Nicholas H. Tollervey, [@ntoll](https://twitter.com/ntoll) on Twitter.
 
 They are looking for submissions from anybody, no matter your skill level, project type or background. If you’re thinking, “they probably don’t mean me” they definitely mean you. [Submit your project here](https://madewith.mu/submit/).
 
@@ -31,7 +31,7 @@ Making socks with Python - [The Sock Club Magical Color Machine](https://www.soc
 
 [How to](https://www.rototron.info/raspberry-pi-esp32-micropython-mqtt-dht22-tutorial/) connect a DHT22 temperature and humidity sensor to an ESP32 running MicroPython. The sensor data is transmitted wirelessly to a Raspberry Pi using MQTT protocol and the results are displayed on I2C OLED display & [video](https://www.rototron.info/raspberry-pi-esp32-micropython-mqtt-dht22-tutorial/).
 
-Microcontroller hacking with EduBlocks.The ESP32 edition can now drive NeoPixels, all completely wirelessly - [Twitter](https://twitter.com/prestonhack/status/1011326472500469761).
+Microcontroller hacking with EduBlocks. The ESP32 edition can now drive NeoPixels, all completely wirelessly - [Twitter](https://twitter.com/prestonhack/status/1011326472500469761).
 
 [JupyterHub 0.9 released](https://blog.jupyter.org/jupyterhub-0-9-54d43bd08a08). JupyterHub is the multi-user server for Jupyter notebooks, allowing students or researchers to have their own workspace. This release has lots of improvements, especially for stability and performance with large numbers of users.
 
@@ -58,13 +58,13 @@ Make has 5-ish page [preview PDF here](https://dl.humble.com/ops/pdfs/gettingsta
 
 [![Hackbots]({{ "/assets/hackchatbots.jpg" | absolute_url }}){:width="550px"}](https://youtu.be/iboLC9UwcOg)
 
-The Creative Robotics chat with Ladyada on Hackaday was last week, thank you everyone who came by. Ladyada discussed CRICKIT, our Creative Robotics & Interactive Construction Kit.  CRICKIT is an add-on to Adafruit's Circuit Playground that lets you Make a Robot using CircuitPython, MakeCode, Arduino, etc.. robotics, arts, crafts, audio animatronics, sensors, agriculture/robot farming, physical computing, kinetic sculptures, science experiments, telescope control... If you missed it, that is OK! [Video](https://youtu.be/iboLC9UwcOg) and [transcript](https://hackaday.io/event/159006-creative-and-interactive-robotics-chat/log/148262-crickit-transcript). Pictured above Sophi and Benchoff bots that we made with CircuitPython. We talked for over an hour via text in the hackchat and on video, and went over a lot of the benefits of using Python for hardware, specifically electronics.
+The Creative Robotics chat with Ladyada on Hackaday was last week, thank you everyone who came by. Ladyada discussed CRICKIT, our Creative Robotics & Interactive Construction Kit.  CRICKIT is an add-on to Adafruit's Circuit Playground that lets you Make a Robot using CircuitPython, MakeCode, Arduino, etc., robotics, arts, crafts, audio animatronics, sensors, agriculture/robot farming, physical computing, kinetic sculptures, science experiments, telescope control... If you missed it, that is OK! [Video](https://youtu.be/iboLC9UwcOg) and [transcript](https://hackaday.io/event/159006-creative-and-interactive-robotics-chat/log/148262-crickit-transcript). Pictured above are Sophi and Benchoff bots that we made with CircuitPython. We talked for over an hour via text in the hackchat and on video, and went over a lot of the benefits of using Python for hardware, specifically electronics.
 
 ## HOW IT'S MADE: Programming CRICKIT for selective soldering
 
 [![Soldering]({{ "/assets/ssoldering.jpg" | absolute_url }}){:width="550px"}](https://blog.adafruit.com/2018/05/21/programming-the-crickit-for-selective-soldering-a-deep-dive-part-1-crickit-adafruit-adafruit-manufacturingmonday-manufacturing/)
 
-Selective soldering is often thought of as a “dark art”. In these two posts - [Part I](https://blog.adafruit.com/2018/05/21/programming-the-crickit-for-selective-soldering-a-deep-dive-part-1-crickit-adafruit-adafruit-manufacturingmonday-manufacturing/) & [Part II](https://blog.adafruit.com/2018/06/25/programming-crickit-for-selective-soldering-a-deep-dive-part-2-adafruit-manufacturing-manufacturingmonday/), series of posts we pulled back the veil and reveal the interior nature of this process as a whole with an emphasis on the strategy behind the programming of our new CRICKIT. CRICKIT was made to be the easiest way to code in Python to make robots. And speaking of CRICKIT, Hackspace magazine, latest issue, [has a review](https://hackspace.raspberrypi.org/features/adafruit-crickit-for-circuit-playground-express-review)!
+Selective soldering is often thought of as a “dark art”. In these two posts - [Part I](https://blog.adafruit.com/2018/05/21/programming-the-crickit-for-selective-soldering-a-deep-dive-part-1-crickit-adafruit-adafruit-manufacturingmonday-manufacturing/) & [Part II](https://blog.adafruit.com/2018/06/25/programming-crickit-for-selective-soldering-a-deep-dive-part-2-adafruit-manufacturing-manufacturingmonday/), series of posts, we pulled back the veil and reveal the interior nature of this process as a whole, with an emphasis on the strategy behind the programming of our new CRICKIT. CRICKIT was made to be the easiest way to code in Python to make robots. And speaking of CRICKIT, Hackspace magazine, latest issue, [has a review](https://hackspace.raspberrypi.org/features/adafruit-crickit-for-circuit-playground-express-review)!
 
 ## New Learning guides!
 
