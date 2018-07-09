@@ -15,6 +15,8 @@ Feature story text here
 
 July 23rd to July 29th, 2018 is [EuroPython](https://ep2018.europython.eu/), a community conference with a [call for proposals until May 20th](https://ep2018.europython.eu/en/call-for-proposals/) on every aspect of Python: programming from novice to advanced levels, applications and frameworks, or how you have been involved in introducing Python into your organization.
 
+July 28th and 29th, 2018 is [PyOhio](https://www.pyohio.org/2018/), a free Python conference held in Ohio. Adafruit is sponsoring through a hardware donation for the [*Welcome to CircuitPython!* tutorial](https://www.pyohio.org/2018/schedule/presentation/39/). Check out videos from previous PyOhio conference years [here](http://pyvideo.org/events/pyohio-2017.html). [Registration](https://www.pyohio.org/register) is open!
+
 August 24-28, 2018 is [PyCon.AU](https://2018.pycon-au.org/) in Sydney, Australia. It is the national Python conference for Australia and the home PyCon of MicroPython! Videos of past talks are [here](https://www.youtube.com/user/PyConAU).
 
 ## New Learn Guides!
