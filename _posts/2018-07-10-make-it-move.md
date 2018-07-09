@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "July 10th draft!"
+title: "Make It Move with Crickit!"
 date: 2018-07-10 07:00:00 -0800
 categories: weekly
 ---
@@ -8,7 +8,7 @@ categories: weekly
 ## Make It Move with Crickit Guide
 ![Make It Move with Crickit Guide]({{ "/assets/MakeItMove_crickit.png" | absolute_url }}){:width="550px"}
 
-The easiest way to use motors in CircuitPython! A new guide on the [Adafruit Learning System](https://learn.adafruit.com/) called [Make It Move with Crickit](https://learn.adafruit.com/make-it-move-with-crickit) provides you with code in CircuitPython and Microsoft MakeCode to quickly use various motor types. If you're not sure what motor you want, there is a guide on various movements to help you choose. If you have never used certain motor types, there are pages on how each type of motor works. Once you've chosen your motor, you can cut and paste sample code to get you started. This is the first guide in a series of Make It guides to help you use your products. 
+The easiest way to use motors in CircuitPython! A new guide on the [Adafruit Learning System](https://learn.adafruit.com/) called [Make It Move with Crickit](https://learn.adafruit.com/make-it-move-with-crickit) provides you with code in CircuitPython and Microsoft MakeCode to quickly use various motor types. If you're not sure what motor you want, there is a guide on various movements to help you choose. If you have never used certain motor types, there are pages on how each type of motor works. Once you've chosen your motor, you can cut and paste sample code to get you started. This is the first guide in a series of Make It guides to help you use your products.
 
 ## MADE WITH MU - A new BETA!
 
@@ -46,6 +46,12 @@ ACM Members get a free copy of MicroPython for the Internet of Things: A Beginne
 
 MicroPython Newsletter Issue 2 is out! Sign up [here](http://micropython.org/newsletter/) and view on the [forums](https://forum.micropython.org/viewtopic.php?f=19&t=4980&sid=e430d389dadad1f7f6d0557b413bb75a).
 
+PyDev of the Week: Ryan Kirkbride from [Mouse vs Python](http://www.blog.pythonlibrary.org/2018/07/09/pydev-of-the-week-ryan-kirkbride/)
+
+[EuroPython 2018: Schedule available](https://blog.europython.eu/post/175502948797/europython-2018-schedule-available)
+
+[Adafruit CircuitPython Weekly for July 9th, 2018](https://youtu.be/eVSq5JjHlv8)
+
 ## Upcoming events!
 
 July 23rd to July 29th, 2018 is [EuroPython](https://ep2018.europython.eu/), a community conference with a [call for proposals until May 20th](https://ep2018.europython.eu/en/call-for-proposals/) on every aspect of Python: programming from novice to advanced levels, applications and frameworks, or how you have been involved in introducing Python into your organization.
@@ -56,13 +62,13 @@ August 24-28, 2018 is [PyCon.AU](https://2018.pycon-au.org/) in Sydney, Australi
 
 ## Latest releases
 
-CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [#.#.#-##.#](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
+CircuitPython's stable release is [3.0.0](https://github.com/adafruit/circuitpython/releases/latest). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
 
-[2018####](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
+[20180704](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
 
-[v#.#.#](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
+[v1.9.4](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
 
-[#.#.#](https://www.python.org/downloads/) is the latest Python release. The latest pre-release version is [#.#.#](https://www.python.org/download/pre-releases/).
+[3.7.0](https://www.python.org/downloads/) is the latest Python release.
 
 ## Contribute!
 
