@@ -5,7 +5,13 @@ date: 2018-07-17 07:00:00 -0800
 categories: weekly
 ---
 
-Feature story text here
+[![CircuitPython 3.0.0 Logo]({{ "/assets/circuitpython300a.png" | absolute_url }}){:width="550px"}](https://github.com/adafruit/circuitpython/releases/tag/3.0.0)
+
+It's here!!! Last week the CircuitPython team released the first stable version of [CircuitPython 3.0.0](https://github.com/adafruit/circuitpython/releases/tag/3.0.0)! It brings support for the SAMD51 (aka M4) that is available now in the [Metro](https://www.adafruit.com/product/3382), [Feather](https://www.adafruit.com/product/3857) and [ItsyBitsy](https://www.adafruit.com/product/3800) form factors. It also features a number of other improvements that make it the best version of CircuitPython yet! We highly recommend [updating](https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython#download-the-latest-version).
+
+As always, thank you to the 50+ people who helps make the CircuitPython project and community great. We can't do it without you. Newcomers are always welcome to participate [on Discord](), in the [weekly meeting](https://youtu.be/xBWaIQLYbvQ), and [on GitHub](https://learn.adafruit.com/contribute-to-circuitpython-with-git-and-github). Join us as we continue to make CircuitPython better!
+
+Our next major release will be 4.0 and will support the nRF52840 which adds native USB to a chipset with Bluetooth Low Energy. So, CircuitPython is going wireless! Stay tuned for more details.
 
 ## News from around the web!
 
@@ -35,6 +41,9 @@ HACK BIT 2018 After Movie - [video](https://youtu.be/okJU1i4VyYo).
 
 [EduBlocks for CircuitPython is coming soon!](https://launch.edublocks.org/) Code and build projects using Adafruit's line of CircuitPython boards.
 
+PyDev of the Week: Katharine Jarmul from [Mouse vs Python](http://www.blog.pythonlibrary.org/2018/07/16/pydev-of-the-week-katharine-jarmul/)
+
+Guido Retires as BDFL (CPython project leader) from [Mouse vs Python](http://www.blog.pythonlibrary.org/2018/07/13/guido-retire-as-bdfl/)
 
 ## Made with Mu
 
@@ -71,13 +80,13 @@ August 24-28, 2018 is [PyCon.AU](https://2018.pycon-au.org/) in Sydney, Australi
 
 ## Latest releases
 
-CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [#.#.#-##.#](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
+CircuitPython's stable release is [3.0.0](https://github.com/adafruit/circuitpython/releases/latest). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
 
-[2018####](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
+[20180714](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
 
-[v#.#.#](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
+[v1.9.4](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
 
-[#.#.#](https://www.python.org/downloads/) is the latest Python release. The latest pre-release version is [#.#.#](https://www.python.org/download/pre-releases/).
+[3.7.0](https://www.python.org/downloads/) is the latest Python release.
 
 ## Contribute!
 
