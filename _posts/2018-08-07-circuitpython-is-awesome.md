@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "CircuitPython is officially awesome"
+title: "CircuitPython is officially awesome!"
 date: 2018-08-07 07:00:00 -0800
 categories: weekly
 ---
 
-## CircuitPython is officially awesome
+## CircuitPython is officially awesome!
 
 [![awesome]({{ "/assets/87awesome.jpg" | absolute_url }}){:width="550px"}](https://github.com/sindresorhus/awesome)
 
-On [August 3, 2018](https://twitter.com/awesome__re/status/1025240714718797824) - [CircuitPython](https://github.com/adafruit/awesome-circuitpython) was added to the [awesome list](https://github.com/sindresorhus/awesome), a community of curated awesome lists on GitHub. The maintainer took a break, however, they are back and if you want to help out, review at least 2 other open pull requests - [details here](https://github.com/sindresorhus/awesome/issues/1363). Additionally, [Sindre Sorhus](https://www.patreon.com/sindresorhus/overview) has a Patreon if you want to support all the open source efforts. Adafruit contributes to the Patreon.
+On [August 3, 2018](https://twitter.com/awesome__re/status/1025240714718797824) - [CircuitPython](https://github.com/adafruit/awesome-circuitpython) was added to the [awesome list](https://github.com/sindresorhus/awesome), a community of curated awesome lists on GitHub. The hugely popular project is looking for more awesome people to help maintain the list. Go [here](https://github.com/sindresorhus/awesome/issues/1363) to help. Additionally, [Sindre Sorhus](https://www.patreon.com/sindresorhus/overview), the awesome list maintainer, has a Patreon if you want to support all their open source efforts. Adafruit contributes to the Patreon.
 
 [![awesome-circuitpython]({{ "/assets/87awesome_circuitpython.png" | absolute_url }}){:width="550px"}](https://github.com/adafruit/awesome-circuitpython)
 
-The CircuitPython Awesome list is a handy list of all the things in the world of making, sharing, and creating with Python on hardware - [awesome-citrcuitpython](https://github.com/adafruit/awesome-circuitpython). Special thanks to Mike B. for all the assistance and formatting for it to be released!
+The CircuitPython Awesome list is a handy list of all the things in the world of making, sharing, and creating with Python on hardware - [awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython). Special thanks to Mike B. for all the assistance and formatting for it to be released!
 
 ## News from around the web!
 
@@ -43,6 +43,12 @@ Git commit practices your future self will thank you for - [vickylai.com](https:
 
 MythBuster Kari Byron has a new book, [Crash Test Girl: An Unlikely Experiment in Using the Scientific Method To Answer Life's Toughtest Questions](https://www.harpercollins.com/9780062749772/crash-test-girl/), and Kari is feature in the latest issue of Make: Magazine which includes a project made with CircuitPython - [Make: v64](http://www.mydigitalpublication.com/publication/?i=509876)
 
+PyDev of the Week: Thea Flowers at [Mouse vs Python](http://www.blog.pythonlibrary.org/2018/08/06/pydev-of-the-week-thea-flowers/)
+
+[pyxel](https://github.com/kitao/pyxel) open source Python fantasy console inspired by PICO-8
+
+Helping Teacher's Bring Python Into The Classroom With Nicholas Tollervey - Episode 173 on [Podcast.\_\_init__](https://www.podcastinit.com/education-with-nicholas-tollervey-episode-173/)
+
 ## New Learn Guides!
 
 [![awesome]({{ "/assets/87blinka.jpg" | absolute_url }}){:width="550px"}](https://learn.adafruit.com/crickit-snake-bot/overview)
@@ -67,13 +73,13 @@ September 15-19, 2018 is [PyCon UK 2018](https://2018.pyconuk.org/) in Cardiff. 
 
 ## Latest releases
 
-CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [#.#.#-##.#](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
+CircuitPython's stable release is [3.0.0](https://github.com/adafruit/circuitpython/releases/latest). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
 
-[2018####](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
+[20180806](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
 
-[v#.#.#](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
+[v1.9.4](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
 
-[#.#.#](https://www.python.org/downloads/) is the latest Python release. The latest pre-release version is [#.#.#](https://www.python.org/download/pre-releases/).
+[3.7.0](https://www.python.org/downloads/) is the latest Python release.
 
 ## Contribute!
 
