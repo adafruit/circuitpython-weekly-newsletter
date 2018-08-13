@@ -1,17 +1,21 @@
 ---
 layout: post
-title: "August 14th draft!"
+title: "Help bring CircuitPython to other languages!"
 date: 2018-08-14 07:00:00 -0800
 categories: weekly
 ---
 
-## Call for translators!
+## Help bring CircuitPython to other languages!
 
-...
+[![CircuitPython in Spanish]({{ "/assets/circuitpython_es.png" | absolute_url }}){:width="550px"}](https://github.com/adafruit/circuitpython/issues/1094)
+
+One of the exciting features of CircuitPython 4.x is translated control and error messages. Native language messages will help non-native English speakers understand what is happening in CircuitPython even though the Python keywords and APIs will still be in English. We were inspired by the [awesome translation work](https://mu.readthedocs.io/en/latest/translations.html) done in [mu 1.0.0](http://madewith.mu/mu/releases/2018/07/20/mu-1.html). (They even [discussed the benefit translating error messages](https://github.com/mu-editor/mu/issues/507).) We saw this and loved the idea of both mu and CircuitPython being in one's native language.
+
+So, we've added the mechanics to CircuitPython that allow us to translate strings at build time. However, that's not enough! We need folks to translate the strings themselves. Carlos, [@C47KD](https://github.com/C47D), was kind enough to help with [the Spanish translation](https://github.com/adafruit/circuitpython/issues/1094) (seen above) and Pierrick, [@arofarn](https://github.com/arofarn), volunteered to do French. If you want to help, then please post to the [main issue on GitHub](https://github.com/adafruit/circuitpython/issues/1098) and join us [on Discord](https://adafru.it/discord). Thanks!
 
 ## News from around the web!
 
-[![dave]({{ "/assets/814hal.jpg" | absolute_url }}){:width="550px"}](https://learn.adafruit.com/hal-9000-replica/updating-with-crickit)
+[![HAL replica with Crickit]({{ "/assets/814hal.jpg" | absolute_url }}){:width="550px"}](https://learn.adafruit.com/hal-9000-replica/updating-with-crickit)
 
 I know that you and Frank were planning to disconnect me, and I'm afraid that's something I cannot allow to happen. We updated the "Affordable HAL 9000 Replica" guide to use with CRICKIT and CircuitPython. It's now faster and easier to make - [learn.adafruit.com](https://learn.adafruit.com/hal-9000-replica/updating-with-crickit).
 
@@ -38,6 +42,10 @@ The Tianocore project is building UEFI interfaces for single board computers. Th
 Carol Willing has some news about taking on a new challenge over the next six months, moving from developing Jupyter tools to sharing how to use these Jupyter tools as well as others" ...such as [Jupyter notebooks](https://jupyter.org/), [Python](https://www.willingconsulting.com/post/2018-08-09-sunrise-semester/python.org), [JupyterHub](https://jupyterhub.readthedocs.io/), [Binder](https://mybinder.org/), [nteract](https://nteract.io/), [p5.js](https://p5js.org/), [CircuitPython](https://github.com/adafruit/circuitpython), [mu](https://codewith.mu/), and [EduBlocks](https://edublocks.org/), to create and deliver educational materials and services.
 
 I’m very excited to build some early side projects, such as Crackers the Coding Friend using CircuitPython and Adafruit’s open hardware CircuitPlayground and Crickit. It’s planned to be a whimsical robot friend, using open hardware and software, to help new developers with rubber duck debugging." - [Sunrise and a New Semester](https://www.willingconsulting.com/post/2018-08-09-sunrise-semester/).
+
+PyDev of the Week: Lovely ricel Banquil at [Mouse vs Python](http://www.blog.pythonlibrary.org/2018/08/13/pydev-of-the-week-lovely-ricel-banquil/)
+
+[Adafruit CircuitPython Weekly for August 13th, 2018](https://youtu.be/gBxo6uz6Yfw)
 
 ## New Learn Guides!
 
@@ -99,13 +107,13 @@ Internet of Things - [Meetup](https://www.meetup.com/de-DE/PyData-Suedwest/event
 
 ## Latest releases
 
-CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [#.#.#-##.#](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
+CircuitPython's stable release is [3.0.0](https://github.com/adafruit/circuitpython/releases/latest). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
 
-[2018####](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
+[20180813](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
 
-[v#.#.#](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
+[v1.9.4](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
 
-[#.#.#](https://www.python.org/downloads/) is the latest Python release. The latest pre-release version is [#.#.#](https://www.python.org/download/pre-releases/).
+[3.7.0](https://www.python.org/downloads/) is the latest Python release.
 
 ## Contribute!
 
