@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "August 21st draft!"
+title: "CircuitPython libraries on the Raspberry Pi!"
 date: 2018-08-21 07:00:00 -0800
 categories: weekly
 ---
 
-Feature story text here
+# CircuitPython libraries on the Raspberry Pi!
+
+[![CircuitPython's Blinka loves Raspberry Pi]({{ "/assets/blinkapi.gif" | absolute_url }}){:width="550px"}](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux)
+
+Kattni, Brennen and Ladyada have been hard at work over the last few weeks to bring our [90 or so CircuitPython libraries](https://pypi.org/search/?q=%22adafruit-circuitpython%22) to the Raspberry Pi and "normal" Python (usually referred to as CPython or just Python). Many guides are now updated with CircuitPython instructions that work both on CircuitPython and CPython. Libraries [are available](https://pypi.org/search/?q=%22adafruit-circuitpython%22) through the standard Python `pip install` process.
+
+This has been a great way to verify that CircuitPython is indeed a subset of CPython. It unifies our library style across CircuitPython and CPython to make it easier to grow from a simple microcontroller CircuitPython to the more advanced CPython on Linux.
+
+The work isn't finished quite yet. In the coming weeks more guides will be updated with CircuitPython library support. Check out the Updated Guides section below to see all of the week's updates. Follow the [CircuitPython on Linux and Raspberry Pi](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux) guide to get started. The legacy Python libraries will also be archived on GitHub in favor of the CircuitPython versions.
 
 ## News from around the web!
 
@@ -16,6 +24,10 @@ For day 77/100 of coding in #Python for #100DaysOfcode, meet [Cornelius 2.0!](ht
 GitHub's blog ["Release Radar" featured Mu 1.0!](https://blog.github.com/2018-08-17-release-radar-july-2018/)
 
 FPGA MicroPython (FuPy) - "The aim of this project is to make MicroPython run on FPGAs using the LiteX & Migen+MiSoC technologies... full stack development (FPGA gateware & soft CPU firmware) in Python!" - [fupy.github.io](https://fupy.github.io/).
+
+PyDev of the Week: Jessica Ingrassellino from [Mouse vs. Python](http://www.blog.pythonlibrary.org/2018/08/20/pydev-of-the-week-jessica-ingrassellino/)
+
+[Adafruit CircuitPython Weekly for August 20th, 2018](https://youtu.be/XBIzLuUPkbU)
 
 ## Hallowing - A new member of the family
 
@@ -101,19 +113,23 @@ August 24-28, 2018 is [PyCon.AU](https://2018.pycon-au.org/) in Sydney, Australi
 
 September 15-19, 2018 is [PyCon UK 2018](https://2018.pyconuk.org/) in Cardiff. [draft programme](https://2018.pyconuk.org/programme/)
 
+September 22-23, 2018 is [World Maker Faire](https://makerfaire.com/new-york/) in New York City. Dan, Kattni and Scott from CircuitPython will be attending. Coordinate with them via [Discord](https://adafru.it/discord).
+
+September 27th, 2018 is [Open Source Hardware Summit](https://2018.oshwa.org/) in Boston. Dan, Kattni and Scott from CircuitPython will be attending. Coordinate with them via [Discord](https://adafru.it/discord).
+
 October 27, 2018. As part of PyCon DE 18 PyLadies and MicroPython will be running a
 beginner friendly full day hands-on workshop on MicroPython and the
 Internet of Things - [Meetup](https://www.meetup.com/de-DE/PyData-Suedwest/events/253574767/).
 
 ## Latest releases
 
-CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [#.#.#-##.#](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
+CircuitPython's stable release is [3.0.0](https://github.com/adafruit/circuitpython/releases/latest). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
 
-[2018####](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
+[20180820](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
 
-[v#.#.#](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
+[v1.9.4](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
 
-[#.#.#](https://www.python.org/downloads/) is the latest Python release. The latest pre-release version is [#.#.#](https://www.python.org/download/pre-releases/).
+[3.7.0](https://www.python.org/downloads/) is the latest Python release.
 
 ## Contribute!
 
