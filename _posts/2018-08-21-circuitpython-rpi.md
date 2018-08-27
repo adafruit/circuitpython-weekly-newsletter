@@ -65,7 +65,7 @@ Adafruit’s New “Grand Central” Board, a Return to the Arduino MEGA? - [hac
 
 ## Updated Guides - Now With More Python!
 
-**You can use CircuitPython on Raspberry Pi!** We're updating all of our CircuitPython guides to show how to wire up sensors to your Raspberry Pi, and load the necessary CircuitPython libraries to get going using them with Python. We'll be including the udpates here so you can easily keep track of which sensors are ready to go. Check it out!
+**You can use CircuitPython on Raspberry Pi!** We're updating all of our CircuitPython guides to show how to wire up sensors to your Raspberry Pi, and load the necessary CircuitPython libraries to get going using them with Python. We'll be including the updates here so you can easily keep track of which sensors are ready to go. Check it out!
 
 [Adafruit AMG8833 8x8 Thermal Camera Sensor](https://learn.adafruit.com/adafruit-amg8833-8x8-thermal-camera-sensor)
 
