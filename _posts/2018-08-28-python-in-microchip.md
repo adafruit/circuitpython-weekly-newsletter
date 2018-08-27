@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python in MicroChip & a 10 out of 10 for FEATHER from HackSpace!"
+title: "Python in Microchip & a 10 out of 10 for FEATHER from HackSpace!"
 date: 2018-08-28 07:00:00 -0800
 categories: weekly
 ---
