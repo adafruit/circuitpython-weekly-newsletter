@@ -35,6 +35,8 @@ PyDev of the Week: Manuel Kaufmann on [Mouse vs. Python](https://www.blog.python
 
 Just found: [PyCon 2018 Vlog 08 – Python 3 Microcontroller Demo (Adafruit / CircuitPy) from Python Training by Dan Bader](https://www.youtube.com/watch?v=71eAnJeQu2U)
 
+[TiLDA Mk4, The EMF 2018 badge runs MicroPython!](http://blog.emfcamp.org/post/177423823788/tilda-mk4-the-emf-2018-badge)
+
 [Asyncio in (Micro)Python from Matt Trentini at PyConAU](https://www.youtube.com/watch?v=tIgu7q38bUw) ([slides](https://docs.google.com/presentation/d/1IzhpM3QLXE3UF22D7gQMMQj29YgYzPz3ykvvzoX-oF4/edit#slide=id.p))
 
 [Writing fast and efficient MicroPython from Damien George (MicroPython creator) at PyConAU](https://www.youtube.com/watch?v=hHec4qL00x0)
