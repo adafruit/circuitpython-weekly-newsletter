@@ -31,7 +31,27 @@ Experimental command-line driven Python module to render the contents of a Linux
 
 [Pythonista](http://omz-software.com/pythonista/) is a complete development environment for writing Python scripts on an iPad or iPhone. Lots of examples are included — from games and animations to plotting, image manipulation, custom user interfaces, and automation scripts - [App store.](https://itunes.apple.com/us/app/pythonista-3/id1085978097?ls=1&mt=8)
 
+pygame [announced an artist in residence grant](http://renesd.blogspot.com/2018/08/pygame-artist-in-residence-grant.html) to support "someone who is already doing stuff with pygame or python in their arts practice"
+
 ## New Learn Guides!
+
+[![hallowing lightsabers]({{ "/assets/CrossedSabers.jpg" | absolute_url }}){:width="550px"}](https://learn.adafruit.com/hallowing-lightsaber)
+
+[HalloWing Lightsabers](https://learn.adafruit.com/hallowing-lightsaber) from [John Park](https://learn.adafruit.com/users/johnpark)
+
+[CircuitPython on the nRF52](https://learn.adafruit.com/circuitpython-on-the-nrf52) from [Ladyada](https://learn.adafruit.com/users/adafruit2)
+
+[Compost Friend!](https://learn.adafruit.com/compost-optimization-machine) from [Isaac Wellish](https://learn.adafruit.com/users/isaacwellish)
+
+[Crickit Lab Shaker](https://learn.adafruit.com/crickit-lab-shaker) from [Ruiz Brothers](https://learn.adafruit.com/users/pixil3d)
+
+[Adafruit IO Home: Lights and Temperature](https://learn.adafruit.com/adafruit-io-house-lights-and-temperature) from [Brent Rubell](https://learn.adafruit.com/users/brubell)
+
+## Updated Guides - Now With More Python!
+
+**You can use CircuitPython on Raspberry Pi!** We're updating all of our CircuitPython guides to show how to wire up sensors to your Raspberry Pi, and load the necessary CircuitPython libraries to get going using them with Python. We'll be including the updates here so you can easily keep track of which sensors are ready to go. Check it out!
+
+[Adafruit IO Basics: Color](https://learn.adafruit.com/adafruit-io-basics-color)
 
 ## Upcoming events!
 
@@ -47,13 +67,13 @@ Internet of Things - [Meetup](https://www.meetup.com/de-DE/PyData-Suedwest/event
 
 ## Latest releases
 
-CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [#.#.#-##.#](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
+CircuitPython's stable release is [3.0.1](https://github.com/adafruit/circuitpython/releases/latest). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
 
-[2018####](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
+[20180830](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
 
-[v#.#.#](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
+[v1.9.4](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
 
-[#.#.#](https://www.python.org/downloads/) is the latest Python release. The latest pre-release version is [#.#.#](https://www.python.org/download/pre-releases/).
+[3.7.0](https://www.python.org/downloads/) is the latest Python release.
 
 ## Contribute!
 
