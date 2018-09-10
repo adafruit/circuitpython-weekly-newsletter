@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "By the book"
+title: "Getting Started with Adafruit Circuit Playground Express"
 date: 2018-09-11 07:00:00 -0800
 categories: weekly
 ---
@@ -11,9 +11,9 @@ categories: weekly
 
 On September 10th, Make published a new book [Getting Started with Adafruit Circuit Playground Express](https://www.amazon.com/gp/product/1680454889/) written by Adafruit consulting engineer Mike Barela! The book covers using the Circuit Playground Express in Microsoft MakeCode, CircuitPython, and setting up an Arduino environment and libraries.
 
-This book is part of the Make Getting Started series for folks who may not have had much exposure to microcontrollers or may have only worked in one language like MakeCode and would like to learn another like CircuitPython. Advanced coders may wish to recommend the book to beginners or to have it as an introductary reference. The book is in a format such that educators may use it to get students working quickly with microcontrollers.
+This book is part of the Make Getting Started series for folks who may not have had much exposure to microcontrollers or may have only worked in one language like MakeCode and would like to learn another like CircuitPython. Advanced coders may wish to recommend the book to beginners or to have it as an introductory reference. The book is in a format such that educators may use it to get students working quickly with microcontrollers.
 
-Mike will be giving a talk at [Maker Fair New York City](https://makerfaire.com/new-york/) in Zone 3 "MAKE: Electronics by Digi Key" on Sunday, 9/23/18, 12:00 PM to 12:30 PM. Make should have the book available at various Maker Faire vendors. Mike will stick around afterwards to talk to folks and sign copies of the book. 
+Mike will be giving a talk at [Maker Fair New York City](https://makerfaire.com/new-york/) in Zone 3 "MAKE: Electronics by Digi Key" on Sunday, 9/23/18, 12:00 PM to 12:30 PM. Make should have the book available at various Maker Faire vendors. Mike will stick around afterwards to talk to folks and sign copies of the book. Coordinate with all Adafruit folks at World Maker Faire via [Discord](https://adafru.it/discord).
 
 ## A new eBook with CircuitPython!
 
@@ -69,13 +69,25 @@ learn-python - Playground and cheatsheet for learning Python - [GitHub.](https:/
 
 Setting expectations for open source participation, [article](https://snarky.ca/setting-expectations-for-open-source-participation/) & [video from Python US 2018 keynote - YouTube.](https://youtu.be/tzFWz5fiVKU?t=48m55s)
 
+[The First 15 Years of PyPy — a Personal Retrospective](https://morepypy.blogspot.com/2018/09/the-first-15-years-of-pypy.html) from Carl Friedrich Bolz-Tereick
+
+PyDev of the Week: Oliver Bestwalter from [Mouse vs Python](http://www.blog.pythonlibrary.org/2018/09/10/pydev-of-the-week-oliver-bestwalter/)
+
+[Adafruit CircuitPython Weekly September 4th, 2018](https://youtu.be/WUtFCKx5jus)
+
+[Adafruit CircuitPython Weekly September 10th, 2018](https://youtu.be/ee0Eaa60GOQ)
+
 ## New Learn Guides!
+
+[Automatic Cat Treat Dispenser](https://learn.adafruit.com/automatic-cat-treat-dispenser) by [Dano Wall](https://learn.adafruit.com/users/danowall)
+
+[Adafruit IO Home: Security ](https://learn.adafruit.com/adafruit-io-home-security) from [Brent Rubell](https://learn.adafruit.com/users/brubell)
 
 ## Upcoming events!
 
 September 15-19, 2018 is [PyCon UK 2018](https://2018.pyconuk.org/) in Cardiff. [draft programme](https://2018.pyconuk.org/programme/)
 
-September 22-23, 2018 is [World Maker Faire](https://makerfaire.com/new-york/) in New York City. Dan, Kattni and Scott from CircuitPython will be attending. Coordinate with them via [Discord](https://adafru.it/discord).
+September 22-23, 2018 is [World Maker Faire](https://makerfaire.com/new-york/) in New York City. Dan, Kattni, Mike and Scott from CircuitPython will be attending. Coordinate with them via [Discord](https://adafru.it/discord).
 
 September 27th, 2018 is [Open Source Hardware Summit](https://2018.oshwa.org/) in Boston. Dan, Kattni and Scott from CircuitPython will be attending. Coordinate with them via [Discord](https://adafru.it/discord).
 
@@ -85,13 +97,13 @@ Internet of Things - [Meetup](https://www.meetup.com/de-DE/PyData-Suedwest/event
 
 ## Latest releases
 
-CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [#.#.#-##.#](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
+CircuitPython's stable release is [3.0.1](https://github.com/adafruit/circuitpython/releases/latest). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
 
-[2018####](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
+[20180910](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
 
-[v#.#.#](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
+[v1.9.4](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
 
-[#.#.#](https://www.python.org/downloads/) is the latest Python release. The latest pre-release version is [#.#.#](https://www.python.org/download/pre-releases/).
+[3.7.0](https://www.python.org/downloads/) is the latest Python release.
 
 ## Contribute!
 
