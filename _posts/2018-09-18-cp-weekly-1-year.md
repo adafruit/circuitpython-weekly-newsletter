@@ -51,6 +51,8 @@ PyDev of the Week: Aisha Bello from [Mouse vs Python](https://www.blog.pythonlib
 
 PyDev of the Week: Younggun Kim from [Mouse vs Python](https://www.blog.pythonlibrary.org/2018/09/17/pydev-of-the-week-younggun-kim/)
 
+[Adafruit CircuitPython Weekly for September 17th, 2018](https://www.youtube.com/watch?v=RQIeFU-1U-M&list=PLjF7R1fz_OOUvw7tMv45xjWp0ht8yNgg0)
+
 ## Upcoming events!
 
 September 22-23, 2018 is [World Maker Faire](https://makerfaire.com/new-york/) in New York City. Dan, Kattni, Mike and Scott from CircuitPython will be attending. Coordinate with them via [Discord](https://adafru.it/discord). Mike will give his talk on the book [Getting Started with Adafruit Circuit Playground Express](https://blog.adafruit.com/2018/09/14/new-product-getting-started-with-adafruit-circuit-playground-express-by-mike-barela/) in Zone 3: MAKE: Electronics by Digi-key at noon on Sunday.
@@ -58,8 +60,6 @@ September 22-23, 2018 is [World Maker Faire](https://makerfaire.com/new-york/) i
 September 27th, 2018 is [Open Source Hardware Summit](https://2018.oshwa.org/) in Boston. Dan, Kattni and Scott from CircuitPython will be attending. Coordinate with them via [Discord](https://adafru.it/discord).
 
 October 27, 2018. As part of PyCon DE 18 PyLadies and MicroPython will be running a beginner friendly full day hands-on workshop on MicroPython and the Internet of Things - [Meetup](https://www.meetup.com/de-DE/PyData-Suedwest/events/253574767/).
-
-[Adafruit CircuitPython Weekly for September 17th, 2018](https://www.youtube.com/watch?v=RQIeFU-1U-M&list=PLjF7R1fz_OOUvw7tMv45xjWp0ht8yNgg0)
 
 ## New Learn Guides!
 
