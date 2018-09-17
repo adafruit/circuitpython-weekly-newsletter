@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "September 18th draft!"
+title: "One year of CircuitPython weeklies!"
 date: 2018-09-18 07:00:00 -0800
 categories: weekly
 ---
 
-Feature story text here
+[![Screenshot of Discord during weekly meeting]({{ "/assets/cp_weekly.png" | absolute_url }}){:width="550px"}](https://www.youtube.com/watch?v=RQIeFU-1U-M&list=PLjF7R1fz_OOUvw7tMv45xjWp0ht8yNgg0)
+
+One core tenet of CircuitPython development is to be open with our community. Last summer our core team grew with the addition of Dan and Kattni so we decided to start a weekly meeting where we could all get on the same page. We decided to include the community as well so that everyone can see what's happening and choose to participate. Since then, its been a huge success! We regularly hear about awesome projects, coordinate improvements to CircuitPython and discuss core ideas within our community.
+
+The meeting happens on [our Discord server](https://adafru.it/discord) every Monday at 11am Pacific / 2pm Eastern. Everyone is encouraged to participate.  We have four sections to the meeting: [State of CircuitPython](https://youtu.be/RQIeFU-1U-M?t=3m27s), [Hug Reports round robin](https://youtu.be/RQIeFU-1U-M?t=7m7s), [Status Updates round robin](https://youtu.be/RQIeFU-1U-M?t=17m59s), and [In the Weeds discussion](https://youtu.be/RQIeFU-1U-M?t=41m26s). It usually runs around an hour. Those who cannot make the time are welcome to post hug reports and status updates to tannewt on Discord to be read during the meeting. Folks can also to choose to "lurk" and simply listen in. Meetings are recorded and available [on YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOUvw7tMv45xjWp0ht8yNgg0). Notes with time codes are also available via a link in the video description. For an example, check out [this week's notes](https://gist.github.com/tannewt/a3e9cd422215274c7ea88f8f63396570).
+
+Thanks to Ladyada and Adafruit for supporting open hardware, open software and open development. Thanks to the community for making it all fun and worthwhile. You all rock! See you [on Discord](https://adafru.it/discord) and in the weekly meeting.
 
 ## Coming Soon! Python powered Pi accessories
 
@@ -19,7 +25,6 @@ And the Crickit for Raspberry Pi is almost ready too :)
 
 Both of these will have CircuitPython code when we ship.
 
-
 ## News from around the web!
 
 [![Mini Sam]({{ "/assets/918sam.jpg" | absolute_url }}){:width="550px"}](https://www.minisam.cc/)
@@ -32,7 +37,7 @@ The OpenMV Cam H7 is an open-source MicroPython powered machine vision camera de
 
 [EduBlocks](https://edublocks.org/) is celebrating their second anniversary helping the community with their block-based Python programming for microcontrollers. They [are hinting](https://twitter.com/edu_blocks/status/1041723209345851393) that support for the Adafruit [Circuit Playground Express](https://www.adafruit.com/product/3333) is coming soon.
 
-The micro:bit editors supporting the updated micro:bits shipping end-of-September are now in beta. micro:bit's Python editor is - [here.](https://python.microbit.org/v/beta). 
+The micro:bit editors supporting the updated micro:bits shipping end-of-September are now in beta. micro:bit's Python editor is - [here.](https://python.microbit.org/v/beta).
 
 Is Python for makers? [Yep.](https://twitter.com/aidanrtaylor/status/1041641252557664257)
 
@@ -42,6 +47,10 @@ CircuitPython powered wood + NeoPixel cat lamp - [Twitter.](https://twitter.com/
 
 Anthony Briggs - [NeoLudic](http://neoluddic.tumblr.com/) [Tweeted](https://twitter.com/AnthonyBriggs/status/1039070401366650880) a proof-of-concept for controlling PyGameZero games with a gamepad - [MadeWithMu.](http://madewith.mu/mu/users/2018/09/12/mu-pygamezero-gamepad.html)
 
+PyDev of the Week: Aisha Bello from [Mouse vs Python](https://www.blog.pythonlibrary.org/2018/09/03/pydev-of-the-week-aisha-bello/)
+
+PyDev of the Week: Younggun Kim from [Mouse vs Python](https://www.blog.pythonlibrary.org/2018/09/17/pydev-of-the-week-younggun-kim/)
+
 ## Upcoming events!
 
 September 22-23, 2018 is [World Maker Faire](https://makerfaire.com/new-york/) in New York City. Dan, Kattni, Mike and Scott from CircuitPython will be attending. Coordinate with them via [Discord](https://adafru.it/discord). Mike will give his talk on the book [Getting Started with Adafruit Circuit Playground Express](https://blog.adafruit.com/2018/09/14/new-product-getting-started-with-adafruit-circuit-playground-express-by-mike-barela/) in Zone 3: MAKE: Electronics by Digi-key at noon on Sunday.
@@ -50,9 +59,17 @@ September 27th, 2018 is [Open Source Hardware Summit](https://2018.oshwa.org/) i
 
 October 27, 2018. As part of PyCon DE 18 PyLadies and MicroPython will be running a beginner friendly full day hands-on workshop on MicroPython and the Internet of Things - [Meetup](https://www.meetup.com/de-DE/PyData-Suedwest/events/253574767/).
 
+[Adafruit CircuitPython Weekly for September 17th, 2018](https://www.youtube.com/watch?v=RQIeFU-1U-M&list=PLjF7R1fz_OOUvw7tMv45xjWp0ht8yNgg0)
+
 ## New Learn Guides!
 
+[Make It Change: Potentiometers](https://learn.adafruit.com/make-it-change-potentiometers) from [Mike Barela](https://learn.adafruit.com/users/MikeBarela)
 
+[Milk Jug Glow Skull](https://learn.adafruit.com/milk-jug-glow-skull) from [John Park](https://learn.adafruit.com/users/johnpark)
+
+[Make It Hot or Cold](https://learn.adafruit.com/make-it-hot-or-cold) from [Mike Barela](https://learn.adafruit.com/users/MikeBarela)
+
+[Make It Shake, Rattle, and Roll: Accelerometer Use ](https://learn.adafruit.com/make-it-shake-rattle-and-roll) from [Mike Barela](https://learn.adafruit.com/users/MikeBarela)
 
 ## Updated Guides - Now With More Python!
 
@@ -70,13 +87,13 @@ You can use CircuitPython on Raspberry Pi! We're updating all of our CircuitPyth
 
 ## Latest releases
 
-CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [#.#.#-##.#](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
+CircuitPython's stable release is [3.0.2](https://github.com/adafruit/circuitpython/releases/latest). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
 
-[2018####](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
+[20180917](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
 
-[v#.#.#](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
+[v1.9.4](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
 
-[#.#.#](https://www.python.org/downloads/) is the latest Python release. The latest pre-release version is [#.#.#](https://www.python.org/download/pre-releases/).
+[3.7.0](https://www.python.org/downloads/) is the latest Python release.
 
 ## Contribute!
 
