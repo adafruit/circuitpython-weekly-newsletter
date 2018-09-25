@@ -11,11 +11,11 @@ Feature story text here
 
 [title](url)
 
+## New Learn Guides!
+
 ## Upcoming events!
 
 October 27, 2018. As part of PyCon DE 18 PyLadies and MicroPython will be running a beginner friendly full day hands-on workshop on MicroPython and the Internet of Things - [Meetup](https://www.meetup.com/de-DE/PyData-Suedwest/events/253574767/).
-
-## New Learn Guides!
 
 ## Latest releases
 
