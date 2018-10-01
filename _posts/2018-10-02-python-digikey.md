@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Python snakes its way to Digi-Key and more!"
+title: "Python snakes its way to Digi-Key and much more!"
 date: 2018-10-02 07:00:00 -0800
 categories: weekly
 ---
 
-## Python on Hardware at Digi-Key! 
+## Python on Hardware at Digi-Key!
 
 [![Python on Hardware at Digi-Key! ]({{ "/assets/102code.jpg" | absolute_url }}){:width="550px"}](http://python.digikey.com/)
 
@@ -29,11 +29,21 @@ Here is a preview of our upcoming case designed by Mike Doell for the CircuitPla
 
 And here's a preview of our upcoming soil sensor. Use CircuitPython to measure soil moisture!
 
+## Hacktoberfest!
+
+[![Hacktoberfest logo. Old computer with Bavarian style text]({{ "/assets/hacktoberfest2018.png" | absolute_url }}){:width="550px"}](https://hacktoberfest.digitalocean.com/)
+
+Digital Ocean is once again encouraging open source contributions with limited edition T-Shirts. Even if you don't want one, now is a great time to start contributing to open source projects like [CircuitPython](https://github.com/adafruit/circuitpython), [its libraries](https://github.com/adafruit/?utf8=%E2%9C%93&q=Adafruit_CircuitPython&type=&language=),  [MicroPython](https://github.com/micropython/micropython) or [Python](https://github.com/python/cpython). Check [this list](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+user%3Aadafruit) for good first issues to start with on Adafruit repos, join [on Digital Ocean](https://hacktoberfest.digitalocean.com/) to track your progress towards a shirt, and jump onto [our Discord chat](https://adafru.it/discord) to join others who contribute!
+
 ## News from around the web!
 
 [![CircuitPython Badge]({{ "/assets/102badge.jpg" | absolute_url }}){:width="550px"}](https://hackaday.io/project/100853-circuitpython-badge)
 
 [CircuitPython Badge](https://hackaday.io/project/100853-circuitpython-badge) ("an actually useful badge") is being documented on Hackaday.io by deshipu.
+
+1.0.1 Mu is here! And it adds various new Adafruit boards - [download](https://codewith.mu/en/download), and [release history](https://mu.readthedocs.io/en/latest/changes.html).
+
+MicroPython Newsletter Issue 5 [post](https://forum.micropython.org/viewtopic.php?f=19&p=30234) [subscribe](https://micropython.org/newsletter/)
 
 [Screaming Halloween Caldrons](https://www.youtube.com/watch?v=Y6LtwUQfxBw) by eat-sleep-code using Adafruit Trinket M0 and Audio FX boards with [CircuitPython on GitHub](https://github.com/eat-sleep-code/circuitpython-halloween-cauldrons).
 
@@ -63,11 +73,15 @@ ASCII Art Library For Python [site](http://art.shaghighi.ir) & code - [GitHub.](
 
 Melbourne MicroPython Meetup - A monthly meetup for MicroPython Enthusiasts, [slides and more.](https://melbournemicropythonmeetup.github.io/)
 
+Adafruit CircuitPython Weekly for October 1st, 2018 [video](https://youtu.be/tJKiOKt9Q18)
+
+PyDev of the Week: Jacqueline Kazil [via Mouse vs Python](http://www.blog.pythonlibrary.org/2018/10/01/pydev-of-the-week-jacqueline-kazil/)
+
 ## CircuitPython Libraries!
 
 CircuitPython support for hardware continues to grow. We've recently added a number of new libraries including the [VEML6075](https://github.com/adafruit/Adafruit_CircuitPython_VEML6075) and the [HTU21D-F](https://github.com/adafruit/Adafruit_CircuitPython_HTU21D). As we continue to add more libraries and update current ones, we're going to be keeping you up to date on the state of the CircuitPython libraries!
 
-The total number of CircuitPython libraries is 109! 
+The total number of CircuitPython libraries is 109!
 
 ## New Learn Guides!
 
@@ -91,13 +105,13 @@ October 27, 2018. As part of PyCon DE 18 PyLadies and MicroPython will be runnin
 
 ## Latest releases
 
-CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [#.#.#-##.#](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
+CircuitPython's stable release is [3.0.2](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [4.0.0-alpha.1](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
 
-[2018####](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
+[20180929](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
 
-[v#.#.#](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
+[v1.9.4](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
 
-[#.#.#](https://www.python.org/downloads/) is the latest Python release. The latest pre-release version is [#.#.#](https://www.python.org/download/pre-releases/).
+[3.7.0](https://www.python.org/downloads/) is the latest Python release. The latest pre-release version is [3.7.1rc1](https://www.python.org/download/pre-releases/).
 
 ## Contribute!
 
