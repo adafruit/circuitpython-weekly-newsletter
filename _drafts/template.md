@@ -21,6 +21,12 @@ Digital Ocean is once again encouraging open source contributions with limited e
 
 [title](url) from [name](url)
 
+## Updated Guides - Now With More Python!
+
+**You can use CircuitPython on Raspberry Pi!** We're updating all of our CircuitPython guides to show how to wire up sensors to your Raspberry Pi, and load the necessary CircuitPython libraries to get going using them with Python. We'll be including the updates here so you can easily keep track of which sensors are ready to go. Check it out!
+
+[title](url)
+
 ## CircuitPython Libraries!
 
 CircuitPython support for hardware continues to grow. We are adding support for new sensors and breakouts all the time, as well as improving on the drivers we already have. As we add more libraries and update current ones, you can keep up with all the changes right here!
