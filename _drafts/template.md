@@ -85,6 +85,8 @@ CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpyt
 
 [#.#.#](https://www.python.org/downloads/) is the latest Python release. The latest pre-release version is [#.#.#](https://www.python.org/download/pre-releases/).
 
+[#.stars] Like CircuitPython? [Star it on GitHub!](https://github.com/adafruit/circuitpython).
+
 ## Call for help – CircuitPython messaging to other languages!
 
 [![Hello world]({{ "/assets/helloworld550.jpg" | absolute_url }}){:width="550px"}](https://github.com/adafruit/circuitpython/issues/1098)
