@@ -67,7 +67,7 @@ Here's this week's updated CircuitPython libraries:
 
 [![PyCon 18]({{ "/assets/18-1120pycon.jpg" | absolute_url }}){:width="550px"}](https://us.pycon.org/2019/about/)
 
-May 2019 Cleveland, Ohio! The PyCon 2019 conference, which will take place in Cleveland, is the largest annual gathering for the community using and developing the open-source Python programming language. It is produced and underwritten by the Python Software Foundation, the 501(c)(3) nonprofit organization dedicated to advancing and promoting Python. Through PyCon, the PSF advances its mission of growing the international community of Python programmers - [PyCon.](https://us.pycon.org/2019/about/)
+May 2019 Cleveland, Ohio! The PyCon 2019 conference, which will take place in Cleveland, is the largest annual gathering for the community using and developing the open-source Python programming language. It is produced and underwritten by the Python Software Foundation, the 501(c)(3) nonprofit organization dedicated to advancing and promoting Python. Through PyCon, the PSF advances its mission of growing the international community of Python programmers - [PyCon](https://us.pycon.org/2019/about/).
 
 **CircuitPython Workshops: Chicago in December**
 
@@ -91,9 +91,9 @@ CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpyt
 
 [![Hello world]({{ "/assets/helloworld550.jpg" | absolute_url }}){:width="550px"}](https://github.com/adafruit/circuitpython/issues/1098)
 
-We [recently posted on the Adafruit blog](https://blog.adafruit.com/2018/08/15/help-bring-circuitpython-messaging-to-other-languages-circuitpython/) about bringing CircuitPython messaging to other languages, one of the exciting features of CircuitPython 4.x is translated control and error messages. Native language messages will help non-native English speakers understand what is happening in CircuitPython even though the Python keywords and APIs will still be in English. If you would like to help, [please post](https://github.com/adafruit/circuitpython/issues/1098) to the main issue on GitHub and join us on [Discord.](https://adafru.it/discord)
+We [recently posted on the Adafruit blog](https://blog.adafruit.com/2018/08/15/help-bring-circuitpython-messaging-to-other-languages-circuitpython/) about bringing CircuitPython messaging to other languages, one of the exciting features of CircuitPython 4.x is translated control and error messages. Native language messages will help non-native English speakers understand what is happening in CircuitPython even though the Python keywords and APIs will still be in English. If you would like to help, [please post](https://github.com/adafruit/circuitpython/issues/1098) to the main issue on GitHub and join us on [Discord](https://adafru.it/discord).
 
-We made this graphic with translated text, we could use your help with that to make sure we got the text right, please check out the text in the image – if there is anything we did not get correct, please let us know. Dan sent me this [handy site too.](http://helloworldcollection.de/#Human)
+We made this graphic with translated text, we could use your help with that to make sure we got the text right, please check out the text in the image – if there is anything we did not get correct, please let us know. Dan sent me this [handy site too](http://helloworldcollection.de/#Human).
 
 ## jobs.adafruit.com is back
 
@@ -111,7 +111,7 @@ The Adafruit Discord community where we do all our CircuitPython development in 
 
 [![ICYMI]({{ "/assets/21-icymi.jpg" | absolute_url }}){:width="550px"}](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
 
-The wonderful world of Python on hardware! This is our first video-newsletter-podcast that we’re trying out! The news comes from the Python community, discord, Adafruit communities and more. It’s part of the weekly newsletter here, then we have a segment on ASK an ENGINEER and this is the video slice from that! - Vide. This video is a recap of last week's newsletter. The complete Python on Hardware weekly VideoCast [playlist is here.](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
+The wonderful world of Python on hardware! This is our first video-newsletter-podcast that we’re trying out! The news comes from the Python community, discord, Adafruit communities and more. It’s part of the weekly newsletter here, then we have a segment on ASK an ENGINEER and this is the video slice from that! - Vide. This video is a recap of last week's newsletter. The complete Python on Hardware weekly VideoCast [playlist is here](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev).
 
 ## Contribute!
 
