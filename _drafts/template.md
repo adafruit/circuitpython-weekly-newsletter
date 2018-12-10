@@ -13,6 +13,10 @@ update title
 
 [![alt text]({{ "/assets/image_name" | absolute_url }}){:width="550px"}](https://link)
 
+Editor Note: Please try to get periods to the end of sentences and not in links at the end of sentences, i.e.
+
+[title](url). and not [title.](url)
+
 [title](url)
 
 #ICYDNCI What was the most popular, most clicked link, in [last week's newsletter?](https://link) [title](url) with over % of the clicks!
