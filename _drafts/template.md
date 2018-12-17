@@ -9,6 +9,15 @@ Feature story text here
 change date
 update title
 
+
+## CircuitPython in 2019
+
+As 2018 comes to a close we like to reflect on how the year went and set goals for 2019. In the last two years ([2017](https://blog.adafruit.com/2017/01/09/welcome-to-the-adafruit-circuitpython-beta/), [2018](https://blog.adafruit.com/2018/01/29/circuitpython-in-2018/)) this has been a blog post by Scott (aka tannewt). For 2019, we’d like to do it a bit differently. This time we’d like everyone in the CircuitPython community to contribute by posting their thoughts to some public place on the Internet.
+
+We’ll read these over the holidays and into the first half of January. After the January 14th CircuitPython weekly we’ll draft an overarching vision post for CircuitPython in 2019 and discuss it in the following meeting.
+
+See [the blog post for more details](https://blog.adafruit.com/2018/12/17/what-do-you-want-from-circuitpython-in-2019-circuitpython2019-circuitpython/).
+
 ## News from around the web!
 
 [![alt text]({{ "/assets/image_name" | absolute_url }}){:width="550px"}](https://link)
