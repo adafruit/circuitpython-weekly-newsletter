@@ -46,7 +46,7 @@ Why Mu? Mu tries to make it as easy as possible to get started with programming 
 
 ## Updated Guides - Now With More Python!
 
-**You can use CircuitPython on Raspberry Pi!** We're updating all of our CircuitPython guides to show how to wire up sensors to your Raspberry Pi, and load the necessary CircuitPython libraries to get going using them with Python. We'll be including the updates here so you can easily keep track of which sensors are ready to go. Check it out!
+**You can use CircuitPython libraries on Raspberry Pi!** We're updating all of our CircuitPython guides to show how to wire up sensors to your Raspberry Pi, and load the necessary CircuitPython libraries to get going using them with Python. We'll be including the updates here so you can easily keep track of which sensors are ready to go. Check it out!
 
 [title](url)
 
@@ -81,12 +81,6 @@ Here's this week's updated CircuitPython libraries:
 [![PyCon 18]({{ "/assets/18-1120pycon.jpg" | absolute_url }}){:width="550px"}](https://us.pycon.org/2019/about/)
 
 May 2019 Cleveland, Ohio! The PyCon 2019 conference, which will take place in Cleveland, is the largest annual gathering for the community using and developing the open-source Python programming language. It is produced and underwritten by the Python Software Foundation, the 501(c)(3) nonprofit organization dedicated to advancing and promoting Python. Through PyCon, the PSF advances its mission of growing the international community of Python programmers - [PyCon](https://us.pycon.org/2019/about/).
-
-**CircuitPython Workshops: Chicago in December**
-
-[Hackerspace Pumping Station: One](https://pumpingstationone.org/) has an embedded meetup every other Monday called [Not Exclusively Raspberry Pi (NERP)](http://wiki.pumpingstationone.org/NERP). NERP is hosting a CircuitPython workshop on 17 December 2018 starting at 7pm. This is a beginner level workshop using Circuit Playground Express to learn CircuitPython. Keep an eye on the [meetup event](https://www.meetup.com/NERP-Not-Exclusively-Raspberry-Pi/events/qnltkjyxqbwb/) for registration details.
-
-CircuitPython Project Night is happening on 20 December 2018 from 6:30p to 8:30p in Chicago with the Chicago Area Python Users Group, [ChiPy](https://www.chipy.org/). It's a beginner level workshop using Circuit Playground Express to learn CircuitPython. Seating is limited, so if you're interested, [registration is open](https://bit.ly/chipy_adafruit).
 
 ## Latest releases
 
