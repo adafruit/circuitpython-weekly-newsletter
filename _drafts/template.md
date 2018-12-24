@@ -118,7 +118,7 @@ The Adafruit Discord community where we do all our CircuitPython development in 
 
 [![ICYMI]({{ "/assets/21-icymi.jpg" | absolute_url }}){:width="550px"}](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
 
-The wonderful world of Python on hardware! This is our first video-newsletter-podcast that we’re trying out! The news comes from the Python community, discord, Adafruit communities and more. It’s part of the weekly newsletter here, then we have a segment on ASK an ENGINEER and this is the video slice from that!. The complete Python on Hardware weekly VideoCast [playlist is here](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev).
+The wonderful world of Python on hardware! This is our first video-newsletter-podcast that we’re trying out! The news comes from the Python community, discord, Adafruit communities and more. It’s part of the weekly newsletter here, then we have a segment on ASK an ENGINEER and this is the video slice from that! The complete Python on Hardware weekly VideoCast [playlist is here](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev).
 
 ## Contribute!
 
