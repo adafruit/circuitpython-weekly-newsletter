@@ -72,6 +72,11 @@ Here's this week's updated CircuitPython libraries:
 
 * [library](url)
 
+**PyPI Download Stats!**
+
+We've written a special library called Adafruit Blinka that makes it possible to use CircuitPython Libraries on [Raspberry Pi and other compatible single-board computers](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/). Adafruit Blinka and all the CircuitPython libraries have been deployed to PyPI for super simple installation on Linux! Here are the top 10 CircuitPython libraries downloaded from PyPI in the last week, including the total downloads for those libraries:
+
+
 ## Upcoming events!
 
 [![PyCon 18]({{ "/assets/18-1120pycon.jpg" | absolute_url }}){:width="550px"}](https://us.pycon.org/2019/about/)
