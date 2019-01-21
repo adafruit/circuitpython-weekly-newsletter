@@ -12,7 +12,7 @@ update title
 
 ## CircuitPython in 2019
 
-As 2018 comes to a close we like to reflect on how the year went and set goals for 2019. In the last two years ([2017](https://blog.adafruit.com/2017/01/09/welcome-to-the-adafruit-circuitpython-beta/), [2018](https://blog.adafruit.com/2018/01/29/circuitpython-in-2018/)) this has been a blog post by Scott (aka tannewt). For 2019, we’d like to do it a bit differently. This time we’d like everyone in the CircuitPython community to contribute by posting their thoughts to some public place on the Internet.
+As 2018 comes to a close, we'd like to reflect on how the year went and set goals for 2019. In the last two years ([2017](https://blog.adafruit.com/2017/01/09/welcome-to-the-adafruit-circuitpython-beta/), [2018](https://blog.adafruit.com/2018/01/29/circuitpython-in-2018/)) this has been a blog post by Scott (aka tannewt). For 2019, we’d like to do it a bit differently. This time we’d like everyone in the CircuitPython community to contribute by posting their thoughts to some public place on the Internet.
 
 We’ll read these over the holidays and into the first half of January. After the January 14th CircuitPython weekly we’ll draft an overarching vision post for CircuitPython in 2019 and discuss it in the following meeting.
 
@@ -107,19 +107,19 @@ We made this graphic with translated text, we could use your help with that to m
 
 [![jobs.adafruit.com 19]({{ "/assets/19-1120jobs.jpg" | absolute_url }}){:width="550px"}](https://jobs.adafruit.com/)
 
-[jobs.adafruit.com](https://jobs.adafruit.com/) has returned and folks are posting their skills (including CircuitPython) and companies are looking for talented makers to join their companies - from Digi-Key, to hackaday, Microcenter, Raspberry Pi and more. FEATURED JOB.
+[jobs.adafruit.com](https://jobs.adafruit.com/) has returned and folks are posting their skills (including CircuitPython) and companies are looking for talented makers to join their companies - from Digi-Key, to Hackaday, Microcenter, Raspberry Pi and more. FEATURED JOB.
 
 ## NUMBER thanks!
 
 [![NUMBER]({{ "/assets/20-112discord.jpg" | absolute_url }}){:width="550px"}](https://adafru.it/discord)
 
-The Adafruit Discord community where we do all our CircuitPython development in the open reached over NUMBER humans, thank you! Join today! [https://adafru.it/discord](https://adafru.it/discord)
+The Adafruit Discord community, where we do all our CircuitPython development in the open, reached over NUMBER humans, thank you! Join today! [https://adafru.it/discord](https://adafru.it/discord)
 
 ## ICYMI - In case you missed it
 
 [![ICYMI]({{ "/assets/21-icymi.jpg" | absolute_url }}){:width="550px"}](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
 
-The wonderful world of Python on hardware! This is our first video-newsletter-podcast that we’re trying out! The news comes from the Python community, discord, Adafruit communities and more. It’s part of the weekly newsletter here, then we have a segment on ASK an ENGINEER and this is the video slice from that! The complete Python on Hardware weekly VideoCast [playlist is here](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev).
+The wonderful world of Python on hardware! This is our first video-newsletter-podcast that we’re trying out! The news comes from the Python community, Discord, Adafruit communities and more. It’s part of the weekly newsletter, then we have a segment on ASK an ENGINEER and this is the video slice from that! The complete Python on Hardware weekly VideoCast [playlist is here](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev).
 
 ## Contribute!
 
