@@ -72,9 +72,7 @@ KATTNI TABLE HERE
 
 ## Upcoming events!
 
-[![PyCon 18]({{ "/assets/18-1120pycon.jpg" | absolute_url }}){:width="550px"}](https://us.pycon.org/2019/about/)
-
-May 2019 Cleveland, Ohio! The PyCon 2019 conference, which will take place in Cleveland, is the largest annual gathering for the community using and developing the open-source Python programming language. It is produced and underwritten by the Python Software Foundation, the 501(c)(3) nonprofit organization dedicated to advancing and promoting Python. Through PyCon, the PSF advances its mission of growing the international community of Python programmers - [PyCon](https://us.pycon.org/2019/about/).
+PyOhio is July 27-28, 2019 in Columbus, Ohio! Kattni Rembor will be the opening keynote speaker! PyOhio is a non-profit annual Python community conference held in Columbus, OH. It is free to attend and welcomes anyone with an interest in Python. Content ranges from beginner to advanced and is intended to be relevant to all types of Python users: students, software professionals, scientists, hobbyists, and anyone looking to learn more. There are keynotes, tutorials, talks, sprints, open spaces, lightning talks and more. Registration is now open! [PyOhio](https://www.pyohio.org/2019/)
 
 ## Latest releases
 
