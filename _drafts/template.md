@@ -73,6 +73,9 @@ KATTNI TABLE HERE
 ## Upcoming events!
 
 PyBay will be heald August 15-18, 2019 in San Francisco, CA with workshops Thurs-Fri and talks Sat-Sun. Bryan Siepert (@siddacious) will be giving a talk on Saturday titled "Accellerating Driver Developement with CircuitPython"! PyBay is offered by SF Python, a volunteer-run organization dedicated to building a stronger Python developer community. PyBay offers influential speakers presenting crucial technologies to help beginners and seasoned developers alike get up-to-date quickly. Whether you’re interested in web technologies, data, devops, Python internals, or performance, PyBay will help you stay on top of your game. There will be workshops, tutorials, talks, keynotes, open spaces, lightnight talks, a maker happy hour and more! Registration is now open! [PyBay](https://pybay.com/)
+
+At the next monthly **Puget Sound Programming Python (PuPPy) meeting in Seattle** Scott will be giving a talk about CircuitPython and GameBoys. It is August 14th at Redfin 6pm - 8:30pm. Find out more [on Meetup](https://www.meetup.com/PSPPython/events/kgvzfryzlbsb/).
+
 ## Latest releases
 
 CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [#.#.#-##.#](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
