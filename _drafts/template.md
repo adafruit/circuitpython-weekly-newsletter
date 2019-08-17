@@ -100,7 +100,7 @@ PYCON UK 2019 - Cardiff City Hall, Friday 13th to Tuesday 17th September. PyCon 
 
 [Read more](https://www.oshwa.org/2019/07/26/october-is-open-hardware-month-2/), [Tweet for speakers in 2020](https://twitter.com/ohsummit/status/1154881782677831680), and Open Hardware Month @ [http://ohm.oshwa.org/](http://ohm.oshwa.org/)
 
-[![micro:bit Live 2019](../assets/DIR-LOCATION/DATE-blive.png)](https://microbit.org/en/2019-04-12-microbit-live/)
+[![micro:bit Live 2019](../assets/DIR-LOCATION/DATE-mblive.png)](https://microbit.org/en/2019-04-12-microbit-live/)
 
 micro:bit Live 2019 is coming to BBC MediaCityUK, Greater Manchester, England on October 4-5. This will be the very first annual gathering of the global micro:bit community of educators and partners - [micro:bit](https://microbit.org/en/2019-04-12-microbit-live/).
 
@@ -123,7 +123,7 @@ CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpyt
 
 ## Call for help – CircuitPython messaging to other languages!
 
-[![Hello world](../assets/DIR-LOCATION/DATE-helloworld550.jpg)](https://github.com/adafruit/circuitpython/issues/1098)
+[![Hello world](../assets/DIR-LOCATION/DATE-helloworld.jpg)](https://github.com/adafruit/circuitpython/issues/1098)
 
 We [recently posted on the Adafruit blog](https://blog.adafruit.com/2018/08/15/help-bring-circuitpython-messaging-to-other-languages-circuitpython/) about bringing CircuitPython messaging to other languages, one of the exciting features of CircuitPython 4.x is translated control and error messages. Native language messages will help non-native English speakers understand what is happening in CircuitPython even though the Python keywords and APIs will still be in English. If you would like to help, [please post](https://github.com/adafruit/circuitpython/issues/1098) to the main issue on GitHub and join us on [Discord](https://adafru.it/discord).
 
@@ -137,7 +137,7 @@ We made this graphic with translated text, we could use your help with that to m
 
 ## NUMBER thanks!
 
-[![NUMBER THANKS](../assets/DIR-LOCATION/DATE-discord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/DIR-LOCATION/DATE-13kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
