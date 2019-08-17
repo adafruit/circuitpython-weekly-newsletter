@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2019-MONTH-DAY 07:00:00 -0800
+date: 2019-08-17 07:00:00 -0800
 categories: weekly
 ---
 
@@ -11,6 +11,8 @@ categories: weekly
 - [ ] Feature story
 - [ ] Update [![](../assets/DIR-LOCATION/)]() for images
 - [ ] All images 550w max only
+
+template last updated on 8-17-19
 
 ## News from around the web!
 
