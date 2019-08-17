@@ -139,6 +139,8 @@ We made this graphic with translated text, we could use your help with that to m
 
 [![NUMBER THANKS](../assets/DIR-LOCATION/DATE-discord.jpg)](https://adafru.it/discord)
 
+[![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
+
 The Adafruit Discord community, where we do all our CircuitPython development in the open, reached over NUMBER humans, thank you! Join today! [https://adafru.it/discord](https://adafru.it/discord)
 
 [![BOOST!](../assets/DIR-LOCATION/DATE-boosts.jpg)](https://adafru.it/discord)
