@@ -143,7 +143,6 @@ The Adafruit Discord community, where we do all our CircuitPython development in
 
 Discord now offers "server boosts" we have 12 on our server (level 2), if we get to 50 boosts we get to level 3 and some other good features for the community: +100 emojis for a total of 250, 384 Kbps audio, vanity URL, 100 mb uploads for all members (and all the things we have now, like the server banner). Stop by and boost! [https://adafru.it/discord](https://adafru.it/discord).
 
-
 ## ICYMI - In case you missed it
 
 [![ICYMI](../assets/DIR-LOCATION/DATE-icymi.jpg)](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
