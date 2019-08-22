@@ -11,8 +11,11 @@ categories: weekly
 - [ ] Feature story
 - [ ] Update [![](../assets/DIR-LOCATION/)]() for images
 - [ ] All images 550w max only
+- [ ] Link "View this email in your browser."
 
-template last updated on 8-17-19
+template last updated on 8-22-19
+
+View this email in your browser.
 
 ## News from around the web!
 
