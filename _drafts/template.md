@@ -55,11 +55,11 @@ Text - [title](url).
 
 ## CircuitPython Libraries!
 
-[![CircuitPython Libraries](../assets/DIR-LOCATION/DATE-blinka.png)](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest)
+[![CircuitPython Libraries](../assets/DIR-LOCATION/DATE-blinka.png)](https://circuitpython.org/libraries)
 
 CircuitPython support for hardware continues to grow. We are adding support for new sensors and breakouts all the time, as well as improving on the drivers we already have. As we add more libraries and update current ones, you can keep up with all the changes right here!
 
-For the latest drivers, download the [Adafruit CircuitPython Library Bundle](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest).
+For the latest drivers, download the [Adafruit CircuitPython Library Bundle](https://circuitpython.org/libraries).
 
 If you'd like to contribute, CircuitPython libraries are a great place to start. Have an idea for a new driver? File an issue on [CircuitPython](https://github.com/adafruit/circuitpython/issues)! Interested in helping with current libraries? Check out [this GitHub issue on CircuitPython](https://github.com/adafruit/circuitpython/issues/1246) for an overview of the State of the CircuitPython Libraries, updated each week. We've included open issues from the library issue lists, and details about repo-level issues that need to be addressed. We have a guide on [contributing to CircuitPython with Git and Github](https://learn.adafruit.com/contribute-to-circuitpython-with-git-and-github) if you need help getting started. You can also find us in the #circuitpython channel on the [Adafruit Discord](https://adafru.it/discord). Feel free to contact Kattni (@kattni) with any questions.
 
