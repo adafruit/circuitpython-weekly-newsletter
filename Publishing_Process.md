@@ -15,9 +15,9 @@ https://cdn-daily-blog.adafruitdaily.com/uploads/2019/09 (09 is the current mont
 b.	Replace all instances. There should be the same number of replaces as there are images in the newsletter.
 8.	In the adafruitdaily.com wordpress https://www.adafruitdaily.com/wp/wp-admin/edit.php open a new post
 9.	Name the post first as the title in the header text of the draft markdown followed by the social media tags: #Python #Adafruit #CircuitPython #PythonHardware @circuitpython @micropython @ThePSF @Adafruit
-10.	Use the Text tab in the body box which allows entry of HTML rather than the regular text. 
+10.	Use the **Text** tab in the body box which allows entry of HTML rather than the regular text. 
 11.	Paste in the HTML from notepad++ or wherever you did the string replace.
-12.	Click the Visual tab and you should see the formatted newsletter with the pictures.
+12.	Click the **Visual** tab and you should see the formatted newsletter with the pictures.
 13.	If you don’t see the images, you have an image upload issue or the search/replace you used had an issue.
 14.	Save a draft now
 15.	Change the title to Heading 1.
