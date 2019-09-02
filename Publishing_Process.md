@@ -7,7 +7,7 @@ Mike – September 2, 2019
 3.	Download the assets for the current week to your PC
 4.	Add the asset pictures to the Media section of the Wordpress site for adafruitdaily.com
 5.	Go to https://adafruit.github.io/circuitpython-weekly-newsletter/ and open the latest newsletter
-6.	Use browser “view source” and copy all the HTML from the <h2>title</h2> (just past <!-- main content-wrapping table -->) to and including the paragraph
+6.	Use browser “view source” and copy all the HTML from the title in h2 tags (just past <!-- main content-wrapping table -->) to and including the paragraph
 > The CircuitPython Weekly Newsletter is a CircuitPython community-run newsletter emailed every Tuesday. The complete <a href="https://www.adafruitdaily.com/category/circuitpython/">archives are here</a>. It highlights the latest CircuitPython related news from around the web including Python and MicroPython developments. To contribute, edit next week’s draft <a href="https://github.com/adafruit/circuitpython-weekly-newsletter/tree/gh-pages/_drafts">on GitHub</a> and <a href="https://help.github.com/articles/editing-files-in-your-repository/">submit a pull request</a> with the changes. Join our <a href="https://adafru.it/discord">Discord</a> or <a href="https://forums.adafruit.com/viewforum.php?f=60">post to the forum</a> for any further questions.
 7.	The trick is to take that text and replace some strings in it to change the image links from GitHub to Wordpress. For this I use notepad++ but many text editors have a search and replace function.
 a.	Find the strings ../assets/09032019 (use the current date) and replace with 
