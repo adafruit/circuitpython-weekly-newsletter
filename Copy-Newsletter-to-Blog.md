@@ -1,4 +1,4 @@
-##Procedure for copying the Python for Microcontrollers Newsletter from Adafruit Daily to an ICYMI post on blogs.adafruit.com
+## Procedure for copying the Python for Microcontrollers Newsletter from Adafruit Daily to an ICYMI post on blogs.adafruit.com
 
 1.	A good template for looking at the final result is looking at the previous weeks’ post on blog.adafruit.com
 
