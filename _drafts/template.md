@@ -13,7 +13,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-template last updated on 8-22-19
+template last updated on 9-14-19
 
 View this email in your browser.
 
@@ -86,14 +86,6 @@ We've written a special library called Adafruit Blinka that makes it possible to
 KATTNI TABLE HERE
 
 ## Upcoming events!
-
-[![Open Source Summit and Embedded Linux Conference](../assets/DIR-LOCATION/DATE-linuxf.jpg)](https://www.linuxfoundation.org/press-release/2019/05/open-source-summit-to-include-embedded-linux-conference-bring-together-both-technical-and-leadership-programs-under-one-roof/)
-
-Open Source Summit and Embedded Linux Conference, August 21 – 23, 2019 at the Hilton San Diego Bayfront, California, USA. The Open Source Summit North America combines with Embedded Linux Conference North America (ELC).  ELC has been a vendor-neutral technical conference where developers working on embedded Linux and industrial IoT products and deployments gather for education and collaboration. Open Source Summit brings together developers and open source professionals to collaborate and learn about the latest technologies - [Linux Foundation](https://www.linuxfoundation.org/press-release/2019/05/open-source-summit-to-include-embedded-linux-conference-bring-together-both-technical-and-leadership-programs-under-one-roof/).
-
-[![PYCON UK 2019](../assets/DIR-LOCATION/DATE-pyconuk.jpg)](https://2019.pyconuk.org/)
-
-PYCON UK 2019 - Cardiff City Hall, Friday 13th to Tuesday 17th September. PyCon UK is back at Cardiff City Hall, for five days of talks, workshops and collaboration. The conference also features a young coders' day, themes dedicated to science and education, and numerous Python-related events - [PyCon UK](https://2019.pyconuk.org/).
 
 [![Open source hardware month](../assets/DIR-LOCATION/DATE-oshwmonth.jpg)](https://www.oshwa.org/2019/07/26/october-is-open-hardware-month-2/)
 
