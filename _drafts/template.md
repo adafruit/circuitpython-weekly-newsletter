@@ -95,6 +95,10 @@ KATTNI TABLE HERE
 
 [Read more](https://www.oshwa.org/2019/07/26/october-is-open-hardware-month-2/), [Tweet for speakers in 2020](https://twitter.com/ohsummit/status/1154881782677831680), and Open Hardware Month @ [http://ohm.oshwa.org/](http://ohm.oshwa.org/)
 
+[![PyCon DE](../assets/DIR-LOCATION/DATE-pyconde.jpg)](https://de.pycon.org/)
+
+PyCon DE & PyData Berlin // October 9 - 13 2019. Main conference, 3 days of talks and workshops. More than 100 sessions dedicated to PyData (artificial intelligence, machine learning, ethics...) and Python topics (programming, DevOps, Web, Django...) - [de.pycon.org](https://de.pycon.org/).
+
 [![micro:bit Live 2019](../assets/DIR-LOCATION/DATE-mblive.png)](https://microbit.org/en/2019-04-12-microbit-live/)
 
 micro:bit Live 2019 is coming to BBC MediaCityUK, Greater Manchester, England on October 4-5. This will be the very first annual gathering of the global micro:bit community of educators and partners - [micro:bit](https://microbit.org/en/2019-04-12-microbit-live/).
