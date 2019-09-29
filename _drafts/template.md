@@ -13,7 +13,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-template last updated on 9-17-19
+template last updated on 9-29-19
 
 View this email in your browser.
 
@@ -86,6 +86,10 @@ We've written a special library called Adafruit Blinka that makes it possible to
 KATTNI TABLE HERE
 
 ## Upcoming events!
+
+[![Hacktoberfest](../assets/DIR-LOCATION/DATE-hacktober.jpg)](https://hacktoberfest.digitalocean.com)
+
+Hacktoberfest is open to everyone in the global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge - [https://hacktoberfest.digitalocean.com](hacktoberfest.digitalocean.com)
 
 [![Open source hardware month](../assets/DIR-LOCATION/DATE-oshwmonth.jpg)](https://www.oshwa.org/2019/07/26/october-is-open-hardware-month-2/)
 
