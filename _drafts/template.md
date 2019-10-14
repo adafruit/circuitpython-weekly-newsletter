@@ -13,7 +13,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-template last updated on 9-29-19
+template last updated on 10-14-19
 
 View this email in your browser.
 
@@ -99,22 +99,14 @@ Hacktoberfest is open to everyone in the global community. Whether you’re a de
 
 [Read more](https://www.oshwa.org/2019/07/26/october-is-open-hardware-month-2/), [Tweet for speakers in 2020](https://twitter.com/ohsummit/status/1154881782677831680), and Open Hardware Month @ [http://ohm.oshwa.org/](http://ohm.oshwa.org/)
 
-[![Ada Lovelace Day](../assets/09172019/DATE-ALDDay.jpg)](https://findingada.com/)
-
-Ada Lovelace Day (ALD) is an international celebration of the achievements of women in science, technology, engineering and maths (STEM). It aims to increase the profile of women in STEM and, in doing so, create new role models who will encourage more girls into STEM careers and support women already working in STEM - [findingada.com](https://findingada.com/).
-
-[![PyCon DE](../assets/DIR-LOCATION/DATE-pyconde.jpg)](https://de.pycon.org/)
-
-PyCon DE & PyData Berlin // October 9 - 13 2019. Main conference, 3 days of talks and workshops. More than 100 sessions dedicated to PyData (artificial intelligence, machine learning, ethics...) and Python topics (programming, DevOps, Web, Django...) - [de.pycon.org](https://de.pycon.org/).
-
-[![micro:bit Live 2019](../assets/DIR-LOCATION/DATE-mblive.png)](https://microbit.org/en/2019-04-12-microbit-live/)
-
-micro:bit Live 2019 is coming to BBC MediaCityUK, Greater Manchester, England on October 4-5. This will be the very first annual gathering of the global micro:bit community of educators and partners - [micro:bit](https://microbit.org/en/2019-04-12-microbit-live/).
-
 [![Hackaday Superconference](../assets/DIR-LOCATION/DATE-supercon.jpg)](https://hackaday.io/superconference/)
 
 Hackaday Superconference is November 15th, 16th, and 17th in Pasadena, California, USA. The Hackaday Superconference is returning for another 3 full days of technical talks, badge hacking, and hands-on workshops: [Eventbrite](https://www.eventbrite.com/e/hackaday-superconference-2019-tickets-60129236164?aff=0626com
 ) & [hackaday.io](https://hackaday.io/superconference/)
+
+[![Pycon 2020](../assets/10152019/DATE-pycon.png)](https://us.pycon.org/2020/)
+
+April 15-23, 2020, Pittsburgh, Pennsylvania - The PyCon 2020 conference, which will take place in Pittsburgh, is the largest annual gathering for the community using and developing the open-source Python programming language. It is produced and underwritten by the Python Software Foundation, the 501(c)(3) nonprofit organization dedicated to advancing and promoting Python. Through PyCon, the PSF advances its mission of growing the international community of Python programmers - [PyCon 2020](https://us.pycon.org/2020/).
 
 ## Latest releases
 
