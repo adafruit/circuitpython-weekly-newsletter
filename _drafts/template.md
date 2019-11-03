@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2019-08-17 07:00:00 -0800
+date: 2019-12-31 07:00:00 -0800
 categories: weekly
 ---
 
@@ -13,7 +13,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-template last updated on 10-14-19
+template last updated on 11-03-19
 
 View this email in your browser.
 
@@ -87,28 +87,12 @@ KATTNI TABLE HERE
 
 ## Upcoming events!
 
-[![Hacktoberfest](../assets/DIR-LOCATION/DATE-hacktober.jpg)](https://hacktoberfest.digitalocean.com)
-
-Hacktoberfest is open to everyone in the global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge - [https://hacktoberfest.digitalocean.com](hacktoberfest.digitalocean.com)
-
-[![Open source hardware month](../assets/DIR-LOCATION/DATE-oshwmonth.jpg)](https://www.oshwa.org/2019/07/26/october-is-open-hardware-month-2/)
-
-[October is Open Hardware Month @ Open Source Hardware Association](https://www.oshwa.org/2019/07/26/october-is-open-hardware-month-2/).
-
->_"October is Open Hardware Month! Check out the [Open Hardware Month website](http://ohm.oshwa.org/). Host an event, find a local event, or [certify](https://certification.oshwa.org/) your hardware to support Open Source Hardware. We are providing resources and asking you, the community, to host small, local events in the name of open source hardware. Tell us about your October event by [filling out the form below](https://docs.google.com/forms/d/e/1FAIpQLSfjvJmcRXbpgjRACgY_BbaDzQZRa6wxEcP-xwaBpC0X6mvsPw/viewform). Your event will be featured on [OSHWA’s Open Hardware Month page](http://ohm.oshwa.org/) (provided you have followed OSHWA’s rules listed on the [“Do’s and Don’ts”](http://ohm.oshwa.org/dos-and-donts/) page)."_
-
-[Read more](https://www.oshwa.org/2019/07/26/october-is-open-hardware-month-2/), [Tweet for speakers in 2020](https://twitter.com/ohsummit/status/1154881782677831680), and Open Hardware Month @ [http://ohm.oshwa.org/](http://ohm.oshwa.org/)
-
-[![TensorFlow World](../assets/10152019/101519tfworld.jpg)](https://conferences.oreilly.com/tensorflow/tf-ca)
-
-October 28–31, 2019. Be part of the ML revolution. Santa Clara, CA. TensorFlow is powering everything from data centers to edge devices, across industries from finance to advanced healthcare. And now, with TensorFlow 2.0 and the evolving ecosystem of tools and libraries, it’s doing it all so much easier - [TensorFlow World](https://conferences.oreilly.com/tensorflow/tf-ca).
-
 [![Hackaday Superconference](../assets/DIR-LOCATION/DATE-supercon.jpg)](https://hackaday.io/superconference/)
 
 Hackaday Superconference is November 15th, 16th, and 17th in Pasadena, California, USA. The Hackaday Superconference is returning for another 3 full days of technical talks, badge hacking, and hands-on workshops: [Eventbrite](https://www.eventbrite.com/e/hackaday-superconference-2019-tickets-60129236164?aff=0626com
 ) & [hackaday.io](https://hackaday.io/superconference/)
 
-[![Pycon 2020](../assets/10152019/DATE-pycon.png)](https://us.pycon.org/2020/)
+[![Pycon 2020](../assets/DIR-LOCATION/DATE-pycon.png)](https://us.pycon.org/2020/)
 
 April 15-23, 2020, Pittsburgh, Pennsylvania - The PyCon 2020 conference, which will take place in Pittsburgh, is the largest annual gathering for the community using and developing the open-source Python programming language. It is produced and underwritten by the Python Software Foundation, the 501(c)(3) nonprofit organization dedicated to advancing and promoting Python. Through PyCon, the PSF advances its mission of growing the international community of Python programmers - [PyCon 2020](https://us.pycon.org/2020/).
 
