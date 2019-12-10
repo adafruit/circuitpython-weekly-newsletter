@@ -87,10 +87,6 @@ KATTNI TABLE HERE
 
 ## Upcoming events!
 
-[![Hackaday Superconference](../assets/DIR-LOCATION/DATE-supercon.jpg)](https://hackaday.io/superconference/)
-
-Hackaday Superconference is November 15th, 16th, and 17th in Pasadena, California, USA. The Hackaday Superconference is returning for another 3 full days of technical talks, badge hacking, and hands-on workshops: [Eventbrite](https://www.eventbrite.com/e/hackaday-superconference-2019-tickets-60129236164?aff=0626com
-) & [hackaday.io](https://hackaday.io/superconference/)
 
 [![Pycon 2020](../assets/DIR-LOCATION/DATE-pycon.png)](https://us.pycon.org/2020/)
 
