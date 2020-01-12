@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2019-12-31 07:00:00 -0800
+date: 2020-01-31 07:00:00 -0800
 categories: weekly
 ---
 
@@ -13,45 +13,29 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-template last updated on 11-03-19
+template last updated on 01-12-2020
 
-View this email in your browser.
+[View this email]() in your browser.
+
+Hi everyone! It's the latest Python for Microcontrollers newsletter brought you by the community! We're on [Discord](https://discord.gg/HYqvREz), [Twitter](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), and for past newsletters - [view them all here](https://www.adafruitdaily.com/category/circuitpython/). Let's Get started!
 
 ## News from around the web!
 
 [![](../assets/DIR-LOCATION/)]()
 
-Text - [title](url).
-
 #ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)? [title](url).
 
-[![](../assets/DIR-LOCATION/)]()
-
-Text - [title](url).
-
 ## Made with Mu
-
-[![](../assets/DIR-LOCATION/)]()
-
-Text - [title](url).
 
 Why Mu? Mu tries to make it as easy as possible to get started with programming but aims to help you graduate to "real" development tools soon after. Everything in Mu is the "real thing" but presented in as simple and obvious way possible. It's like the toddling stage in learning to walk: you're finding your feet and once you're confident, you should move on and explore! Put simply, Mu aims to foster autonomy. Try out Mu today! - [codewith.mu](https://codewith.mu/)
 
 ## Coming soon
 
-[![](../assets/DIR-LOCATION/)]()
-
-Text - [title](url).
-
 ## New Learn Guides!
-
-[title](url) from [name](url)
 
 ## Updated Guides - Now With More Python!
 
 **You can use CircuitPython libraries on Raspberry Pi!** We're updating all of our CircuitPython guides to show how to wire up sensors to your Raspberry Pi, and load the necessary CircuitPython libraries to get going using them with Python. We'll be including the updates here so you can easily keep track of which sensors are ready to go. Check it out!
-
-[title](url)
 
 ## CircuitPython Libraries!
 
@@ -87,6 +71,11 @@ KATTNI TABLE HERE
 
 ## Upcoming events!
 
+[![PyCascades](../assets/01072020/DATE-pyc.jpg)](https://2020.pycascades.com/)
+
+Scott is speaking at [PyCascades](https://2020.pycascades.com/) about Python's Next Decade and Us. It's February 8th and 9th, 2020.
+
+>_"PyCascades is a two-day, single-track Python conference. We previously hosted PyCascades in Vancouver and Seattle. For our third iteration in 2020 we'll be in Portland, Oregon. PyCascades is organized by members of the Python communities in Vancouver, Seattle, and Portland. We aim to bring together Python users and developers from both the Pacific Northwest and around the world."_
 
 [![Pycon 2020](../assets/DIR-LOCATION/DATE-pycon.png)](https://us.pycon.org/2020/)
 
@@ -120,15 +109,11 @@ We made this graphic with translated text, we could use your help with that to m
 
 ## NUMBER thanks!
 
-[![NUMBER THANKS](../assets/DIR-LOCATION/DATE-13kdiscord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/DIR-LOCATION/DATE-15kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
 The Adafruit Discord community, where we do all our CircuitPython development in the open, reached over NUMBER humans, thank you! Join today! [https://adafru.it/discord](https://adafru.it/discord)
-
-[![BOOST!](../assets/DIR-LOCATION/DATE-boosts.jpg)](https://adafru.it/discord)
-
-Discord now offers "server boosts". We have 12 on our server (level 2) and if we get to 50 boosts we get to level 3 and some other good features for the community: +100 emojis for a total of 250, 384 Kbps audio, vanity URL, 100 mb uploads for all members (and all the things we have now, like the server banner). Stop by and boost! [https://adafru.it/discord](https://adafru.it/discord).
 
 ## ICYMI - In case you missed it
 
