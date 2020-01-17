@@ -33,9 +33,13 @@ Why Mu? Mu tries to make it as easy as possible to get started with programming 
 
 ## New Learn Guides!
 
+[title](url) from [name](url)
+
 ## Updated Guides - Now With More Python!
 
 **You can use CircuitPython libraries on Raspberry Pi!** We're updating all of our CircuitPython guides to show how to wire up sensors to your Raspberry Pi, and load the necessary CircuitPython libraries to get going using them with Python. We'll be including the updates here so you can easily keep track of which sensors are ready to go. Check it out!
+
+[title](url)
 
 ## CircuitPython Libraries!
 
