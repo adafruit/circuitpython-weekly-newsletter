@@ -17,7 +17,7 @@ template last updated on 01-12-2020
 
 [View this email]() in your browser.
 
-Hi everyone! It's the latest Python for Microcontrollers newsletter brought you by the community! We're on [Discord](https://discord.gg/HYqvREz), [Twitter](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), and for past newsletters - [view them all here](https://www.adafruitdaily.com/category/circuitpython/). Let's Get started!
+Hi everyone! It's the latest Python for Microcontrollers newsletter brought you by the community! We're on [Discord](https://discord.gg/HYqvREz), [Twitter](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), and for past newsletters - [view them all here](https://www.adafruitdaily.com/category/circuitpython/). If you're reading this on the web, [subscribe here](https://www.adafruitdaily.com/). Let's Get started!
 
 ## News from around the web!
 
