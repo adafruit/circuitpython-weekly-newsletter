@@ -123,7 +123,7 @@ We made this graphic with translated text, we could use your help with that to m
 
 ## NUMBER thanks!
 
-[![NUMBER THANKS](../assets/DIR-LOCATION/DATE-15kdiscord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/DIR-LOCATION/DATE-16kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
