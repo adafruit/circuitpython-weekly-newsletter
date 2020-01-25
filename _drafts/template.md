@@ -81,9 +81,11 @@ Scott is speaking at [PyCascades](https://2020.pycascades.com/) about Python's N
 
 >_"PyCascades is a two-day, single-track Python conference. We previously hosted PyCascades in Vancouver and Seattle. For our third iteration in 2020 we'll be in Portland, Oregon USA. PyCascades is organized by members of the Python communities in Vancouver, Seattle, and Portland. We aim to bring together Python users and developers from both the Pacific Northwest and around the world."_
 
-[![OHSummit20](../assets/DIR-LOCATION/DATE-ohsummit.jpg)](https://2020.oshwa.org/)
+[![OHSummit20](../assets/DIR-LOCATION/DATE-ohsummit01.jpg)](https://2020.oshwa.org/)
 
 [The 2020 Open Hardware Summit](https://2020.oshwa.org/) is March 13th 2020, NYU School of Law, New York. [The "badge"](https://hackaday.com/2020/01/21/circuitpython-slithers-into-100th-board-the-ohs-2020-badge/) for the event is CircuitPython powered!
+
+[![OHSummit20](../assets/DIR-LOCATION/DATE-ohsummit02.jpg)](https://2020.oshwa.org/)
 
 >_"The Open Hardware Summit is the annual conference organized by the Open Source Hardware Association a 501(c)(3) not for profit charity. It is the world’s first comprehensive conference on open hardware; a venue and community in which we discuss and draw attention to the rapidly growing Open Source Hardware movement. Speakers include world renowned leaders from industry, academia, the arts and maker community. Talks cover a wide range of subjects from electronics, mechanics to related fields such as digital fabrication, fashion technology, self-quantification devices, and IP law. As a microcosm of the Open Source Hardware community, the Summit provides an annual friendly forum for the community."_
 
