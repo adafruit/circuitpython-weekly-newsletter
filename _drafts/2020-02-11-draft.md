@@ -73,6 +73,52 @@ We've written a special library called Adafruit Blinka that makes it possible to
 
 KATTNI TABLE HERE
 
+## What’s the team up to this week?
+
+What is the team up to this week? Let’s check in!
+
+**Bryan**
+
+[![Bryan](../assets/01mdd2020/bryan.jpg)](https://circuitpython.org/)
+
+
+
+**Dan**
+
+[![Dan](../assets/01mdd2020/dan.jpg)](https://circuitpython.org/)
+
+
+
+**Jeff**
+
+[![Jeff](../assets/01mdd2020/jeff.jpg)](https://circuitpython.org/)
+
+
+
+**Kattni**
+
+[![Kattni](../assets/01mdd2020/kattni.jpg)](https://circuitpython.org/)
+
+
+
+**Lucian**
+
+[![Lucian](../assets/01mdd2020/lucian.jpg)](https://circuitpython.org/)
+
+
+
+**Melissa**
+
+[![Melissa](../assets/01mdd2020/melissa.jpg)](https://circuitpython.org/)
+
+
+
+**Scott**
+
+[![Scott](../assets/01mdd2020/scott.jpg)](https://circuitpython.org/)
+
+
+
 ## Upcoming events!
 
 [![PyCascades](../assets/01072020/DATE-pyc.jpg)](https://2020.pycascades.com/)
