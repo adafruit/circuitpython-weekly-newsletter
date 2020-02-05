@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2020-01-31 07:00:00 -0800
+date: 2020-02-11 07:00:00 -0800
 categories: weekly
 ---
 
@@ -13,7 +13,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-template last updated on 01-25-2020
+Template last updated on 02-05-2020 by Anne
 
 [View this email]() in your browser.
 
