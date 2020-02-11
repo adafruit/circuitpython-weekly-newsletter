@@ -79,43 +79,43 @@ What is the team up to this week? Let’s check in!
 
 **Bryan**
 
-[![Bryan](../assets/01mdd2020/bryan.jpg)](https://circuitpython.org/)
+[![Bryan](../assets/0mdd2020/bryan.jpg)](https://circuitpython.org/)
 
 
 
 **Dan**
 
-[![Dan](../assets/01mdd2020/dan.jpg)](https://circuitpython.org/)
+[![Dan](../assets/0mdd2020/dan.jpg)](https://circuitpython.org/)
 
 
 
 **Jeff**
 
-[![Jeff](../assets/01mdd2020/jeff.jpg)](https://circuitpython.org/)
+[![Jeff](../assets/0mdd2020/jeff.jpg)](https://circuitpython.org/)
 
 
 
 **Kattni**
 
-[![Kattni](../assets/01mdd2020/kattni.jpg)](https://circuitpython.org/)
+[![Kattni](../assets/0mdd2020/kattni.jpg)](https://circuitpython.org/)
 
 
 
 **Lucian**
 
-[![Lucian](../assets/01mdd2020/lucian.jpg)](https://circuitpython.org/)
+[![Lucian](../assets/0mdd2020/lucian.jpg)](https://circuitpython.org/)
 
 
 
 **Melissa**
 
-[![Melissa](../assets/01mdd2020/melissa.jpg)](https://circuitpython.org/)
+[![Melissa](../assets/0mdd2020/melissa.jpg)](https://circuitpython.org/)
 
 
 
 **Scott**
 
-[![Scott](../assets/01mdd2020/scott.jpg)](https://circuitpython.org/)
+[![Scott](../assets/0mdd2020/scott.jpg)](https://circuitpython.org/)
 
 
 
