@@ -13,7 +13,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 02-05-2020 by Anne
+Template last updated on 02-17-2020 by Anne
 
 [View this email]() in your browser.
 
@@ -129,7 +129,7 @@ Scott is speaking at [PyCascades](https://2020.pycascades.com/) about Python's N
 
 [![OHSummit20](../assets/DIR-LOCATION/DATE-ohsummit01.jpg)](https://2020.oshwa.org/)
 
-[The 2020 Open Hardware Summit](https://2020.oshwa.org/) is March 13th 2020, NYU School of Law, New York. [The "badge"](https://hackaday.com/2020/01/21/circuitpython-slithers-into-100th-board-the-ohs-2020-badge/) for the event is CircuitPython powered!
+[The 2020 Open Hardware Summit](https://2020.oshwa.org/) is March 13th 2020, NYU School of Law, New York USA. [The "badge"](https://hackaday.com/2020/01/21/circuitpython-slithers-into-100th-board-the-ohs-2020-badge/) for the event is CircuitPython powered!
 
 [![OHSummit20](../assets/DIR-LOCATION/DATE-ohsummit02.jpg)](https://2020.oshwa.org/)
 
@@ -157,7 +157,7 @@ CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpyt
 
 [![Hello world](../assets/DIR-LOCATION/DATE-helloworld.jpg)](https://github.com/adafruit/circuitpython/issues/1098)
 
-We [recently posted on the Adafruit blog](https://blog.adafruit.com/2018/08/15/help-bring-circuitpython-messaging-to-other-languages-circuitpython/) about bringing CircuitPython messaging to other languages, one of the exciting features of CircuitPython 4.x is translated control and error messages. Native language messages will help non-native English speakers understand what is happening in CircuitPython even though the Python keywords and APIs will still be in English. If you would like to help, [please post](https://github.com/adafruit/circuitpython/issues/1098) to the main issue on GitHub and join us on [Discord](https://adafru.it/discord).
+We [recently posted on the Adafruit blog](https://blog.adafruit.com/2018/08/15/help-bring-circuitpython-messaging-to-other-languages-circuitpython/) about bringing CircuitPython messaging to other languages, one of the exciting features of CircuitPython 4 and later versions is translated control and error messages. Native language messages will help non-native English speakers understand what is happening in CircuitPython even though the Python keywords and APIs will still be in English. If you would like to help, [please post](https://github.com/adafruit/circuitpython/issues/1098) to the main issue on GitHub and join us on [Discord](https://adafru.it/discord).
 
 We made this graphic with translated text, we could use your help with that to make sure we got the text right, please check out the text in the image – if there is anything we did not get correct, please let us know. Dan sent me this [handy site too](http://helloworldcollection.de/#Human).
 
