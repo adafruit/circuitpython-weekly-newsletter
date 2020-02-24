@@ -13,7 +13,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 02-17-2020 by Anne
+Template last updated on 02-24-2020 by Anne
 
 [View this email]() in your browser.
 
