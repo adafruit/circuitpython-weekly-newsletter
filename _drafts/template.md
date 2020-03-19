@@ -13,7 +13,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 02-24-2020 by Anne
+Template last updated on 03-19-2020 by Anne (remove PyCascades)
 
 [View this email]() in your browser.
 
@@ -120,12 +120,6 @@ What is the team up to this week? Let’s check in!
 
 
 ## Upcoming events!
-
-[![PyCascades](../assets/01072020/DATE-pyc.jpg)](https://2020.pycascades.com/)
-
-Scott is speaking at [PyCascades](https://2020.pycascades.com/) about Python's Next Decade and Us. It's February 8th and 9th, 2020.
-
->_"PyCascades is a two-day, single-track Python conference. We previously hosted PyCascades in Vancouver and Seattle. For our third iteration in 2020 we'll be in Portland, Oregon USA. PyCascades is organized by members of the Python communities in Vancouver, Seattle, and Portland. We aim to bring together Python users and developers from both the Pacific Northwest and around the world."_
 
 [![OHSummit20](../assets/DIR-LOCATION/DATE-ohsummit01.jpg)](https://2020.oshwa.org/)
 
