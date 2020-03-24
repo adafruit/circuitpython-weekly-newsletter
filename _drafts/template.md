@@ -13,7 +13,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 03-19-2020 by Anne (remove PyCascades)
+Template last updated on 03-23-2020 by Anne (remove events, Discord 17k)
 
 [View this email]() in your browser.
 
@@ -79,61 +79,49 @@ What is the team up to this week? Let’s check in!
 
 **Bryan**
 
-[![Bryan](../assets/0mdd2020/bryan.jpg)](https://circuitpython.org/)
+[![Bryan](../assets/0mdd2020/0mdd2020bryan.jpg)](https://circuitpython.org/)
 
 
 
 **Dan**
 
-[![Dan](../assets/0mdd2020/dan.jpg)](https://circuitpython.org/)
+[![Dan](../assets/0mdd2020/0mdd2020dan.jpg)](https://circuitpython.org/)
 
 
 
 **Jeff**
 
-[![Jeff](../assets/0mdd2020/jeff.jpg)](https://circuitpython.org/)
+[![Jeff](../assets/0mdd2020/0mdd2020jeff.jpg)](https://circuitpython.org/)
 
 
 
 **Kattni**
 
-[![Kattni](../assets/0mdd2020/kattni.jpg)](https://circuitpython.org/)
+[![Kattni](../assets/0mdd2020/0mdd2020kattni.jpg)](https://circuitpython.org/)
 
 
 
 **Lucian**
 
-[![Lucian](../assets/0mdd2020/lucian.jpg)](https://circuitpython.org/)
+[![Lucian](../assets/0mdd2020/0mdd2020lucian.jpg)](https://circuitpython.org/)
 
 
 
 **Melissa**
 
-[![Melissa](../assets/0mdd2020/melissa.jpg)](https://circuitpython.org/)
+[![Melissa](../assets/0mdd2020/0mdd2020melissa.jpg)](https://circuitpython.org/)
 
 
 
 **Scott**
 
-[![Scott](../assets/0mdd2020/scott.jpg)](https://circuitpython.org/)
+[![Scott](../assets/0mdd2020/0mdd2020scott.jpg)](https://circuitpython.org/)
 
 
 
 ## Upcoming events!
 
-[![OHSummit20](../assets/DIR-LOCATION/DATE-ohsummit01.jpg)](https://2020.oshwa.org/)
 
-[The 2020 Open Hardware Summit](https://2020.oshwa.org/) is March 13th 2020, NYU School of Law, New York USA. [The "badge"](https://hackaday.com/2020/01/21/circuitpython-slithers-into-100th-board-the-ohs-2020-badge/) for the event is CircuitPython powered!
-
-[![OHSummit20](../assets/DIR-LOCATION/DATE-ohsummit02.jpg)](https://2020.oshwa.org/)
-
->_"The Open Hardware Summit is the annual conference organized by the Open Source Hardware Association a 501(c)(3) not for profit charity. It is the world’s first comprehensive conference on open hardware; a venue and community in which we discuss and draw attention to the rapidly growing Open Source Hardware movement. Speakers include world renowned leaders from industry, academia, the arts and maker community. Talks cover a wide range of subjects from electronics, mechanics to related fields such as digital fabrication, fashion technology, self-quantification devices, and IP law. As a microcosm of the Open Source Hardware community, the Summit provides an annual friendly forum for the community."_
-
-Additionally, there is a [2020 Open Hardware Summit topic on Discord](https://discord.gg/8RVyqnk) to join before, during, and after! - [Discord](https://discord.gg/8RVyqnk).
-
-[![Pycon 2020](../assets/DIR-LOCATION/DATE-pycon.png)](https://us.pycon.org/2020/)
-
-April 15-23, 2020, Pittsburgh, Pennsylvania, USA - The PyCon 2020 conference, which will take place in Pittsburgh, is the largest annual gathering for the community using and developing the open-source Python programming language. It is produced and underwritten by the Python Software Foundation, the 501(c)(3) nonprofit organization dedicated to advancing and promoting Python. Through PyCon, the PSF advances its mission of growing the international community of Python programmers - [PyCon 2020](https://us.pycon.org/2020/).
 
 ## Latest releases
 
@@ -163,7 +151,7 @@ We made this graphic with translated text, we could use your help with that to m
 
 ## NUMBER thanks!
 
-[![NUMBER THANKS](../assets/DIR-LOCATION/DATE-16kdiscord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/DIR-LOCATION/DATE-17kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
