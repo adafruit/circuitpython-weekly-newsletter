@@ -13,11 +13,27 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 03-31-2020 by Anne (assets in folders as YYYYMMDD per agrement with Kattni)
+Template last updated on 03-31-2020 by Anne (assets in folders as YYYYMMDD per agrement with Kattni, hardware section)
 
 View this email in your browser.
 
 Hi everyone! It's the latest Python for Microcontrollers newsletter, brought you by the community! We're on [Discord](https://discord.gg/HYqvREz), [Twitter](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), and for past newsletters - [view them all here](https://www.adafruitdaily.com/category/circuitpython/). If you're reading this on the web, [subscribe here](https://www.adafruitdaily.com/). Let's get started!
+
+## Headline Article
+
+[![title](../assets/020200mdd/20200mdd-name.jpg)](https://circuitpython.org/)
+
+Text
+
+## Adafruit Update
+
+[![Adafruit Heart NNew York](../assets/03312020/03312020heart.jpg)](https://blog.adafruit.com/2020/03/22/covid/)
+
+Adafruit Industries continues to run with 100% of employees being paid and continuing to work. Most are working remotely, with some working in the Manhattan, New York factory as an essential service and business under NYC Executive Order 202.6 Capabilities. Adafruit was deemed an essential service to distribute/make some PPE (Personal Protection Equipment) such as face shields, and manufacturer electronics for essential life-saving/preserving equipment and development which is needed in New York and beyond. -[Blog](https://blog.adafruit.com/2020/03/22/covid/)
+
+The CircuitPython team is going full steam ahead in development and rollout. We're expecting CircuitPython 5.1.0 to be stable and released soon and features for 5.2.x are being discussed. Would you like to join us? On Discord, head to https://adafru.it/discord to discuss things. And check out [Awesome CircuitPython](https://github.com/adafruit/awesome-circuitpython/blob/master/README.md) for a wide range of information.
+
+*Ed: Are you working on projects with CircuitPython or have good CircuitPython/MicroPython/Python news? Tag your material on Twitter with hashtag #CircuitPython. I'll scan and include items for the next newsletter. Thanks!*
 
 ## News from around the web!
 
@@ -32,6 +48,19 @@ Text
 Why Mu? Mu tries to make it as easy as possible to get started with programming but aims to help you graduate to "real" development tools soon after. Everything in Mu is the "real thing" but presented in as simple and obvious way possible. It's like the toddling stage in learning to walk: you're finding your feet and once you're confident, you should move on and explore! Put simply, Mu aims to foster autonomy. Try out Mu today! - [codewith.mu](https://codewith.mu/)
 
 ## Coming soon
+
+## New Boards Supported by CircuitPython
+
+The number of microcontrollers and Single Board  Computers (SBC) grows every week. This section outlines which boards have been added to [CircuitPython.org](https://circuitpython.org/).
+
+This week we had X new boards added!
+
+- board link
+
+Looking for adding a new board to CircuitPython? It's highly encouraged! Adafruit has two guides to help you do so:
+
+- [Adding a Single Board Computer to PlatformDetect for Blinka](https://learn.adafruit.com/adding-a-single-board-computer-to-platformdetect-for-blinka)
+- Adding a Single Board Computer to Blinka (coming soon)
 
 ## New Learn Guides!
 
@@ -123,7 +152,23 @@ What is the team up to this week? Let’s check in!
 
 ## Upcoming events!
 
+[![PyCon US 2020](../assets/20200407/20200407pycon.jpg)](https://us.pycon.org/2020/remote/)
 
+The PyCon US 2020 team announces planned talks, tutorials, posters, and much more online. 
+
+To participate, Go to the [PyCon US 2020 Remote page](https://us.pycon.org/2020/remote/) to subscribe to receive 5-8 email notifications over the next 6 weeks for published online content. Also you may subscribe to the [PyCon 2020 YouTube Channel](https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA). Expected content:
+
+- Recorded talks and tutorials
+- Online Summit and Hatchery programs
+- Poster presenters sharing their creations
+- Startup Row company presentations
+- Sponsor workshop videos and job postings
+
+The organizers appreciate the community’s patience as they work through the logistics of gathering and uploading the recordings.  The goal is to begin providing content about April 15, 2020, right when PyCon was scheduled to begin.
+
+**Send Your Events In**
+
+As for other events, with the COVID pandemic, most in-person events are postponed or cancelled. If you know of virtual events or events that may occur in the next 3-4 months, please let us know on Discord or on Twitter with hashtag #CircuitPython.
 
 ## Latest releases
 
