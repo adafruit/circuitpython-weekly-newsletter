@@ -13,15 +13,17 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 03-23-2020 by Anne (remove events, Discord 17k)
+Template last updated on 03-31-2020 by Anne (assets in folders as YYYYMMDD per agrement with Kattni)
 
-[View this email]() in your browser.
+View this email in your browser.
 
 Hi everyone! It's the latest Python for Microcontrollers newsletter, brought you by the community! We're on [Discord](https://discord.gg/HYqvREz), [Twitter](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), and for past newsletters - [view them all here](https://www.adafruitdaily.com/category/circuitpython/). If you're reading this on the web, [subscribe here](https://www.adafruitdaily.com/). Let's get started!
 
 ## News from around the web!
 
-[![](../assets/DIR-LOCATION/)]()
+[![title](../assets/020200mdd/20200mdd-name.jpg)](https://circuitpython.org/)
+
+Text
 
 #ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)? [title](url).
 
@@ -33,7 +35,7 @@ Why Mu? Mu tries to make it as easy as possible to get started with programming 
 
 ## New Learn Guides!
 
-[title](url) from [name](url)
+[![title](../assets/020200mdd/20200mdd-name.jpg)](https://circuitpython.org/)
 
 ## Updated Guides - Now With More Python!
 
@@ -43,7 +45,7 @@ Why Mu? Mu tries to make it as easy as possible to get started with programming 
 
 ## CircuitPython Libraries!
 
-[![CircuitPython Libraries](../assets/DIR-LOCATION/DATE-blinka.png)](https://circuitpython.org/libraries)
+[![CircuitPython Libraries](../assets/020200mdd/020200mdd-blinka.png)](https://circuitpython.org/libraries)
 
 CircuitPython support for hardware continues to grow. We are adding support for new sensors and breakouts all the time, as well as improving on the drivers we already have. As we add more libraries and update current ones, you can keep up with all the changes right here!
 
@@ -79,43 +81,43 @@ What is the team up to this week? Let’s check in!
 
 **Bryan**
 
-[![Bryan](../assets/0mdd2020/0mdd2020bryan.jpg)](https://circuitpython.org/)
+[![Bryan](../assets/20200mdd/20200mddbryan.jpg)](https://circuitpython.org/)
 
 
 
 **Dan**
 
-[![Dan](../assets/0mdd2020/0mdd2020dan.jpg)](https://circuitpython.org/)
+[![Dan](../assets/20200mdd/20200mdddan.jpg)](https://circuitpython.org/)
 
 
 
 **Jeff**
 
-[![Jeff](../assets/0mdd2020/0mdd2020jeff.jpg)](https://circuitpython.org/)
+[![Jeff](../assets/20200mdd/20200mddjeff.jpg)](https://circuitpython.org/)
 
 
 
 **Kattni**
 
-[![Kattni](../assets/0mdd2020/0mdd2020kattni.jpg)](https://circuitpython.org/)
+[![Kattni](../assets/20200mdd/20200mddkattni.jpg)](https://circuitpython.org/)
 
 
 
 **Lucian**
 
-[![Lucian](../assets/0mdd2020/0mdd2020lucian.jpg)](https://circuitpython.org/)
+[![Lucian](../assets/20200mdd/20200mddlucian.jpg)](https://circuitpython.org/)
 
 
 
 **Melissa**
 
-[![Melissa](../assets/0mdd2020/0mdd2020melissa.jpg)](https://circuitpython.org/)
+[![Melissa](../assets/20200mdd/20200mddmelissa.jpg)](https://circuitpython.org/)
 
 
 
 **Scott**
 
-[![Scott](../assets/0mdd2020/0mdd2020scott.jpg)](https://circuitpython.org/)
+[![Scott](../assets/20200mdd/20200mddscott.jpg)](https://circuitpython.org/)
 
 
 
