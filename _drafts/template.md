@@ -13,7 +13,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 03-31-2020 by Anne (assets in folders as YYYYMMDD per agrement with Kattni, hardware section)
+Template last updated on 04-03-2020 by Kattni (fixed typos in years and added back new guides URL template line) (Previous update from Anne: assets in folders as YYYYMMDD per agreement with Kattni, hardware section)
 
 View this email in your browser.
 
