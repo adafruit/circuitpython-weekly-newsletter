@@ -64,7 +64,9 @@ Looking for adding a new board to CircuitPython? It's highly encouraged! Adafrui
 
 ## New Learn Guides!
 
-[![title](../assets/020200mdd/20200mdd-name.jpg)](https://circuitpython.org/)
+[![title](../assets/020200mdd/20200mdd-name.jpg)](https://learn.adafruit.com/)
+
+[title](url) from [name](url)
 
 ## Updated Guides - Now With More Python!
 
