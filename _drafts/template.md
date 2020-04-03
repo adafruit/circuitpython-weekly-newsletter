@@ -37,7 +37,7 @@ The CircuitPython team is going full steam ahead in development and rollout. We'
 
 ## News from around the web!
 
-[![title](../assets/020200mdd/20200mdd-name.jpg)](https://circuitpython.org/)
+[![title](../assets/20200mdd/20200mdd-name.jpg)](https://circuitpython.org/)
 
 Text
 
@@ -64,7 +64,7 @@ Looking for adding a new board to CircuitPython? It's highly encouraged! Adafrui
 
 ## New Learn Guides!
 
-[![title](../assets/020200mdd/20200mdd-name.jpg)](https://learn.adafruit.com/)
+[![title](../assets/20200mdd/20200mdd-name.jpg)](https://learn.adafruit.com/)
 
 [title](url) from [name](url)
 
@@ -76,7 +76,7 @@ Looking for adding a new board to CircuitPython? It's highly encouraged! Adafrui
 
 ## CircuitPython Libraries!
 
-[![CircuitPython Libraries](../assets/020200mdd/020200mdd-blinka.png)](https://circuitpython.org/libraries)
+[![CircuitPython Libraries](../assets/20200mdd/020200mdd-blinka.png)](https://circuitpython.org/libraries)
 
 CircuitPython support for hardware continues to grow. We are adding support for new sensors and breakouts all the time, as well as improving on the drivers we already have. As we add more libraries and update current ones, you can keep up with all the changes right here!
 
