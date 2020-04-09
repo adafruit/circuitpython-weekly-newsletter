@@ -13,7 +13,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 04-03-2020 by Kattni (fixed typos in years and added back new guides URL template line) (Previous update from Anne: assets in folders as YYYYMMDD per agreement with Kattni, hardware section)
+Template last updated on 04-09-2020 Add new board section permanently
 
 View this email in your browser.
 
@@ -51,7 +51,7 @@ Why Mu? Mu tries to make it as easy as possible to get started with programming 
 
 ## New Boards Supported by CircuitPython
 
-The number of microcontrollers and Single Board  Computers (SBC) grows every week. This section outlines which boards have been added to [CircuitPython.org](https://circuitpython.org/).
+The number of supported microcontrollers and Single Board Computers (SBC) grows every week. This section outlines which boards have been added to [CircuitPython.org](https://circuitpython.org/).
 
 This week we had X new boards added!
 
@@ -59,8 +59,10 @@ This week we had X new boards added!
 
 Looking for adding a new board to CircuitPython? It's highly encouraged! Adafruit has two guides to help you do so:
 
+- [How to Add a New Board to CircuitPython](https://learn.adafruit.com/how-to-add-a-new-board-to-circuitpython/overview)
+- [How to add a New Board to the circuitpython.org website](https://learn.adafruit.com/how-to-add-a-new-board-to-the-circuitpython-org-website)
 - [Adding a Single Board Computer to PlatformDetect for Blinka](https://learn.adafruit.com/adding-a-single-board-computer-to-platformdetect-for-blinka)
-- Adding a Single Board Computer to Blinka (coming soon)
+- [Adding a Single Board Computer to Blinka](https://learn.adafruit.com/adding-a-single-board-computer-to-blinka)
 
 ## New Learn Guides!
 
@@ -168,9 +170,13 @@ To participate, Go to the [PyCon US 2020 Remote page](https://us.pycon.org/2020/
 
 The organizers appreciate the community’s patience as they work through the logistics of gathering and uploading the recordings.  The goal is to begin providing content about April 15, 2020, right when PyCon was scheduled to begin.
 
+[![IoTFuse2020](../assets/20200407/20200407iotfuse.jpg)](https://iotfuse.com/)
+
+IoTFuse is being billed as the world's first IoT-enabled virtual conference. April 14-16, 2020 - [Website](https://iotfuse.com/)
+
 **Send Your Events In**
 
-As for other events, with the COVID pandemic, most in-person events are postponed or cancelled. If you know of virtual events or events that may occur in the next 3-4 months, please let us know on Discord or on Twitter with hashtag #CircuitPython.
+As for other events, with the COVID pandemic, most in-person events are postponed or cancelled. If you know of virtual events or events that may occur in the future, please let us know on Discord or on Twitter with hashtag #CircuitPython.
 
 ## Latest releases
 
