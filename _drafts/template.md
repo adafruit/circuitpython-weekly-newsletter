@@ -27,13 +27,21 @@ Text
 
 ## Adafruit Update
 
-[![Adafruit Heart NNew York](../assets/03312020/03312020heart.jpg)](https://blog.adafruit.com/2020/03/22/covid/)
+[![Adafruit Heart New York](../assets/03312020/03312020heart.jpg)](https://blog.adafruit.com/2020/03/22/covid/)
 
 Adafruit Industries continues to run with 100% of employees being paid and continuing to work. Most are working remotely, with some working in the Manhattan, New York factory as an essential service and business under NYC Executive Order 202.6 Capabilities. Adafruit was deemed an essential service to distribute/make some PPE (Personal Protection Equipment) such as face shields, and manufacturer electronics for essential life-saving/preserving equipment and development which is needed in New York and beyond. -[Blog](https://blog.adafruit.com/2020/03/22/covid/)
 
 The CircuitPython team is going full steam ahead in development and rollout. We're expecting CircuitPython 5.1.0 to be stable and released soon and features for 5.2.x are being discussed. Would you like to join us? On Discord, head to https://adafru.it/discord to discuss things. And check out [Awesome CircuitPython](https://github.com/adafruit/awesome-circuitpython/blob/master/README.md) for a wide range of information.
 
 *Ed: Are you working on projects with CircuitPython or have good CircuitPython/MicroPython/Python news? Tag your material on Twitter with hashtag #CircuitPython. I'll scan and include items for the next newsletter. Thanks!*
+
+## Adafruit hardware being certified Open Source
+
+[![Adafruit Boards and OSHWA](../assets/2020mmdd/2020mmdd-oshwa.jpg)](https://certification.oshwa.org/list.html?q=Adafruit)
+
+Adafruit has always been an open source hardware company, predating the [Open Source Hardware Association](https://oshwa.org) (OSHWA) certification process. We have begun submitting all of our hardware to OSHWA for certification as Open Source. This week **NNN** new boards were certified including:
+
+* [Board-name](url)
 
 ## News from around the web!
 
@@ -51,11 +59,11 @@ Why Mu? Mu tries to make it as easy as possible to get started with programming 
 
 ## New Boards Supported by CircuitPython
 
-The number of supported microcontrollers and Single Board Computers (SBC) grows every week. This section outlines which boards have been added to [CircuitPython.org](https://circuitpython.org/).
+The number of supported microcontrollers and Single Board Computers (SBC) grows every week. This section outlines which boards have been included in CircuitPython or added to [CircuitPython.org](https://circuitpython.org/).
 
 This week we had X new boards added!
 
-- board link
+- [Board name](url)
 
 Looking for adding a new board to CircuitPython? It's highly encouraged! Adafruit has two guides to help you do so:
 
