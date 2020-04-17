@@ -21,13 +21,13 @@ Hi everyone! It's the latest Python for Microcontrollers newsletter, brought you
 
 ## Headline Article
 
-[![title](../assets/020200mdd/20200mdd-name.jpg)](https://circuitpython.org/)
+[![title](../assets/20200mdd/20200mdd-name.jpg)](https://circuitpython.org/)
 
 Text
 
 ## Adafruit Update
 
-[![Adafruit Heart New York](../assets/03312020/03312020heart.jpg)](https://blog.adafruit.com/2020/03/22/covid/)
+[![Adafruit Heart New York](../assets/20200mdd/03312020heart.jpg)](https://blog.adafruit.com/2020/03/22/covid/)
 
 Adafruit Industries continues to run with 100% of employees being paid and continuing to work. Most are working remotely, with some working in the Manhattan, New York factory as an essential service and business under NYC Executive Order 202.6 Capabilities. Adafruit was deemed an essential service to distribute/make some PPE (Personal Protection Equipment) such as face shields, and manufacturer electronics for essential life-saving/preserving equipment and development which is needed in New York and beyond. -[Blog](https://blog.adafruit.com/2020/03/22/covid/)
 
@@ -86,7 +86,7 @@ Looking for adding a new board to CircuitPython? It's highly encouraged! Adafrui
 
 ## CircuitPython Libraries!
 
-[![CircuitPython Libraries](../assets/20200mdd/020200mdd-blinka.png)](https://circuitpython.org/libraries)
+[![CircuitPython Libraries](../assets/20200mdd/20200mdd-blinka.png)](https://circuitpython.org/libraries)
 
 CircuitPython support for hardware continues to grow. We are adding support for new sensors and breakouts all the time, as well as improving on the drivers we already have. As we add more libraries and update current ones, you can keep up with all the changes right here!
 
