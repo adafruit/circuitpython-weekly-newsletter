@@ -9,11 +9,11 @@ categories: weekly
 - [ ] change date
 - [ ] update title
 - [ ] Feature story
-- [ ] Update [![](../assets/DIR-LOCATION/)]() for images
+- [ ] Update [![](../assets/20200mdd/)]() for images
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 04-15-2020 Change podcast URL to short version Kattni got
+Template last updated on 05-14-2020 standardize some stuff
 
 View this email in your browser.
 
@@ -25,15 +25,19 @@ Hi everyone! It's the latest Python for Microcontrollers newsletter, brought you
 
 Text
 
+## Feature
+
+[![title](../assets/20200mdd/20200mdd-name.jpg)](https://circuitpython.org/)
+
+Text
+
 ## Adafruit Update
 
 [![Adafruit Heart New York](../assets/20200mdd/03312020heart.jpg)](https://blog.adafruit.com/2020/03/22/covid/)
 
 Adafruit Industries continues to run with 100% of employees being paid and continuing to work. Most are working remotely, with some working in the Manhattan, New York factory as an essential service and business under NYC Executive Order 202.6 Capabilities. Adafruit was deemed an essential service to distribute/make some PPE (Personal Protection Equipment) such as face shields, and manufacturer electronics for essential life-saving/preserving equipment and development which is needed in New York and beyond. -[Blog](https://blog.adafruit.com/2020/03/22/covid/)
 
-The CircuitPython team is going full steam ahead in development and rollout. We're expecting CircuitPython 5.1.0 to be stable and released soon and features for 5.2.x are being discussed. Would you like to join us? On Discord, head to https://adafru.it/discord to discuss things. And check out [Awesome CircuitPython](https://github.com/adafruit/awesome-circuitpython/blob/master/README.md) for a wide range of information.
-
-*Ed: Are you working on projects with CircuitPython or have good CircuitPython/MicroPython/Python news? Tag your material on Twitter with hashtag #CircuitPython. I'll scan and include items for the next newsletter. Thanks!*
+*Info on what Adafruit is doing*
 
 ## Adafruit hardware being certified Open Source
 
@@ -49,7 +53,7 @@ Adafruit has always been an open source hardware company, predating the [Open So
 
 Text
 
-#ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)? [title](url).
+**#ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)? [title](url).**
 
 ## Made with Mu
 
@@ -65,7 +69,7 @@ This week we had X new boards added!
 
 - [Board name](url)
 
-Looking for adding a new board to CircuitPython? It's highly encouraged! Adafruit has two guides to help you do so:
+Looking for adding a new board to CircuitPython? It's highly encouraged! Adafruit has four guides to help you do so:
 
 - [How to Add a New Board to CircuitPython](https://learn.adafruit.com/how-to-add-a-new-board-to-circuitpython/overview)
 - [How to add a New Board to the circuitpython.org website](https://learn.adafruit.com/how-to-add-a-new-board-to-the-circuitpython-org-website)
@@ -122,65 +126,93 @@ What is the team up to this week? Let’s check in!
 
 **Bryan**
 
-[![Bryan](../assets/20200mdd/20200mddbryan.jpg)](https://circuitpython.org/)
+[![Bryan](../assets/20200mdd/bryan.jpg)](https://circuitpython.org/)
 
 
 
 **Dan**
 
-[![Dan](../assets/20200mdd/20200mdddan.jpg)](https://circuitpython.org/)
+[![Dan](../assets/20200mdd/dan.jpg)](https://circuitpython.org/)
 
 
 
 **Jeff**
 
-[![Jeff](../assets/20200mdd/20200mddjeff.jpg)](https://circuitpython.org/)
+[![Jeff](../assets/20200mdd/jeff.jpg)](https://circuitpython.org/)
 
 
 
 **Kattni**
 
-[![Kattni](../assets/20200mdd/20200mddkattni.jpg)](https://circuitpython.org/)
+[![Kattni](../assets/20200mdd/kattni.jpg)](https://circuitpython.org/)
 
 
 
 **Lucian**
 
-[![Lucian](../assets/20200mdd/20200mddlucian.jpg)](https://circuitpython.org/)
+[![Lucian](../assets/20200mdd/lucian.jpg)](https://circuitpython.org/)
 
 
 
 **Melissa**
 
-[![Melissa](../assets/20200mdd/20200mddmelissa.jpg)](https://circuitpython.org/)
+[![Melissa](../assets/20200mdd/melissa.jpg)](https://circuitpython.org/)
 
 
 
 **Scott**
 
-[![Scott](../assets/20200mdd/20200mddscott.jpg)](https://circuitpython.org/)
+[![Scott](../assets/20200mdd/scott.jpg)](https://circuitpython.org/)
 
 
 
 ## Upcoming events!
 
-[![PyCon US 2020](../assets/20200407/20200407pycon.jpg)](https://us.pycon.org/2020/remote/)
+[![PyCon US 2020](../assets/20200512/pycon.jpg)](https://us.pycon.org/2020/remote/)
 
-The PyCon US 2020 team announces planned talks, tutorials, posters, and much more online. 
+PyCon2020 Online has launched! Head over to https://us.pycon.org/2020/online/ to access new content weekly. Pythonistas come together every year to learn, network & discuss great ideas in person at PyCon. That can't happen this year, but everyone can get together virtually!  - [Announcement](https://mailchi.mp/us.pycon.org/pycon-news-501443).
 
-To participate, Go to the [PyCon US 2020 Remote page](https://us.pycon.org/2020/remote/) to subscribe to receive 5-8 email notifications over the next 6 weeks for published online content. Also you may subscribe to the [PyCon 2020 YouTube Channel](https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA). Expected content:
+You can [subscribe to the PyCon 2020 Online mailing list](https://us.pycon.org/2020/online/) to receive updates as they are published online. Check out talks, tutorials, Charlas, & Startup Row along with the [Virtual Expo Hall](https://us.pycon.org/2020/sponsors/virtualexpohall/). 
 
-- Recorded talks and tutorials
-- Online Summit and Hatchery programs
-- Poster presenters sharing their creations
-- Startup Row company presentations
-- Sponsor workshop videos and job postings
+Items of note:
 
-The organizers appreciate the community’s patience as they work through the logistics of gathering and uploading the recordings.  The goal is to begin providing content about April 15, 2020, right when PyCon was scheduled to begin.
+- How to build an intelligent "indoor garden" with microcontrollers, CircuitPython, and IoT - [YouTube](https://www.youtube.com/watch?v=8STo1-rRV1E).
+- 9 Years of PyLadies: Lessons Learned and What Comes Next - [YouTube](https://www.youtube.com/watch?v=KRwpY2TixAs).
 
-[![IoTFuse2020](../assets/20200407/20200407iotfuse.jpg)](https://iotfuse.com/)
+[![X-STEM](../assets/20200512/xstem.jpg)](https://usasciencefestival.org/x-stem-all-access-2020/)
 
-IoTFuse is being billed as the world's first IoT-enabled virtual conference. April 14-16, 2020 - [Website](https://iotfuse.com/)
+The USA Science & Engineering Festival is to offer their popular X-STEM conference in a virtual format! X-STEM All Access is an engaging, entertaining, educational, and interactive online STEM experience for kids.  Through a series of daily livestream events, students will hear from an exclusive group of visionaries who aim to empower and inspire kids about careers in science, technology, engineering, and mathematics.
+
+X-STEM All Access presentations will be geared toward a middle and high school level audience (grades 6 to 12), but kids and adults of all ages are welcome to join. Educators are encouraged to include X-STEM All Access into their distance learning curriculum.
+
+There will be daily presentations on May 13, 14, 15, 18, and 19th, 2020 from 1-2 pm US EDT.
+
+There is no cost to attend. Register on their website - [usasciencefestival.org](https://usasciencefestival.org/x-stem-all-access-2020/).
+
+[![Maker Faire](../assets/20200512/makerfaire.jpg)](https://makerfaire.com/virtually-maker-faire-call-2020-for-makers/)
+
+May 23, 2020: featuring Makers and projects primarily responding to COVID-19, Virtually Maker Faire provides an opportunity for makers to connect, share their projects and talk about what they do and how they do it. It will take place completely online through video sessions over a 24-hour period and as a curated collection of maker exhibits. The goal is to help makers present their work to a broader public; to gain understanding, support and increasing participation - [Makerfaire](https://makerfaire.com/virtually-maker-faire-call-2020-for-makers/).
+
+[![HydPy May Meetup](../assets/20200512/20200512hypy.jpg)](https://www.meetup.com/HydPyGroup/events/270578783/)
+
+The HydPy May Meetup will feature Ayan Pahwa speaking about Programming Microcontrollers using CircuitPython. It is scheduled for May 29, 2020 from 17:00 - 18:00 (GMT+5:30) - [meetup](https://www.meetup.com/HydPyGroup/events/270578783/).
+
+[![EuroPython 2020](../assets/20200512/europython2020.jpg)](https://ep2020.europython.eu/)
+
+EuroPython 2020 this year will be an online conference from July 23-26. They are planning the following structure:
+
+* 2 conference days with keynotes, talks, lightning talks, poster session (Thursday and Friday)
+* 2 sprint days with multiple sprint teams (Saturday and Sunday)
+
+Attending the conference days will require a ticket, participating in the sprint days will be free - [EuroPython](https://blog.europython.eu/post/614102095419850752/europython-2020-online-conference-from-july-23-26).
+
+[![PyCon Australia 2020](../assets/20200512/pycon-au.jpg)](https://2020.pycon.org.au/)
+
+PyCon AU has announced they are holding PyConline AU, an online event, in August 2020 -  [pycon.org.au](https://2020.pycon.org.au/).
+
+[![PyCon India 2020](../assets/20200512/pycon-india.jpg)](https://in.pycon.org/2020/)
+
+PyCon India 2020: the premier conference in India on using and developing the Python programming language. Held online October 3-5, 2020. A [call for proposals](https://in.pycon.org/cfp/2020/proposals/) is now open through August 14, 2020. - [Website](https://in.pycon.org/2020/) and [Twitter](https://twitter.com/pyconindia)
 
 **Send Your Events In**
 
@@ -198,23 +230,27 @@ CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpyt
 
 [### Stars](https://github.com/adafruit/circuitpython/stargazers) Like CircuitPython? [Star it on GitHub!](https://github.com/adafruit/circuitpython)
 
-## Call for help – CircuitPython messaging to other languages!
+## Call for help -- Translating CircuitPython is now easier than ever!
 
-[![Hello world](../assets/DIR-LOCATION/DATE-helloworld.jpg)](https://github.com/adafruit/circuitpython/issues/1098)
+[![CircuitPython translation statistics on weblate](../assets/20200512/weblate-stats.jpg)](https://hosted.weblate.org/engage/circuitpython/)
 
-We [recently posted on the Adafruit blog](https://blog.adafruit.com/2018/08/15/help-bring-circuitpython-messaging-to-other-languages-circuitpython/) about bringing CircuitPython messaging to other languages, one of the exciting features of CircuitPython 4 and later versions is translated control and error messages. Native language messages will help non-native English speakers understand what is happening in CircuitPython even though the Python keywords and APIs will still be in English. If you would like to help, [please post](https://github.com/adafruit/circuitpython/issues/1098) to the main issue on GitHub and join us on [Discord](https://adafru.it/discord).
+One important feature of CircuitPython is translated control and error messages.
 
-We made this graphic with translated text, we could use your help with that to make sure we got the text right, please check out the text in the image – if there is anything we did not get correct, please let us know. Dan sent me this [handy site too](http://helloworldcollection.de/#Human).
+With the help of fellow open source project [Weblate](https://weblate.org/), we're making it even easier to add or improve translations.
+
+Sign in with an existing account such as Github, Google or Facebook and start contributing through a simple web interface. No forks or pull requests needed!
+
+As always, if you run into trouble join us on [Discord](https://adafru.it/discord), we're here to help.
 
 ## jobs.adafruit.com - Find a dream job, find great candidates!
 
-[![jobs.adafruit.com](../assets/DIR-LOCATION/DATE-jobs.jpg)](https://jobs.adafruit.com/)
+[![jobs.adafruit.com](../assets/20200mdd/jobs.jpg)](https://jobs.adafruit.com/)
 
 [jobs.adafruit.com](https://jobs.adafruit.com/) has returned and folks are posting their skills (including CircuitPython) and companies are looking for talented makers to join their companies - from Digi-Key, to Hackaday, Microcenter, Raspberry Pi and more.
 
 ## NUMBER thanks!
 
-[![NUMBER THANKS](../assets/DIR-LOCATION/DATE-17kdiscord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/20200mdd/19kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
@@ -222,7 +258,7 @@ The Adafruit Discord community, where we do all our CircuitPython development in
 
 ## ICYMI - In case you missed it
 
-[![ICYMI](../assets/DIR-LOCATION/DATE-icymi.jpg)](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
+[![ICYMI](../assets/20200mdd/icymi.jpg)](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
 
 The wonderful world of Python on hardware! This is our first video-newsletter-podcast that we’ve started! The news comes from the Python community, Discord, Adafruit communities and more. It’s part of the weekly newsletter, then we have a segment on ASK an ENGINEER and this is the video slice from that! The complete Python on Hardware weekly videocast [playlist is here](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev). 
 
@@ -234,7 +270,7 @@ And lastly, we are working up a one-spot destination for all things podcast-able
 
 ## Codecademy "Learn Hardware Programming with CircuitPython"
 
-[![Codecademy CircuitPython](../assets/DIR-LOCATION/DATE-codecademy_python.png)](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=pythononhardwarenewsletter)
+[![Codecademy CircuitPython](../assets/20200mdd/codecademy_python.png)](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=pythononhardwarenewsletter)
 
 Codecademy, an online interactive learning platform used by more than 45 million people, has teamed up with the leading manufacturer in STEAM electronics, Adafruit Industries, to create a coding course, "Learn Hardware Programming with CircuitPython". The course is now available in the [Codecademy catalog](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=pythononhardwarenewsletter).
 
