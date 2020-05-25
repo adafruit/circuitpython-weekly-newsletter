@@ -33,19 +33,15 @@ Text
 
 ## Adafruit Update
 
-[![Adafruit Heart New York](../assets/20200mdd/03312020heart.jpg)](https://blog.adafruit.com/2020/03/22/covid/)
+[![Adafruit Heart New York](../assets/20200526/heart.jpg)](https://blog.adafruit.com/2020/03/22/covid/)
 
 Adafruit Industries continues to run with 100% of employees being paid and continuing to work. Most are working remotely, with some working in the Manhattan, New York factory as an essential service and business under NYC Executive Order 202.6 Capabilities. Adafruit was deemed an essential service to distribute/make some PPE (Personal Protection Equipment) such as face shields, and manufacturer electronics for essential life-saving/preserving equipment and development which is needed in New York and beyond. -[Blog](https://blog.adafruit.com/2020/03/22/covid/)
 
-*Info on what Adafruit is doing*
+**Adafruit has started shipping regular (non-emergency) orders after priority orders are filled.**
 
-## Adafruit hardware being certified Open Source
+If you have been waiting to order, read [Adafruit's announcement and FAQ](https://www.adafruit.com/opensafely) and then [Shop Adafruit](https://www.adafruit.com/).
 
-[![Adafruit Boards and OSHWA](../assets/2020mmdd/2020mmdd-oshwa.jpg)](https://certification.oshwa.org/list.html?q=Adafruit)
-
-Adafruit has always been an open source hardware company, predating the [Open Source Hardware Association](https://oshwa.org) (OSHWA) certification process. We have begun submitting all of our hardware to OSHWA for certification as Open Source. This week **NNN** new boards were certified including:
-
-* [Board-name](url)
+Note: there may be a number of out of stock items as manufacturing has been disrupted. Adafruit suggests if an item is out of stock and needed, searching at [resellers](https://www.adafruit.com/distributors) may yield stock. In the US, [Digi-Key](https://www.digikey.com/en/supplier-centers/a/adafruit?WT.z_link_source=Supplier%2520Index) is suggested.
 
 ## News from around the web!
 
@@ -168,36 +164,11 @@ What is the team up to this week? Let’s check in!
 
 ## Upcoming events!
 
-[![PyCon US 2020](../assets/20200512/pycon.jpg)](https://us.pycon.org/2020/remote/)
-
-PyCon2020 Online has launched! Head over to https://us.pycon.org/2020/online/ to access new content weekly. Pythonistas come together every year to learn, network & discuss great ideas in person at PyCon. That can't happen this year, but everyone can get together virtually!  - [Announcement](https://mailchi.mp/us.pycon.org/pycon-news-501443).
-
-You can [subscribe to the PyCon 2020 Online mailing list](https://us.pycon.org/2020/online/) to receive updates as they are published online. Check out talks, tutorials, Charlas, & Startup Row along with the [Virtual Expo Hall](https://us.pycon.org/2020/sponsors/virtualexpohall/). 
-
-Items of note:
-
-- How to build an intelligent "indoor garden" with microcontrollers, CircuitPython, and IoT - [YouTube](https://www.youtube.com/watch?v=8STo1-rRV1E).
-- 9 Years of PyLadies: Lessons Learned and What Comes Next - [YouTube](https://www.youtube.com/watch?v=KRwpY2TixAs).
-
-[![X-STEM](../assets/20200512/xstem.jpg)](https://usasciencefestival.org/x-stem-all-access-2020/)
-
-The USA Science & Engineering Festival is to offer their popular X-STEM conference in a virtual format! X-STEM All Access is an engaging, entertaining, educational, and interactive online STEM experience for kids.  Through a series of daily livestream events, students will hear from an exclusive group of visionaries who aim to empower and inspire kids about careers in science, technology, engineering, and mathematics.
-
-X-STEM All Access presentations will be geared toward a middle and high school level audience (grades 6 to 12), but kids and adults of all ages are welcome to join. Educators are encouraged to include X-STEM All Access into their distance learning curriculum.
-
-There will be daily presentations on May 13, 14, 15, 18, and 19th, 2020 from 1-2 pm US EDT.
-
-There is no cost to attend. Register on their website - [usasciencefestival.org](https://usasciencefestival.org/x-stem-all-access-2020/).
-
-[![Maker Faire](../assets/20200512/makerfaire.jpg)](https://makerfaire.com/virtually-maker-faire-call-2020-for-makers/)
-
-May 23, 2020: featuring Makers and projects primarily responding to COVID-19, Virtually Maker Faire provides an opportunity for makers to connect, share their projects and talk about what they do and how they do it. It will take place completely online through video sessions over a 24-hour period and as a curated collection of maker exhibits. The goal is to help makers present their work to a broader public; to gain understanding, support and increasing participation - [Makerfaire](https://makerfaire.com/virtually-maker-faire-call-2020-for-makers/).
-
-[![HydPy May Meetup](../assets/20200512/20200512hypy.jpg)](https://www.meetup.com/HydPyGroup/events/270578783/)
+[![HydPy May Meetup](../assets/20200mdd/hypy.jpg)](https://www.meetup.com/HydPyGroup/events/270578783/)
 
 The HydPy May Meetup will feature Ayan Pahwa speaking about Programming Microcontrollers using CircuitPython. It is scheduled for May 29, 2020 from 17:00 - 18:00 (GMT+5:30) - [meetup](https://www.meetup.com/HydPyGroup/events/270578783/).
 
-[![EuroPython 2020](../assets/20200512/europython2020.jpg)](https://ep2020.europython.eu/)
+[![EuroPython 2020](../assets/20200mdd/europython2020.jpg)](https://ep2020.europython.eu/)
 
 EuroPython 2020 this year will be an online conference from July 23-26. They are planning the following structure:
 
@@ -206,11 +177,11 @@ EuroPython 2020 this year will be an online conference from July 23-26. They are
 
 Attending the conference days will require a ticket, participating in the sprint days will be free - [EuroPython](https://blog.europython.eu/post/614102095419850752/europython-2020-online-conference-from-july-23-26).
 
-[![PyCon Australia 2020](../assets/20200512/pycon-au.jpg)](https://2020.pycon.org.au/)
+[![PyCon Australia 2020](../assets/20200mdd/pycon-au.jpg)](https://2020.pycon.org.au/)
 
 PyCon AU has announced they are holding PyConline AU, an online event, in August 2020 -  [pycon.org.au](https://2020.pycon.org.au/).
 
-[![PyCon India 2020](../assets/20200512/pycon-india.jpg)](https://in.pycon.org/2020/)
+[![PyCon India 2020](../assets/20200mdd/pycon-india.jpg)](https://in.pycon.org/2020/)
 
 PyCon India 2020: the premier conference in India on using and developing the Python programming language. Held online October 3-5, 2020. A [call for proposals](https://in.pycon.org/cfp/2020/proposals/) is now open through August 14, 2020. - [Website](https://in.pycon.org/2020/) and [Twitter](https://twitter.com/pyconindia)
 
