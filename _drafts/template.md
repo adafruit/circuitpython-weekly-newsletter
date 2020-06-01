@@ -10,10 +10,11 @@ categories: weekly
 - [ ] update title
 - [ ] Feature story
 - [ ] Update [![](../assets/20200mdd/)]() for images
+- [ ] Update ICYDNCI
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 05-14-2020 standardize some stuff
+Template last updated on 06-02-2020 Another check and tweaks
 
 View this email in your browser.
 
@@ -31,17 +32,23 @@ Text
 
 Text
 
+## CircuitPython Deep Dive Stream with Scott Shawcroft
+
+[![Deep Dive with Scott](../assets/20200602/20200mdddeepdive.jpg)](link)
+
+This week, Scott streams his work on .
+
+You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXBHlu9msoXq2jQN4JpCk8A).
+
 ## Adafruit Update
 
-[![Adafruit Heart New York](../assets/20200526/heart.jpg)](https://blog.adafruit.com/2020/03/22/covid/)
+[![Adafruit](../assets/20200602/20200602adafruit.jpg)](https://blog.adafruit.com/2020/05/26/adafruit-is-open-safely-and-shipping-all-orders/)
 
-Adafruit Industries continues to run with 100% of employees being paid and continuing to work. Most are working remotely, with some working in the Manhattan, New York factory as an essential service and business under NYC Executive Order 202.6 Capabilities. Adafruit was deemed an essential service to distribute/make some PPE (Personal Protection Equipment) such as face shields, and manufacturer electronics for essential life-saving/preserving equipment and development which is needed in New York and beyond. -[Blog](https://blog.adafruit.com/2020/03/22/covid/)
-
-**Adafruit has started shipping regular (non-emergency) orders after priority orders are filled.**
+**Adafruit is shipping regular (non-emergency) orders after priority orders are filled.**
 
 If you have been waiting to order, read [Adafruit's announcement and FAQ](https://www.adafruit.com/opensafely) and then [Shop Adafruit](https://www.adafruit.com/).
 
-Note: there may be a number of out of stock items as manufacturing has been disrupted. Adafruit suggests if an item is out of stock and needed, searching at [resellers](https://www.adafruit.com/distributors) may yield stock. In the US, [Digi-Key](https://www.digikey.com/en/supplier-centers/a/adafruit?WT.z_link_source=Supplier%2520Index) is suggested.
+Note: there may be a number of out of stock items as manufacturing gears back up. Adafruit suggests if an item is out of stock and needed, searching at [resellers](https://www.adafruit.com/distributors) may yield results. In the US, [Digi-Key](https://www.digikey.com/en/supplier-centers/a/adafruit?WT.z_link_source=Supplier%2520Index) is suggested.
 
 ## News from around the web!
 
@@ -74,7 +81,7 @@ Looking for adding a new board to CircuitPython? It's highly encouraged! Adafrui
 
 ## New Learn Guides!
 
-[![title](../assets/20200mdd/20200mdd-name.jpg)](https://learn.adafruit.com/)
+[![title](../assets/20200mdd/20200mddlearn.jpg)](https://learn.adafruit.com/)
 
 [title](url) from [name](url)
 
@@ -86,7 +93,7 @@ Looking for adding a new board to CircuitPython? It's highly encouraged! Adafrui
 
 ## CircuitPython Libraries!
 
-[![CircuitPython Libraries](../assets/20200mdd/20200mdd-blinka.png)](https://circuitpython.org/libraries)
+[![CircuitPython Libraries](../assets/20200mdd/blinka.png)](https://circuitpython.org/libraries)
 
 CircuitPython support for hardware continues to grow. We are adding support for new sensors and breakouts all the time, as well as improving on the drivers we already have. As we add more libraries and update current ones, you can keep up with all the changes right here!
 
@@ -164,16 +171,13 @@ What is the team up to this week? Let’s check in!
 
 ## Upcoming events!
 
-[![HydPy May Meetup](../assets/20200mdd/hypy.jpg)](https://www.meetup.com/HydPyGroup/events/270578783/)
+[![FlaskCon 2020](../assets/20200mdd/flaskcon.jpg)](https://flaskcon.com/)
 
-The HydPy May Meetup will feature Ayan Pahwa speaking about Programming Microcontrollers using CircuitPython. It is scheduled for May 29, 2020 from 17:00 - 18:00 (GMT+5:30) - [meetup](https://www.meetup.com/HydPyGroup/events/270578783/).
+FlaskCon is a community driven Flask event being held July 4th and 5th. It is intended for speakers and attendees all over the world to participate in technical and evangelical sessions related to Flask. Flask is a micro web framework written in Python - [Event](https://flaskcon.com/) and [Call for Papers](https://sessionize.com/flaskcon).
 
 [![EuroPython 2020](../assets/20200mdd/europython2020.jpg)](https://ep2020.europython.eu/)
 
-EuroPython 2020 this year will be an online conference from July 23-26. They are planning the following structure:
-
-* 2 conference days with keynotes, talks, lightning talks, poster session (Thursday and Friday)
-* 2 sprint days with multiple sprint teams (Saturday and Sunday)
+EuroPython 2020 this year will be an online conference from July 23-26. The schedule is now available - [Website](https://ep2020.europython.eu/schedule/).
 
 Attending the conference days will require a ticket, participating in the sprint days will be free - [EuroPython](https://blog.europython.eu/post/614102095419850752/europython-2020-online-conference-from-july-23-26).
 
@@ -203,7 +207,7 @@ CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpyt
 
 ## Call for help -- Translating CircuitPython is now easier than ever!
 
-[![CircuitPython translation statistics on weblate](../assets/20200512/weblate-stats.jpg)](https://hosted.weblate.org/engage/circuitpython/)
+[![CircuitPython translation statistics on weblate](../assets/20200mdd/20200mddweblate.jpg)](https://hosted.weblate.org/engage/circuitpython/)
 
 One important feature of CircuitPython is translated control and error messages.
 
@@ -221,15 +225,15 @@ As always, if you run into trouble join us on [Discord](https://adafru.it/discor
 
 ## NUMBER thanks!
 
-[![NUMBER THANKS](../assets/20200mdd/19kdiscord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/20200mdd/20kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
-The Adafruit Discord community, where we do all our CircuitPython development in the open, reached over NUMBER humans, thank you! Join today! [https://adafru.it/discord](https://adafru.it/discord)
+The Adafruit Discord community, where we do all our CircuitPython development in the open, reached over NUMBER humans, thank you!  Adafruit believes Discord offers a unique way for CircuitPython folks to connect. Join today at [https://adafru.it/discord](https://adafru.it/discord).
 
 ## ICYMI - In case you missed it
 
-[![ICYMI](../assets/20200mdd/icymi.jpg)](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
+[![ICYMI](../assets/20200mdd/20200mddicymi.jpg)](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
 
 The wonderful world of Python on hardware! This is our first video-newsletter-podcast that we’ve started! The news comes from the Python community, Discord, Adafruit communities and more. It’s part of the weekly newsletter, then we have a segment on ASK an ENGINEER and this is the video slice from that! The complete Python on Hardware weekly videocast [playlist is here](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev). 
 
