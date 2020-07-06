@@ -177,7 +177,7 @@ Attending the conference days will require a ticket, participating in the sprint
 
 [![PyCon Australia 2020](../assets/20200mdd/pycon-au.jpg)](https://2020.pycon.org.au/)
 
-PyCon AU has announced they are holding PyConline AU, an online event, in August 2020 -  [pycon.org.au](https://2020.pycon.org.au/).
+PyConline AU will be an online event, held September 4–6, 2020 -  [pycon.org.au](https://2020.pycon.org.au/).
 
 [![PyCon India 2020](../assets/20200mdd/pycon-india.jpg)](https://in.pycon.org/2020/)
 
