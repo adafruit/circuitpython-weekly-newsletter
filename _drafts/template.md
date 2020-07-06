@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 06-03-2020 by Kattni - updated "Updated guides" section and CP libraries copy to include community bundle.
+Template last updated on 07-06-2020 by Anne - minor tweaks
 
 View this email in your browser.
 
@@ -34,7 +34,7 @@ Text
 
 ## CircuitPython Deep Dive Stream with Scott Shawcroft
 
-[![Deep Dive with Scott](../assets/20200602/20200mdddeepdive.jpg)](link)
+[![Deep Dive with Scott](../assets/20200mdd/20200mdddeepdive.jpg)](link)
 
 This week, Scott streams his work on .
 
@@ -42,7 +42,7 @@ You can see the latest video and past videos on the Adafruit YouTube channel und
 
 ## Adafruit Update
 
-[![Adafruit](../assets/20200602/20200602adafruit.jpg)](https://blog.adafruit.com/2020/05/26/adafruit-is-open-safely-and-shipping-all-orders/)
+[![Adafruit](../assets/20200mdd/20200mddadafruit.jpg)](https://blog.adafruit.com/2020/05/26/adafruit-is-open-safely-and-shipping-all-orders/)
 
 **Adafruit is shipping regular (non-emergency) orders after priority orders are filled.**
 
@@ -91,7 +91,7 @@ Looking for adding a new board to CircuitPython? It's highly encouraged! Adafrui
 
 ## CircuitPython Libraries!
 
-[![CircuitPython Libraries](../assets/20200mdd/blinka.png)](https://circuitpython.org/libraries)
+[![CircuitPython Libraries](../assets/20200mdd/blinka.jpg)](https://circuitpython.org/libraries)
 
 CircuitPython support for hardware continues to grow. We are adding support for new sensors and breakouts all the time, as well as improving on the drivers we already have. As we add more libraries and update current ones, you can keep up with all the changes right here!
 
@@ -168,10 +168,6 @@ What is the team up to this week? Let’s check in!
 
 
 ## Upcoming events!
-
-[![FlaskCon 2020](../assets/20200mdd/flaskcon.jpg)](https://flaskcon.com/)
-
-FlaskCon is a community driven Flask event being held July 4th and 5th. It is intended for speakers and attendees all over the world to participate in technical and evangelical sessions related to Flask. Flask is a micro web framework written in Python - [Event](https://flaskcon.com/) and [Call for Papers](https://sessionize.com/flaskcon).
 
 [![EuroPython 2020](../assets/20200mdd/europython2020.jpg)](https://ep2020.europython.eu/)
 
