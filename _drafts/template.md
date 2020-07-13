@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 07-06-2020 by Anne - minor tweaks
+Template last updated on 07-13-2020 by Anne - events updates
 
 View this email in your browser.
 
@@ -169,17 +169,21 @@ What is the team up to this week? Let’s check in!
 
 ## Upcoming events!
 
-[![EuroPython 2020](../assets/20200mdd/europython2020.jpg)](https://ep2020.europython.eu/)
+[![EuroPython 2020](../assets/20200714/europython2020.jpg)](https://ep2020.europython.eu/)
 
 EuroPython 2020 this year will be an online conference from July 23-26. The schedule is now available - [Website](https://ep2020.europython.eu/schedule/).
 
 Attending the conference days will require a ticket, participating in the sprint days will be free - [EuroPython](https://blog.europython.eu/post/614102095419850752/europython-2020-online-conference-from-july-23-26).
 
-[![PyCon Australia 2020](../assets/20200mdd/pycon-au.jpg)](https://2020.pycon.org.au/)
+[![PyCon Australia 2020](../assets/20200714/pycon-au.jpg)](https://2020.pycon.org.au/)
 
-PyConline AU will be an online event, held September 4–6, 2020 -  [pycon.org.au](https://2020.pycon.org.au/).
+PyCon AU has announced they are holding PyConline AU, an online event, from 4–6 September 2020 -  [pycon.org.au](https://2020.pycon.org.au/).
 
-[![PyCon India 2020](../assets/20200mdd/pycon-india.jpg)](https://in.pycon.org/2020/)
+[![PyGotham TV](../assets/20200714/pygothamtv.jpg)](https://2020.pygotham.tv/)
+
+PyGotham is a New York City based, eclectic, Py-centric conference covering many topics. PyGotham TV taking place October 2-3, 2020 with a single track of talks presented online - [Event Website](https://2020.pygotham.tv/) and [Call for Proposals](https://cfp.pygotham.tv/).
+
+[![PyCon India 2020](../assets/20200714/pycon-india.jpg)](https://in.pycon.org/2020/)
 
 PyCon India 2020: the premier conference in India on using and developing the Python programming language. Held online October 3-5, 2020. A [call for proposals](https://in.pycon.org/cfp/2020/proposals/) is now open through August 14, 2020. - [Website](https://in.pycon.org/2020/) and [Twitter](https://twitter.com/pyconindia)
 
