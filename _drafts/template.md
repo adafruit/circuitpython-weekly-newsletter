@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 07-27-2020 by Anne - events updates
+Template last updated on 07-27-2020 by Anne - events updates, CP Day
 
 View this email in your browser.
 
@@ -40,16 +40,19 @@ This week, Scott streams his work on .
 
 You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXBHlu9msoXq2jQN4JpCk8A).
 
+## CircuitPython Day is 9-9-2020
+
+[![CircuitPython Day: 9-9-2020](../assets/20200728/CPday2020.jpg)](https://circuitpython.org/)
+
+Adafruit has chosen September 9, 2020 (9/9/2020) as the snakiest day of this year for CircuitPython Day! Much more to come on events and happenings to include a CircuitPython team livestream, collaboration with hardware and software folks, and highlighting all things Python and Python on Hardware. More information will be forthcoming. Ideas? Send them via email to circuitpythonday@adafruit.com.
+
 ## Adafruit Update
 
-[![Adafruit](../assets/20200mdd/20200mddadafruit.jpg)](https://blog.adafruit.com/2020/05/26/adafruit-is-open-safely-and-shipping-all-orders/)
+[![Adafruit](../assets/20200728/20200728adafruit.jpg)](https://blog.adafruit.com/2020/05/26/adafruit-is-open-safely-and-shipping-all-orders/)
 
-**Adafruit is shipping regular (non-emergency) orders after priority orders are filled.**
+**Adafruit is shipping orders!**
 
-If you have been waiting to order, read [Adafruit's announcement and FAQ](https://www.adafruit.com/opensafely) and then [Shop Adafruit](https://www.adafruit.com/).
-
-Note: there may be a number of out of stock items as manufacturing gears back up. Adafruit suggests if an item is out of stock and needed, searching at [resellers](https://www.adafruit.com/distributors) may yield results. In the US, [Digi-Key](https://www.digikey.com/en/supplier-centers/a/adafruit?WT.z_link_source=Supplier%2520Index) is suggested.
-
+Production is up and now is the best time to get the Adafruit items you've been waiting for.
 ## News from around the web!
 
 [![title](../assets/20200mdd/20200mdd-name.jpg)](https://circuitpython.org/)
