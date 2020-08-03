@@ -228,7 +228,7 @@ As always, if you run into trouble join us on [Discord](https://adafru.it/discor
 
 ## NUMBER thanks!
 
-[![NUMBER THANKS](../assets/20200mdd/20kdiscord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/20200mdd/24kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
