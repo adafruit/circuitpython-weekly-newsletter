@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2020-08-03 07:00:00 -0800
+date: 2020-08-18 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 08-04-2020 by Anne - edited contribs
+Template last updated on 08-10-2020 by Anne - format
 
 View this email in your browser.
 
@@ -64,8 +64,6 @@ Text
 ## Made with Mu
 
 Why Mu? Mu tries to make it as easy as possible to get started with programming but aims to help you graduate to "real" development tools soon after. Everything in Mu is the "real thing" but presented in as simple and obvious way possible. It's like the toddling stage in learning to walk: you're finding your feet and once you're confident, you should move on and explore! Put simply, Mu aims to foster autonomy. Try out Mu today! - [codewith.mu](https://codewith.mu/)
-
-## Coming soon
 
 ## New Boards Supported by CircuitPython
 
@@ -130,67 +128,61 @@ What is the team up to this week? Let’s check in!
 
 **Bryan**
 
-[![Bryan](../assets/20200mdd/bryan.jpg)](https://circuitpython.org/)
+[![Bryan](../assets/20200mdd/20200mddbryan.jpg)](https://circuitpython.org/)
 
 
 
 **Dan**
 
-[![Dan](../assets/20200mdd/dan.jpg)](https://circuitpython.org/)
+[![Dan](../assets/20200mdd/20200mdddan.jpg)](https://circuitpython.org/)
 
 
 
 **Jeff**
 
-[![Jeff](../assets/20200mdd/jeff.jpg)](https://circuitpython.org/)
+[![Jeff](../assets/20200mdd/20200mddjeff.jpg)](https://circuitpython.org/)
 
 
 
 **Kattni**
 
-[![Kattni](../assets/20200mdd/kattni.jpg)](https://circuitpython.org/)
+[![Kattni](../assets/20200mdd/20200mddkattni.jpg)](https://circuitpython.org/)
 
 
 
 **Lucian**
 
-[![Lucian](../assets/20200mdd/lucian.jpg)](https://circuitpython.org/)
+[![Lucian](../assets/20200mdd/20200mddlucian.jpg)](https://circuitpython.org/)
 
 
 
 **Melissa**
 
-[![Melissa](../assets/20200mdd/melissa.jpg)](https://circuitpython.org/)
+[![Melissa](../assets/20200mdd/20200mddmelissa.jpg)](https://circuitpython.org/)
 
 
 
 **Scott**
 
-[![Scott](../assets/20200mdd/scott.jpg)](https://circuitpython.org/)
+[![Scott](../assets/20200mdd/20200mddscott.jpg)](https://circuitpython.org/)
 
 ## Upcoming events!
 
-[![PyCon Australia 2020](../assets/20200728/pycon-au.jpg)](https://2020.pycon.org.au/)
+[![PyCon Australia 2020](../assets/20200811/pycon-au.jpg)](https://2020.pycon.org.au/)
 
 PyCon AU has announced they are holding PyConline AU, an online event, from 4–6 September 2020 -  [pycon.org.au](https://2020.pycon.org.au/).
 
-[![PyGotham TV](../assets/20200728/pygothamtv.jpg)](https://2020.pygotham.tv/)
+[![PyGotham TV](../assets/20200811/pygothamtv.jpg)](https://2020.pygotham.tv/)
 
 PyGotham is a New York City based, eclectic, Py-centric conference covering many topics. PyGotham TV taking place October 2-3, 2020 with a single track of talks presented online - [Event Website](https://2020.pygotham.tv/) and [Call for Proposals](https://cfp.pygotham.tv/).
 
-[![PyCon India 2020](../assets/20200728/pycon-india.jpg)](https://in.pycon.org/2020/)
+[![PyCon India 2020](../assets/20200811/pycon-india.jpg)](https://in.pycon.org/2020/)
 
 PyCon India 2020: the premier conference in India on using and developing the Python programming language. Held online October 3-5, 2020. A [call for proposals](https://in.pycon.org/cfp/2020/proposals/) is now open through August 14, 2020. - [Website](https://in.pycon.org/2020/) and [Twitter](https://twitter.com/pyconindia)
 
-**Meetup Groups**
+[![Hackaday Remoticon 2020](../assets/20200811/20200811hackaday.jpg)](https://hackaday.com/2020/08/04/hackaday-remoticon-our-2020-conference-is-packed-with-workshops-and-were-calling-for-proposals/)
 
-[![Meetup Groups](../assets/20200728/20200728pythondata.jpg)](https://www.meetup.com/topics/data-science-using-python/)
-
-Data Science using Python is a consortium of 970 Meetup groups with over 700K members. There are meetings happening worldwide, see their main page for details - [Meetup](https://www.meetup.com/topics/data-science-using-python/).
-
-PyData is a consortium of 175 groups with about 170K members, and provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other - [Meetup](https://www.meetup.com/pro/pydata/).
-
-PyLadies has 28 groups with over 28K members. Find out what's happening in PyLadies Meetup groups around the world and start meeting up with the ones near you - [Meetup](https://www.meetup.com/topics/pyladies/).
+The Hackaday Remoticon will take place everywhere November 6th – 8th, 2020. It’s a weekend packed with workshops about hardware creation, held virtually for all to enjoy - [Hackaday](https://hackaday.com/2020/08/04/hackaday-remoticon-our-2020-conference-is-packed-with-workshops-and-were-calling-for-proposals/).
 
 **Send Your Events In**
 
