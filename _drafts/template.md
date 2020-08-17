@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 08-10-2020 by Anne - format
+Template last updated on 08-18-2020 by Anne - events tweak
 
 View this email in your browser.
 
@@ -168,19 +168,19 @@ What is the team up to this week? Let’s check in!
 
 ## Upcoming events!
 
-[![PyCon Australia 2020](../assets/20200811/pycon-au.jpg)](https://2020.pycon.org.au/)
+[![PyCon Australia 2020](../assets/20200mdd/pycon-au.jpg)](https://2020.pycon.org.au/)
 
 PyCon AU has announced they are holding PyConline AU, an online event, from 4–6 September 2020 -  [pycon.org.au](https://2020.pycon.org.au/).
 
-[![PyGotham TV](../assets/20200811/pygothamtv.jpg)](https://2020.pygotham.tv/)
+[![PyGotham TV](../assets/20200mdd/pygothamtv.jpg)](https://2020.pygotham.tv/)
 
 PyGotham is a New York City based, eclectic, Py-centric conference covering many topics. PyGotham TV taking place October 2-3, 2020 with a single track of talks presented online - [Event Website](https://2020.pygotham.tv/) and [Call for Proposals](https://cfp.pygotham.tv/).
 
-[![PyCon India 2020](../assets/20200811/pycon-india.jpg)](https://in.pycon.org/2020/)
+[![PyCon India 2020](../assets/20200mdd/pycon-india.jpg)](https://in.pycon.org/2020/)
 
 PyCon India 2020: the premier conference in India on using and developing the Python programming language. Held online October 3-5, 2020. A [call for proposals](https://in.pycon.org/cfp/2020/proposals/) is now open through August 14, 2020. - [Website](https://in.pycon.org/2020/) and [Twitter](https://twitter.com/pyconindia)
 
-[![Hackaday Remoticon 2020](../assets/20200811/20200811hackaday.jpg)](https://hackaday.com/2020/08/04/hackaday-remoticon-our-2020-conference-is-packed-with-workshops-and-were-calling-for-proposals/)
+[![Hackaday Remoticon 2020](../assets/20200mdd/20200811hackaday.jpg)](https://hackaday.com/2020/08/04/hackaday-remoticon-our-2020-conference-is-packed-with-workshops-and-were-calling-for-proposals/)
 
 The Hackaday Remoticon will take place everywhere November 6th – 8th, 2020. It’s a weekend packed with workshops about hardware creation, held virtually for all to enjoy - [Hackaday](https://hackaday.com/2020/08/04/hackaday-remoticon-our-2020-conference-is-packed-with-workshops-and-were-calling-for-proposals/).
 
