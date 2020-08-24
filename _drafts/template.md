@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2020-08-18 07:00:00 -0800
+date: 2020-09-xx 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 08-18-2020 by Anne - events tweak
+Template last updated on 08-25-2020 by Anne - Modernization tweaks
 
 View this email in your browser.
 
@@ -36,7 +36,7 @@ Text
 
 [![Deep Dive with Scott](../assets/20200mdd/20200mdddeepdive.jpg)](link)
 
-This week, Scott streams his work on .
+[This week](link), Scott streams his work on .
 
 You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXBHlu9msoXq2jQN4JpCk8A).
 
@@ -44,15 +44,29 @@ You can see the latest video and past videos on the Adafruit YouTube channel und
 
 [![CircuitPython Day: 9-9-2020](../assets/20200728/CPday2020.jpg)](https://circuitpython.org/)
 
-Adafruit has chosen September 9, 2020 (9/9/2020) as the snakiest day of this year for CircuitPython Day! Much more to come on events and happenings to include a CircuitPython team livestream, collaboration with hardware and software folks, and highlighting all things Python and Python on Hardware. More information will be forthcoming. Ideas? Send them via email to circuitpythonday@adafruit.com.
+Adafruit has chosen September 9, 2020 (9/9/2020) as the snakiest day of this year for CircuitPython Day! Much more to come on events and happenings to include a CircuitPython team livestream, collaboration with hardware and software folks, and highlighting all things Python and Python on Hardware.
+
+This year CircuitPython Day is being dedicated to Lamba Labs Makerspace, who are helping during the Beirut disaster.
+
+[![Lamba Labs Makerspace](../assets/20200mdd/20200mddlamba.jpg)](https://twitter.com/LambaLabs)
+
+More information on CircuitPython Day is forthcoming. Ideas? Send them via email to circuitpythonday@adafruit.com and add your event to the working calendar - [GitHub](https://github.com/adafruit/circuitpython-weekly-newsletter/blob/gh-pages/circuitpythonday2020.md).
 
 ## Adafruit Update
 
-[![Adafruit](../assets/20200728/20200728adafruit.jpg)](https://blog.adafruit.com/2020/05/26/adafruit-is-open-safely-and-shipping-all-orders/)
+[![Adafruit](../assets/20200mdd/20200mddadafruit.jpg)](https://blog.adafruit.com/2020/05/26/adafruit-is-open-safely-and-shipping-all-orders/)
 
 **Adafruit is shipping orders!**
 
-Production is up and now is the best time to get the Adafruit items you've been waiting for.
+Adafruit is stocked and shipping orders!
+
+Now is the best time to get orders in for your favorite products, including items for students.
+
+Science is fun and educational when using Adafruit parts and free, easy to follow tutorials in the [Adafruit Learning System](https://learn.adafruit.com/).
+
+[Shop Adafruit now](https://www.adafruit.com/)
+
+
 ## News from around the web!
 
 [![title](../assets/20200mdd/20200mdd-name.jpg)](https://circuitpython.org/)
@@ -180,7 +194,7 @@ PyGotham is a New York City based, eclectic, Py-centric conference covering many
 
 PyCon India 2020: the premier conference in India on using and developing the Python programming language. Held online October 3-5, 2020. A [call for proposals](https://in.pycon.org/cfp/2020/proposals/) is now open through August 14, 2020. - [Website](https://in.pycon.org/2020/) and [Twitter](https://twitter.com/pyconindia)
 
-[![Hackaday Remoticon 2020](../assets/20200mdd/20200811hackaday.jpg)](https://hackaday.com/2020/08/04/hackaday-remoticon-our-2020-conference-is-packed-with-workshops-and-were-calling-for-proposals/)
+[![Hackaday Remoticon 2020](../assets/20200mdd/20200mddhackaday.jpg)](https://hackaday.com/2020/08/04/hackaday-remoticon-our-2020-conference-is-packed-with-workshops-and-were-calling-for-proposals/)
 
 The Hackaday Remoticon will take place everywhere November 6th – 8th, 2020. It’s a weekend packed with workshops about hardware creation, held virtually for all to enjoy - [Hackaday](https://hackaday.com/2020/08/04/hackaday-remoticon-our-2020-conference-is-packed-with-workshops-and-were-calling-for-proposals/).
 
