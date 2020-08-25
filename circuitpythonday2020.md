@@ -33,6 +33,7 @@ Other streams with flexible scheduling
 - A stream from Jeff about his projects?
 - Dublin PyLadies stream?
 - India LUG stream?
+- STEAM Tokyo?
 
 ## Contribute
 
