@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 08-25-2020 by Anne - Modernization tweaks
+Template last updated on 08-25-2020 by Kattni - Modernization tweaks
 
 View this email in your browser.
 
@@ -188,7 +188,7 @@ PyCon AU has announced they are holding PyConline AU, an online event, from 4–
 
 [![PyGotham TV](../assets/20200mdd/pygothamtv.jpg)](https://2020.pygotham.tv/)
 
-PyGotham is a New York City based, eclectic, Py-centric conference covering many topics. PyGotham TV taking place October 2-3, 2020 with a single track of talks presented online - [Event Website](https://2020.pygotham.tv/) and [Call for Proposals](https://cfp.pygotham.tv/).
+PyGotham is a New York City based, eclectic, Py-centric conference covering many topics. PyGotham TV taking place October 2-3, 2020 with a single track of talks presented online - [Event Website](https://2020.pygotham.tv/).
 
 [![PyCon India 2020](../assets/20200mdd/pycon-india.jpg)](https://in.pycon.org/2020/)
 
@@ -206,7 +206,7 @@ As for other events, with the COVID pandemic, most in-person events are postpone
 
 CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [#.#.#-##.#](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
 
-[2019####](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
+[2020####](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
 
 [v#.#.#](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
 
