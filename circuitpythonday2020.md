@@ -19,8 +19,8 @@ For this day, all times are in US Eastern (New York) time.
 
 | Time | Event | Features | Link |
 |---|---|---|---|
+| 11am - 12pm |  Central American / Spanish Show and Tell | Hosted by Álvaro Figueroa and Kattni | TBD |
 | 2pm - 3:30pm | CircuitPython Weekly Discord Meeting | CircuitPython Day edition | https://adafru.it/discord |
-| Time TBD |  Central American / Spanish Show and Tell | Hosted by Álvaro Figueroa and Kattni | TBD |
 | 7pm - 8pm | Show & Tell Weekly Show | CircuitPython Theme | https://learn.adafruit.com/show-and-tell |
 | 8pm - 9pm | Ask an Engineer Weekly Show | The CircuitPython Team guest stars remotely | https://www.adafruit.com/ask /
 
