@@ -1,6 +1,6 @@
 ## Working Schedule for CircuitPython Day 2020
 
-<img width="550" src="assets/20200825/" alt="CircuitPython Day 9/9/2020">
+<img width="550" src="assets/20200825/20200825cpday.jpg" alt="CircuitPython Day 9/9/2020">
 
 
 This document is a workspace for the schedule of CircuitPython Day on September 9th, 2020
@@ -20,7 +20,7 @@ For this day, all times are in US Eastern (New York) time.
 | Time | Event | Features |
 |---|---|---|
 | 2pm - 3:30pm | CircuitPython Weekly Discord Meeting | CircuitPython Day edition |
-| Time TBD |  Central American / Spanish Show and Tell | Hosted by ALvaro and Kattni |
+| Time TBD |  Central American / Spanish Show and Tell | Hosted by Alvaro and Kattni |
 | 7pm - 8pm | Show & Tell Weekly Show | CircuitPython Theme |
 | 8pm - 9pm | Ask an Engineer Weekly Show | The CircuitPython Team guest stars remotely |
 
