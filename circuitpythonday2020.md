@@ -28,7 +28,7 @@ For this day, all times are in US Eastern (New York) time.
 
 Contact anneb(at)adafruit(dot)com via email or do a PR with your plans
 
-Other streams with flexible scheduling
+Other possible interested groups, flexible scheduling
 - Deep Dive w/Scott is usually 5pm - 7pm on Fridays.
 - A stream from Jeff about his projects?
 - Dublin PyLadies stream?
