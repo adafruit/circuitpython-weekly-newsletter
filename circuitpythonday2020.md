@@ -37,7 +37,7 @@ Other possible interested groups, flexible scheduling
 
 ## Materials
 
-The graphics we already have are currently below. Also some generic CircuitPython art:
+The graphics we already have are currently below. Also some generic CircuitPython art ([assets here](https://github.com/adafruit/circuitpython-weekly-newsletter/tree/gh-pages/assets/CPday2020)):
 
 [![CircuitPython Day 2020](assets/CPday2020/CPDay2020.jpg)](https://github.com/adafruit/circuitpython-weekly-newsletter/edit/gh-pages/circuitpythonday2020.md)
 
