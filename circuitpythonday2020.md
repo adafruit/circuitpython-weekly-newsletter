@@ -41,7 +41,7 @@ The graphics we already have are currently below. Also some generic CircuitPytho
 
 [![CircuitPython Day 2020](assets/CPday2020/CPDay2020.jpg)](https://github.com/adafruit/circuitpython-weekly-newsletter/edit/gh-pages/circuitpythonday2020.md)
 
-[![CircuitPython Text](assets/CPday2020/CircuitPython_Text.jpg)](https://github.com/adafruit/circuitpython-weekly-newsletter/edit/gh-pages/circuitpythonday2020.md)
+[![CircuitPython Text](assets/CPday2020/CircuitPython_Text.png)](https://github.com/adafruit/circuitpython-weekly-newsletter/edit/gh-pages/circuitpythonday2020.md)
 
 [![CircuitPython Blinka](assets/CPday2020/adafruit_blinka.PNG)](https://github.com/adafruit/circuitpython-weekly-newsletter/edit/gh-pages/circuitpythonday2020.md)
 
