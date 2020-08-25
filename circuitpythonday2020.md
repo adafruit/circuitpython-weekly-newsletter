@@ -41,7 +41,13 @@ The graphics we already have are currently below. Also some generic CircuitPytho
 
 [![CircuitPython Day 2020](assets/CPday2020/CPDay2020.jpg)](https://github.com/adafruit/circuitpython-weekly-newsletter/edit/gh-pages/circuitpythonday2020.md)
 
+[![CircuitPython Text](assets/CPday2020/CircuitPython_Text.jpg)](https://github.com/adafruit/circuitpython-weekly-newsletter/edit/gh-pages/circuitpythonday2020.md)
 
+[![CircuitPython Blinka](assets/CPday2020/adafruit_blinka.PNG)](https://github.com/adafruit/circuitpython-weekly-newsletter/edit/gh-pages/circuitpythonday2020.md)
+
+[![CircuitPython Blinka](assets/CPday2020/blinka-transparent.png)](https://github.com/adafruit/circuitpython-weekly-newsletter/edit/gh-pages/circuitpythonday2020.md)
+
+[![Code plus Community is CircuitPython](assets/CPday2020/code+community.jpg)](https://github.com/adafruit/circuitpython-weekly-newsletter/edit/gh-pages/circuitpythonday2020.md)
 
 Also have requested custom graphics for the 99th and 100th Python on Microcontrollers Newsletter/Python on Hardware Video (99th the week of CP Day)
 Basecamp link [here](https://3.basecamp.com/3732686/buckets/4380024/todos/2962950997) (Internal Adafruit only link).
