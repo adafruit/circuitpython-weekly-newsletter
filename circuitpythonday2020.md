@@ -22,6 +22,7 @@ For this day, all times are in US Eastern (New York) time.
 | 11am - 12pm |  Central American / Spanish Show and Tell | Hosted by Álvaro Figueroa and Kattni | TBD |
 | 2pm - 3:30pm | CircuitPython Weekly Discord Meeting | CircuitPython Day edition | https://adafru.it/discord |
 | 4pm - 5pm |  Jeff and Kattni Project Livestream | Hosted by Jeff and Kattni | TBD |
+| 5pm - 7pm | Deep Dive w/Scott | Hosted by Scott | Adafruit streams |
 | 7pm - 8pm | Show & Tell Weekly Show | CircuitPython Theme | https://learn.adafruit.com/show-and-tell |
 | 8pm - 9pm | Ask an Engineer Weekly Show | The CircuitPython Team guest stars remotely | https://www.adafruit.com/ask /
 
@@ -30,7 +31,6 @@ For this day, all times are in US Eastern (New York) time.
 Contact anneb(at)adafruit(dot)com via email or do a PR with your plans
 
 Other possible interested groups, flexible scheduling
-- Deep Dive w/Scott is usually 5pm - 7pm on Fridays.
 - Dublin PyLadies stream?
 - India LUG stream?
 - STEAM Tokyo?
