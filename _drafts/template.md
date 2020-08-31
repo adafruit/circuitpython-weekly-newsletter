@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 08-25-2020 by Kattni - Modernization tweaks
+Template last updated on 08-31-2020 by Anne - slight tweaks
 
 View this email in your browser.
 
@@ -42,7 +42,7 @@ You can see the latest video and past videos on the Adafruit YouTube channel und
 
 ## CircuitPython Day is 9-9-2020
 
-[![CircuitPython Day: 9-9-2020](../assets/20200728/CPday2020.jpg)](https://circuitpython.org/)
+[![CircuitPython Day: 9-9-2020](../assets/20200mdd/20200mddcpdday.jpg)](https://circuitpython.org/)
 
 Adafruit has chosen September 9, 2020 (9/9/2020) as the snakiest day of this year for CircuitPython Day! Much more to come on events and happenings to include a CircuitPython team livestream, collaboration with hardware and software folks, and highlighting all things Python and Python on Hardware.
 
@@ -244,7 +244,7 @@ The Adafruit Discord community, where we do all our CircuitPython development in
 
 [![ICYMI](../assets/20200mdd/20200mddicymi.jpg)](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
 
-The wonderful world of Python on hardware! This is our first video-newsletter-podcast that we’ve started! The news comes from the Python community, Discord, Adafruit communities and more. It’s part of the weekly newsletter, then we have a segment on ASK an ENGINEER and this is the video slice from that! The complete Python on Hardware weekly videocast [playlist is here](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev). 
+The wonderful world of Python on hardware! This is our first video-newsletter-podcast that we’ve started! The news comes from the Python community, Discord, Adafruit communities and more. Kattni turns the weekly news into video form for ASK an ENGINEER and Adafruit social media. The complete Python on Hardware weekly videocast [playlist is here](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev). 
 
 This video podcast is on [iTunes](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2), [YouTube](http://adafru.it/pohepisodes), [IGTV (Instagram TV](https://www.instagram.com/adafruit/channel/)), and [XML](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2).
 
