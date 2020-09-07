@@ -24,7 +24,7 @@ For this day, all times are in US Eastern (New York) time.
 | 4pm - 5pm |  Jeff and Kattni Project Livestream | Hosted by Jeff and Kattni | TBD |
 | 5pm - 7pm | Deep Dive w/Scott | Hosted by Scott | Adafruit streams |
 | 7pm - 8pm | Show & Tell Weekly Show | CircuitPython Theme | https://learn.adafruit.com/show-and-tell |
-| 8pm - 9pm | Ask an Engineer Weekly Show | The CircuitPython Team guest stars remotely | https://www.adafruit.com/ask /
+| 8pm - 9pm | Ask an Engineer Weekly Show | The CircuitPython Team guest stars remotely | https://www.adafruit.com/ask
 
 ## Other possible activities to follow up on
 
