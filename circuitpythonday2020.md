@@ -10,7 +10,7 @@ All times are in US Eastern (New York) time:
 
 | Times | Event| Link |
 |---|---|---|
-| 10am - 11am	| Getting Started with CircuitPython- Hosted by Dan| | Adafruit Streams |
+| 10am - 11am	| Getting Started with CircuitPython - Hosted by Dan| Adafruit Streams |
 | 11am - 12pm	| Central American / Spanish Show and Tell- Hosted by Álvaro Figueroa and Kattni| |
 | 2pm - 3:30pm | CircuitPython Weekly Discord Meeting -	CircuitPython Day edition	| https://adafru.it/discord |
 | 4pm - 5pm | Jeff and Kattni Project Livestream- Hosted by Jeff and Kattni | Adafruit Streams |
