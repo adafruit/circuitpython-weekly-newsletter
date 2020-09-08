@@ -48,7 +48,7 @@ Details can be found [here](https://www.hackerlab.org/en/blog/read/1376035664/ha
 
 This year CircuitPython Day is being dedicated to Lamba Labs Makerspace, who are helping during the Beirut disaster.
 
-[![Lamba Labs Makerspace](../assets/20200908/20200908lamba.jpg)](https://twitter.com/LambaLabs)
+[![Lamba Labs Makerspace](assets/20200908/20200908lamba.jpg)](https://twitter.com/LambaLabs)
 
 
 ## Materials
