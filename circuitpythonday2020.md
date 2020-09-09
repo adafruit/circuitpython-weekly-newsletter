@@ -51,7 +51,7 @@ Details can be found [here](https://www.hackerlab.org/en/blog/read/1376035664/ha
 
 ##  Dedication
 
-On August 4th, 2020, Beirut, Lebanon experienced a massive explosion that left many dead and injured, as well as leaving many homeless. 
+On August 4th, 2020, Beirut, Lebanon experienced a massive explosion that left many dead and injured, as well as leaving thousands homeless. 
 In the aftermath, Lamba Labs Makerspace stepped up and joined the many efforts to rebuild their community, including search and rescue, 
 restoring damaged homes, and volunteering in many ways, including providing aid tents to help the community find food and shelter and 
 joining construction engineers to help with the rebuilding process. Last year, Lamba Labs Makerspace was a partner for CircuitPython Day.
