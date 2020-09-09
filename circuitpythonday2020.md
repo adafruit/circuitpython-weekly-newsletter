@@ -15,8 +15,8 @@ All times are in US Eastern (New York) time:
 | 2pm - 3:30pm | CircuitPython Weekly Discord Meeting -	CircuitPython Day edition	| https://adafru.it/discord |
 | 4pm - 5pm | Jeff and Kattni Project Livestream- Hosted by Jeff and Kattni | https://www.youtube.com/watch?v=L4Bz_ztQew4 |
 | 5pm - 7pm | Deep Dive w/Scott Shawcroft	| Adafruit streams | 
-| 7pm - 8pm | Show & Tell Weekly Show	- CircuitPython Theme | https://learn.adafruit.com/show-and-tell |
-| 8pm - 9pm | Ask an Engineer Weekly Show -	The CircuitPython Team guest stars |	https://www.adafruit.com/ask |
+| 7pm - 8pm | Show & Tell Weekly Show	- CircuitPython Theme | https://learn.adafruit.com/show-and-tell and to watch https://youtu.be/BGVP0vJlqvI |
+| 8pm - 9pm | Ask an Engineer Weekly Show -	The CircuitPython Team guest stars |	https://youtu.be/JqK911g7O7Q |
 
 ## Dia CircuitPython Central America
 
