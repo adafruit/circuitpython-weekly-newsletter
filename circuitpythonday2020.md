@@ -12,7 +12,7 @@ All times are in US Eastern (New York) time:
 |---|---|---|
 | 10am - 11am	| Getting Started with CircuitPython - Hosted by Dan| Adafruit Streams |
 | 11am - 12pm	| Central American / Spanish Show and Tell- Hosted by Álvaro Figueroa and Kattni| https://www.youtube.com/watch?v=V3q3RI5JL6E |
-| 2pm - 3:30pm | CircuitPython Weekly Discord Meeting -	CircuitPython Day edition	| https://adafru.it/discord |
+| 2pm - 3:30pm | CircuitPython Weekly Discord Meeting -	CircuitPython Day edition	| https://adafru.it/discord / https://www.youtube.com/watch?v=CsaqMtyZlak |
 | 4pm - 5pm | Jeff and Kattni Project Livestream- Hosted by Jeff and Kattni | https://www.youtube.com/watch?v=L4Bz_ztQew4 |
 | 5pm - 7pm | Deep Dive w/Scott Shawcroft	| Adafruit streams | 
 | 7pm - 8pm | Show & Tell Weekly Show	- CircuitPython Theme | https://learn.adafruit.com/show-and-tell and to watch https://youtu.be/BGVP0vJlqvI |
