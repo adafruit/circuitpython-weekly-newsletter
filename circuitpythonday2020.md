@@ -11,7 +11,7 @@ All times are in US Eastern (New York) time:
 | Times | Event| Link |
 |---|---|---|
 | 10am - 11am	| Getting Started with CircuitPython - Hosted by Dan| Adafruit Streams |
-| 11am - 12pm	| Central American / Spanish Show and Tell- Hosted by Álvaro Figueroa and Kattni| |
+| 11am - 12pm	| Central American / Spanish Show and Tell- Hosted by Álvaro Figueroa and Kattni| https://www.youtube.com/watch?v=V3q3RI5JL6E |
 | 2pm - 3:30pm | CircuitPython Weekly Discord Meeting -	CircuitPython Day edition	| https://adafru.it/discord |
 | 4pm - 5pm | Jeff and Kattni Project Livestream- Hosted by Jeff and Kattni | Adafruit Streams |
 | 5pm - 7pm | Deep Dive w/Scott Shawcroft	| Adafruit streams | 
@@ -24,14 +24,14 @@ More information at [https://diacircuitpython.org/](https://diacircuitpython.org
 
 | Times | Event| Host(s) |
 |---|---|---|
-| 0900 | ¡Show and Tell en Español! | Álvaro Figueroa & Kattni Rembor |
-| 1000 | Creando Faroles de Independencia con CircuitPython | Álvaro Figueroa |
-| 1100 | El Internet de las Cosas y Micro/CircuitPython | Bentley Born |
-| 1300 | Crea tu hardware con Circuitpython | Andrés Sabas |
-| 1400 | Introducción a CircuitPython | Yeffri J. Salazar |
-| 1500 | CircuitPython sobre Linux con RaspberryPi | Gustavo Salvador Reynaga Aguilar |
-| 1600 | Echando a andar UF2 y CircuitPython en un microcontrolador ARM | Josue Isem |
-| 1700 | Consumiendo APIs con MicroPython | Jorge De Paz |
+| 0900 | ¡Show and Tell en Español! | Álvaro Figueroa & Kattni Rembor | Link |
+| 1000 | Creando Faroles de Independencia con CircuitPython | Álvaro Figueroa | https://www.youtube.com/watch?v=V3q3RI5JL6E |
+| 1100 | El Internet de las Cosas y Micro/CircuitPython | Bentley Born | |
+| 1300 | Crea tu hardware con Circuitpython | Andrés Sabas | |
+| 1400 | Introducción a CircuitPython | Yeffri J. Salazar | |
+| 1500 | CircuitPython sobre Linux con RaspberryPi | Gustavo Salvador Reynaga Aguilar | |
+| 1600 | Echando a andar UF2 y CircuitPython en un microcontrolador ARM | Josue Isem | |
+| 1700 | Consumiendo APIs con MicroPython | Jorge De Paz | |
 
 ## Aberdeen Python User Group
 
