@@ -22,10 +22,10 @@ All times are in US Eastern (New York) time:
 
 More information at [https://diacircuitpython.org/](https://diacircuitpython.org/), all times local (US Mountain) on [YouTube](https://www.youtube.com/channel/UCeZ-Wk1LyK2lnm5x4BCbyGA).
 
-| Times | Event| Host(s) |
-|---|---|---|
-| 0900 | ¡Show and Tell en Español! | Álvaro Figueroa & Kattni Rembor | Link |
-| 1000 | Creando Faroles de Independencia con CircuitPython | Álvaro Figueroa | https://www.youtube.com/watch?v=V3q3RI5JL6E |
+| Times | Event| Host(s) | Link |
+|---|---|---|---|
+| 0900 | ¡Show and Tell en Español! | Álvaro Figueroa & Kattni Rembor | https://www.youtube.com/watch?v=V3q3RI5JL6E |
+| 1000 | Creando Faroles de Independencia con CircuitPython | Álvaro Figueroa |  |
 | 1100 | El Internet de las Cosas y Micro/CircuitPython | Bentley Born | |
 | 1300 | Crea tu hardware con Circuitpython | Andrés Sabas | |
 | 1400 | Introducción a CircuitPython | Yeffri J. Salazar | |
