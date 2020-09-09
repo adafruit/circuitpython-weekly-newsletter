@@ -49,9 +49,19 @@ Details can be found [here](https://www.hackerlab.org/en/blog/read/1376035664/ha
 | 5:30 PM | Free Zoom Circuit Playground Intro Class - Instruction and Discussion using a simple Thunder/Lightning prop |
 | 7:15 PM | Open Discord Community Chat/Q&A of All Things Maker |
 
-###  Dedication
+##  Dedication
 
-This year CircuitPython Day is being dedicated to Lamba Labs Makerspace, who are helping during the Beirut disaster.
+On August 4th, 2020, Beirut, Lebanon experienced a massive explosion that left many dead and injured, as well as leaving many homeless. 
+In the aftermath, Lamba Labs Makerspace stepped up and joined the many efforts to rebuild their community, including search and rescue, 
+restoring damaged homes, and volunteering in many ways, including providing aid tents to help the community find food and shelter and 
+joining construction engineers to help with the rebuilding process. Last year, Lamba Labs Makerspace was a partner for CircuitPython Day.
+This year CircuitPython Day is being dedicated to Lamba Labs Makerspace for all of the amazing work they're doing in the Beirut community. 
+If you would like to help with their efforts, consider donating to the following fundraisers:
+
+* Impact Lebanon fundraiser: http://adafru.it/impactlebanon
+* Anera and Global Shapers fundraiser: http://adafru.it/globalshapersbeirut
+
+Details about each fundraiser can be found at the links provided.
 
 [![Lamba Labs Makerspace](assets/20200908/20200908lamba.jpg)](https://twitter.com/LambaLabs)
 
