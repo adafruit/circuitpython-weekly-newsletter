@@ -33,6 +33,10 @@ More information at [https://diacircuitpython.org/](https://diacircuitpython.org
 | 1600 | Echando a andar UF2 y CircuitPython en un microcontrolador ARM | Josue Isem |
 | 1700 | Consumiendo APIs con MicroPython | Jorge De Paz |
 
+## Aberdeen Python User Group
+
+6:30 pm BST Speaker -  Running Python on Hardware Devices - [read more](https://ti.to/code-the-city/aberdeen-python-user-group-sept-2020)
+
 ## Hackerlab Sacramento
 
 Hackerlab in Sacramento, California has over 3 hours of virtual events planned for CircuitPython day, everyone is invited.
