@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 08-31-2020 by Anne - slight tweaks
+Template last updated on 09-21-2020 by Anne 
 
 View this email in your browser.
 
@@ -40,18 +40,6 @@ Text
 
 You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXBHlu9msoXq2jQN4JpCk8A).
 
-## CircuitPython Day is 9-9-2020
-
-[![CircuitPython Day: 9-9-2020](../assets/20200mdd/20200mddcpdday.jpg)](https://circuitpython.org/)
-
-Adafruit has chosen September 9, 2020 (9/9/2020) as the snakiest day of this year for CircuitPython Day! Much more to come on events and happenings to include a CircuitPython team livestream, collaboration with hardware and software folks, and highlighting all things Python and Python on Hardware.
-
-This year CircuitPython Day is being dedicated to Lamba Labs Makerspace, who are helping during the Beirut disaster.
-
-[![Lamba Labs Makerspace](../assets/20200mdd/20200mddlamba.jpg)](https://twitter.com/LambaLabs)
-
-More information on CircuitPython Day is forthcoming. Ideas? Send them via email to circuitpythonday@adafruit.com and add your event to the working calendar - [GitHub](https://github.com/adafruit/circuitpython-weekly-newsletter/blob/gh-pages/circuitpythonday2020.md).
-
 ## Adafruit Update
 
 [![Adafruit](../assets/20200mdd/20200mddadafruit.jpg)](https://blog.adafruit.com/2020/05/26/adafruit-is-open-safely-and-shipping-all-orders/)
@@ -66,12 +54,15 @@ Science is fun and educational when using Adafruit parts and free, easy to follo
 
 [Shop Adafruit now](https://www.adafruit.com/)
 
-
 ## News from around the web!
 
 [![title](../assets/20200mdd/20200mdd-name.jpg)](https://circuitpython.org/)
 
 Text
+
+## Coming soon
+
+
 
 **#ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)? [title](url).**
 
@@ -180,11 +171,9 @@ What is the team up to this week? Let’s check in!
 
 [![Scott](../assets/20200mdd/20200mddscott.jpg)](https://circuitpython.org/)
 
+
+
 ## Upcoming events!
-
-[![PyCon Australia 2020](../assets/20200mdd/pycon-au.jpg)](https://2020.pycon.org.au/)
-
-PyCon AU has announced they are holding PyConline AU, an online event, from 4–6 September 2020 -  [pycon.org.au](https://2020.pycon.org.au/).
 
 [![PyGotham TV](../assets/20200mdd/pygothamtv.jpg)](https://2020.pygotham.tv/)
 
