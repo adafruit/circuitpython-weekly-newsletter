@@ -14,7 +14,11 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 09-21-2020 by Anne 
+News Sources
+
+- [python.org/](https://www.python.org/)
+
+Template last updated on 10-2-2020 by Anne 
 
 View this email in your browser.
 
