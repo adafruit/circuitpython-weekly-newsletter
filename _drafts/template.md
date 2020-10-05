@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2020-09-08 07:00:00 -0800
+date: 2020-10-13 07:00:00 -0800
 categories: weekly
 ---
 
@@ -9,7 +9,7 @@ categories: weekly
 - [ ] change date
 - [ ] update title
 - [ ] Feature story
-- [ ] Update [![](../assets/20200mdd/)]() for images
+- [ ] Update [![](../assets/2020mmdd/)]() for images
 - [ ] Update ICYDNCI
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
@@ -18,7 +18,7 @@ News Sources
 
 - [python.org/](https://www.python.org/)
 
-Template last updated on 10-2-2020 by Anne 
+Template last updated on 10-5-2020 by Anne - events change, date changes, misc
 
 View this email in your browser.
 
@@ -26,19 +26,19 @@ Hi everyone! It's the latest Python for Microcontrollers newsletter, brought you
 
 ## Headline Article
 
-[![title](../assets/20200mdd/20200mdd-name.jpg)](https://circuitpython.org/)
+[![title](../assets/2020mmdd/2020mmdd-name.jpg)](https://circuitpython.org/)
 
 Text
 
 ## Feature
 
-[![title](../assets/20200mdd/20200mdd-name.jpg)](https://circuitpython.org/)
+[![title](../assets/2020mmdd/2020mmdd-name.jpg)](https://circuitpython.org/)
 
 Text
 
 ## CircuitPython Deep Dive Stream with Scott Shawcroft
 
-[![Deep Dive with Scott](../assets/20200mdd/20200mdddeepdive.jpg)](link)
+[![Deep Dive with Scott](../assets/2020mmdd/2020mmdddeepdive.jpg)](link)
 
 [This week](link), Scott streams his work on .
 
@@ -46,7 +46,7 @@ You can see the latest video and past videos on the Adafruit YouTube channel und
 
 ## Adafruit Update
 
-[![Adafruit](../assets/20200mdd/20200mddadafruit.jpg)](https://blog.adafruit.com/2020/05/26/adafruit-is-open-safely-and-shipping-all-orders/)
+[![Adafruit](../assets/2020mmdd/2020mmddadafruit.jpg)](https://blog.adafruit.com/2020/05/26/adafruit-is-open-safely-and-shipping-all-orders/)
 
 **Adafruit is shipping orders!**
 
@@ -60,7 +60,7 @@ Science is fun and educational when using Adafruit parts and free, easy to follo
 
 ## News from around the web!
 
-[![title](../assets/20200mdd/20200mdd-name.jpg)](https://circuitpython.org/)
+[![title](../assets/2020mmdd/2020mmdd-name.jpg)](https://circuitpython.org/)
 
 Text
 
@@ -91,7 +91,11 @@ Looking for adding a new board to CircuitPython? It's highly encouraged! Adafrui
 
 ## New Learn Guides!
 
-[![title](../assets/20200mdd/20200mddlearn.jpg)](https://learn.adafruit.com/)
+[![New Learn Guides](../assets/2020mmdd/2020mmddlearn.jpg)](https://learn.adafruit.com/)
+
+[title](url) from [name](url)
+
+[title](url) from [name](url)
 
 [title](url) from [name](url)
 
@@ -101,7 +105,7 @@ Looking for adding a new board to CircuitPython? It's highly encouraged! Adafrui
 
 ## CircuitPython Libraries!
 
-[![CircuitPython Libraries](../assets/20200mdd/blinka.jpg)](https://circuitpython.org/libraries)
+[![CircuitPython Libraries](../assets/2020mmdd/blinka.jpg)](https://circuitpython.org/libraries)
 
 CircuitPython support for hardware continues to grow. We are adding support for new sensors and breakouts all the time, as well as improving on the drivers we already have. As we add more libraries and update current ones, you can keep up with all the changes right here!
 
@@ -137,59 +141,62 @@ What is the team up to this week? Let’s check in!
 
 **Bryan**
 
-[![Bryan](../assets/20200mdd/20200mddbryan.jpg)](https://circuitpython.org/)
+[![Bryan](../assets/2020mmdd/2020mmddbryan.jpg)](https://circuitpython.org/)
 
 
 
 **Dan**
 
-[![Dan](../assets/20200mdd/20200mdddan.jpg)](https://circuitpython.org/)
+[![Dan](../assets/2020mmdd/2020mmdddan.jpg)](https://circuitpython.org/)
 
 
 
 **Jeff**
 
-[![Jeff](../assets/20200mdd/20200mddjeff.jpg)](https://circuitpython.org/)
+[![Jeff](../assets/2020mmdd/2020mmddjeff.jpg)](https://circuitpython.org/)
 
 
 
 **Kattni**
 
-[![Kattni](../assets/20200mdd/20200mddkattni.jpg)](https://circuitpython.org/)
+[![Kattni](../assets/2020mmdd/2020mmddkattni.jpg)](https://circuitpython.org/)
 
 
 
 **Lucian**
 
-[![Lucian](../assets/20200mdd/20200mddlucian.jpg)](https://circuitpython.org/)
+[![Lucian](../assets/2020mmdd/2020mmddlucian.jpg)](https://circuitpython.org/)
 
 
 
 **Melissa**
 
-[![Melissa](../assets/20200mdd/20200mddmelissa.jpg)](https://circuitpython.org/)
+[![Melissa](../assets/2020mmdd/2020mmddmelissa.jpg)](https://circuitpython.org/)
 
 
 
 **Scott**
 
-[![Scott](../assets/20200mdd/20200mddscott.jpg)](https://circuitpython.org/)
+[![Scott](../assets/2020mmdd/2020mmddscott.jpg)](https://circuitpython.org/)
 
 
 
 ## Upcoming events!
 
-[![PyGotham TV](../assets/20200mdd/pygothamtv.jpg)](https://2020.pygotham.tv/)
 
-PyGotham is a New York City based, eclectic, Py-centric conference covering many topics. PyGotham TV taking place October 2-3, 2020 with a single track of talks presented online - [Event Website](https://2020.pygotham.tv/).
+[![Hacktoberfest](../assets/2020mmdd/2020mmddhacktoberfest.jpg)](https://hacktoberfest.digitalocean.com/)
 
-[![PyCon India 2020](../assets/20200mdd/pycon-india.jpg)](https://in.pycon.org/2020/)
+Hacktoberfest® is a celebration of Open Source Softare, created by DigitalOcean. It's open to everyone around the globe. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge. You can win a t-shirt or plant a tree.
 
-PyCon India 2020: the premier conference in India on using and developing the Python programming language. Held online October 3-5, 2020. A [call for proposals](https://in.pycon.org/cfp/2020/proposals/) is now open through August 14, 2020. - [Website](https://in.pycon.org/2020/) and [Twitter](https://twitter.com/pyconindia)
+Pull requests can be made in any GitHub-hosted repositories/projects. You can sign up anytime between October 1 and October 31. More - [Hacktoberfest](https://hacktoberfest.digitalocean.com/).
 
-[![Hackaday Remoticon 2020](../assets/20200mdd/20200mddhackaday.jpg)](https://hackaday.com/2020/08/04/hackaday-remoticon-our-2020-conference-is-packed-with-workshops-and-were-calling-for-proposals/)
+[![Hackaday Remoticon 2020](../assets/2020mmdd/2020mmddhackaday.jpg)](https://hackaday.com/2020/08/04/hackaday-remoticon-our-2020-conference-is-packed-with-workshops-and-were-calling-for-proposals/)
 
 The Hackaday Remoticon will take place everywhere November 6th – 8th, 2020. It’s a weekend packed with workshops about hardware creation, held virtually for all to enjoy - [Hackaday](https://hackaday.com/2020/08/04/hackaday-remoticon-our-2020-conference-is-packed-with-workshops-and-were-calling-for-proposals/).
+
+[![PyCon Sweden](../assets/2020mmdd/2020mmddpyconse.jpg)](http://www.pycon.se/)
+
+PyCon Sweden 2020 will be held 12-13 of November 2020 online - [PyCon Sweden](http://www.pycon.se/).
 
 **Send Your Events In**
 
@@ -209,7 +216,7 @@ CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpyt
 
 ## Call for help -- Translating CircuitPython is now easier than ever!
 
-[![CircuitPython translation statistics on weblate](../assets/20200mdd/20200mddweblate.jpg)](https://hosted.weblate.org/engage/circuitpython/)
+[![CircuitPython translation statistics on weblate](../assets/2020mmdd/2020mmddweblate.jpg)](https://hosted.weblate.org/engage/circuitpython/)
 
 One important feature of CircuitPython is translated control and error messages.
 
@@ -221,13 +228,13 @@ As always, if you run into trouble join us on [Discord](https://adafru.it/discor
 
 ## jobs.adafruit.com - Find a dream job, find great candidates!
 
-[![jobs.adafruit.com](../assets/20200mdd/jobs.jpg)](https://jobs.adafruit.com/)
+[![jobs.adafruit.com](../assets/2020mmdd/jobs.jpg)](https://jobs.adafruit.com/)
 
 [jobs.adafruit.com](https://jobs.adafruit.com/) has returned and folks are posting their skills (including CircuitPython) and companies are looking for talented makers to join their companies - from Digi-Key, to Hackaday, Microcenter, Raspberry Pi and more.
 
 ## NUMBER thanks!
 
-[![NUMBER THANKS](../assets/20200mdd/24kdiscord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/2020mmdd/25kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
@@ -235,7 +242,7 @@ The Adafruit Discord community, where we do all our CircuitPython development in
 
 ## ICYMI - In case you missed it
 
-[![ICYMI](../assets/20200mdd/20200mddicymi.jpg)](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
+[![ICYMI](../assets/2020mmdd/2020mmddicymi.jpg)](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
 
 The wonderful world of Python on hardware! This is our first video-newsletter-podcast that we’ve started! The news comes from the Python community, Discord, Adafruit communities and more. Kattni turns the weekly news into video form for ASK an ENGINEER and Adafruit social media. The complete Python on Hardware weekly videocast [playlist is here](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev). 
 
@@ -247,7 +254,7 @@ And lastly, we are working up a one-spot destination for all things podcast-able
 
 ## Codecademy "Learn Hardware Programming with CircuitPython"
 
-[![Codecademy CircuitPython](../assets/20200mdd/codecademy_python.png)](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=pythononhardwarenewsletter)
+[![Codecademy CircuitPython](../assets/2020mmdd/codecademy_python.png)](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=pythononhardwarenewsletter)
 
 Codecademy, an online interactive learning platform used by more than 45 million people, has teamed up with the leading manufacturer in STEAM electronics, Adafruit Industries, to create a coding course, "Learn Hardware Programming with CircuitPython". The course is now available in the [Codecademy catalog](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=pythononhardwarenewsletter).
 
