@@ -16,7 +16,8 @@ categories: weekly
 
 News Sources
 
-- [python.org/](https://www.python.org/)
+- [python.org](https://www.python.org/)
+- [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
 Template last updated on 10-5-2020 by Anne - events change, date changes, misc
 
