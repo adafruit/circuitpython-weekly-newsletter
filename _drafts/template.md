@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 10-5-2020 by Anne - events change, date changes, misc
+Template last updated on 10-13-2020 by Anne - events change, date changes, misc
 
 View this email in your browser.
 
@@ -106,7 +106,7 @@ Looking for adding a new board to CircuitPython? It's highly encouraged! Adafrui
 
 ## CircuitPython Libraries!
 
-[![CircuitPython Libraries](../assets/2020mmdd/blinka.jpg)](https://circuitpython.org/libraries)
+[![CircuitPython Libraries](../assets/2020mmdd/blinka.png)](https://circuitpython.org/libraries)
 
 CircuitPython support for hardware continues to grow. We are adding support for new sensors and breakouts all the time, as well as improving on the drivers we already have. As we add more libraries and update current ones, you can keep up with all the changes right here!
 
