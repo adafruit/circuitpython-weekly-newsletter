@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 10-29-2020 by Anne - ICYMI paragraph wording
+Template last updated on 10-19-2020 by Anne - ICYMI paragraph wording
 
 View this email in your browser.
 
