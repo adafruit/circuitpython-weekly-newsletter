@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 10-19-2020 by Anne - ICYMI paragraph wording
+Template last updated on 10-26-2020 by Anne - Featured Jobs board entry
 
 View this email in your browser.
 
@@ -232,6 +232,10 @@ As always, if you run into trouble join us on [Discord](https://adafru.it/discor
 [![jobs.adafruit.com](../assets/2020mmdd/jobs.jpg)](https://jobs.adafruit.com/)
 
 [jobs.adafruit.com](https://jobs.adafruit.com/) has returned and folks are posting their skills (including CircuitPython) and companies are looking for talented makers to join their companies - from Digi-Key, to Hackaday, Microcenter, Raspberry Pi and more.
+
+**Job of the Week**
+
+text - [Adafruit Jobs Board](https://jobs.adafruit.com/).
 
 ## NUMBER thanks!
 
