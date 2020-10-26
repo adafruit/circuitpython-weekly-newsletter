@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2020-10-13 07:00:00 -0800
+date: 2020-11-03 07:00:00 -0800
 categories: weekly
 ---
 
@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 10-26-2020 by Anne - Featured Jobs board entry
+Template last updated on 10-26-2020 by Anne - Featured Jobs board entry & tweaks
 
 View this email in your browser.
 
@@ -65,11 +65,11 @@ Science is fun and educational when using Adafruit parts and free, easy to follo
 
 Text
 
+**#ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)? [title](url).**
+
 ## Coming soon
 
 
-
-**#ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)? [title](url).**
 
 ## Made with Mu
 
@@ -130,12 +130,6 @@ Here's this week's updated CircuitPython libraries:
 
 * [library](url)
 
-**PyPI Download Stats!**
-
-We've written a special library called Adafruit Blinka that makes it possible to use CircuitPython Libraries on [Raspberry Pi and other compatible single-board computers](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/). Adafruit Blinka and all the CircuitPython libraries have been deployed to PyPI for super simple installation on Linux! Here are the top 10 CircuitPython libraries downloaded from PyPI in the last week, including the total downloads for those libraries:
-
-Keep checking back for updated download stats coming soon!
-
 ## What’s the team up to this week?
 
 What is the team up to this week? Let’s check in!
@@ -184,12 +178,9 @@ What is the team up to this week? Let’s check in!
 
 ## Upcoming events!
 
+[![Python Brasil 2020n](../assets/2020mmdd/2020mmddbrazil.jpg)](https://2020.pythonbrasil.org.br/)
 
-[![Hacktoberfest](../assets/2020mmdd/2020mmddhacktoberfest.jpg)](https://hacktoberfest.digitalocean.com/)
-
-Hacktoberfest® is a celebration of Open Source Softare, created by DigitalOcean. It's open to everyone around the globe. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge. You can win a t-shirt or plant a tree.
-
-Pull requests can be made in any GitHub-hosted repositories/projects. You can sign up anytime between October 1 and October 31. More - [Hacktoberfest](https://hacktoberfest.digitalocean.com/).
+Python Brasil 2020 is the largest conference on Python programming language in Brazil and Latin America. This year, due to the Covid-19 pandemic, Python Brasil will be held remotely. There will be seven days of immersion November 2-November 8, 2020 - [Site](https://2020.pythonbrasil.org.br/) and [Tickets](https://www.eventbrite.com.br/e/python-brasil-2020-tickets-117927633727).
 
 [![Hackaday Remoticon 2020](../assets/2020mmdd/2020mmddhackaday.jpg)](https://hackaday.com/2020/08/04/hackaday-remoticon-our-2020-conference-is-packed-with-workshops-and-were-calling-for-proposals/)
 
