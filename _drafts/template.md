@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2020-11-03 07:00:00 -0800
+date: 2020-11-23 07:00:00 -0800
 categories: weekly
 ---
 
@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 10-26-2020 by Anne - Featured Jobs board entry & tweaks
+Template last updated on 11-16-2020 by Anne - Events, article template, Adafruit Update
 
 View this email in your browser.
 
@@ -51,25 +51,45 @@ You can see the latest video and past videos on the Adafruit YouTube channel und
 
 **Adafruit is shipping orders!**
 
-Adafruit is stocked and shipping orders!
+Adafruit is stocked and shipping orders! Now is the best time to get orders in for your favorite products, including holiday projects and gifts - [Adafruit](https://learn.adafruit.com/).
 
-Now is the best time to get orders in for your favorite products, including items for students.
+[![Adafruit 20% Off](../assets/2020mmdd/2020mmdd-20.jpg)](https://learn.adafruit.com/secure-your-account-and-unlock-20-off?view=all)
 
-Science is fun and educational when using Adafruit parts and free, easy to follow tutorials in the [Adafruit Learning System](https://learn.adafruit.com/).
+Adafruit is currently offering a one-time use discount code of 20% off after adding two factor authentication (2FA) to ones Adafruit account. The code may be used until November 26, 2020. See [this guide](https://learn.adafruit.com/secure-your-account-and-unlock-20-off?view=all) for details.
 
-[Shop Adafruit now](https://www.adafruit.com/)
+**[Shop Adafruit now](https://www.adafruit.com/)**
 
 ## News from around the web!
 
-[![title](../assets/2020mmdd/2020mmdd-name.jpg)](https://circuitpython.org/)
+[![title](../assets/2020mmdd/2020mmdd-name.jpg)](url)
 
-Text
+text - [site](url).
+
+[![title](../assets/2020mmdd/2020mmdd-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/2020mmdd/2020mmdd-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/2020mmdd/2020mmdd-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/2020mmdd/2020mmdd-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/2020mmdd/2020mmdd-name.jpg)](url)
+
+text - [site](url).
 
 **#ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)? [title](url).**
 
 ## Coming soon
 
-
+text
 
 ## Made with Mu
 
@@ -138,57 +158,61 @@ What is the team up to this week? Let’s check in!
 
 [![Bryan](../assets/2020mmdd/2020mmddbryan.jpg)](https://circuitpython.org/)
 
-
+text
 
 **Dan**
 
 [![Dan](../assets/2020mmdd/2020mmdddan.jpg)](https://circuitpython.org/)
 
-
+text
 
 **Jeff**
 
 [![Jeff](../assets/2020mmdd/2020mmddjeff.jpg)](https://circuitpython.org/)
 
-
+text
 
 **Kattni**
 
 [![Kattni](../assets/2020mmdd/2020mmddkattni.jpg)](https://circuitpython.org/)
 
-
+text
 
 **Lucian**
 
 [![Lucian](../assets/2020mmdd/2020mmddlucian.jpg)](https://circuitpython.org/)
 
-
+text
 
 **Melissa**
 
 [![Melissa](../assets/2020mmdd/2020mmddmelissa.jpg)](https://circuitpython.org/)
 
-
+text
 
 **Scott**
 
 [![Scott](../assets/2020mmdd/2020mmddscott.jpg)](https://circuitpython.org/)
 
-
+text
 
 ## Upcoming events!
 
-[![Python Brasil 2020n](../assets/2020mmdd/2020mmddbrazil.jpg)](https://2020.pythonbrasil.org.br/)
+[![Women Who Code - CONNECT Forward](../assets/2020mmdd/2020mmddwwc.jpg)](https://connectforward.womenwhocode.dev/)
 
-Python Brasil 2020 is the largest conference on Python programming language in Brazil and Latin America. This year, due to the Covid-19 pandemic, Python Brasil will be held remotely. There will be seven days of immersion November 2-November 8, 2020 - [Site](https://2020.pythonbrasil.org.br/) and [Tickets](https://www.eventbrite.com.br/e/python-brasil-2020-tickets-117927633727).
+Women Who Code CONNECT Forward, December 2-4, 2020 online - [Women Who Code](https://connectforward.womenwhocode.dev/).
 
-[![Hackaday Remoticon 2020](../assets/2020mmdd/2020mmddhackaday.jpg)](https://hackaday.com/2020/08/04/hackaday-remoticon-our-2020-conference-is-packed-with-workshops-and-were-calling-for-proposals/)
+[![micro:bit LIVE 2020](../assets/2020mmdd/2020mmddmbitconf.jpg)](https://microbit.org/news/events/live/)
 
-The Hackaday Remoticon will take place everywhere November 6th – 8th, 2020. It’s a weekend packed with workshops about hardware creation, held virtually for all to enjoy - [Hackaday](https://hackaday.com/2020/08/04/hackaday-remoticon-our-2020-conference-is-packed-with-workshops-and-were-calling-for-proposals/).
+Join educators, researchers, and the developer community for micro:bit LIVE 2020 virtual, an online event December 4-5, 2020. There is no cost to register and attend - [Microbit.Org](https://microbit.org/news/events/live/).
 
-[![PyCon Sweden](../assets/2020mmdd/2020mmddpyconse.jpg)](http://www.pycon.se/)
+[![PyDay Chile](../assets/2020mmdd/2020mmddchile.jpg)](https://pyday.cl/)
 
-PyCon Sweden 2020 will be held 12-13 of November 2020 online - [PyCon Sweden](http://www.pycon.se/).
+PyDay Chile 2020 Conference: December 5, Online. The deadline for applying for talks is November 18 - [pyday.d](https://pyday.cl/).
+
+[![2021 Open Hardware Summit](../assets/2020mmdd/2020mmddhs.jpg)](https://www.oshwa.org/2020/11/16/announcing-the-2021-open-hardware-summit/)
+
+The 2021 Open Hardware summit will be held online, Friday April 9, 2021. The summit will be livestreamed, but ticket holders will have access to additional interactive portions of the summit like meet-and-greets, workshops, and sponsor booths. Find details, including ticket and sponsorship information at [2021.oshwa.org](https://2021.oshwa.org/) - [OSHWA](https://www.oshwa.org/2020/11/16/announcing-the-2021-open-hardware-summit/) [PyDat Chile](pyday.d]).
 
 **Send Your Events In**
 
