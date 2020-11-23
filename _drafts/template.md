@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 11-16-2020 by Anne - Events, article template, Adafruit Update
+Template last updated on 11-23-2020 by Anne - Events, article template
 
 View this email in your browser.
 
