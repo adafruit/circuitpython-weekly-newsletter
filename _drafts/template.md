@@ -196,18 +196,6 @@ text
 
 ## Upcoming events!
 
-[![Women Who Code - CONNECT Forward](../assets/2020mmdd/2020mmddwwc.jpg)](https://connectforward.womenwhocode.dev/)
-
-Women Who Code CONNECT Forward, December 2-4, 2020 online - [Women Who Code](https://connectforward.womenwhocode.dev/).
-
-[![micro:bit LIVE 2020](../assets/2020mmdd/2020mmddmbitconf.jpg)](https://microbit.org/news/events/live/)
-
-Join educators, researchers, and the developer community for micro:bit LIVE 2020 virtual, an online event December 4-5, 2020. There is no cost to register and attend - [Microbit.Org](https://microbit.org/news/events/live/).
-
-[![PyDay Chile](../assets/2020mmdd/2020mmddchile.jpg)](https://pyday.cl/)
-
-PyDay Chile 2020 Conference: December 5, Online. The deadline for applying for talks is November 18 - [pyday.d](https://pyday.cl/).
-
 [![Virtual Girls into Coding](../assets/20201124/2020mmddgirls.jpg)](https://www.eventbrite.co.uk/e/virtual-girls-into-coding-6-join-us-get-involved-tickets-129147061337)
 
 Virtual Girls Into Coding #6, December 13th: a free event for girls ages 10-14 to explore online coding activities, online robotics, 3D Design, electronics, and physical computing using the BBC micro:bit. This is a fantastic opportunity to use Python (text-based language) and to get some hands-on making time from the comfort of your home - [Eventbright](https://www.eventbrite.co.uk/e/virtual-girls-into-coding-6-join-us-get-involved-tickets-129147061337).
