@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2020-11-23 07:00:00 -0800
+date: 2020-12-01 07:00:00 -0800
 categories: weekly
 ---
 
@@ -27,15 +27,15 @@ Hi everyone! It's the latest Python for Microcontrollers newsletter, brought you
 
 ## Headline Article
 
-[![title](../assets/2020mmdd/2020mmdd-name.jpg)](https://circuitpython.org/)
+[![title](../assets/2020mmdd/2020mmdd-name.jpg)](url)
 
-Text
+text - [site](url)
 
 ## Feature
 
-[![title](../assets/2020mmdd/2020mmdd-name.jpg)](https://circuitpython.org/)
+[![title](../assets/2020mmdd/2020mmdd-name.jpg)](url)
 
-Text
+text - [site](url)
 
 ## CircuitPython Deep Dive Stream with Scott Shawcroft
 
@@ -89,11 +89,9 @@ text - [site](url).
 
 ## Coming soon
 
-text
+[![title](../assets/2020mmdd/2020mmdd-name.jpg)](url)
 
-## Made with Mu
-
-Why Mu? Mu tries to make it as easy as possible to get started with programming but aims to help you graduate to "real" development tools soon after. Everything in Mu is the "real thing" but presented in as simple and obvious way possible. It's like the toddling stage in learning to walk: you're finding your feet and once you're confident, you should move on and explore! Put simply, Mu aims to foster autonomy. Try out Mu today! - [codewith.mu](https://codewith.mu/)
+text - [site](url)
 
 ## New Boards Supported by CircuitPython
 
@@ -210,9 +208,13 @@ Join educators, researchers, and the developer community for micro:bit LIVE 2020
 
 PyDay Chile 2020 Conference: December 5, Online. The deadline for applying for talks is November 18 - [pyday.d](https://pyday.cl/).
 
+[![Virtual Girls into Coding](../assets/20201124/2020mmddgirls.jpg)](https://www.eventbrite.co.uk/e/virtual-girls-into-coding-6-join-us-get-involved-tickets-129147061337)
+
+Virtual Girls Into Coding #6, December 13th: a free event for girls ages 10-14 to explore online coding activities, online robotics, 3D Design, electronics, and physical computing using the BBC micro:bit. This is a fantastic opportunity to use Python (text-based language) and to get some hands-on making time from the comfort of your home - [Eventbright](https://www.eventbrite.co.uk/e/virtual-girls-into-coding-6-join-us-get-involved-tickets-129147061337).
+
 [![2021 Open Hardware Summit](../assets/2020mmdd/2020mmddhs.jpg)](https://www.oshwa.org/2020/11/16/announcing-the-2021-open-hardware-summit/)
 
-The 2021 Open Hardware summit will be held online, Friday April 9, 2021. The summit will be livestreamed, but ticket holders will have access to additional interactive portions of the summit like meet-and-greets, workshops, and sponsor booths. Find details, including ticket and sponsorship information at [2021.oshwa.org](https://2021.oshwa.org/) - [OSHWA](https://www.oshwa.org/2020/11/16/announcing-the-2021-open-hardware-summit/) [PyDat Chile](pyday.d]).
+The 2021 Open Hardware summit will be held online, Friday April 9, 2021. The summit will be livestreamed, but ticket holders will have access to additional interactive portions of the summit like meet-and-greets, workshops, and sponsor booths. Find details, including ticket and sponsorship information at [2021.oshwa.org](https://2021.oshwa.org/) - [OSHWA](https://www.oshwa.org/2020/11/16/announcing-the-2021-open-hardware-summit/).
 
 **Send Your Events In**
 
@@ -228,7 +230,7 @@ CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpyt
 
 [#.#.#](https://www.python.org/downloads/) is the latest Python release. The latest pre-release version is [#.#.#](https://www.python.org/download/pre-releases/).
 
-[### Stars](https://github.com/adafruit/circuitpython/stargazers) Like CircuitPython? [Star it on GitHub!](https://github.com/adafruit/circuitpython)
+[#### Stars](https://github.com/adafruit/circuitpython/stargazers) Like CircuitPython? [Star it on GitHub!](https://github.com/adafruit/circuitpython)
 
 ## Call for help -- Translating CircuitPython is now easier than ever!
 
