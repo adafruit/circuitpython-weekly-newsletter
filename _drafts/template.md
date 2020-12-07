@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 11-30-2020 by Anne - Events
+Template last updated on 12-7-2020 by Anne - Events
 
 View this email in your browser.
 
@@ -196,13 +196,20 @@ text
 
 ## Upcoming events!
 
-[![Virtual Girls into Coding](../assets/2020mmdd/2020mmddgirls.jpg)](https://www.eventbrite.co.uk/e/virtual-girls-into-coding-6-join-us-get-involved-tickets-129147061337)
 
-Virtual Girls Into Coding #6, December 13th: a free event for girls ages 10-14 to explore online coding activities, online robotics, 3D Design, electronics, and physical computing using the BBC micro:bit. This is a fantastic opportunity to use Python (text-based language) and to get some hands-on making time from the comfort of your home - [Eventbright](https://www.eventbrite.co.uk/e/virtual-girls-into-coding-6-join-us-get-involved-tickets-129147061337).
+[![linux.conf.au 2021](../assets/2020mmdd/linuxconfau.jpg)](https://lca2021.linux.org.au/news/keynote-limor-fried/)
+
+Australia’s grassroots Free and Open Source technologies conference linux.conf.au is scheduled for January 23-25 2021 online/worldwide. Limor "Ladyada" Fried, electrical engineer and founder of Adafruit, will be one of their keynote speakers. In her keynote, Limor will discuss how Python is snaking its way into hardware, Linux single board computers and more. 
+
+The schedule and tickets are available at [lca2021.linux.org.au](https://lca2021.linux.org.au/) - [Announcement](https://lca2021.linux.org.au/news/keynote-limor-fried/).
 
 [![2021 Open Hardware Summit](../assets/2020mmdd/2020mmddohs.jpg)](https://www.oshwa.org/2020/11/16/announcing-the-2021-open-hardware-summit/)
 
 The 2021 Open Hardware summit will be held online, Friday April 9, 2021. The summit will be livestreamed, but ticket holders will have access to additional interactive portions of the summit like meet-and-greets, workshops, and sponsor booths. Find details, including ticket and sponsorship information at [2021.oshwa.org](https://2021.oshwa.org/) - [OSHWA](https://www.oshwa.org/2020/11/16/announcing-the-2021-open-hardware-summit/).
+
+[![PyCon US 2021](../assets/2020mmdd/2020mmddpycon.jpg)](https://us.pycon.org/2021/)
+
+PyCon US, the annual official annual Python gathering, has been announced to be held online May 12-15, 2021. Sprints will be held May 16-18, 2021. More information and signups at [https://us.pycon.org/2021/](https://us.pycon.org/2021/)
 
 **Send Your Events In**
 
