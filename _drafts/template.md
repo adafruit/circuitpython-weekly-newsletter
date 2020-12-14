@@ -19,13 +19,19 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 12-7-2020 by Anne - Events
+Template last updated on 12-14-2020 by Anne 
 
 View this email in your browser.
 
 Hi everyone! It's the latest Python for Microcontrollers newsletter, brought you by the community! We're on [Discord](https://discord.gg/HYqvREz), [Twitter](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), and for past newsletters - [view them all here](https://www.adafruitdaily.com/category/circuitpython/). If you're reading this on the web, [subscribe here](https://www.adafruitdaily.com/). Let's get started!
 
 ## Headline Article
+
+[![title](../assets/2020mmdd/2020mmdd-name.jpg)](url)
+
+text - [site](url)
+
+## Feature
 
 [![title](../assets/2020mmdd/2020mmdd-name.jpg)](url)
 
@@ -49,9 +55,9 @@ You can see the latest video and past videos on the Adafruit YouTube channel und
 
 [![Adafruit](../assets/2020mmdd/2020mmddadafruit.jpg)](https://blog.adafruit.com/2020/05/26/adafruit-is-open-safely-and-shipping-all-orders/)
 
-**Adafruit is shipping orders!**
+Adafruit is stocked and shipping orders! 
 
-Adafruit is stocked and shipping orders! Now is the best time to get orders in for your favorite products, including holiday projects and gifts - [Adafruit](https://learn.adafruit.com/).
+Now is the best time to get orders in for your favorite products, including holiday projects and gifts - [Adafruit](https://learn.adafruit.com/).
 
 [![Adafruit 20% Off](../assets/2020mmdd/2020mmdd-20.jpg)](https://learn.adafruit.com/secure-your-account-and-unlock-20-off?view=all)
 
@@ -196,12 +202,19 @@ text
 
 ## Upcoming events!
 
-
 [![linux.conf.au 2021](../assets/2020mmdd/linuxconfau.jpg)](https://lca2021.linux.org.au/news/keynote-limor-fried/)
 
 Australia’s grassroots Free and Open Source technologies conference linux.conf.au is scheduled for January 23-25 2021 online/worldwide. Limor "Ladyada" Fried, electrical engineer and founder of Adafruit, will be one of their keynote speakers. In her keynote, Limor will discuss how Python is snaking its way into hardware, Linux single board computers and more. 
 
 The schedule and tickets are available at [lca2021.linux.org.au](https://lca2021.linux.org.au/) - [Announcement](https://lca2021.linux.org.au/news/keynote-limor-fried/).
+
+[![FOSDEM 2021 Python Developer Room](../assets/2020mmdd/2020mmddfosdem.jpg)](https://blog.adafruit.com/2020/12/08/fosdem-2021-python-developer-room-python/)
+
+FOSDEM is a free and non-commercial event organised by the community for the community. Typically hosted in Brussels, Belgium, FOSDEM 2021 is taking place online February 6-7, 2021. This year, there will be a Python Developer Room. Details - [Adafruit Blog](https://blog.adafruit.com/2020/12/08/fosdem-2021-python-developer-room-python/).
+
+[![PyCascades 2021](../assets/2020mmdd/2020mmddpycascades.jpg)](https://2021.pycascades.com/)
+
+PyCascades is a regional PyCon in the Pacific Northwest, celebrating the west coast Python developer and user community. Held online February 19th — 21st, 2021 - [PyCascades](https://2021.pycascades.com/).
 
 [![2021 Open Hardware Summit](../assets/2020mmdd/2020mmddohs.jpg)](https://www.oshwa.org/2020/11/16/announcing-the-2021-open-hardware-summit/)
 
