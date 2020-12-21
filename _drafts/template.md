@@ -116,7 +116,7 @@ Looking for adding a new board to CircuitPython? It's highly encouraged! Adafrui
 
 ## New Learn Guides!
 
-[![New Learn Guides](../assets/2020mmdd/2020mmddlearn.jpg)](https://learn.adafruit.com/)
+[![New Learn Guides](../assets/2020mmdd/2020mmddlearn.jpg)](https://learn.adafruit.com/guides/latest)
 
 [title](url) from [name](url)
 
