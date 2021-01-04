@@ -51,20 +51,6 @@ text - [site](url)
 
 You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXBHlu9msoXq2jQN4JpCk8A).
 
-## Adafruit Update
-
-[![Adafruit](../assets/2021mmdd/2021mmddadafruit.jpg)](https://blog.adafruit.com/2020/05/26/adafruit-is-open-safely-and-shipping-all-orders/)
-
-Adafruit is stocked and shipping orders! 
-
-Now is the best time to get orders in for your favorite products, including holiday projects and gifts - [Adafruit](https://learn.adafruit.com/).
-
-[![Adafruit 20% Off](../assets/2021mmdd/2021mmdd-20.jpg)](https://learn.adafruit.com/secure-your-account-and-unlock-20-off?view=all)
-
-Adafruit is currently offering a one-time use discount code of 20% off after adding two factor authentication (2FA) to ones Adafruit account. The code may be used until November 26, 2020. See [this guide](https://learn.adafruit.com/secure-your-account-and-unlock-20-off?view=all) for details.
-
-**[Shop Adafruit now](https://www.adafruit.com/)**
-
 ## News from around the web!
 
 [![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
