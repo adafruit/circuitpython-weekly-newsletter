@@ -93,7 +93,7 @@ This week we had X new boards added!
 
 - [Board name](url)
 
-Looking for adding a new board to CircuitPython? It's highly encouraged! Adafruit has four guides to help you do so:
+Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit has four guides to help you do so:
 
 - [How to Add a New Board to CircuitPython](https://learn.adafruit.com/how-to-add-a-new-board-to-circuitpython/overview)
 - [How to add a New Board to the circuitpython.org website](https://learn.adafruit.com/how-to-add-a-new-board-to-the-circuitpython-org-website)
