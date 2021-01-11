@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2020-01-05 - remove Adafruit Update, date fix
+Template last updated on 2020-01-11 - syntax
 
 View this email in your browser.
 
