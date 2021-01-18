@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2020-01-11 - syntax
+Template last updated on 2020-01-18 - event, copyedit
 
 View this email in your browser.
 
