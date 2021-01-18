@@ -23,7 +23,7 @@ Template last updated on 2020-01-11 - syntax
 
 View this email in your browser.
 
-Hi everyone! It's the latest Python for Microcontrollers newsletter, brought you by the community! We're on [Discord](https://discord.gg/HYqvREz), [Twitter](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), and for past newsletters - [view them all here](https://www.adafruitdaily.com/category/circuitpython/). If you're reading this on the web, [subscribe here](https://www.adafruitdaily.com/). Let's get started!
+Hi everyone! Here's the latest Python for Microcontrollers newsletter, brought you by the community! We're on [Discord](https://discord.gg/HYqvREz), [Twitter](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), and for past newsletters - [view them all here](https://www.adafruitdaily.com/category/circuitpython/). If you're reading this on the web, [subscribe here](https://www.adafruitdaily.com/). Let's get started!
 
 ## Headline Article
 
@@ -83,7 +83,7 @@ text - [site](url).
 
 [![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
-text - [site](url)
+text - [site](url).
 
 ## New Boards Supported by CircuitPython
 
@@ -188,11 +188,9 @@ text
 
 ## Upcoming events!
 
-[![linux.conf.au 2021](../assets/2021mmdd/linuxconfau.jpg)](https://lca2021.linux.org.au/news/keynote-limor-fried/)
+[![Girls Into Coding](../assets/2021mmdd/2021mmddgirls.jpg)](https://www.eventbrite.co.uk/e/virtual-girls-into-coding-8-join-us-get-involved-tickets-135837302027)
 
-Australia’s grassroots Free and Open Source technologies conference linux.conf.au is scheduled for January 23-25 2021 online/worldwide. Limor "Ladyada" Fried, electrical engineer and founder of Adafruit, will be one of their keynote speakers. In her keynote, Limor will discuss how Python is snaking its way into hardware, Linux single board computers and more. 
-
-The schedule and tickets are available at [lca2021.linux.org.au](https://lca2021.linux.org.au/) - [Announcement](https://lca2021.linux.org.au/news/keynote-limor-fried/).
+A free virtual "Girls Into Coding" event via Zoom on Sunday, 31 January 2021 - Choose 1 of 5 workshops. There will also be lightning talks to inspire & encourage girls aged 10 -14 to get involved in tech - [Eventbrite](https://www.eventbrite.co.uk/e/virtual-girls-into-coding-8-join-us-get-involved-tickets-135837302027).
 
 [![FOSDEM 2021 Python Developer Room](../assets/2021mmdd/2021mmddfosdem.jpg)](https://blog.adafruit.com/2020/12/08/fosdem-2021-python-developer-room-python/)
 
