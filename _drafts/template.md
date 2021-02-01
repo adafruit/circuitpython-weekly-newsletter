@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2021-01-26 07:00:00 -0800
+date: 2021-02-09 07:00:00 -0800
 categories: weekly
 ---
 
@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-01-18 - event, copyedit
+Template last updated on 2021-02-01 - event, copyedit by Anne
 
 View this email in your browser.
 
@@ -188,21 +188,17 @@ text
 
 ## Upcoming events!
 
-[![Girls Into Coding](../assets/2021mmdd/2021mmddgirls.jpg)](https://www.eventbrite.co.uk/e/virtual-girls-into-coding-8-join-us-get-involved-tickets-135837302027)
-
-A free virtual "Girls Into Coding" event via Zoom on Sunday, 31 January 2021 - Choose 1 of 5 workshops. There will also be lightning talks to inspire & encourage girls aged 10 -14 to get involved in tech - [Eventbrite](https://www.eventbrite.co.uk/e/virtual-girls-into-coding-8-join-us-get-involved-tickets-135837302027).
-
-[![FOSDEM 2021 Python Developer Room](../assets/2021mmdd/2021mmddfosdem.jpg)](https://blog.adafruit.com/2020/12/08/fosdem-2021-python-developer-room-python/)
-
-FOSDEM is a free and non-commercial event organised by the community for the community. Typically hosted in Brussels, Belgium, FOSDEM 2021 is taking place online February 6-7, 2021. This year, there will be a Python Developer Room. Details - [Adafruit Blog](https://blog.adafruit.com/2020/12/08/fosdem-2021-python-developer-room-python/).
-
-[![PyCascades 2021](../assets/2021mmdd/2021mmddpycascades.jpg)](https://2021.pycascades.com/)
+[![PyCascades 2021](../assets/2021mmdd/202mmddpycascades.jpg)](https://2021.pycascades.com/)
 
 PyCascades is a regional PyCon in the Pacific Northwest, celebrating the west coast Python developer and user community. Held online February 19th — 21st, 2021 - [PyCascades](https://2021.pycascades.com/).
 
 [![2021 Open Hardware Summit](../assets/2021mmdd/2021mmddohs.jpg)](https://www.oshwa.org/2020/11/16/announcing-the-2021-open-hardware-summit/)
 
 The 2021 Open Hardware summit will be held online, Friday April 9, 2021. The summit will be livestreamed, but ticket holders will have access to additional interactive portions of the summit like meet-and-greets, workshops, and sponsor booths. Find details, including ticket and sponsorship information at [2021.oshwa.org](https://2021.oshwa.org/) - [OSHWA](https://www.oshwa.org/2020/11/16/announcing-the-2021-open-hardware-summit/).
+
+[![GeoPython 2021](../assets/2021mmdd2/2021mmddgeo.jpg)](https://2021.geopython.net/)
+
+The online GeoPython conference is focused on Python and Geo, its toolkits and applications. April 22-23, 2021 - [https://2021.geopython.net/](https://2021.geopython.net/).
 
 [![PyCon US 2021](../assets/2021mmdd/2021mmddpycon.jpg)](https://us.pycon.org/2021/)
 
