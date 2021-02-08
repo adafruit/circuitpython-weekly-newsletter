@@ -188,7 +188,7 @@ text
 
 ## Upcoming events!
 
-[![PyCascades 2021](../assets/2021mmdd/202mmddpycascades.jpg)](https://2021.pycascades.com/)
+[![PyCascades 2021](../assets/2021mmdd/2021mmddpycascades.jpg)](https://2021.pycascades.com/)
 
 PyCascades is a regional PyCon in the Pacific Northwest, celebrating the west coast Python developer and user community. Held online February 19th — 21st, 2021 - [PyCascades](https://2021.pycascades.com/).
 
