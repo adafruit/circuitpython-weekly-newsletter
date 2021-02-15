@@ -39,6 +39,10 @@ text - [site](url)
 
 ## Feature
 
+[![PyCascades 2021](../assets/2021mmdd/2021mmddpycascades.jpg)](https://2021.pycascades.com/)
+
+PyCascades is a regional PyCon in the Pacific Northwest, celebrating the west coast Python developer and user community. Held online February 19th — 21st, 2021 - [PyCascades](https://2021.pycascades.com/).
+
 [![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url)
@@ -188,15 +192,11 @@ text
 
 ## Upcoming events!
 
-[![PyCascades 2021](../assets/2021mmdd/2021mmddpycascades.jpg)](https://2021.pycascades.com/)
-
-PyCascades is a regional PyCon in the Pacific Northwest, celebrating the west coast Python developer and user community. Held online February 19th — 21st, 2021 - [PyCascades](https://2021.pycascades.com/).
-
 [![2021 Open Hardware Summit](../assets/2021mmdd/2021mmddohs.jpg)](https://www.oshwa.org/2020/11/16/announcing-the-2021-open-hardware-summit/)
 
 The 2021 Open Hardware summit will be held online, Friday April 9, 2021. The summit will be livestreamed, but ticket holders will have access to additional interactive portions of the summit like meet-and-greets, workshops, and sponsor booths. Find details, including ticket and sponsorship information at [2021.oshwa.org](https://2021.oshwa.org/) - [OSHWA](https://www.oshwa.org/2020/11/16/announcing-the-2021-open-hardware-summit/).
 
-[![GeoPython 2021](../assets/2021mmdd2/2021mmddgeo.jpg)](https://2021.geopython.net/)
+[![GeoPython 2021](../assets/2021mmdd/2021mmddgeo.jpg)](https://2021.geopython.net/)
 
 The online GeoPython conference is focused on Python and Geo, its toolkits and applications. April 22-23, 2021 - [https://2021.geopython.net/](https://2021.geopython.net/).
 
