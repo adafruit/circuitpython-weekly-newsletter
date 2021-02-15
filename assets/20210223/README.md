@@ -1,0 +1,12 @@
+## February 23, 2021 CircuitPython Newsletter Assets
+
+Please preface all asset filenames for this issue with 210223, re. 210223neopixel.jpg
+
+Please consider using JPG files for size.
+
+For videos:
+
+* Capture via https://twittervideodownloader.com/ if necessary
+* Convert to GIF with https://ezgif.com/, max 550 px wide, < 1MB in size
+
+To reduce GIF filesize, make smaller or crop, say to 400px wide and consider 5 seconds max.
