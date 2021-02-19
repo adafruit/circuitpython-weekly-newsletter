@@ -1,6 +1,6 @@
 ## February 23, 2021 CircuitPython Newsletter Assets
 
-Please preface all asset filenames for this issue with 210223, re. 210223neopixel.jpg
+Please preface all asset filenames for this issue with 20210223, re. 210223neopixel.jpg
 
 Please consider using JPG files for size.
 * All images **must be <=550px wide**
