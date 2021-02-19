@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-02-01 - event, copyedit by Anne
+Template last updated on 2021-02-19 - event from Kattni
 
 View this email in your browser.
 
@@ -203,6 +203,10 @@ The online GeoPython conference is focused on Python and Geo, its toolkits and a
 [![PyCon US 2021](../assets/2021mmdd/2021mmddpycon.jpg)](https://us.pycon.org/2021/)
 
 PyCon US, the annual official annual Python gathering, has been announced to be held online May 12-15, 2021. Sprints will be held May 16-18, 2021. More information and signups at [https://us.pycon.org/2021/](https://us.pycon.org/2021/)
+
+[![EuroPython 2021](../assets/2021mmdd/2021mmddeuropython.jpg)](https://ep2021.europython.eu/)
+
+EuroPython, the largest conference for the Python programming language in Europe, has been announced to be held online July 26 - August 1, 2021. More information at [https://ep2021.europython.eu/](https://ep2021.europython.eu/)
 
 **Send Your Events In**
 
