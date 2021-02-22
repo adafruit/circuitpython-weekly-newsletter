@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-02-19 - event from Kattni
+Template last updated on 2021-02-23 - remove PyCascades Anne
 
 View this email in your browser.
 
@@ -38,10 +38,6 @@ text - [site](url)
 text - [site](url)
 
 ## Feature
-
-[![PyCascades 2021](../assets/2021mmdd/2021mmddpycascades.jpg)](https://2021.pycascades.com/)
-
-PyCascades is a regional PyCon in the Pacific Northwest, celebrating the west coast Python developer and user community. Held online February 19th — 21st, 2021 - [PyCascades](https://2021.pycascades.com/).
 
 [![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
