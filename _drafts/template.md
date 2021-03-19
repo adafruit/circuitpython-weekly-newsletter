@@ -248,7 +248,7 @@ text - [Adafruit Jobs Board](https://jobs.adafruit.com/).
 
 ## NUMBER thanks!
 
-[![NUMBER THANKS](../assets/2021mmdd/27kdiscord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/2021mmdd/28kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
