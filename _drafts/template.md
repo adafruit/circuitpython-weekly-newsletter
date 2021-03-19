@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-02-23 - remove PyCascades Anne
+Template last updated on 2021-03-19 - Add PyOhio - Kattni
 
 View this email in your browser.
 
@@ -203,6 +203,10 @@ PyCon US, the annual official annual Python gathering, has been announced to be 
 [![EuroPython 2021](../assets/2021mmdd/2021mmddeuropython.jpg)](https://ep2021.europython.eu/)
 
 EuroPython, the largest conference for the Python programming language in Europe, has been announced to be held online July 26 - August 1, 2021. More information at [https://ep2021.europython.eu/](https://ep2021.europython.eu/)
+
+[![PyOhio](../assets/20210316/2021mmddpyohio.jpg)](https://www.pyohio.org/2021/)
+
+Call for proposals for PyOhio 2021 runs from March 15 - April 19, 2021 with the free event on July 31, 2021- [PyOhio.org](https://www.pyohio.org/2021/) via [Twitter](https://twitter.com/PyOhio/status/1370184124460367881).
 
 **Send Your Events In**
 
