@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2021-02-09 07:00:00 -0800
+date: 2021-04-06 07:00:00 -0800
 categories: weekly
 ---
 
@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-02-01 - event, copyedit by Anne
+Template last updated on 2021-03-19 - Add PyOhio - Kattni
 
 View this email in your browser.
 
@@ -188,21 +188,25 @@ text
 
 ## Upcoming events!
 
-[![PyCascades 2021](../assets/2021mmdd/202mmddpycascades.jpg)](https://2021.pycascades.com/)
-
-PyCascades is a regional PyCon in the Pacific Northwest, celebrating the west coast Python developer and user community. Held online February 19th — 21st, 2021 - [PyCascades](https://2021.pycascades.com/).
-
 [![2021 Open Hardware Summit](../assets/2021mmdd/2021mmddohs.jpg)](https://www.oshwa.org/2020/11/16/announcing-the-2021-open-hardware-summit/)
 
 The 2021 Open Hardware summit will be held online, Friday April 9, 2021. The summit will be livestreamed, but ticket holders will have access to additional interactive portions of the summit like meet-and-greets, workshops, and sponsor booths. Find details, including ticket and sponsorship information at [2021.oshwa.org](https://2021.oshwa.org/) - [OSHWA](https://www.oshwa.org/2020/11/16/announcing-the-2021-open-hardware-summit/).
 
-[![GeoPython 2021](../assets/2021mmdd2/2021mmddgeo.jpg)](https://2021.geopython.net/)
+[![GeoPython 2021](../assets/2021mmdd/2021mmddgeo.jpg)](https://2021.geopython.net/)
 
 The online GeoPython conference is focused on Python and Geo, its toolkits and applications. April 22-23, 2021 - [https://2021.geopython.net/](https://2021.geopython.net/).
 
 [![PyCon US 2021](../assets/2021mmdd/2021mmddpycon.jpg)](https://us.pycon.org/2021/)
 
 PyCon US, the annual official annual Python gathering, has been announced to be held online May 12-15, 2021. Sprints will be held May 16-18, 2021. More information and signups at [https://us.pycon.org/2021/](https://us.pycon.org/2021/)
+
+[![EuroPython 2021](../assets/2021mmdd/2021mmddeuropython.jpg)](https://ep2021.europython.eu/)
+
+EuroPython, the largest conference for the Python programming language in Europe, has been announced to be held online July 26 - August 1, 2021. More information at [https://ep2021.europython.eu/](https://ep2021.europython.eu/)
+
+[![PyOhio](../assets/20210316/2021mmddpyohio.jpg)](https://www.pyohio.org/2021/)
+
+Call for proposals for PyOhio 2021 runs from March 15 - April 19, 2021 with the free event on July 31, 2021- [PyOhio.org](https://www.pyohio.org/2021/) via [Twitter](https://twitter.com/PyOhio/status/1370184124460367881).
 
 **Send Your Events In**
 
@@ -244,7 +248,7 @@ text - [Adafruit Jobs Board](https://jobs.adafruit.com/).
 
 ## NUMBER thanks!
 
-[![NUMBER THANKS](../assets/2021mmdd/27kdiscord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/2021mmdd/28kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
