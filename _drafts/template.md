@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-03-19 - Add PyOhio - Kattni
+Template last updated on 2021-04-01 - Typo fix - Kattni
 
 View this email in your browser.
 
@@ -232,7 +232,7 @@ One important feature of CircuitPython is translated control and error messages.
 
 With the help of fellow open source project [Weblate](https://weblate.org/), we're making it even easier to add or improve translations.
 
-Sign in with an existing account such as Github, Google or Facebook and start contributing through a simple web interface. No forks or pull requests needed!
+Sign in with an existing account such as GitHub, Google or Facebook and start contributing through a simple web interface. No forks or pull requests needed!
 
 As always, if you run into trouble join us on [Discord](https://adafru.it/discord), we're here to help.
 
