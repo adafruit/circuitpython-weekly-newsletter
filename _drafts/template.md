@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-04-01 - Typo fix - Kattni
+Template last updated on 2021-04-12 - Remove OHS event - Kattni
 
 View this email in your browser.
 
@@ -187,10 +187,6 @@ text
 text
 
 ## Upcoming events!
-
-[![2021 Open Hardware Summit](../assets/2021mmdd/2021mmddohs.jpg)](https://www.oshwa.org/2020/11/16/announcing-the-2021-open-hardware-summit/)
-
-The 2021 Open Hardware summit will be held online, Friday April 9, 2021. The summit will be livestreamed, but ticket holders will have access to additional interactive portions of the summit like meet-and-greets, workshops, and sponsor booths. Find details, including ticket and sponsorship information at [2021.oshwa.org](https://2021.oshwa.org/) - [OSHWA](https://www.oshwa.org/2020/11/16/announcing-the-2021-open-hardware-summit/).
 
 [![GeoPython 2021](../assets/2021mmdd/2021mmddgeo.jpg)](https://2021.geopython.net/)
 
