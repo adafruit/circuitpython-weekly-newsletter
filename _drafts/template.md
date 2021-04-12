@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-04-12 - Remove OHS event and fix PyOhio link - Kattni
+Template last updated on 2021-04-12 - Remove OHS event, fix PyOhio link, typo fix - Kattni
 
 View this email in your browser.
 
@@ -236,7 +236,7 @@ As always, if you run into trouble join us on [Discord](https://adafru.it/discor
 
 [![jobs.adafruit.com](../assets/2021mmdd/jobs.jpg)](https://jobs.adafruit.com/)
 
-[jobs.adafruit.com](https://jobs.adafruit.com/) has returned and folks are posting their skills (including CircuitPython) and companies are looking for talented makers to join their companies - from Digi-Key, to Hackaday, Microcenter, Raspberry Pi and more.
+[jobs.adafruit.com](https://jobs.adafruit.com/) has returned and folks are posting their skills (including CircuitPython) and companies are looking for talented makers to join their companies - from Digi-Key, to Hackaday, Micro Center, Raspberry Pi and more.
 
 **Job of the Week**
 
