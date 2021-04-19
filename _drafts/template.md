@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-04-19 - Add project bundle to lib section, typo fix - Kattni
+Template last updated on 2021-04-19 - Add project bundle to lib section, typo fix, remove GeoPython - Kattni
 
 View this email in your browser.
 
@@ -212,10 +212,6 @@ text
 
 ## Upcoming events!
 
-[![GeoPython 2021](../assets/2021mmdd/2021mmddgeo.jpg)](https://2021.geopython.net/)
-
-The online GeoPython conference is focused on Python and Geo, its toolkits and applications. April 22-23, 2021 - [https://2021.geopython.net/](https://2021.geopython.net/).
-
 [![PyCon US 2021](../assets/2021mmdd/2021mmddpycon.jpg)](https://us.pycon.org/2021/)
 
 PyCon US, the annual official annual Python gathering, has been announced to be held online May 12-15, 2021. Sprints will be held May 16-18, 2021. More information and signups at [https://us.pycon.org/2021/](https://us.pycon.org/2021/)
@@ -226,7 +222,7 @@ EuroPython, the largest conference for the Python programming language in Europe
 
 [![PyOhio](../assets/2021mmdd/2021mmddpyohio.jpg)](https://www.pyohio.org/2021/)
 
-Call for proposals for PyOhio 2021 runs from March 15 - April 19, 2021 with the free event on July 31, 2021- [PyOhio.org](https://www.pyohio.org/2021/) via [Twitter](https://twitter.com/PyOhio/status/1370184124460367881).
+Call for proposals for PyOhio 2021 runs from March 15 - May 2, 2021 with the free event on July 31, 2021- [PyOhio.org](https://www.pyohio.org/2021/) via [Twitter](https://twitter.com/PyOhio/status/1370184124460367881).
 
 **Send Your Events In**
 
