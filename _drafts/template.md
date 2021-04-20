@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-04-19 - Add project bundle to lib section, typo fix, remove GeoPython - Kattni
+Template last updated on 2021-04-20 - Add project bundle to lib section, typo fix, remove GeoPython, update Team section - Kattni
 
 View this email in your browser.
 
