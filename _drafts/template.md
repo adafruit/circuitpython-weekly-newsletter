@@ -168,12 +168,6 @@ Here's this week's updated CircuitPython libraries:
 
 What is the team up to this week? Let’s check in!
 
-**Bryan**
-
-[![Bryan](../assets/2021mmdd/2021mmddbryan.jpg)](https://circuitpython.org/)
-
-text
-
 **Dan**
 
 [![Dan](../assets/2021mmdd/2021mmdddan.jpg)](https://circuitpython.org/)
