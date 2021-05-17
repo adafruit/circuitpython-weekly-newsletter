@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-05-10 by Anne - remove PyCon US, add BundleFly graphic, change Discord to 29k
+Template last updated on 2021-05-17 by Anne - add PyConline AU
 
 View this email in your browser.
 
@@ -215,6 +215,10 @@ EuroPython, the largest conference for the Python programming language in Europe
 [![PyOhio](../assets/2021mmdd/2021mmddpyohio.jpg)](https://www.pyohio.org/2021/)
 
 Call for proposals for PyOhio 2021 runs from March 15 - May 2, 2021 with the free event on July 31, 2021- [PyOhio.org](https://www.pyohio.org/2021/) via [Twitter](https://twitter.com/PyOhio/status/1370184124460367881).
+
+[![PyConline AU](../assets/2021mmdd/2021mmddpyconau.png)](https://2021.pycon.org.au/)
+
+Call for proposals for PyConline AU 2021 runs until June 10th, 2021 with the event held 10-12 September, 2021 - [pyconlineau](https://2021.pycon.org.au/)
 
 **Send Your Events In**
 
