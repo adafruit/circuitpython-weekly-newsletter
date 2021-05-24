@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-05-17 by Anne - add PyConline AU
+Template last updated on 2021-05-24 by Anne - minor formatting tweaks
 
 View this email in your browser.
 
@@ -29,19 +29,19 @@ Welcome to the latest Python on Microcontrollers newsletter, brought you by the 
 
 [![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
-text - [site](url)
+text - [site](url).
 
 ## Feature
 
 [![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
-text - [site](url)
+text - [site](url).
 
 ## Feature
 
 [![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
-text - [site](url)
+text - [site](url).
 
 ## CircuitPython Deep Dive Stream with Scott Shawcroft
 
@@ -77,9 +77,45 @@ text - [site](url).
 
 text - [site](url).
 
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
+
+text - [site](url).
+
 **#ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)? [title](url).**
 
 ## Coming soon
+
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
+
+text - [site](url).
 
 [![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
@@ -89,7 +125,7 @@ text - [site](url).
 
 The number of supported microcontrollers and Single Board Computers (SBC) grows every week. This section outlines which boards have been included in CircuitPython or added to [CircuitPython.org](https://circuitpython.org/).
 
-This week we had X new boards added!
+This week, there were (#/no) new boards added!
 
 - [Board name](url)
 
@@ -210,11 +246,11 @@ text
 
 [![EuroPython 2021](../assets/2021mmdd/2021mmddeuropython.jpg)](https://ep2021.europython.eu/)
 
-EuroPython, the largest conference for the Python programming language in Europe, has been announced to be held online July 26 - August 1, 2021. More information at [https://ep2021.europython.eu/](https://ep2021.europython.eu/)
+EuroPython, the largest conference for the Python programming language in Europe, will be held online July 26 - August 1, 2021. More information at [https://ep2021.europython.eu/](https://ep2021.europython.eu/)
 
 [![PyOhio](../assets/2021mmdd/2021mmddpyohio.jpg)](https://www.pyohio.org/2021/)
 
-Call for proposals for PyOhio 2021 runs from March 15 - May 2, 2021 with the free event on July 31, 2021- [PyOhio.org](https://www.pyohio.org/2021/) via [Twitter](https://twitter.com/PyOhio/status/1370184124460367881).
+PyOhio 2021 is a free event on July 31, 2021 - [PyOhio.org](https://www.pyohio.org/2021/) via [Twitter](https://twitter.com/PyOhio/status/1370184124460367881).
 
 [![PyConline AU](../assets/2021mmdd/2021mmddpyconau.png)](https://2021.pycon.org.au/)
 
