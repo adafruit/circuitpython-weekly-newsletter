@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-05-24 by Anne - minor formatting tweaks
+Template last updated on 2021-06-14 by Anne - minor formatting tweaks
 
 View this email in your browser.
 
@@ -52,6 +52,30 @@ text - [site](url).
 You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXBHlu9msoXq2jQN4JpCk8A).
 
 ## News from around the web!
+
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
+
+text - [site](url).
 
 [![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
@@ -254,7 +278,7 @@ PyOhio 2021 is a free event on July 31, 2021 - [PyOhio.org](https://www.pyohio.o
 
 [![PyConline AU](../assets/2021mmdd/2021mmddpyconau.png)](https://2021.pycon.org.au/)
 
-Call for proposals for PyConline AU 2021 runs until June 10th, 2021 with the event held 10-12 September, 2021 - [pyconlineau](https://2021.pycon.org.au/)
+PyConline AU will be held 10-12 September, 2021 - [pyconlineau](https://2021.pycon.org.au/)
 
 **Send Your Events In**
 
