@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-06-14 by Anne - minor formatting tweaks
+Template last updated on 2021-06-28 by Anne - add NZ PyCon
 
 View this email in your browser.
 
@@ -279,6 +279,10 @@ PyOhio 2021 is a free event on July 31, 2021 - [PyOhio.org](https://www.pyohio.o
 [![PyConline AU](../assets/2021mmdd/2021mmddpyconau.png)](https://2021.pycon.org.au/)
 
 PyConline AU will be held 10-12 September, 2021 - [pyconlineau](https://2021.pycon.org.au/)
+
+[![Kiwi PyCon XI](../assets/2021mmdd/2021mmddkiwi.jpg)](https://python.nz/kiwipycon)
+
+Kiwi PyCon XI, Ōtautahi Christchurch, 17th, 18th, & 19th of September 2021 and CFP ends July 16th - [python.nz](https://python.nz/kiwipycon).
 
 **Send Your Events In**
 
