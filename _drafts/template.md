@@ -9,7 +9,7 @@ categories: weekly
 - [ ] change date
 - [ ] update title
 - [ ] Feature story
-- [ ] Update [![](../assets/20210727/)]() for images
+- [ ] Update [![](../assets/2021mmdd/)]() for images
 - [ ] Update ICYDNCI
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
@@ -27,37 +27,37 @@ Welcome to the latest Python on Microcontrollers newsletter, brought you by the 
 
 ## Headline Article
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
 ## Feature
 
-[![State of Open Source Hardware in 2021](../assets/20210727/20210727-name.jpg)](url)
+[![State of Open Source Hardware in 2021](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
 ## Feature
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
 ## Feature
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
 ## Feature
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
 ## CircuitPython Deep Dive Stream with Scott Shawcroft
 
-[![Deep Dive with Scott](../assets/20210727/20210727deepdive.jpg)](link)
+[![Deep Dive with Scott](../assets/2021mmdd/2021mmdddeepdive.jpg)](link)
 
 [This week](link), Scott streams his work on .
 
@@ -65,83 +65,83 @@ You can see the latest video and past videos on the Adafruit YouTube channel und
 
 ## News from around the web!
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
@@ -149,11 +149,11 @@ text - [site](url).
 
 ## Coming soon
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20210727/20210727-name.jpg)](url)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
 
@@ -174,7 +174,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 
 ## New Learn Guides!
 
-[![New Learn Guides](../assets/20210727/20210727learn.jpg)](https://learn.adafruit.com/guides/latest)
+[![New Learn Guides](../assets/2021mmdd/2021mmddlearn.jpg)](https://learn.adafruit.com/guides/latest)
 
 [title](url) from [name](url)
 
@@ -188,7 +188,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 
 ## CircuitPython Project Bundle
 
-[![BundleFly](../assets/20210727/20210727bundlefly.jpg)](https://learn.adafruit.com/)
+[![BundleFly](../assets/2021mmdd/2021mmddbundlefly.jpg)](https://learn.adafruit.com/)
 
 When you get to the CircuitPython code section of an [Adafruit Learn Guide](https://learn.adafruit.com/), sometimes things can get a bit complicated. You not only have the code you need to upload to your device, but you likely also need to add some libraries that the code requires to run. This involved downloading all the libraries, digging through to find the ones you need, and copying them to your device. That was only the beginning on some projects, as those that include images and/or sound files required further downloading and copying of files. But, not anymore!
 
@@ -198,15 +198,15 @@ Now, with Project Bundles, you can download all the necessary code, libraries an
 
 In the Learning System - above any embedded code in a guide in the Adafruit Learn System, you’ll find a Download Project Bundle button.
 
-[![Project Bundle download button](../assets/20210727/20210727pblink.jpg)](https://learn.adafruit.com/)
+[![Project Bundle download button](../assets/2021mmdd/2021mmddpblink.jpg)](https://learn.adafruit.com/)
 
 Click the button to download the Project Bundle zip.
 
-[![Project Bundle zip downloaded](../assets/20210727/20210727pbzipfile.jpg)](https://learn.adafruit.com/)
+[![Project Bundle zip downloaded](../assets/2021mmdd/2021mmddpbzipfile.jpg)](https://learn.adafruit.com/)
 
 Open the Project Bundle zip to find the example code, all necessary libraries, and, if available, any images, sounds, etc.
 
-[![Project Bundle unzipped](../assets/20210727/20210727pbdownload.jpg)](https://learn.adafruit.com/)
+[![Project Bundle unzipped](../assets/2021mmdd/2021mmddpbdownload.jpg)](https://learn.adafruit.com/)
 
 Simply copy all the files over to your CIRCUITPY drive, and you’re ready to go!
 
@@ -214,7 +214,7 @@ If you run into any problems or bugs, or would like to submit feedback, please f
 
 ## CircuitPython Libraries!
 
-[![CircuitPython Libraries](../assets/20210727/blinka.png)](https://circuitpython.org/libraries)
+[![CircuitPython Libraries](../assets/2021mmdd/blinka.png)](https://circuitpython.org/libraries)
 
 CircuitPython support for hardware continues to grow. We are adding support for new sensors and breakouts all the time, as well as improving on the drivers we already have. As we add more libraries and update current ones, you can keep up with all the changes right here!
 
@@ -244,51 +244,51 @@ What is the team up to this week? Let’s check in!
 
 **Dan**
 
-[![Dan](../assets/20210727/20210727dan.jpg)](https://circuitpython.org/)
+[![Dan](../assets/2021mmdd/2021mmdddan.jpg)](https://circuitpython.org/)
 
 text
 
 **Jeff**
 
-[![Jeff](../assets/20210727/20210727jeff.jpg)](https://circuitpython.org/)
+[![Jeff](../assets/2021mmdd/2021mmddjeff.jpg)](https://circuitpython.org/)
 
 text
 
 **Kattni**
 
-[![Kattni](../assets/20210727/20210727kattni.jpg)](https://circuitpython.org/)
+[![Kattni](../assets/2021mmdd/2021mmddkattni.jpg)](https://circuitpython.org/)
 
 text
 
 **Lucian**
 
-[![Lucian](../assets/20210727/20210727lucian.jpg)](https://circuitpython.org/)
+[![Lucian](../assets/2021mmdd/2021mmddlucian.jpg)](https://circuitpython.org/)
 
 text
 
 **Melissa**
 
-[![Melissa](../assets/20210727/20210727melissa.jpg)](https://circuitpython.org/)
+[![Melissa](../assets/2021mmdd/2021mmddmelissa.jpg)](https://circuitpython.org/)
 
 text
 
 **Scott**
 
-[![Scott](../assets/20210727/20210727scott.jpg)](https://circuitpython.org/)
+[![Scott](../assets/2021mmdd/2021mmddscott.jpg)](https://circuitpython.org/)
 
 text
 
 ## Upcoming events!
 
-[![PyOhio](../assets/20210727/20210727pyohio.jpg)](https://www.pyohio.org/2021/)
+[![PyOhio](../assets/2021mmdd/2021mmddpyohio.jpg)](https://www.pyohio.org/2021/)
 
 PyOhio 2021 is a free event on July 31, 2021 - [PyOhio.org](https://www.pyohio.org/2021/) via [Twitter](https://twitter.com/PyOhio/status/1370184124460367881).
 
-[![PyConline AU](../assets/20210727/20210727pyconau.png)](https://2021.pycon.org.au/)
+[![PyConline AU](../assets/2021mmdd/2021mmddpyconau.png)](https://2021.pycon.org.au/)
 
 PyConline AU will be held 10-12 September, 2021 - [pyconlineau](https://2021.pycon.org.au/)
 
-[![Kiwi PyCon XI](../assets/20210727/20210727kiwi.jpg)](https://python.nz/kiwipycon)
+[![Kiwi PyCon XI](../assets/2021mmdd/2021mmddkiwi.jpg)](https://python.nz/kiwipycon)
 
 Kiwi PyCon XI, Ōtautahi Christchurch, 17th, 18th, & 19th of September 2021 and CFP ends July 16th - [python.nz](https://python.nz/kiwipycon).
 
@@ -310,7 +310,7 @@ CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpyt
 
 ## Call for help -- Translating CircuitPython is now easier than ever!
 
-[![CircuitPython translation statistics on weblate](../assets/20210727/20210727weblate.jpg)](https://hosted.weblate.org/engage/circuitpython/)
+[![CircuitPython translation statistics on weblate](../assets/2021mmdd/2021mmddweblate.jpg)](https://hosted.weblate.org/engage/circuitpython/)
 
 One important feature of CircuitPython is translated control and error messages.
 
@@ -322,7 +322,7 @@ As always, if you run into trouble join us on [Discord](https://adafru.it/discor
 
 ## jobs.adafruit.com - Find a dream job, find great candidates!
 
-[![jobs.adafruit.com](../assets/20210727/jobs.jpg)](https://jobs.adafruit.com/)
+[![jobs.adafruit.com](../assets/2021mmdd/jobs.jpg)](https://jobs.adafruit.com/)
 
 [jobs.adafruit.com](https://jobs.adafruit.com/) has returned and folks are posting their skills (including CircuitPython) and companies are looking for talented makers to join their companies - from Digi-Key, to Hackaday, Micro Center, Raspberry Pi and more.
 
@@ -332,7 +332,7 @@ text - [Adafruit Jobs Board](https://jobs.adafruit.com/).
 
 ## NUMBER thanks!
 
-[![NUMBER THANKS](../assets/20210727/30kdiscord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/2021mmdd/30kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
@@ -340,7 +340,7 @@ The Adafruit Discord community, where we do all our CircuitPython development in
 
 ## ICYMI - In case you missed it
 
-[![ICYMI](../assets/20210727/20210727icymi.jpg)](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
+[![ICYMI](../assets/2021mmdd/2021mmddicymi.jpg)](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
 
 The wonderful world of Python on hardware! This is our Python video-newsletter-podcast! The news comes from the Python community, Discord, Adafruit communities and more and is reviewed on ASK an ENGINEER Wednesdays. The complete Python on Hardware weekly videocast [playlist is here](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev). 
 
@@ -352,7 +352,7 @@ And lastly, we are working up a one-spot destination for all things podcast-able
 
 ## Codecademy "Learn Hardware Programming with CircuitPython"
 
-[![Codecademy CircuitPython](../assets/20210727/codecademy_python.png)](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=pythononhardwarenewsletter)
+[![Codecademy CircuitPython](../assets/2021mmdd/codecademy_python.png)](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=pythononhardwarenewsletter)
 
 Codecademy, an online interactive learning platform used by more than 45 million people, has teamed up with the leading manufacturer in STEAM electronics, Adafruit Industries, to create a coding course, "Learn Hardware Programming with CircuitPython". The course is now available in the [Codecademy catalog](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=pythononhardwarenewsletter).
 
