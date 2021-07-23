@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2021-06-22 07:00:00 -0800
+date: 2021-08-03 07:00:00 -0800
 categories: weekly
 ---
 
@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-06-28 by Anne - add NZ PyCon
+Template last updated on 2021-07-23 by Anne - remove Euro PyCon, up Discord to 30k
 
 View this email in your browser.
 
@@ -268,10 +268,6 @@ text
 
 ## Upcoming events!
 
-[![EuroPython 2021](../assets/2021mmdd/2021mmddeuropython.jpg)](https://ep2021.europython.eu/)
-
-EuroPython, the largest conference for the Python programming language in Europe, will be held online July 26 - August 1, 2021. More information at [https://ep2021.europython.eu/](https://ep2021.europython.eu/)
-
 [![PyOhio](../assets/2021mmdd/2021mmddpyohio.jpg)](https://www.pyohio.org/2021/)
 
 PyOhio 2021 is a free event on July 31, 2021 - [PyOhio.org](https://www.pyohio.org/2021/) via [Twitter](https://twitter.com/PyOhio/status/1370184124460367881).
@@ -324,7 +320,7 @@ text - [Adafruit Jobs Board](https://jobs.adafruit.com/).
 
 ## NUMBER thanks!
 
-[![NUMBER THANKS](../assets/2021mmdd/29kdiscord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/2021mmdd/30kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
