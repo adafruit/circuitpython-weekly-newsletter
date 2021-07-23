@@ -33,12 +33,6 @@ text - [site](url).
 
 ## Feature
 
-[![State of Open Source Hardware in 2021](../assets/2021mmdd/2021mmdd-name.jpg)](url)
-
-text - [site](url).
-
-## Feature
-
 [![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
