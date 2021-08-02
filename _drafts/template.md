@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-07-23 by Anne - remove Euro PyCon, up Discord to 30k
+Template last updated on 2021-08-02 by Anne - remove PyOhio, Lucian
 
 View this email in your browser.
 
@@ -254,12 +254,6 @@ text
 
 text
 
-**Lucian**
-
-[![Lucian](../assets/2021mmdd/2021mmddlucian.jpg)](https://circuitpython.org/)
-
-text
-
 **Melissa**
 
 [![Melissa](../assets/2021mmdd/2021mmddmelissa.jpg)](https://circuitpython.org/)
@@ -273,10 +267,6 @@ text
 text
 
 ## Upcoming events!
-
-[![PyOhio](../assets/2021mmdd/2021mmddpyohio.jpg)](https://www.pyohio.org/2021/)
-
-PyOhio 2021 is a free event on July 31, 2021 - [PyOhio.org](https://www.pyohio.org/2021/) via [Twitter](https://twitter.com/PyOhio/status/1370184124460367881).
 
 [![PyConline AU](../assets/2021mmdd/2021mmddpyconau.png)](https://2021.pycon.org.au/)
 
