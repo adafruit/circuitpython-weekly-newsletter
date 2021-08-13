@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2021-08-03 07:00:00 -0800
+date: 2021-08-24 07:00:00 -0800
 categories: weekly
 ---
 
@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-08-02 by Anne - remove PyOhio, Lucian
+Template last updated on 2021-08-13 - add Hackaday Halloween
 
 View this email in your browser.
 
@@ -42,6 +42,18 @@ text - [site](url).
 [![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
 text - [site](url).
+
+## Halloween Hackfest
+
+[![Halloween Hackfest](../assets/2021mmdd/hackadayhalloween.jpg)](https://hackaday.com/2021/08/10/new-contest-halloween-hackfest/)
+
+Join Hackaday, Digi-Key, and Adafruit for a Halloween-themed contest! They want to see your crazy, creepy, ghostly, spooky, and awesome projects. 
+
+If costumes are your favorite part of Halloween, then why not dress up your outfit with some hacked upgrades? You could even design a ghoulish prop to add to your home’s Halloween decor or light up a Jack-o-lantern with LEDs. Whether it’s technical, artistic, or just plain terrifying, Hackaday wants to see your projects!
+
+Check out the Halloween Show & Tell with Hackaday, Friday, October 29th at 1pm PT, to show off your awesome projects entered in the contest. Don't forget to also share your projects on social media and use the #HalloweenHackfest!
+
+Hackaday and Digi-Key have partnered on this Halloween-themed contest to offer three winners an online shopping spree to the Digi-Key warehouse! - [Hackaday](https://hackaday.com/2021/08/10/new-contest-halloween-hackfest/) and [hackaday.io](https://hackaday.io/contest/180664-halloween-hackfest).
 
 ## Feature
 
