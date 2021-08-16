@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-08-13 - add Hackaday Halloween
+Template last updated on 2021-08-17 pycon India
 
 View this email in your browser.
 
@@ -287,6 +287,10 @@ PyConline AU will be held 10-12 September, 2021 - [pyconlineau](https://2021.pyc
 [![Kiwi PyCon XI](../assets/2021mmdd/2021mmddkiwi.jpg)](https://python.nz/kiwipycon)
 
 Kiwi PyCon XI, Ōtautahi Christchurch, 17th, 18th, & 19th of September 2021 and CFP ends July 16th - [python.nz](https://python.nz/kiwipycon).
+
+[![PyCon India 2021](../assets/2021mmdd/2021mmddpyconin.png)](https://in.pycon.org/2021/)
+
+PyCon India is the largest gathering of Pythonistas in India for the Python programming language. The 13th edition of PyCon India will be taking place online from 17th September to 20th September 2021 - [PyCon India 2021](https://in.pycon.org/2021/).
 
 **Send Your Events In**
 
