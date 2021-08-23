@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-08-23 Add PyGotham
+Template last updated on 2021-08-23 Add PyGotham and CircuitPython Parsec
 
 View this email in your browser.
 
@@ -68,6 +68,14 @@ text - [site](url).
 [This week](link), Scott streams his work on .
 
 You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXBHlu9msoXq2jQN4JpCk8A).
+
+## CircuitPython Parsec
+
+[![CircuitPython Parsec](../assets/2021mmdd/2021mmddjp.jpg)](https://blog.adafruit.com/2021/08/17/john-parks-circuitpython-parsec-code-for-board-types-adafruit-johnedgarpark-adafruit-circuitpython/)
+
+John Park’s CircuitPython Parsec: 
+
+* episode - [Adafruit Blog](url)
 
 ## News from around the web!
 
