@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2021-08-24 07:00:00 -0800
+date: 2021-08-31 07:00:00 -0800
 categories: weekly
 ---
 
@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-08-17 pycon India
+Template last updated on 2021-08-23 Add PyGotham
 
 View this email in your browser.
 
@@ -291,6 +291,10 @@ Kiwi PyCon XI, Ōtautahi Christchurch, 17th, 18th, & 19th of September 2021 and 
 [![PyCon India 2021](../assets/2021mmdd/2021mmddpyconin.png)](https://in.pycon.org/2021/)
 
 PyCon India is the largest gathering of Pythonistas in India for the Python programming language. The 13th edition of PyCon India will be taking place online from 17th September to 20th September 2021 - [PyCon India 2021](https://in.pycon.org/2021/).
+
+[![PyGotham 2021](../assets/2021mmdd/pygotham2021.png)](https://2021.pygotham.tv/)
+
+PyGotham is a New York City based, eclectic, Py-centric conference covering many topics. [PyGotham TV 2021](https://2021.pygotham.tv/) is an online-only edition of PyGotham being held October 1-2, 2021. The call for proposals is [here](https://cfp.pygotham.tv/). Registration is [here](https://www.eventbrite.com/e/pygotham-tv-2021-tickets-157887556933).
 
 **Send Your Events In**
 
