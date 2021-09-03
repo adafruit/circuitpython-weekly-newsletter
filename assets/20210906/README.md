@@ -1,6 +1,6 @@
-## September 9, 2021 CircuitPython Newsletter Assets
+## September 7, 2021 CircuitPython Newsletter Assets
 
-Please preface all asset filenames for this issue with 20210906, re. 202100906neopixel.jpg
+Please preface all asset filenames for this issue with 20210907, re. 202100907neopixel.jpg
 
 Please consider using JPG files for size.
 * All images **must be <=550px wide**
