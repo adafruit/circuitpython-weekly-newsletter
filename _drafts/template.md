@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-08-23 Add PyGotham and CircuitPython Parsec
+Template last updated on 2021-09-13 add JP's playlist
 
 View this email in your browser.
 
@@ -76,6 +76,8 @@ You can see the latest video and past videos on the Adafruit YouTube channel und
 John Park’s CircuitPython Parsec: 
 
 * episode - [Adafruit Blog](url)
+
+Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr).
 
 ## News from around the web!
 
