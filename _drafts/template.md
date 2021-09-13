@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-09-13 add JP's playlist
+Template last updated on 2021-09-13 add JP's playlist & remove PyCon AU
 
 View this email in your browser.
 
@@ -289,10 +289,6 @@ text
 text
 
 ## Upcoming events!
-
-[![PyConline AU](../assets/2021mmdd/2021mmddpyconau.png)](https://2021.pycon.org.au/)
-
-PyConline AU will be held 10-12 September, 2021 - [pyconlineau](https://2021.pycon.org.au/)
 
 [![Kiwi PyCon XI](../assets/2021mmdd/2021mmddkiwi.jpg)](https://python.nz/kiwipycon)
 
