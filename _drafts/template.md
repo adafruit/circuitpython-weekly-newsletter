@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-09-20 remove PyCons past
+Template last updated on 2021-09-27 add pycon, Hacktoberfest, OSH Month
 
 View this email in your browser.
 
@@ -54,6 +54,22 @@ If costumes are your favorite part of Halloween, then why not dress up your outf
 Check out the Halloween Show & Tell with Hackaday, Friday, October 29th at 1pm PT, to show off your awesome projects entered in the contest. Don't forget to also share your projects on social media and use the #HalloweenHackfest!
 
 Hackaday and Digi-Key have partnered on this Halloween-themed contest to offer three winners an online shopping spree to the Digi-Key warehouse! - [Hackaday](https://hackaday.com/2021/08/10/new-contest-halloween-hackfest/) and [hackaday.io](https://hackaday.io/contest/180664-halloween-hackfest).
+
+## Hacktoberfest Begins October 1st
+
+[![Hacktoberfest 2021](../assets/2021mmdd/2021mmddhacktoberfest.png)](https://hacktoberfest.digitalocean.com/)
+
+Hosted by DigitalOcean for the 8th year in a row, Hacktoberfest encourages participation in giving back to the open source community by completing pull requests, participating in events, and donating to open source projects. 
+
+Anyone around the globe who desires to help drive the growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to participate. The first 55,000 participants can earn a T-shirt. Learn more - [DigitalOcean](https://hacktoberfest.digitalocean.com/).
+
+For CircuitPython, issues will soon be tagged for Hacktoberfest. [Good First Issues](https://circuitpython.org/contributing/open-issues?label=good-first-issue) and [open issues](https://circuitpython.org/contributing/open-issues) will both be featured. It is anticipated that the number of CircuitPython issues to work on will be higher this year.
+
+# October is also Open Hardware Month 
+
+[![Open Hardware Month ](../assets/2021mmdd/2021mmddohw.png)](https://ohm.oshwa.org/)
+
+October is Open Hardware Month! The Open Source Hardware Association (OSHWA) is providing resources and asking the community to host small, local events in the name of open source hardware. See more - [OSHWA](https://ohm.oshwa.org/).
 
 ## Feature
 
@@ -293,6 +309,10 @@ text
 [![PyGotham 2021](../assets/2021mmdd/pygotham2021.png)](https://2021.pygotham.tv/)
 
 PyGotham is a New York City based, eclectic, Py-centric conference covering many topics. [PyGotham TV 2021](https://2021.pygotham.tv/) is an online-only edition of PyGotham being held October 1-2, 2021. The call for proposals is [here](https://cfp.pygotham.tv/). Registration is [here](https://www.eventbrite.com/e/pygotham-tv-2021-tickets-157887556933).
+
+[![PyConZA](../assets/2021mmdd/2021mmddpyconza.png)](https://za.pycon.org/)
+
+PyConZA is the annual gathering of the South African community using and developing the open-source Python programming language. PyConZA is organized by the Python community for the community. PyConZA 2021 will be happening on 7 & 8 October 2021, as an online event - [more](https://za.pycon.org/).
 
 **Send Your Events In**
 
