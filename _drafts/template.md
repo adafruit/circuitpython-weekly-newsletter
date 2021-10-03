@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-09-27 add pycon, Hacktoberfest, OSH Month
+Template last updated on 202110-03 change discord graphic
 
 View this email in your browser.
 
@@ -354,7 +354,7 @@ text - [Adafruit Jobs Board](https://jobs.adafruit.com/).
 
 ## NUMBER thanks!
 
-[![NUMBER THANKS](../assets/2021mmdd/30kdiscord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/2021mmdd/31kdiscord.png)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
