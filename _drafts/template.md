@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2021-10-05 07:00:00 -0800
+date: 2021-10-12 07:00:00 -0800
 categories: weekly
 ---
 
@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 202110-03 change discord graphic
+Template last updated on 2021-10-04 update events
 
 View this email in your browser.
 
@@ -306,13 +306,9 @@ text
 
 ## Upcoming events!
 
-[![PyGotham 2021](../assets/2021mmdd/pygotham2021.png)](https://2021.pygotham.tv/)
+[![PyCon Sweden](../assets/2021mmdd/2021ddddpyconse.jpg)](http://www.pycon.se/)
 
-PyGotham is a New York City based, eclectic, Py-centric conference covering many topics. [PyGotham TV 2021](https://2021.pygotham.tv/) is an online-only edition of PyGotham being held October 1-2, 2021. The call for proposals is [here](https://cfp.pygotham.tv/). Registration is [here](https://www.eventbrite.com/e/pygotham-tv-2021-tickets-157887556933).
-
-[![PyConZA](../assets/2021mmdd/2021mmddpyconza.png)](https://za.pycon.org/)
-
-PyConZA is the annual gathering of the South African community using and developing the open-source Python programming language. PyConZA is organized by the Python community for the community. PyConZA 2021 will be happening on 7 & 8 October 2021, as an online event - [more](https://za.pycon.org/).
+PyCon Sweden 2021 will be held on 21-22 October, online for free - [more](http://www.pycon.se/).
 
 **Send Your Events In**
 
