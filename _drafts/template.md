@@ -310,6 +310,10 @@ text
 
 PyCon Sweden 2021 will be held on 21-22 October, online for free - [more](http://www.pycon.se/).
 
+[![PyCon Chile](../assets/2021mmdd/2021mmddpyconchile.png)](https://pycon.cl/)
+
+PyCon Chile is coming November 5, 6 and 7th online - one day of workshops and Sprints, two days of talks! - [more](https://pycon.cl/).
+
 **Send Your Events In**
 
 As for other events, with the COVID pandemic, most in-person events are postponed or cancelled. If you know of virtual events or events that may occur in the future, please let us know on Discord or on Twitter with hashtag #CircuitPython.
