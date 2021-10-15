@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-10-04 update events
+Template last updated on 2021-10-15 update events
 
 View this email in your browser.
 
