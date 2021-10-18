@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-10-15 update events
+Template last updated on 2021-10-18 - events list
 
 View this email in your browser.
 
@@ -306,13 +306,17 @@ text
 
 ## Upcoming events!
 
-[![PyCon Sweden](../assets/2021mmdd/2021ddddpyconse.jpg)](http://www.pycon.se/)
-
-PyCon Sweden 2021 will be held on 21-22 October, online for free - [more](http://www.pycon.se/).
-
 [![PyCon Chile](../assets/2021mmdd/2021mmddpyconchile.png)](https://pycon.cl/)
 
 PyCon Chile is coming November 5, 6 and 7th online - one day of workshops and Sprints, two days of talks! - [more](https://pycon.cl/).
+
+[![RISC-V Summit](../assets/2021mmdd/2021mmddriscv.jpg)](https://events.linuxfoundation.org/riscv-summit/register/)
+
+RISC-V Summit brings the community together to show the power open collaboration can have on the processor industry. The audience spans across industries, organizations, workloads, and geographies to learn about the technology advancements in the RISC-V ecosystem and visibility of RISC-V successes. The event is December 6 – 8, in-person in San Francisco or virtually from anywhere in the world - [Linux Foundation](https://events.linuxfoundation.org/riscv-summit/register/) via [Twitter](https://twitter.com/risc_v/status/1449886188941238274).
+
+[![PyCon US 2022](../assets/2021mmdd/pyconus2022.png)](https://us.pycon.org/2022/l)
+
+PyCon US 2022 planning is underway. The team is planning to host the event in person with an online component. April 27, 2022 - May 5, 2022. Head over to the [PyCon US 2022 website](https://us.pycon.org/2022/) for details about the conference and more information about the sponsorship program - [PyCon Blog](https://pycon.blogspot.com/2021/10/pycon-us-2022-website-and-sponsorship.html).
 
 **Send Your Events In**
 
