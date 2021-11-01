@@ -19,7 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 
-Template last updated on 2021-10-18 - events list
+Template last updated on 2021-11-02 adjust events again
 
 View this email in your browser.
 
@@ -305,10 +305,6 @@ text
 text
 
 ## Upcoming events!
-
-[![PyCon Chile](../assets/2021mmdd/2021mmddpyconchile.png)](https://pycon.cl/)
-
-PyCon Chile is coming November 5, 6 and 7th online - one day of workshops and Sprints, two days of talks! - [more](https://pycon.cl/).
 
 [![RISC-V Summit](../assets/2021mmdd/2021mmddriscv.jpg)](https://events.linuxfoundation.org/riscv-summit/register/)
 
