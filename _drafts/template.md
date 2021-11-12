@@ -160,7 +160,7 @@ text - [site](url).
 
 How to run a Python script in Linux with SYSTEMD - [codementor](https://www.codementor.io/@ufukafak/how-to-run-a-python-script-in-linux-with-systemd-1nh2x3hi0e).
 
-**#ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)? [title](url).**
+#ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://www.adafruitdaily.com/2021/11/09/python-on-microcontrollers-newsletter-raspberry-pi-os-update-bare-metal-circuitpython-and-more-python-adafruit-circuitpython-micropython-thepsf/)? [Bullseye – the new version of Raspberry Pi OS](https://www.raspberrypi.com/news/raspberry-pi-os-debian-bullseye/).
 
 ## Coming soon
 
