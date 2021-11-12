@@ -170,6 +170,8 @@ text - [site](url).
 
 Adafruit KB2040 controller: an RP2040 in a Pro Micro form factor great as an upgrade for keyboards - [kbd.news](https://kbd.news/Adafruit-KB2040-controller-1072.html).
 
+And see the giveaway [here](https://kbd.news/giveaway)!
+
 [![title](../assets/20211116/20211116-name.jpg)](url)
 
 text - [site](url).
