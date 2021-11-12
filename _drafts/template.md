@@ -269,7 +269,7 @@ text
 
 [![Melissa](../assets/2021mmdd/2021mmddmelissa.jpg)](https://circuitpython.org/)
 
-text
+This past week, I was out sick for a few days, but I did manage to get the new Raspberry Pi OS working with the PiTFT in desktop mode. It ended up being one of those problems that could have had many possible causes, but the final solution was pretty simple.
 
 **Scott**
 
