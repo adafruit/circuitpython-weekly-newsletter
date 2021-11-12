@@ -249,21 +249,19 @@ What is the team up to this week? Let’s check in!
 
 **Dan**
 
-[![Dan](../assets/20211116/20211116dan.jpg)](https://circuitpython.org/)
-
-text
+Experimental asyncio support will be in the next CircuitPython beta. I tweaked the MicroPython version of asyncio to work with CircuitPython, and it's now a [library](https://github.com/adafruit/Adafruit_CircuitPython_asyncio). Along with this the latest builds of CircuitPython have also been adjusted to work with that library. Next, I'll be working on a Learn Guide with a number of examples.
 
 **Jeff**
 
-[![Jeff](../assets/20211116/20211116jeff.jpg)](https://circuitpython.org/)
-
-text
+It was an exciting week for me, as a number of half-finished projects were merged into the CircuitPython core. The most recent additions are `dither` and `alphablend` in the bitmaptools library.  You can check out a short video about the functionality [on youtube](https://www.youtube.com/watch?v=a_NhAFZBHhI).
 
 **Kattni**
 
-[![Kattni](../assets/20211116/20211116kattni.jpg)](https://circuitpython.org/)
+This past week, I finished up the overhaul of the Welcome to CircuitPython guide. Please check it out! It's updated and better designed to provide a smooth experience for newcomers, while still offering up advanced knowledge to those who are looking for it. There are a couple of new pages as well, so take a look at those whether you're new to the guide or quite familiar with it.
 
-text
+I merged a number of PRs to get many more libraries in line with the latest Pylint, and helped out by submitting a few myself. As of this writing there are still ~40 to go, but based on the speed with which that's being addressed, I imagine everything will be done by the time this newsletter is published!
+
+Next up is starting the guide for the Adafruit Monochrome 1.12" 128x128 OLED Graphic Display, a new OLED in the shop. Once complete, it'll have everything you need to get started with your new display. Keep an eye out for it.
 
 **Melissa**
 
@@ -273,9 +271,7 @@ This past week, I was out sick for a few days, but I did manage to get the new R
 
 **Scott**
 
-[![Scott](../assets/20211116/20211116scott.jpg)](https://circuitpython.org/)
-
-text
+This week I've been doing two things in parallel. First, I've gotten CircuitPython running on the Pi Zero 2W. Second, I've been working hard to add SD card support to CircuitPython on the Raspberry Pi. Adding SD card support will allow the CIRCUITPY drive to appear as it does when running on microcontrollers. Once SD card support is going (it's *very* close) then I'll polish things up and get them merged into main CircuitPython and released.
 
 ## Upcoming events!
 
