@@ -158,9 +158,7 @@ text - [site](url).
 
 text - [site](url).
 
-[![title](../assets/20211116/20211116-name.jpg)](url)
-
-text - [site](url).
+How to run a Python script in Linux with SYSTEMD - [codementor](https://www.codementor.io/@ufukafak/how-to-run-a-python-script-in-linux-with-systemd-1nh2x3hi0e).
 
 **#ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)? [title](url).**
 
