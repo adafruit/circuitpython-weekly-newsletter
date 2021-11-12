@@ -26,11 +26,23 @@ View this email in your browser.
 
 Welcome to the latest Python on Microcontrollers newsletter, brought you by the community! We're on [Discord](https://discord.gg/HYqvREz), [Twitter](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), and for past newsletters - [view them all here](https://www.adafruitdaily.com/category/circuitpython/). If you're reading this on the web, [subscribe here](https://www.adafruitdaily.com/). Let's get started!
 
-## Headline Article
+## CircuitPython 7.1.0 Beta 0 is Available
 
-[![title](../assets/20211116/20211116-name.jpg)](url)
+[![CircuitPython 7.1.0 Beta 0](../assets/20211116/20211116cp7.jpg)](https://github.com/adafruit/circuitpython/releases)
 
-text - [site](url).
+CircuitPython 7.1.0-beta.0 is available, the initial beta release for CircuitPython 7.1.0. It is relatively stable, but contains issues we may still address for 7.1.0 - [GitHub](https://github.com/adafruit/circuitpython/releases).
+
+Notable additions to 7.1.0 since 7.0.0:
+* `keypad.Events` now include timestamps.
+* The Espressif port now provides I2CPeripheral, WiFi monitor mode, ESP32-C3 support, and ParallelImageCapture.
+* bitmaptools: dithering and alphablend are new.
+* Preliminary support for asyncio is included. Use the CircuitPython asyncio library.
+* `gifio.GifWriter` is new.
+* HID now provides boot device and feature report support.
+* rotaryio now allows setting the divisor of counts per transition.
+* The SAMD port now provides watchdog and alarm with sleep.
+* The STM port now provides STM32L4R5 support.
+* MicroPython 1.17 has been merged in.
 
 ## Feature
 
@@ -154,9 +166,9 @@ text - [site](url).
 
 ## Coming soon
 
-[![title](../assets/20211116/20211116-name.jpg)](url)
+[![Adafruit KB2040 controller](../assets/20211116/20211116kb2040.jpg)](https://kbd.news/Adafruit-KB2040-controller-1072.html)
 
-text - [site](url).
+Adafruit KB2040 controller: an RP2040 in a Pro Micro form factor great as an upgrade for keyboards - [kbd.news](https://kbd.news/Adafruit-KB2040-controller-1072.html).
 
 [![title](../assets/20211116/20211116-name.jpg)](url)
 
