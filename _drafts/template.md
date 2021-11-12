@@ -333,13 +333,13 @@ As always, if you run into trouble join us on [Discord](https://adafru.it/discor
 
 Circuit Python programmer needed - Xander Creations LLC - [Adafruit Jobs Board](https://jobs.adafruit.com/job/circuit-python-programmer-needed/).
 
-## NUMBER thanks!
+## 31,716 thanks!
 
-[![NUMBER THANKS](../assets/20211116/31kdiscord.png)](https://adafru.it/discord)
+[![31,716 THANKS](../assets/20211116/31kdiscord.png)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
-The Adafruit Discord community, where we do all our CircuitPython development in the open, reached over NUMBER humans, thank you!  Adafruit believes Discord offers a unique way for CircuitPython folks to connect. Join today at [https://adafru.it/discord](https://adafru.it/discord).
+The Adafruit Discord community, where we do all our CircuitPython development in the open, reached over 31,716 humans, thank you!  Adafruit believes Discord offers a unique way for CircuitPython folks to connect. Join today at [https://adafru.it/discord](https://adafru.it/discord).
 
 ## ICYMI - In case you missed it
 
