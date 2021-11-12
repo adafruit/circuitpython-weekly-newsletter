@@ -331,7 +331,7 @@ As always, if you run into trouble join us on [Discord](https://adafru.it/discor
 
 **Job of the Week**
 
-text - [Adafruit Jobs Board](https://jobs.adafruit.com/).
+Circuit Python programmer needed - Xander Creations LLC - [Adafruit Jobs Board](https://jobs.adafruit.com/job/circuit-python-programmer-needed/).
 
 ## NUMBER thanks!
 
