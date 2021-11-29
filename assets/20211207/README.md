@@ -1,4 +1,4 @@
-## Decemver 7, 2021 CircuitPython Newsletter Assets
+## December 7, 2021 CircuitPython Newsletter Assets
 
 Please preface all asset filenames for this issue with 20211207, re. 20211207neopixel.jpg
 
