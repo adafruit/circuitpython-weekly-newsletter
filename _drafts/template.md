@@ -261,7 +261,7 @@ text
 
 **Kattni**
 
-[![Kattni](../assets/2021mmdd/2021mmddmelissa.jpg)](https://circuitpython.org/)
+[![Kattni](../assets/2021mmdd/2021mmddkattni.jpg)](https://circuitpython.org/)
 
 text
 
