@@ -20,7 +20,7 @@ News Sources
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 - [MicroPython Meetup Blog](https://melbournemicropythonmeetup.github.io/)
 
-Template last updated on 2021-11-11 - add MP Meetup link
+Template last updated on 2021-12-02 change Kattni image link
 
 View this email in your browser.
 
