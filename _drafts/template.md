@@ -279,10 +279,6 @@ text
 
 ## Upcoming events!
 
-[![RISC-V Summit](../assets/2021mmdd/2021mmddriscv.jpg)](https://events.linuxfoundation.org/riscv-summit/register/)
-
-RISC-V Summit brings the community together to show the power open collaboration can have on the processor industry. The audience spans across industries, organizations, workloads, and geographies to learn about the technology advancements in the RISC-V ecosystem and visibility of RISC-V successes. The event is December 6 – 8, in-person in San Francisco or virtually from anywhere in the world - [Linux Foundation](https://events.linuxfoundation.org/riscv-summit/register/) via [Twitter](https://twitter.com/risc_v/status/1449886188941238274).
-
 [![PyCascades 2022](../assets/2021mmdd/pycascades2022.png)](https://2022.pycascades.com/)
 
 PyCascades is a regional PyCon in the Pacific Northwest, celebrating the west coast Python developer and user community. Our organizing team includes members of the Vancouver, Seattle, and Portland Python user groups. DATES ANNOUNCED! February 5th-6th, 2022 The conference will take place on Saturday and the first half of Sunday, with the post-conference sprints following that on Sunday afternoon. After three amazing in-person conferences and an engaging online conference, we are ready to do it again! - [PyCascades 2022](https://2022.pycascades.com/).
@@ -290,6 +286,10 @@ PyCascades is a regional PyCon in the Pacific Northwest, celebrating the west co
 [![PyCon US 2022](../assets/2021mmdd/pyconus2022.png)](https://us.pycon.org/2022/l)
 
 PyCon US 2022 planning is underway. The team is planning to host the event in person with an online component. April 27, 2022 - May 5, 2022. Head over to the [PyCon US 2022 website](https://us.pycon.org/2022/) for details about the conference and more information about the sponsorship program - [PyCon Blog](https://pycon.blogspot.com/2021/10/pycon-us-2022-website-and-sponsorship.html).
+
+[![PyCon IT 2022](../assets/2021mmdd/pyconit2022.png)](https://pycon.it/en)
+
+PyCon Italia is the Italian conference on Python. Organised by Python Italia, it is one of the more important Python conferences in Europe. With over 700 attendees, the next edition will be June 2-5, 2022 - [Ticket Registration](https://pycon.it/en/tickets).
 
 **Send Your Events In**
 
