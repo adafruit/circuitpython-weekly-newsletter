@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2021-10-12 07:00:00 -0800
+date: 2021-10-19 07:00:00 -0800
 categories: weekly
 ---
 
@@ -20,7 +20,7 @@ News Sources
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 - [MicroPython Meetup Blog](https://melbournemicropythonmeetup.github.io/)
 
-Template last updated on 2021-12-02 change Kattni image link
+Template last updated on 2021-12-06 - juggle events, Discord 32k
 
 View this email in your browser.
 
@@ -331,7 +331,7 @@ text - [Adafruit Jobs Board](https://jobs.adafruit.com/).
 
 ## NUMBER thanks!
 
-[![NUMBER THANKS](../assets/2021mmdd/31kdiscord.png)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/2021mmdd/32kdiscord.png)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
