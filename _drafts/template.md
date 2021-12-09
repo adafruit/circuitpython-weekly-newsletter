@@ -19,6 +19,7 @@ News Sources
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 - [MicroPython Meetup Blog](https://melbournemicropythonmeetup.github.io/)
+- [hackaday.io newest projects MicroPython](https://hackaday.io/projects?tag=micropython&sort=date) and [CircuitPython](https://hackaday.io/projects?tag=circuitpython&sort=date)
 
 Template last updated on 2021-12-06 - juggle events, Discord 32k
 
