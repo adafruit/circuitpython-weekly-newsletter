@@ -20,6 +20,8 @@ News Sources
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 - [MicroPython Meetup Blog](https://melbournemicropythonmeetup.github.io/)
 - [hackaday.io newest projects MicroPython](https://hackaday.io/projects?tag=micropython&sort=date) and [CircuitPython](https://hackaday.io/projects?tag=circuitpython&sort=date)
+- [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
+- [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
 
 Template last updated on 2021-12-06 - juggle events, Discord 32k
 
