@@ -282,6 +282,10 @@ text
 
 ## Upcoming events!
 
+[![MicroPython Meetup](../assets/2021mmdd/2021mmddmp.jpg)](https://www.meetup.com/MicroPython-Meetup/)
+
+The December MicroPython Meetup in Melbourne was pushed due to proximity to the holidays – the next one will be on January 26th – [Meetup](https://www.meetup.com/MicroPython-Meetup/).
+
 [![PyCascades 2022](../assets/2021mmdd/pycascades2022.png)](https://2022.pycascades.com/)
 
 PyCascades is a regional PyCon in the Pacific Northwest, celebrating the west coast Python developer and user community. Our organizing team includes members of the Vancouver, Seattle, and Portland Python user groups. DATES ANNOUNCED! February 5th-6th, 2022 The conference will take place on Saturday and the first half of Sunday, with the post-conference sprints following that on Sunday afternoon. After three amazing in-person conferences and an engaging online conference, we are ready to do it again! - [PyCascades 2022](https://2022.pycascades.com/).
