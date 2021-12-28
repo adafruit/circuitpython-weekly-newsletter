@@ -194,32 +194,6 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 
 [title](url) from [name](url)
 
-## CircuitPython Project Bundle
-
-[![BundleFly](../assets/2022mmdd/2022mmddbundlefly.jpg)](https://learn.adafruit.com/)
-
-When you get to the CircuitPython code section of an [Adafruit Learn Guide](https://learn.adafruit.com/), sometimes things can get a bit complicated. You not only have the code you need to upload to your device, but you likely also need to add some libraries that the code requires to run. This involved downloading all the libraries, digging through to find the ones you need, and copying them to your device. That was only the beginning on some projects, as those that include images and/or sound files required further downloading and copying of files. But, not anymore!
-
-Now, with Project Bundles, you can download all the necessary code, libraries and, if needed, asset files with one click! We automatically check which libraries are required for the project and bundle them up for you. No more digging through a huge list of libraries to find the ones you need, or fiddling with looking for other files or dependencies. Download the Project Bundle, copy the contents to your device, and your code will simply work. We wanted to make this the easiest way to get a project working, regardless of whether you're a beginner or an expert. We'll also be adding this feature to popular IDEs as an add-on. Try it out with any Circuit Python guide on the Adafruit Learning System. Just look for the ‘Download Project Bundle’ button on the code page. 
-
-**To download and use a Project Bundle:**
-
-In the Learning System - above any embedded code in a guide in the Adafruit Learn System, you’ll find a Download Project Bundle button.
-
-[![Project Bundle download button](../assets/2022mmdd/2022mmddpblink.jpg)](https://learn.adafruit.com/)
-
-Click the button to download the Project Bundle zip.
-
-[![Project Bundle zip downloaded](../assets/2022mmdd/2022mmddpbzipfile.jpg)](https://learn.adafruit.com/)
-
-Open the Project Bundle zip to find the example code, all necessary libraries, and, if available, any images, sounds, etc.
-
-[![Project Bundle unzipped](../assets/2022mmdd/2022mmddpbdownload.jpg)](https://learn.adafruit.com/)
-
-Simply copy all the files over to your CIRCUITPY drive, and you’re ready to go!
-
-If you run into any problems or bugs, or would like to submit feedback, please file an issue on the [Adafruit Learning System Guides GitHub repo](https://github.com/adafruit/Adafruit_Learning_System_Guides/issues).
-
 ## CircuitPython Libraries!
 
 [![CircuitPython Libraries](../assets/2022mmdd/blinka.png)](https://circuitpython.org/libraries)
