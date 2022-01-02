@@ -260,7 +260,7 @@ text
 
 [![MicroPython Meetup](../assets/2022mmdd/2022mmddmp.jpg)](https://www.meetup.com/MicroPython-Meetup/)
 
-The December MicroPython Meetup in Melbourne was pushed due to proximity to the holidays – the next one will be on January 26th – [Meetup](https://www.meetup.com/MicroPython-Meetup/).
+The next MicroPython Meetup in Melbourne will be on January 26th – [Meetup](https://www.meetup.com/MicroPython-Meetup/).  See the [blog](https://melbournemicropythonmeetup.github.io/) for past notes.
 
 [![PyCascades 2022](../assets/2022mmdd/pycascades2022.png)](https://2022.pycascades.com/)
 
