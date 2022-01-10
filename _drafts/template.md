@@ -23,7 +23,7 @@ News Sources
 - [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
 - [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
 
-Template last updated on 2021-12-28 remove bundlefly, general edits
+Template last updated on 2022-01-10 Tweak board section
 
 View this email in your browser.
 
@@ -174,6 +174,10 @@ The number of supported microcontrollers and Single Board Computers (SBC) grows 
 This week, there were (#/no) new boards added!
 
 - [Board name](url)
+- [Board name](url)
+- [Board name](url)
+
+*Note: For non-Adafruit boards, please use the support forums of the board manufacturer for assistance as Adafruit does not have the hardware to assist troubleshooting.*
 
 Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit has four guides to help you do so:
 
