@@ -177,7 +177,7 @@ This week, there were (#/no) new boards added!
 - [Board name](url)
 - [Board name](url)
 
-*Note: For non-Adafruit boards, please use the support forums of the board manufacturer for assistance as Adafruit does not have the hardware to assist troubleshooting.*
+*Note: For non-Adafruit boards, please use the support forums of the board manufacturer for assistance, as Adafruit does not have the hardware to assist in troubleshooting.*
 
 Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit has four guides to help you do so:
 
