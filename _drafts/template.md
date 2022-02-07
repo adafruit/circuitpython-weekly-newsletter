@@ -23,7 +23,7 @@ News Sources
 - [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
 - [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
 
-Template last updated on 2022-01-10 Tweak board section
+Template last updated on 2022-02-07 SciPy, CP Show, much more
 
 View this email in your browser.
 
@@ -72,6 +72,23 @@ John Park’s CircuitPython Parsec:
 * episode - [Adafruit Blog](url)
 
 Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr).
+
+## The CircuitPython Show
+
+[![The CircuitPython Show](../assets/2022mmdd/cpshow.jpg)](https://circuitpythonshow.com/)
+
+The CircuitPython Show is a new independent podcast, hosted by Paul Cutler, focused on the people doing awesome things with CircuitPython. Each episode features Paul in conversation with a guest for a twenty to thirty minute interview – [CircuitPythonShow](https://circuitpythonshow.com/), [Blog Post](https://paulcutler.org/posts/2022/01/introducing-the-circuitpython-show/) and [Twitter](https://twitter.com/circuitpyshow).
+
+Listen to the Season 1 Trailer now - [CircuitPython Show](https://circuitpythonshow.com/episodes/0/trailer)
+
+The first episode is scheduled to air on March 1st and will feature an interview with Kattni
+Rembor as the first guest.
+
+## Project of the Week
+
+[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+
+text - [site](url).
 
 ## News from around the web!
 
@@ -154,6 +171,10 @@ text - [site](url).
 [![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
 
 text - [site](url).
+
+PyDev of the Week:
+
+CircuitPython Weekly Meeting for 
 
 **#ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)? [title](url).**
 
@@ -254,6 +275,12 @@ text
 
 text
 
+**Tim**
+
+[![Tim](../assets/2022mmdd/2022mmddtim.jpg)](https://circuitpython.org/)
+
+text
+
 **Scott**
 
 [![Scott](../assets/2022mmdd/2022mmddscott.jpg)](https://circuitpython.org/)
@@ -264,11 +291,7 @@ text
 
 [![MicroPython Meetup](../assets/2022mmdd/2022mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
-The next MicroPython Meetup in Melbourne will be on January 26th – [Meetup](https://www.meetup.com/MicroPython-Meetup/).  See the [blog](https://melbournemicropythonmeetup.github.io/) for past notes.
-
-[![PyCascades 2022](../assets/2022mmdd/pycascades2022.png)](https://2022.pycascades.com/)
-
-PyCascades is a regional PyCon in the Pacific Northwest, celebrating the west coast Python developer and user community. Our organizing team includes members of the Vancouver, Seattle, and Portland Python user groups. DATES ANNOUNCED! February 5th-6th, 2022 The conference will take place on Saturday and the first half of Sunday, with the post-conference sprints following that on Sunday afternoon. After three amazing in-person conferences and an engaging online conference, we are ready to do it again! - [PyCascades 2022](https://2022.pycascades.com/).
+The next MicroPython Meetup in Melbourne will be on February 23rd – [Meetup](https://www.meetup.com/MicroPython-Meetup/). See [info](https://twitter.com/matt_trentini/status/1489038649878454273?t=qIcYlRq4vTqpssljyfI71Q&s=03) and the [slides](https://docs.google.com/presentation/d/e/2PACX-1vS8gSjPatIf8LgJD_t1_cglL5FO7jEWDTqy-Lbff3xBA7CskAVy_sM2FjfofILWtIF7atyg5Jx--0Sx/pub?slide=id.p) of the February 2nd meeting.
 
 [![PyCon US 2022](../assets/2022mmdd/pyconus2022.png)](https://us.pycon.org/2022/l)
 
@@ -277,6 +300,10 @@ PyCon US 2022 planning is underway. The team is planning to host the event in pe
 [![PyCon IT 2022](../assets/2022mmdd/pyconit2022.png)](https://pycon.it/en)
 
 PyCon Italia is the Italian conference on Python. Organised by Python Italia, it is one of the more important Python conferences in Europe. With over 700 attendees, the next edition will be June 2-5, 2022 - [Ticket Registration](https://pycon.it/en/tickets).
+
+[![SciPy 2022](../assets/2022mmdd/2022mmddscipy.jpg)](https://www.scipy2022.scipy.org/)
+
+SciPy 2022, the 21st annual Scientific Computing with Python conference, will be held in Austin, Texas, USA from July 11-17, 2022. The annual SciPy Conference brings together attendees from industry, academia, and government to showcase their latest projects, learn from skilled users and developers, and collaborate on code development. The full program will consist of 2 days tutorials (July 11-12), 3 days of talks (July 13-15) and 2 days of developer sprints (July 16-17) - [SciPy 2022](https://www.scipy2022.scipy.org/).
 
 **Send Your Events In**
 
