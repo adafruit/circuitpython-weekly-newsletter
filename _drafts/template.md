@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2022-02-15 07:00:00 -0800
+date: 2022-03-08 07:00:00 -0800
 categories: weekly
 ---
 
@@ -23,7 +23,7 @@ News Sources
 - [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
 - [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
 
-Template last updated on 2022-02-07 SciPy, CP Show, much more
+Template last updated on 2022-02-21 - copyedits
 
 View this email in your browser.
 
@@ -69,7 +69,7 @@ You can see the latest video and past videos on the Adafruit YouTube channel und
 
 John Park’s CircuitPython Parsec: 
 
-* episode - [Adafruit Blog](url)
+* episode - [Adafruit Blog](url) and [YouTube]().
 
 Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr).
 
@@ -178,7 +178,7 @@ CircuitPython Weekly Meeting for
 
 **#ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)? [title](url).**
 
-## Coming soon
+## Coming Soon
 
 [![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
 
