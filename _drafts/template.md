@@ -25,7 +25,7 @@ News Sources
 
 Template last updated on 2022-03-04 MP Meetup and PyCon changes
 
-View this email in your browser.
+View this email in your browser. **Warning: Flashing Imagery**
 
 Welcome to the latest Python on Microcontrollers newsletter! 
 
