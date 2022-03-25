@@ -296,6 +296,12 @@ text
 
 text
 
+**Liz**
+
+[![Liz](../assets/2022mmdd/2022mmddliz.jpg)](https://circuitpython.org/)
+
+text
+
 ## Upcoming events!
 
 [![MicroPython Meetup](../assets/2022mmdd/2022mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
