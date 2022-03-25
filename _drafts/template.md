@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2022-03-08 07:00:00 -0800
+date: 2022-03-29 07:00:00 -0800
 categories: weekly
 ---
 
@@ -23,7 +23,7 @@ News Sources
 - [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
 - [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
 
-Template last updated on 2022-03-04 MP Meetup and PyCon changes
+Template last updated on 2022-03-25 podcasts section, events added
 
 View this email in your browser. **Warning: Flashing Imagery**
 
@@ -55,34 +55,43 @@ text - [site](url).
 
 text - [site](url).
 
-## CircuitPython Deep Dive Stream with Scott Shawcroft
+## This Week's Python Streams
 
-[![Deep Dive with Scott](../assets/2022mmdd/2022mmdddeepdive.jpg)](link)
+[![Python Streams](../assets/20220322/cccircuitpython.jpg)](https://circuitpython.org/)
 
-[This week](link), Scott streams his work on .
+Python on Hardware is all about building a cooperative ecosphere which allows contributions to be valued and to grow knowledge. Below are the streams within the last week focusing on the community.
+
+### CircuitPython Deep Dive Stream
+
+[![Deep Dive](../assets/20220322/20220322deepdivet.jpg)](https://www.youtube.com/watch?v=wiEdkrWd-3E)
+
+[This week](https://www.youtube.com/watch?v=wiEdkrWd-3E), Tim streams work on porting Timestamper and Vectorio fun.
 
 You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXBHlu9msoXq2jQN4JpCk8A).
 
-## CircuitPython Parsec
+### CircuitPython Parsec
 
-[![CircuitPython Parsec](../assets/2022mmdd/2022mmddjp.jpg)](https://blog.adafruit.com/2022/08/17/john-parks-circuitpython-parsec-code-for-board-types-adafruit-johnedgarpark-adafruit-circuitpython/)
+[![CircuitPython Parsec](../assets/2022mmdd/2022mmddjp.jpg)](link)
 
-John Park’s CircuitPython Parsec: 
-
-* episode - [Adafruit Blog](url) and [YouTube]().
+John Park’s CircuitPython Parsec this week is on {subject} - [Adafruit Blog](link) and [YouTube](link).
 
 Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr).
 
-## The CircuitPython Show
+### The CircuitPython Show
 
 [![The CircuitPython Show](../assets/2022mmdd/cpshow.jpg)](https://circuitpythonshow.com/)
 
-The CircuitPython Show is a new independent podcast, hosted by Paul Cutler, focused on the people doing awesome things with CircuitPython. Each episode features Paul in conversation with a guest for a twenty to thirty minute interview – [CircuitPythonShow](https://circuitpythonshow.com/), [Blog Post](https://paulcutler.org/posts/2022/01/introducing-the-circuitpython-show/) and [Twitter](https://twitter.com/circuitpyshow).
+[![The CircuitPython Show](../assets/2022mmdd/cpshowtod.jpg)](https://circuitpythonshow.com/)
 
-Listen to the Season 1 Trailer now - [CircuitPython Show](https://circuitpythonshow.com/episodes/0/trailer)
+The CircuitPython Show is a new independent podcast, hosted by Paul Cutler, focusing on the people doing awesome things with CircuitPython. Each episode features Paul in conversation with a guest for a twenty to thirty minute interview – [CircuitPythonShow](https://circuitpythonshow.com/), [Blog Post](https://paulcutler.org/posts/2022/01/introducing-the-circuitpython-show/) and [Twitter](https://twitter.com/circuitpyshow).
 
-The first episode is scheduled to air on March 1st and will feature an interview with Kattni
-Rembor as the first guest.
+The (number) episode aired on (date) featuring an interview with (guest). The fourth episode airs today (date) with guest (above) talking about {subject} – [Show List](https://twitter.com/circuitpyshow).
+
+### TammyMakesThings is Streaming CircuitPython
+
+[![Tammy Makes Things](../assets/2022mmdd/2022mmddtammymakesthings.jpg/)](https://twitch.tv/tammymakesthings)
+
+Community member and CircuitPython contributor [Tammy Cravit](https://github.com/tammymakesthings) is streaming on Twitch. Her stream focuses on electronics, coding and making, with a focus on CircuitPython. The first few streams have been working on a [MacroPad](https://adafruit.com/product/5128)-based MIDI controller, and she's got lots of other project ideas in the works. An exact schedule for her streams is still being worked out, but she's targeting 2-3 streams per week. Check it out and follow now to be notified of future streams - [Twitch](https://twitch.tv/tammymakesthings).
 
 ## Project of the Week
 
@@ -293,6 +302,10 @@ text
 
 The next MicroPython Meetup in Melbourne will be on March 23rd – [Meetup](https://www.meetup.com/MicroPython-Meetup/). See the [slides](https://docs.google.com/presentation/d/e/2PACX-1vTKYsLoMCw6NuuwN9DhX0aIx-4npH03FDRp-_Pxs9mX2o9smjQfWyNpOKpV3EhSJPi6vI04YH-Jw6O-/pub?slide=id.p) of the February 23rd meeting.
 
+[![PyCon DE 2022](../assets/2022mmdd/pyconde2022.png)](https://2022.pycon.de/)
+
+PyConDE and PyData 2022 will be held in Berlin, Germany from April 11 - 13, 2022 at the Berlin Conference Center - [PyCon DE](https://2022.pycon.de/).
+
 [![PyCon US 2022](../assets/2022mmdd/pyconus2022.png)](https://us.pycon.org/2022/l)
 
 PyCon US 2022 planning is underway. The event is in-person with an online component. April 27, 2022 – May 5, 2022 in Salt Lake City, Utah USA. Head over to the [PyCon US 2022 website](https://us.pycon.org/2022/) for details about the conference and the schedule (new) – [PyCon Blog](https://pycon.blogspot.com/2022/10/pycon-us-2022-website-and-sponsorship.html).
@@ -308,6 +321,10 @@ SciPy 2022, the 21st annual Scientific Computing with Python conference, will be
 **Send Your Events In**
 
 As for other events, with the COVID pandemic, most in-person events are postponed or cancelled. If you know of virtual events or events that may occur in the future, please let us know on Twitter with hashtag #CircuitPython or email to cpnews(at)adafruit(dot)com.
+
+[![EuroPython 2022](../assets/2022mmdd/europy2022.png)](https://ep2022.europython.eu/)
+
+EuroPython 2022 will be held on 11th-17th July 2022 and it will be both in person and virtual. The in-person conference will be held at [The Convention Centre](https://www.theccd.ie/) Dublin (The CCD) in Dublin, Ireland - [EuroPython 2022](https://ep2022.europython.eu/).
 
 ## Latest releases
 
