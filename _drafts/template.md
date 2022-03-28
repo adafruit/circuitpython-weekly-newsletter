@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2022-03-29 07:00:00 -0800
+date: 2022-04-05 07:00:00 -0800
 categories: weekly
 ---
 
@@ -57,13 +57,13 @@ text - [site](url).
 
 ## This Week's Python Streams
 
-[![Python Streams](../assets/20220322/cccircuitpython.jpg)](https://circuitpython.org/)
+[![Python Streams](../assets/2022mmdd/cccircuitpython.jpg)](https://circuitpython.org/)
 
 Python on Hardware is all about building a cooperative ecosphere which allows contributions to be valued and to grow knowledge. Below are the streams within the last week focusing on the community.
 
 ### CircuitPython Deep Dive Stream
 
-[![Deep Dive](../assets/20220322/20220322deepdivet.jpg)](https://www.youtube.com/watch?v=wiEdkrWd-3E)
+[![Deep Dive](../assets/2022mmdd/2022mmdddeepdivet.jpg)](https://www.youtube.com/watch?v=wiEdkrWd-3E)
 
 [This week](https://www.youtube.com/watch?v=wiEdkrWd-3E), Tim streams work on porting Timestamper and Vectorio fun.
 
@@ -238,7 +238,7 @@ CircuitPython support for hardware continues to grow. We are adding support for 
 
 For the latest libraries, download the [Adafruit CircuitPython Library Bundle](https://circuitpython.org/libraries). For the latest community contributed libraries, download the [CircuitPython Community Bundle](https://github.com/adafruit/CircuitPython_Community_Bundle/releases).
 
-If you'd like to contribute, CircuitPython libraries are a great place to start. Have an idea for a new driver? File an issue on [CircuitPython](https://github.com/adafruit/circuitpython/issues)! Have you written a library you'd like to make available? Submit it to the [CircuitPython Community Bundle](https://github.com/adafruit/CircuitPython_Community_Bundle). Interested in helping with current libraries? Check out the [CircuitPython.org Contributing page](https://circuitpython.org/contributing). We've included open pull requests and issues from the libraries, and details about repo-level issues that need to be addressed. We have a guide on [contributing to CircuitPython with Git and Github](https://learn.adafruit.com/contribute-to-circuitpython-with-git-and-github) if you need help getting started. You can also find us in the #circuitpython channels on the [Adafruit Discord](https://adafru.it/discord).
+If you'd like to contribute, CircuitPython libraries are a great place to start. Have an idea for a new driver? File an issue on [CircuitPython](https://github.com/adafruit/circuitpython/issues)! Have you written a library you'd like to make available? Submit it to the [CircuitPython Community Bundle](https://github.com/adafruit/CircuitPython_Community_Bundle). Interested in helping with current libraries? Check out the [CircuitPython.org Contributing page](https://circuitpython.org/contributing). We've included open pull requests and issues from the libraries, and details about repo-level issues that need to be addressed. We have a guide on [contributing to CircuitPython with Git and GitHub](https://learn.adafruit.com/contribute-to-circuitpython-with-git-and-github) if you need help getting started. You can also find us in the #circuitpython channels on the [Adafruit Discord](https://adafru.it/discord).
 
 You can check out this [list of all the Adafruit CircuitPython libraries and drivers available](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md). 
 
@@ -318,7 +318,7 @@ PyCon US 2022 planning is underway. The event is in-person with an online compon
 
 [![PyCon IT 2022](../assets/2022mmdd/pyconit2022.png)](https://pycon.it/en)
 
-PyCon Italia is the Italian conference on Python. Organised by Python Italia, it is one of the more important Python conferences in Europe. With over 700 attendees, the next edition will be June 2-5, 2022 - [Ticket Registration](https://pycon.it/en/tickets).
+PyCon Italia is the Italian conference on Python. Organized by Python Italia, it is one of the more important Python conferences in Europe. With over 700 attendees, the next edition will be June 2-5, 2022 - [Ticket Registration](https://pycon.it/en/tickets).
 
 [![SciPy 2022](../assets/2022mmdd/2022mmddscipy.jpg)](https://www.scipy2022.scipy.org/)
 
@@ -342,7 +342,7 @@ CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpyt
 
 [#.#.#](https://www.python.org/downloads/) is the latest Python release. The latest pre-release version is [#.#.#](https://www.python.org/download/pre-releases/).
 
-[#### Stars](https://github.com/adafruit/circuitpython/stargazers) Like CircuitPython? [Star it on GitHub!](https://github.com/adafruit/circuitpython)
+[#,### Stars](https://github.com/adafruit/circuitpython/stargazers) Like CircuitPython? [Star it on GitHub!](https://github.com/adafruit/circuitpython)
 
 ## Call for help -- Translating CircuitPython is now easier than ever!
 
