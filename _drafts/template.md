@@ -89,7 +89,7 @@ The (number) episode aired on (date) featuring an interview with (guest). The fo
 
 ### TammyMakesThings is Streaming CircuitPython
 
-[![Tammy Makes Things](../assets/2022mmdd/2022mmddtammymakesthings.jpg/)](https://twitch.tv/tammymakesthings)
+[![Tammy Makes Things](../assets/2022mmdd/2022mmddtammymakesthings.jpg)](https://twitch.tv/tammymakesthings)
 
 Community member and CircuitPython contributor [Tammy Cravit](https://github.com/tammymakesthings) is streaming on Twitch. Her stream focuses on electronics, coding and making, with a focus on CircuitPython. The first few streams have been working on a [MacroPad](https://adafruit.com/product/5128)-based MIDI controller, and she's got lots of other project ideas in the works. An exact schedule for her streams is still being worked out, but she's targeting 2-3 streams per week. Check it out and follow now to be notified of future streams - [Twitch](https://twitch.tv/tammymakesthings).
 
