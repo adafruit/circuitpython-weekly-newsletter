@@ -23,7 +23,7 @@ News Sources
 - [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
 - [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
 
-Template last updated on 2022-03-25 podcasts section, events added
+Template last updated on 2022-04-04 small changes to Deep Dive
 
 View this email in your browser. **Warning: Flashing Imagery**
 
@@ -63,9 +63,9 @@ Python on Hardware is all about building a cooperative ecosphere which allows co
 
 ### CircuitPython Deep Dive Stream
 
-[![Deep Dive](../assets/2022mmdd/2022mmdddeepdivet.jpg)](https://www.youtube.com/watch?v=wiEdkrWd-3E)
+[![Deep Dive](../assets/2022mmdd/2022mmdddeepdivet.jpg)](link)
 
-[This week](https://www.youtube.com/watch?v=wiEdkrWd-3E), Tim streams work on porting Timestamper and Vectorio fun.
+[This week](link), Tim streams work on porting {subject}.
 
 You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXBHlu9msoXq2jQN4JpCk8A).
 
