@@ -23,7 +23,7 @@ News Sources
 - [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
 - [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
 
-Template last updated on 2022-05-02 remove pycon us 2022 from events
+Template last updated on 2022-05-19 - add PyOhio
 
 View this email in your browser. **Warning: Flashing Imagery**
 
@@ -319,6 +319,10 @@ SciPy 2022, the 21st annual Scientific Computing with Python conference, will be
 [![EuroPython 2022](../assets/2022mmdd/europy2022.png)](https://ep2022.europython.eu/)
 
 EuroPython 2022 will be held on 11th-17th July 2022 and it will be both in person and virtual. The in-person conference will be held at [The Convention Centre](https://www.theccd.ie/) Dublin (The CCD) in Dublin, Ireland - [EuroPython 2022](https://ep2022.europython.eu/).
+
+[![PyOhio 2022](../assets/2022mmdd/pyohio.png)](https://www.pyohio.org/2022/)
+
+PyOhio is a non-profit annual Python community conference usually held in Columbus, OH. It is being held online starting Saturday, Jul 30, 2022. It is free to attend and welcomes anyone with an interest in Python. Content ranges from beginner to advanced and is intended to be relevant to all types of Python users: students, software professionals, scientists, hobbyists, and anyone looking to learn more - [PyOhio](https://www.pyohio.org/2022/).
 
 **Send Your Events In**
 
