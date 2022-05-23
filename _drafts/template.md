@@ -65,7 +65,7 @@ Python on Hardware is all about building a cooperative ecosphere which allows co
 
 [![Deep Dive](../assets/2022mmdd/2022mmdddeepdivet.jpg)](link)
 
-[This week](link), Tim streamd work on {subject}.
+[This week](link), Tim streamed work on {subject}.
 
 You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXBHlu9msoXq2jQN4JpCk8A).
 
