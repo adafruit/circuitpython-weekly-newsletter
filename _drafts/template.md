@@ -23,7 +23,7 @@ News Sources
 - [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
 - [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
 
-Template last updated on 2022-05-19 - add PyOhio
+Template last updated on 2022-06-06 - tweak events
 
 View this email in your browser. **Warning: Flashing Imagery**
 
@@ -306,11 +306,7 @@ text
 
 [![MicroPython Meetup](../assets/2022mmdd/2022mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
-The next MicroPython Meetup in Melbourne will be on April 27th – [Meetup](https://www.meetup.com/MicroPython-Meetup/). See the [slides](https://docs.google.com/presentation/d/e/2PACX-1vSYt41VJm6ptM-aFKbnTPhucX-NZ2kXP7B7kbEp6Le9lidSfB7SKoNflvlCgCsJ0AOURAS-tamDVENX/pub?slide=id.p) of the March 23rd meeting.
-
-[![PyCon IT 2022](../assets/2022mmdd/pyconit2022.png)](https://pycon.it/en)
-
-PyCon Italia is the Italian conference on Python. Organized by Python Italia, it is one of the more important Python conferences in Europe. With over 700 attendees, the next edition will be June 2-5, 2022 - [Ticket Registration](https://pycon.it/en/tickets).
+The next MicroPython Meetup in Melbourne will be on June 22nd – [Meetup](https://www.meetup.com/MicroPython-Meetup/). See the [slides](https://docs.google.com/presentation/d/e/2PACX-1vROLMO--AXdxJTwvsxFbZqIGFAHVbm9YF_AJdVLdHqrjB0C7FJEgNm5QS27PKLvQSO0y3Do74Wlsn2F/pub?start=false&loop=false&delayms=3000&slide=id.p) of the May 25th meeting.
 
 [![SciPy 2022](../assets/2022mmdd/2022mmddscipy.jpg)](https://www.scipy2022.scipy.org/)
 
