@@ -1,4 +1,4 @@
-## June 29, 2022 CircuitPython Newsletter Assets
+## June 28, 2022 CircuitPython Newsletter Assets
 
 Please preface all asset filenames for this issue with 20220628, re. 20220628neopixel.jpg
 
