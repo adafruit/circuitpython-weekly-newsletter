@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2022-07-19 07:00:00 -0800
+date: 2022-07-26 07:00:00 -0800
 categories: weekly
 ---
 
@@ -23,7 +23,7 @@ News Sources
 - [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
 - [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
 
-Template last updated on 2022-07-11 - remove two expired events
+Template last updated on 2022-07-18 - add kiwi pycon
 
 View this email in your browser. **Warning: Flashing Imagery**
 
@@ -311,6 +311,10 @@ The next MicroPython Meetup in Melbourne will be on July 27th – [Meetup](https
 [![PyOhio 2022](../assets/2022mmdd/pyohio.png)](https://www.pyohio.org/2022/)
 
 PyOhio is a non-profit annual Python community conference usually held in Columbus, OH. It is being held online starting Saturday, July 30, 2022. It is free to attend and welcomes anyone with an interest in Python. Content ranges from beginner to advanced and is intended to be relevant to all types of Python users: students, software professionals, scientists, hobbyists, and anyone looking to learn more - [PyOhio](https://www.pyohio.org/2022/).
+
+[![Kiwi PyCon 2022](../assets/20220719/kiwi.jpg)](https://kiwipycon.nz/)
+
+Kiwi PyCon is the Python community gathered to meet and to mingle, to share experiences, to learn from each other, and to build lasting relationships. Friday the 19th to Sunday the 21st of August, 2022 all over New Zealand and beyond - [Kiwi PyCon 2022](https://kiwipycon.nz/).
 
 **Send Your Events In**
 
