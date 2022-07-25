@@ -312,9 +312,17 @@ The next MicroPython Meetup in Melbourne will be on July 27th – [Meetup](https
 
 PyOhio is a non-profit annual Python community conference usually held in Columbus, OH. It is being held online starting Saturday, July 30, 2022. It is free to attend and welcomes anyone with an interest in Python. Content ranges from beginner to advanced and is intended to be relevant to all types of Python users: students, software professionals, scientists, hobbyists, and anyone looking to learn more - [PyOhio](https://www.pyohio.org/2022/).
 
-[![Kiwi PyCon 2022](../assets/20220719/kiwi.jpg)](https://kiwipycon.nz/)
+[![Kiwi PyCon 2022](../assets/2022mmdd/kiwi.jpg)](https://kiwipycon.nz/)
 
 Kiwi PyCon is the Python community gathered to meet and to mingle, to share experiences, to learn from each other, and to build lasting relationships. Friday the 19th to Sunday the 21st of August, 2022 all over New Zealand and beyond - [Kiwi PyCon 2022](https://kiwipycon.nz/).
+
+[![PyCon UK 2022](../assets/2022mmdd/2022mmddpyconuk.jpg)](https://2022.pyconuk.org/)
+
+PyCon UK will be returning to Cardiff City Hall from Friday 16th to Sunday 18th September 2022 - [PyCon  UK](https://2022.pyconuk.org/).
+
+[![2022 Hackaday Supercon 6](../assets/2022mmdd/supercon6.jpg)](https://hackaday.com/2022/07/18/the-2022-hackaday-supercon-is-on-and-the-call-for-proposals-is-open/)
+
+After two years in remote mode, Hackaday is very excited to announce that this year’s Hackaday Supercon will be coming back, live! Nov. 4th, 5th, and 6th in sunny Pasadena, CA for three days of hacks, talks, and socializing with the Hackaday community - [Call for proposals](https://docs.google.com/forms/d/e/1FAIpQLSffBmw2vNLZyzdKnPJhKF6u7nvYnjTZQ-lynOhhr8_S8fAd3w/viewform) and [Hackaday](https://hackaday.com/2022/07/18/the-2022-hackaday-supercon-is-on-and-the-call-for-proposals-is-open/).
 
 **Send Your Events In**
 
