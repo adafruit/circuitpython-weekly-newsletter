@@ -4,11 +4,19 @@ Content for the Adafruit Python for Microcontrollers newsletter. Its emailed out
 Tuesdays. Sign up to get them [here](https://www.adafruitdaily.com/).
 
 # Contribute!
-Contributions are welcome! Please make pull request to modify the latest draft from
-inside the `_drafts` directory. The post is queued up Monday afternoons after the
-CircuitPython weekly meeting.
 
-## Adding images and GIF videos (assets)
+The easiest way to contribute is to email your information and any assets to cpnews(at)adafruit(dot)com.
+
+GitHub contributions are also welcome for those comfortable doing so. Please modify the latest draft 
+inside the `_drafts` directory directly in GitHub rather than fork/clone/branch/edit/PR. 
+Each draft is in the filename yyyy-mm-dd-draft.md in [Markdown](https://www.markdownguide.org/) format.
+Once you are done editing it will ask if you want to make a Pull Request (PR). Do so and add a description.
+
+The post is queued up Monday afternoons after the CircuitPython weekly meeting.
+
+If editing is a bit much, post in the Issues, although an email is preferable and highly recommended.
+
+## Adding images and GIF videos (assets) in your pull request
 
 Please preface all asset filenames for an issue with the date in the format yymmdd then a unique string, re. 20220802neopixel.jpg
 
@@ -17,6 +25,8 @@ Please consider using JPG files for size.
 * Please avoid letterboxed images, e.g. images with black bars.
 
 For videos:
+
+All videos must be in moving GIF only. There will be no sound. Longer formats may be on a website and linked in rather than embedded.
 
 * Capture via https://twittervideodownloader.com/ if necessary
 * Convert to GIF with https://ezgif.com/, max 550 px wide, **file MUST BE < 1MB in size**
