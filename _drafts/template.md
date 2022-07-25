@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2022-07-26 07:00:00 -0800
+date: 2022-08-02 07:00:00 -0800
 categories: weekly
 ---
 
@@ -23,7 +23,7 @@ News Sources
 - [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
 - [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
 
-Template last updated on 2022-07-18 - add kiwi pycon
+Template last updated on 2022-07-25 - add events, update Discord count
 
 View this email in your browser. **Warning: Flashing Imagery**
 
@@ -360,7 +360,7 @@ text - [Adafruit Jobs Board](https://jobs.adafruit.com/).
 
 ## NUMBER thanks!
 
-[![NUMBER THANKS](../assets/2022mmdd/34kdiscord.png)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/2022mmdd/35kdiscord.png)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
