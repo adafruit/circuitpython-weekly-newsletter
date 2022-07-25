@@ -8,9 +8,23 @@ Contributions are welcome! Please make pull request to modify the latest draft f
 inside the `_drafts` directory. The post is queued up Monday afternoons after the
 CircuitPython weekly meeting.
 
+## Adding images and GIF videos (assets)
+
+Please preface all asset filenames for an issue with the date in the format yymmdd then a unique string, re. 20220802neopixel.jpg
+
+Please consider using JPG files for size.
+* All images **must be <=550px wide**
+* Please avoid letterboxed images, e.g. images with black bars.
+
+For videos:
+
+* Capture via https://twittervideodownloader.com/ if necessary
+* Convert to GIF with https://ezgif.com/, max 550 px wide, **file MUST BE < 1MB in size**
+
+To reduce GIF filesize, make them smaller or crop, say to <400px wide, and consider 5 seconds max.
+
 # Gathering stories
-While the newsletter has a CircuitPython focus, we should also highlight stories from the broader
-Python ecosystem including MicroPython.
+While the newsletter has a CircuitPython/MicroPython/Python on single board computers (SBC) focus, there may be stories about the Python community, tools, and related areas.
 
 Check these places for inspiration:
 
@@ -25,8 +39,3 @@ Check these places for inspiration:
 - [hackaday.io newest projects MicroPython](https://hackaday.io/projects?tag=micropython&sort=date) and [CircuitPython](https://hackaday.io/projects?tag=circuitpython&sort=date)
 - [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
 - [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
-
-# Building
-The newsletter uses Jekyll to create HTML out of the markdown for each post. Follow
-[these](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
-GitHub instructions for installing Jekyll locally.
