@@ -23,7 +23,7 @@ News Sources
 - [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
 - [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
 
-Template last updated on 2022-07-25 - add events, update Discord count
+Template last updated on 2022-08-08 update events mainly
 
 View this email in your browser. **Warning: Flashing Imagery**
 
@@ -87,12 +87,6 @@ The CircuitPython Show is a new independent podcast, hosted by Paul Cutler, focu
 
 The (number) episode aired on (date) featuring an interview with (guest). The fourth episode airs today (date) with guest (above) talking about {subject} – [Show List](https://twitter.com/circuitpyshow).
 
-### TammyMakesThings is Streaming CircuitPython
-
-[![Tammy Makes Things](../assets/2022mmdd/2022mmddtammymakesthings.jpg)](https://twitch.tv/tammymakesthings)
-
-Community member and CircuitPython contributor [Tammy Cravit](https://github.com/tammymakesthings) is streaming on Twitch. Her stream focuses on electronics, coding and making, with a focus on CircuitPython. The first few streams have been working on a [MacroPad](https://adafruit.com/product/5128)-based MIDI controller, and she's got lots of other project ideas in the works. An exact schedule for her streams is still being worked out, but she's targeting 2-3 streams per week. Check it out and follow now to be notified of future streams - [Twitch](https://twitch.tv/tammymakesthings).
-
 ## Project of the Week
 
 [![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
@@ -100,14 +94,6 @@ Community member and CircuitPython contributor [Tammy Cravit](https://github.com
 text - [site](url).
 
 ## News from around the web!
-
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
-
-text - [site](url).
-
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
-
-text - [site](url).
 
 [![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
 
@@ -306,15 +292,17 @@ text
 
 [![MicroPython Meetup](../assets/2022mmdd/2022mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
-The next MicroPython Meetup in Melbourne will be on July 27th – [Meetup](https://www.meetup.com/MicroPython-Meetup/). See the [slides](https://docs.google.com/presentation/d/e/2PACX-1vSeLbsVQnmWOr72b94Juo_Y5k_czxQuYFU_UqAkIX4tdXxYfizIqaAlxETmv-2oMTHKx_SV_Xv2669r/pub?start=false&loop=false&delayms=3000&slide=id.p) of the June 22nd meeting.
-
-[![PyOhio 2022](../assets/2022mmdd/pyohio.png)](https://www.pyohio.org/2022/)
-
-PyOhio is a non-profit annual Python community conference usually held in Columbus, OH. It is being held online starting Saturday, July 30, 2022. It is free to attend and welcomes anyone with an interest in Python. Content ranges from beginner to advanced and is intended to be relevant to all types of Python users: students, software professionals, scientists, hobbyists, and anyone looking to learn more - [PyOhio](https://www.pyohio.org/2022/).
+The next MicroPython Meetup in Melbourne will be on August 24th – [Meetup](https://www.meetup.com/MicroPython-Meetup/). See the [slides](https://docs.google.com/presentation/d/e/2PACX-1vTX8zFXGxgalaJpXkY-NspjncnAuSiqjuzTUWIKtaNDRybb_hPz5dhBtaQA0aS5C4sb8l9xdWZoV1Ft/pub?slide=id.p) of the July 27th meeting.
 
 [![Kiwi PyCon 2022](../assets/2022mmdd/kiwi.jpg)](https://kiwipycon.nz/)
 
 Kiwi PyCon is the Python community gathered to meet and to mingle, to share experiences, to learn from each other, and to build lasting relationships. Friday the 19th to Sunday the 21st of August, 2022 all over New Zealand and beyond - [Kiwi PyCon 2022](https://kiwipycon.nz/).
+
+[![SiliCon](../assets/2022mmdd/2022mmddsilicon.jpg)](https://www.siliconsj.com/)
+
+Silicon Valley’s Premier Comic Con Returns! Featuring The Best In Pop Culture, Tech, Science, Makers, Artists, Cosplay, Gaming, Comic Creators, Authors & More! August 27-28, 2022 San Jose McEnery Convention Center - [SiliCon](https://www.siliconsj.com/).
+
+[Virtual Maker Workshops](https://www.siliconsj.com/virtual-workshops/)
 
 [![PyCon UK 2022](../assets/2022mmdd/2022mmddpyconuk.jpg)](https://2022.pyconuk.org/)
 
