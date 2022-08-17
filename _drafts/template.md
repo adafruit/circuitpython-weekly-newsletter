@@ -23,7 +23,7 @@ News Sources
 - [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
 - [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
 
-Template last updated on 2022-08-08 update events mainly
+Template last updated on 2022-08-17 update events
 
 View this email in your browser. **Warning: Flashing Imagery**
 
@@ -294,10 +294,6 @@ text
 
 The next MicroPython Meetup in Melbourne will be on August 24th – [Meetup](https://www.meetup.com/MicroPython-Meetup/). See the [slides](https://docs.google.com/presentation/d/e/2PACX-1vTX8zFXGxgalaJpXkY-NspjncnAuSiqjuzTUWIKtaNDRybb_hPz5dhBtaQA0aS5C4sb8l9xdWZoV1Ft/pub?slide=id.p) of the July 27th meeting.
 
-[![Kiwi PyCon 2022](../assets/2022mmdd/kiwi.jpg)](https://kiwipycon.nz/)
-
-Kiwi PyCon is the Python community gathered to meet and to mingle, to share experiences, to learn from each other, and to build lasting relationships. Friday the 19th to Sunday the 21st of August, 2022 all over New Zealand and beyond - [Kiwi PyCon 2022](https://kiwipycon.nz/).
-
 [![SiliCon](../assets/2022mmdd/2022mmddsilicon.jpg)](https://www.siliconsj.com/)
 
 Silicon Valley’s Premier Comic Con Returns! Featuring The Best In Pop Culture, Tech, Science, Makers, Artists, Cosplay, Gaming, Comic Creators, Authors & More! August 27-28, 2022 San Jose McEnery Convention Center - [SiliCon](https://www.siliconsj.com/).
@@ -311,6 +307,8 @@ PyCon UK will be returning to Cardiff City Hall from Friday 16th to Sunday 18th 
 [![2022 Hackaday Supercon 6](../assets/2022mmdd/supercon6.jpg)](https://hackaday.com/2022/07/18/the-2022-hackaday-supercon-is-on-and-the-call-for-proposals-is-open/)
 
 After two years in remote mode, Hackaday is very excited to announce that this year’s Hackaday Supercon will be coming back, live! Nov. 4th, 5th, and 6th in sunny Pasadena, CA for three days of hacks, talks, and socializing with the Hackaday community - [Call for proposals](https://docs.google.com/forms/d/e/1FAIpQLSffBmw2vNLZyzdKnPJhKF6u7nvYnjTZQ-lynOhhr8_S8fAd3w/viewform) and [Hackaday](https://hackaday.com/2022/07/18/the-2022-hackaday-supercon-is-on-and-the-call-for-proposals-is-open/).
+
+PyCon US 2023 will be April 19-17, 2023, again in Salt Lake City, Utah US - [PyCon US 2023](https://pycon.blogspot.com/2020/12/announcing-pycon-us-20222023.html).
 
 **Send Your Events In**
 
