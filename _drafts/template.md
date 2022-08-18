@@ -266,9 +266,7 @@ text
 
 **Melissa**
 
-[![Melissa](../assets/2022mmdd/2022mmddmelissa.jpg)](https://circuitpython.org/)
-
-text
+This past week I did a ton of work on the [CircuitPython Code Editor](https://code.circuitpython.org/). I merged the changes in that I had been working on for the past few weeks and found some JavaScript security issues on the live site that weren't present when running it from localhost on my computer. After looking at some potential solutions, I ended up creating a small JavaScript file that runs on the device and bootstraps in the entire Editor on to there. The little script worked so well that there were surprisingly few changes required to the site to get this working.
 
 **Tim**
 
@@ -284,9 +282,7 @@ text
 
 **Liz**
 
-[![Liz](../assets/2022mmdd/2022mmddliz.jpg)](https://circuitpython.org/)
-
-text
+I've been working on a third CircuitPython and Microsoft Azure project. This time I used IoT Hub with multiple ESP32-S2 devices running CircuitPython connected and sending telemetry. A Raspberry Pi is pulling the feeds from IoT Hub and displaying them on a monitor using the [Blinka_Displayio_PyGameDisplay library](https://github.com/FoamyGuy/Blinka_Displayio_PyGameDisplay). 
 
 ## Upcoming events!
 
