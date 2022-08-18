@@ -83,7 +83,7 @@ Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlis
 
 [![The CircuitPython Show](../assets/2022mmdd/cpshowtod.jpg)](https://circuitpythonshow.com/)
 
-The CircuitPython Show is am independent podcast hosted by Paul Cutler, focusing on the people doing awesome things with CircuitPython. Each episode features Paul in conversation with a guest for a short interview – [CircuitPythonShow](https://circuitpythonshow.com/) and [Twitter](https://twitter.com/circuitpyshow).
+The CircuitPython Show is an independent podcast hosted by Paul Cutler, focusing on the people doing awesome things with CircuitPython. Each episode features Paul in conversation with a guest for a short interview – [CircuitPythonShow](https://circuitpythonshow.com/) and [Twitter](https://twitter.com/circuitpyshow).
 
 The latest episode was released (date) and features (guest).  They and Paul talk {subject}. – [Show List](https://circuitpythonshow.com/episodes/all).
 
