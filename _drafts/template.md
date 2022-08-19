@@ -23,21 +23,19 @@ News Sources
 - [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
 - [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
 
-Template last updated on 2022-08-17 update events
-
 View this email in your browser. **Warning: Flashing Imagery**
 
-Welcome to the latest Python on Microcontrollers newsletter! 
+Welcome to the latest Python on Microcontrollers newsletter! What a fabulous CircuitPython Day last Friday! Thanks to all the presenters, viewers, and folks who made fabulous projects!
 
 We're on [Discord](https://discord.gg/HYqvREz), [Twitter](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), and for past newsletters - [view them all here](https://www.adafruitdaily.com/category/circuitpython/). If you're reading this on the web, [subscribe here](https://www.adafruitdaily.com/). Here's the news this week:
 
-## Headline Article
+## CircuitPython 8.0.0 Beta 0 Out Now
 
 [![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
 
 text - [site](url).
 
-## Feature
+## CircuitPython Day Wraps
 
 [![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
 
