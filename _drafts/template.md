@@ -246,9 +246,7 @@ What is the team up to this week? Let’s check in!
 
 **Dan**
 
-[![Dan](../assets/2022mmdd/2022mmdddan.jpg)](https://circuitpython.org/)
-
-text
+I fixed yet more issues for CircuitPython 8.0.0 this week, most notably getting touchio to work on ESP32. I also prepared for and released 8.0.0-beta.0. The last 8.0.0 release was 8.0.0-alpha.1 over two months ago. Since then there were about 146 pull requests, so the release notes were voluminous.
 
 **Jeff**
 
