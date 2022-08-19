@@ -262,9 +262,13 @@ This week I finished the remaining pages on the Octopus guide and submitted it f
 
 **Scott**
 
-[![Scott](../assets/2022mmdd/2022mmddscott.jpg)](https://circuitpython.org/)
+This was my last week before I take 12 weeks to care for my kiddo. (Yay paternity leave!) My main goal was to wrap up outstanding web workflow changes and work with Melissa on integrating the web workflow into code.circuitpython.org. Due to browser restrictions, we weren't able to get code.circuitpython.org working. However, the devices themselves now have a http://circuitpython.local/code/ page that loads the full code.cp.org experience when online. Thanks to Melissa for her hard work getting that going.
 
-text
+The main thing I did was to add one final API piece for moving/renaming files through the REST API. RetiredWizard was super helpful in testing it. I also added the ability to upload a complete directory. I fixed an issue on the S2 where the code wouldn't start up, it'd just crash. Thanks to everyone for testing and reviews. Thanks to Dan for releasing CircuitPython 8.0.0-beta.0!
+
+Thanks to Kattni for orchestrating an awesome CircuitPython Day 2022.
+
+Thank you all. I'll be back to working on CP on November 14th.
 
 **Liz**
 
