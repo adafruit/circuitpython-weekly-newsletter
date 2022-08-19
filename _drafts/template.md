@@ -248,17 +248,9 @@ What is the team up to this week? Let’s check in!
 
 I fixed yet more issues for CircuitPython 8.0.0 this week, most notably getting touchio to work on ESP32. I also prepared for and released 8.0.0-beta.0. The last 8.0.0 release was 8.0.0-alpha.1 over two months ago. Since then there were about 146 pull requests, so the release notes were voluminous.
 
-**Jeff**
-
-[![Jeff](../assets/2022mmdd/2022mmddjeff.jpg)](https://circuitpython.org/)
-
-text
-
 **Kattni**
 
-[![Kattni](../assets/2022mmdd/2022mmddkattni.jpg)](https://circuitpython.org/)
-
-text
+This week I published the [ESP32-S3 TFT Feather guide](https://learn.adafruit.com/adafruit-esp32-s3-tft-feather). This massive guide is chock full of everything you need to get started with your new Feather. There's still more in the works, so keep an eye out for that guide to be updated soon!
 
 **Melissa**
 
