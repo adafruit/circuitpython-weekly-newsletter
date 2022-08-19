@@ -270,9 +270,7 @@ This past week I did a ton of work on the [CircuitPython Code Editor](https://co
 
 **Tim**
 
-[![Tim](../assets/2022mmdd/2022mmddtim.jpg)](https://circuitpython.org/)
-
-text
+This week I finished the remaining pages on the Octopus guide and submitted it for review. I worked on GitHub Actions tasks that will measure the mpy filesize and post comments on PRs to help us better understand the size of our libraries. The initially proposed actions are submitted now as a PR to the cookie cutter repo for review and discussion. I prepared for the CircuitPython Day panel and game jam streams. I tinkered with PIL and am beginning to figure out how to manipulate perspective for regions of images, this will ultimately lead to a way to make customizable flip clock sprites for use with displayio.
 
 **Scott**
 
