@@ -23,19 +23,21 @@ News Sources
 - [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
 - [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
 
+Template last edited 2022-08-26 fix issues
+
 View this email in your browser. **Warning: Flashing Imagery**
 
-Welcome to the latest Python on Microcontrollers newsletter! What a fabulous CircuitPython Day last Friday! Thanks to all the presenters, viewers, and folks who made fabulous projects!
+Welcome to the latest Python on Microcontrollers newsletter! 
 
 We're on [Discord](https://discord.gg/HYqvREz), [Twitter](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), and for past newsletters - [view them all here](https://www.adafruitdaily.com/category/circuitpython/). If you're reading this on the web, [subscribe here](https://www.adafruitdaily.com/). Here's the news this week:
 
-## CircuitPython 8.0.0 Beta 0 Out Now
+## Headline
 
 [![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
 
 text - [site](url).
 
-## CircuitPython Day Wraps
+## Feature
 
 [![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
 
@@ -79,11 +81,9 @@ Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlis
 
 [![The CircuitPython Show](../assets/2022mmdd/cpshow.jpg)](https://circuitpythonshow.com/)
 
-[![The CircuitPython Show](../assets/2022mmdd/cpshowtod.jpg)](https://circuitpythonshow.com/)
-
 The CircuitPython Show is an independent podcast hosted by Paul Cutler, focusing on the people doing awesome things with CircuitPython. Each episode features Paul in conversation with a guest for a short interview – [CircuitPythonShow](https://circuitpythonshow.com/) and [Twitter](https://twitter.com/circuitpyshow).
 
-The latest episode was released (date) and features (guest).  They and Paul talk {subject}. – [Show List](https://circuitpythonshow.com/episodes/all).
+The latest episode was released (date) and features (guest).  They and Paul talk {subject} – [Show List](https://circuitpythonshow.com/episodes/all).
 
 ## Project of the Week
 
@@ -246,45 +246,45 @@ What is the team up to this week? Let’s check in!
 
 **Dan**
 
-I fixed yet more issues for CircuitPython 8.0.0 this week, most notably getting touchio to work on ESP32. I also prepared for and released 8.0.0-beta.0. The last 8.0.0 release was 8.0.0-alpha.1 over two months ago. Since then there were about 146 pull requests, so the release notes were voluminous.
+[![title](../assets/2022mmdd/2022mmdddan.jpg)](url)
+
+text - [site](url).
 
 **Kattni**
 
-This week I published the [ESP32-S3 TFT Feather guide](https://learn.adafruit.com/adafruit-esp32-s3-tft-feather). This massive guide is chock full of everything you need to get started with your new Feather. There's still more in the works, so keep an eye out for that guide to be updated soon!
+[![title](../assets/2022mmdd/2022mmddkattni.jpg)](url)
+
+text - [site](url).
 
 **Melissa**
 
-This past week I did a ton of work on the [CircuitPython Code Editor](https://code.circuitpython.org/). I merged the changes in that I had been working on for the past few weeks and found some JavaScript security issues on the live site that weren't present when running it from localhost on my computer. After looking at some potential solutions, I ended up creating a small JavaScript file that runs on the device and bootstraps in the entire Editor on to there. The little script worked so well that there were surprisingly few changes required to the site to get this working.
+[![title](../assets/2022mmdd/2022mmddmelissa.jpg)](url)
+
+text - [site](url).
 
 **Tim**
 
-This week I finished the remaining pages on the Octopus guide and submitted it for review. I worked on GitHub Actions tasks that will measure the mpy filesize and post comments on PRs to help us better understand the size of our libraries. The initially proposed actions are submitted now as a PR to the cookie cutter repo for review and discussion. I prepared for the CircuitPython Day panel and game jam streams. I tinkered with PIL and am beginning to figure out how to manipulate perspective for regions of images, this will ultimately lead to a way to make customizable flip clock sprites for use with displayio.
+[![title](../assets/2022mmdd/2022mmddtim.jpg)](url)
+
+text - [site](url).
 
 **Scott**
 
-This was my last week before I take 12 weeks to care for my kiddo. (Yay paternity leave!) My main goal was to wrap up outstanding web workflow changes and work with Melissa on integrating the web workflow into code.circuitpython.org. Due to browser restrictions, we weren't able to get code.circuitpython.org working. However, the devices themselves now have a http://circuitpython.local/code/ page that loads the full code.cp.org experience when online. Thanks to Melissa for her hard work getting that going.
+[![title](../assets/2022mmdd/2022mmddscott.jpg)](url)
 
-The main thing I did was to add one final API piece for moving/renaming files through the REST API. RetiredWizard was super helpful in testing it. I also added the ability to upload a complete directory. I fixed an issue on the S2 where the code wouldn't start up, it'd just crash. Thanks to everyone for testing and reviews. Thanks to Dan for releasing CircuitPython 8.0.0-beta.0!
-
-Thanks to Kattni for orchestrating an awesome CircuitPython Day 2022.
-
-Thank you all. I'll be back to working on CP on November 14th.
+text - [site](url).
 
 **Liz**
 
-I've been working on a third CircuitPython and Microsoft Azure project. This time I used IoT Hub with multiple ESP32-S2 devices running CircuitPython connected and sending telemetry. A Raspberry Pi is pulling the feeds from IoT Hub and displaying them on a monitor using the [Blinka_Displayio_PyGameDisplay library](https://github.com/FoamyGuy/Blinka_Displayio_PyGameDisplay). 
+[![title](../assets/2022mmdd/2022mmddliz.jpg)](url)
+
+text - [site](url).
 
 ## Upcoming events!
 
 [![MicroPython Meetup](../assets/2022mmdd/2022mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
 The next MicroPython Meetup in Melbourne will be on August 24th – [Meetup](https://www.meetup.com/MicroPython-Meetup/). See the [slides](https://docs.google.com/presentation/d/e/2PACX-1vTX8zFXGxgalaJpXkY-NspjncnAuSiqjuzTUWIKtaNDRybb_hPz5dhBtaQA0aS5C4sb8l9xdWZoV1Ft/pub?slide=id.p) of the July 27th meeting.
-
-[![SiliCon](../assets/2022mmdd/2022mmddsilicon.jpg)](https://www.siliconsj.com/)
-
-Silicon Valley’s Premier Comic Con Returns! Featuring The Best In Pop Culture, Tech, Science, Makers, Artists, Cosplay, Gaming, Comic Creators, Authors & More! August 27-28, 2022 San Jose McEnery Convention Center - [SiliCon](https://www.siliconsj.com/).
-
-[Virtual Maker Workshops](https://www.siliconsj.com/virtual-workshops/)
 
 [![PyCon UK 2022](../assets/2022mmdd/2022mmddpyconuk.jpg)](https://2022.pyconuk.org/)
 
