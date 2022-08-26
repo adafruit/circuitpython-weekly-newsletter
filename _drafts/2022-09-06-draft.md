@@ -23,8 +23,6 @@ News Sources
 - [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
 - [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
 
-Template last edited 2022-08-26 fix issues
-
 View this email in your browser. **Warning: Flashing Imagery**
 
 Welcome to the latest Python on Microcontrollers newsletter! 
