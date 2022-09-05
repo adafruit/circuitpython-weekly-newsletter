@@ -14,6 +14,8 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
+Updated: 2022-09-05 add RISC-V Summit
+
 News Sources
 
 - [python.org](https://www.python.org/)
