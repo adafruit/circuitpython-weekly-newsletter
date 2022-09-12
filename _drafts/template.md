@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2022-09-06 07:00:00 -0800
+date: 2022-0920 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated: 2022-09-05 add RISC-V Summit
+Updated: 2022-09-12 remove pycon uk
 
 News Sources
 
@@ -285,10 +285,6 @@ text - [site](url).
 [![MicroPython Meetup](../assets/20220830/20220830mp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
 The next MicroPython Meetup in Melbourne will be on September 28th – [Meetup](https://www.meetup.com/MicroPython-Meetup/). See the [slides](https://docs.google.com/presentation/d/e/2PACX-1vQnoz0AsGaxVf8iaqzYszFUnKqRZTUplnzwJoTtqKBmNYIuo5NL-M1bT5Zoz9ajyHwNxIrWi4zNudUF/pub?start=false&loop=false&delayms=3000&slide=id.p) of the August 24th meeting.
-
-[![PyCon UK 2022](../assets/2022mmdd/2022mmddpyconuk.jpg)](https://2022.pyconuk.org/)
-
-PyCon UK will be returning to Cardiff City Hall from Friday 16th to Sunday 18th September 2022 - [PyCon  UK](https://2022.pyconuk.org/).
 
 [![2022 Hackaday Supercon 6](../assets/2022mmdd/supercon6.jpg)](https://hackaday.com/2022/07/18/the-2022-hackaday-supercon-is-on-and-the-call-for-proposals-is-open/)
 
