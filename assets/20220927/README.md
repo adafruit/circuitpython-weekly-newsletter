@@ -2,7 +2,8 @@
 
 Please preface all asset filenames for this issue with 20220927, re. 20220927neopixel.jpg
 
-Please consider using JPG files for size.
+Please consider using JPG files for size. Use a .jpg file extension, not .JPG or .jfif, please.
+.png files are acceptable too. Please, not .PNG or .svg files.
 * All images **must be <=550px wide**
 * Please avoid letterboxed images, e.g. images with black bars.
 
