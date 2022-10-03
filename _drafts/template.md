@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated: 2022-09-12 remove pycon uk
+Updated: 2022-09-12 update PyDev and CP Weekly Meeting prompts
 
 News Sources
 
@@ -165,9 +165,9 @@ text - [site](url).
 
 text - [site](url).
 
-PyDev of the Week:
+PyDev of the Week: NAME on [Mouse vs Python]()
 
-CircuitPython Weekly Meeting for 
+CircuitPython Weekly Meeting for DATE ([notes]()) [on YouTube]()
 
 **#ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)? [title](url).**
 
