@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2022-09-20 07:00:00 -0800
+date: 2022-11-08 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated: 2022-10-10 - event updates
+Updated: 2022-11-08 - updates
 
 News Sources
 
@@ -269,7 +269,7 @@ text - [site](url).
 
 text - [site](url).
 
-**Scott**
+**Jeff**
 
 [![title](../assets/2022mmdd/2022mmddscott.jpg)](url)
 
@@ -286,14 +286,6 @@ text - [site](url).
 [![MicroPython Meetup](../assets/2022mmdd/2022mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
 The next MicroPython Meetup in Melbourne will be on October 28th – [Meetup](https://www.meetup.com/MicroPython-Meetup/). See the [slides](https://www.youtube.com/watch?v=xIVE4KeflFY) of the September 28th meeting.
-
-[![Open Hardware Month](../assets/20221011/2022mmddohm.jpg)](https://ohm.oshwa.org/)
-
-October is Open Hardware Month – OSHWA.
-
-[![2022 Hackaday Supercon 6](../assets/2022mmdd/supercon6.jpg)](https://hackaday.com/2022/07/18/the-2022-hackaday-supercon-is-on-and-the-call-for-proposals-is-open/)
-
-After two years in remote mode, Hackaday is very excited to announce that this year’s Hackaday Supercon will be coming back, live! Nov. 4th, 5th, and 6th in sunny Pasadena, CA for three days of hacks, talks, and socializing with the Hackaday community - [Call for proposals](https://docs.google.com/forms/d/e/1FAIpQLSffBmw2vNLZyzdKnPJhKF6u7nvYnjTZQ-lynOhhr8_S8fAd3w/viewform) and [Hackaday](https://hackaday.com/2022/07/18/the-2022-hackaday-supercon-is-on-and-the-call-for-proposals-is-open/).
 
 [![RISC-V Summit](../assets/2022mmdd/2022mmddriscv.jpg)](https://events.linuxfoundation.org/riscv-summit/)
 
