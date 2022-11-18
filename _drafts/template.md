@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2022-11-14 - PyCon US 2023 update
+Updated 2022-11-18 - add Mastodon news source
 
 News Sources
 
@@ -25,6 +25,7 @@ News Sources
 - [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
 - [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
 - [https://opensource.com/tags/python](https://opensource.com/tags/python)
+- [Mastodon CircuitPython](https://octodon.social/tags/CircuitPython)
 
 View this email in your browser. **Warning: Flashing Imagery**
 
