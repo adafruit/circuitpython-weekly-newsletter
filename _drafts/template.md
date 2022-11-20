@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2022-11-18 - add Mastodon news source
+Updated 2022-11-20 - add fosdem
 
 News Sources
 
@@ -291,6 +291,10 @@ The next MicroPython Meetup in Melbourne will be on November 23rd – [Meetup](h
 [![RISC-V Summit](../assets/2022mmdd/2022mmddriscv.jpg)](https://events.linuxfoundation.org/riscv-summit/)
 
 RISC-V Global Summit, December 12-15, 2022 San Jose, California US - [Linux Foundation](https://events.linuxfoundation.org/riscv-summit/), [YouTube](https://youtu.be/VecaMNCuuF0) via [Twitter](https://twitter.com/risc_v/status/1564719040588926979).
+
+[![FOSDEM 2023](../assets/2022mmdd/fosdem23.jpg)](https://fosdem.org/2023/)
+
+FOSDEM is a free event for software developers to meet, share ideas and collaborate. Every year, thousands of developers of free and open source software from all over the world gather at the event in Brussels. February 4-5, 2023 in Brussels, Belgium - [Fosdem](https://fosdem.org/2023/).
 
 [![PyCon US 2023](../assets/2022mmdd/pycon2023.jpg)](https://us.pycon.org/2023/)
 
