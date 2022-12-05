@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2022-11-20 - add fosdem
+Updated 2022-12-05 New Discord Graphic 36k
 
 News Sources
 
@@ -336,7 +336,7 @@ text - [Adafruit Jobs Board](https://jobs.adafruit.com/).
 
 ## NUMBER thanks!
 
-[![NUMBER THANKS](../assets/2022mmdd/35kdiscord.png)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/2022mmdd/36kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
