@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2022-12-05 New Discord Graphic 36k
+Updated 2022-12-05 New Discord Graphic 36k & tweak events
 
 News Sources
 
@@ -272,6 +272,12 @@ text - [site](url).
 
 **Jeff**
 
+[![title](../assets/2022mmdd/2022mmddjeff.jpg)](url)
+
+text - [site](url).
+
+**Scott**
+
 [![title](../assets/2022mmdd/2022mmddscott.jpg)](url)
 
 text - [site](url).
@@ -284,13 +290,13 @@ text - [site](url).
 
 ## Upcoming events!
 
-[![MicroPython Meetup](../assets/2022mmdd/2022mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
-
-The next MicroPython Meetup in Melbourne will be on November 23rd – [Meetup](https://www.meetup.com/MicroPython-Meetup/). Slides from the last meeting are [here](https://docs.google.com/presentation/d/e/2PACX-1vQnJM1r7vFuRMq9bzHWXKyjvnmQsDRB30OMVE5Ujcgv75_NGg3prgQ_QzAtVyJoQEdM-x5HvgSrFXS9/pub?slide=id.p).
-
 [![RISC-V Summit](../assets/2022mmdd/2022mmddriscv.jpg)](https://events.linuxfoundation.org/riscv-summit/)
 
 RISC-V Global Summit, December 12-15, 2022 San Jose, California US - [Linux Foundation](https://events.linuxfoundation.org/riscv-summit/), [YouTube](https://youtu.be/VecaMNCuuF0) via [Twitter](https://twitter.com/risc_v/status/1564719040588926979).
+
+[![MicroPython Meetup](../assets/2022mmdd/2022mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
+
+The next MicroPython Meetup in Melbourne will be on December 28th – [Meetup](https://www.meetup.com/MicroPython-Meetup/). Slides from the October meeting are [here](https://docs.google.com/presentation/d/e/2PACX-1vQnJM1r7vFuRMq9bzHWXKyjvnmQsDRB30OMVE5Ujcgv75_NGg3prgQ_QzAtVyJoQEdM-x5HvgSrFXS9/pub?slide=id.p).
 
 [![FOSDEM 2023](../assets/2022mmdd/fosdem23.jpg)](https://fosdem.org/2023/)
 
