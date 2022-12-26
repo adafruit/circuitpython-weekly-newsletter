@@ -28,7 +28,7 @@ For videos:
 
 All videos must be in moving GIF only. There will be no sound. Longer formats may be on a website and linked in rather than embedded.
 
-* Capture via https://twittervideodownloader.com/ if necessary
+* Capture via https://twittervid.com/ if necessary
 * Convert to GIF with https://ezgif.com/, max 550 px wide, **file MUST BE < 1MB in size**
 
 To reduce GIF filesize, make them smaller or crop, say to <400px wide, and consider 5 seconds max.
