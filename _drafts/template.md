@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2022-11-08 07:00:00 -0800
+date: 2023-01-03 07:00:00 -0800
 categories: weekly
 ---
 
@@ -9,12 +9,12 @@ categories: weekly
 - [ ] change date
 - [ ] update title
 - [ ] Feature story
-- [ ] Update [![](../assets/2022mmdd/)]() for images
+- [ ] Update [![](../assets/2023mmdd/)]() for images
 - [ ] Update ICYDNCI
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2022-12-05 New Discord Graphic 36k & tweak events
+Updated 2022-12-27 Update for 2023
 
 News Sources
 
@@ -35,37 +35,37 @@ We're on [Discord](https://discord.gg/HYqvREz), [Twitter](https://twitter.com/se
 
 ## Headline
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
 ## Feature
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
 ## Feature
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
 ## Feature
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
 ## This Week's Python Streams
 
-[![Python Streams](../assets/2022mmdd/cccircuitpython.jpg)](https://circuitpython.org/)
+[![Python Streams](../assets/2023mmdd/cccircuitpython.jpg)](https://circuitpython.org/)
 
 Python on Hardware is all about building a cooperative ecosphere which allows contributions to be valued and to grow knowledge. Below are the streams within the last week focusing on the community.
 
 ### CircuitPython Deep Dive Stream
 
-[![Deep Dive](../assets/2022mmdd/2022mmdddeepdivet.jpg)](link)
+[![Deep Dive](../assets/2023mmdd/2023mmdddeepdivet.jpg)](link)
 
 [This week](link), Tim streamed work on {subject}.
 
@@ -73,7 +73,7 @@ You can see the latest video and past videos on the Adafruit YouTube channel und
 
 ### CircuitPython Parsec
 
-[![CircuitPython Parsec](../assets/2022mmdd/2022mmddjp.jpg)](link)
+[![CircuitPython Parsec](../assets/2023mmdd/2023mmddjp.jpg)](link)
 
 John Park’s CircuitPython Parsec this week is on {subject} - [Adafruit Blog](link) and [YouTube](link).
 
@@ -81,7 +81,7 @@ Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlis
 
 ### The CircuitPython Show
 
-[![The CircuitPython Show](../assets/2022mmdd/cpshow.jpg)](https://circuitpythonshow.com/)
+[![The CircuitPython Show](../assets/2023mmdd/cpshow.jpg)](https://circuitpythonshow.com/)
 
 The CircuitPython Show is an independent podcast hosted by Paul Cutler, focusing on the people doing awesome things with CircuitPython. Each episode features Paul in conversation with a guest for a short interview – [CircuitPythonShow](https://circuitpythonshow.com/) and [Twitter](https://twitter.com/circuitpyshow).
 
@@ -89,81 +89,81 @@ The latest episode was released (date) and features (guest).  They and Paul talk
 
 ## Project of the Week
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
 ## News from around the web!
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
@@ -175,11 +175,11 @@ CircuitPython Weekly Meeting for DATE ([notes]()) [on YouTube]()
 
 ## Coming Soon
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2022mmdd/2022mmdd-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
 
@@ -204,7 +204,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 
 ## New Learn Guides!
 
-[![New Learn Guides](../assets/2022mmdd/2022mmddlearn.jpg)](https://learn.adafruit.com/guides/latest)
+[![New Learn Guides](../assets/2023mmdd/2023mmddlearn.jpg)](https://learn.adafruit.com/guides/latest)
 
 [title](url) from [name](url)
 
@@ -218,7 +218,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 
 ## CircuitPython Libraries!
 
-[![CircuitPython Libraries](../assets/2022mmdd/blinka.png)](https://circuitpython.org/libraries)
+[![CircuitPython Libraries](../assets/2023mmdd/blinka.png)](https://circuitpython.org/libraries)
 
 CircuitPython support for hardware continues to grow. We are adding support for new sensors and breakouts all the time, as well as improving on the drivers we already have. As we add more libraries and update current ones, you can keep up with all the changes right here!
 
@@ -248,61 +248,61 @@ What is the team up to this week? Let’s check in!
 
 **Dan**
 
-[![title](../assets/2022mmdd/2022mmdddan.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdddan.jpg)](url)
 
 text - [site](url).
 
 **Kattni**
 
-[![title](../assets/2022mmdd/2022mmddkattni.jpg)](url)
+[![title](../assets/2023mmdd/2023mmddkattni.jpg)](url)
 
 text - [site](url).
 
 **Melissa**
 
-[![title](../assets/2022mmdd/2022mmddmelissa.jpg)](url)
+[![title](../assets/2023mmdd/2023mmddmelissa.jpg)](url)
 
 text - [site](url).
 
 **Tim**
 
-[![title](../assets/2022mmdd/2022mmddtim.jpg)](url)
+[![title](../assets/2023mmdd/2023mmddtim.jpg)](url)
 
 text - [site](url).
 
 **Jeff**
 
-[![title](../assets/2022mmdd/2022mmddjeff.jpg)](url)
+[![title](../assets/2023mmdd/2023mmddjeff.jpg)](url)
 
 text - [site](url).
 
 **Scott**
 
-[![title](../assets/2022mmdd/2022mmddscott.jpg)](url)
+[![title](../assets/2023mmdd/2023mmddscott.jpg)](url)
 
 text - [site](url).
 
 **Liz**
 
-[![title](../assets/2022mmdd/2022mmddliz.jpg)](url)
+[![title](../assets/2023mmdd/2023mmddliz.jpg)](url)
 
 text - [site](url).
 
 ## Upcoming events!
 
-[![RISC-V Summit](../assets/2022mmdd/2022mmddriscv.jpg)](https://events.linuxfoundation.org/riscv-summit/)
+[![RISC-V Summit](../assets/2023mmdd/2023mmddriscv.jpg)](https://events.linuxfoundation.org/riscv-summit/)
 
-RISC-V Global Summit, December 12-15, 2022 San Jose, California US - [Linux Foundation](https://events.linuxfoundation.org/riscv-summit/), [YouTube](https://youtu.be/VecaMNCuuF0) via [Twitter](https://twitter.com/risc_v/status/1564719040588926979).
+RISC-V Global Summit, December 12-15, 2023 San Jose, California US - [Linux Foundation](https://events.linuxfoundation.org/riscv-summit/), [YouTube](https://youtu.be/VecaMNCuuF0) via [Twitter](https://twitter.com/risc_v/status/1564719040588926979).
 
-[![MicroPython Meetup](../assets/2022mmdd/2022mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
+[![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
 The next MicroPython Meetup in Melbourne will be on December 28th – [Meetup](https://www.meetup.com/MicroPython-Meetup/). Slides from the October meeting are [here](https://docs.google.com/presentation/d/e/2PACX-1vQnJM1r7vFuRMq9bzHWXKyjvnmQsDRB30OMVE5Ujcgv75_NGg3prgQ_QzAtVyJoQEdM-x5HvgSrFXS9/pub?slide=id.p).
 
-[![FOSDEM 2023](../assets/2022mmdd/fosdem23.jpg)](https://fosdem.org/2023/)
+[![FOSDEM 2023](../assets/2023mmdd/fosdem23.jpg)](https://fosdem.org/2023/)
 
 FOSDEM is a free event for software developers to meet, share ideas and collaborate. Every year, thousands of developers of free and open source software from all over the world gather at the event in Brussels. February 4-5, 2023 in Brussels, Belgium - [Fosdem](https://fosdem.org/2023/).
 
-[![PyCon US 2023](../assets/2022mmdd/pycon2023.jpg)](https://us.pycon.org/2023/)
+[![PyCon US 2023](../assets/2023mmdd/pycon2023.jpg)](https://us.pycon.org/2023/)
 
 PyCon US 2023 will be April 19-17, 2023, again in Salt Lake City, Utah USA - [PyCon US 2023](https://us.pycon.org/2023/).
 
@@ -314,7 +314,7 @@ As for other events, with the COVID pandemic, most in-person events are postpone
 
 CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [#.#.#-##.#](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
 
-[2022####](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
+[2023####](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
 
 [v#.#.#](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
 
@@ -324,7 +324,7 @@ CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpyt
 
 ## Call for help -- Translating CircuitPython is now easier than ever!
 
-[![CircuitPython translation statistics on weblate](../assets/2022mmdd/2022mmddweblate.jpg)](https://hosted.weblate.org/engage/circuitpython/)
+[![CircuitPython translation statistics on weblate](../assets/2023mmdd/2023mmddweblate.jpg)](https://hosted.weblate.org/engage/circuitpython/)
 
 One important feature of CircuitPython is translated control and error messages. With the help of fellow open source project [Weblate](https://weblate.org/), we're making it even easier to add or improve translations. 
 
@@ -332,7 +332,7 @@ Sign in with an existing account such as GitHub, Google or Facebook and start co
 
 ## jobs.adafruit.com - Find a dream job, find great candidates!
 
-[![jobs.adafruit.com](../assets/2022mmdd/jobs.jpg)](https://jobs.adafruit.com/)
+[![jobs.adafruit.com](../assets/2023mmdd/jobs.jpg)](https://jobs.adafruit.com/)
 
 [jobs.adafruit.com](https://jobs.adafruit.com/) has returned and folks are posting their skills (including CircuitPython) and companies are looking for talented makers to join their companies - from Digi-Key, to Hackaday, Micro Center, Raspberry Pi and more.
 
@@ -342,7 +342,7 @@ text - [Adafruit Jobs Board](https://jobs.adafruit.com/).
 
 ## NUMBER thanks!
 
-[![NUMBER THANKS](../assets/2022mmdd/36kdiscord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/2023mmdd/36kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
@@ -350,7 +350,7 @@ The Adafruit Discord community, where we do all our CircuitPython development in
 
 ## ICYMI - In case you missed it
 
-[![ICYMI](../assets/2022mmdd/2022mmddicymi.jpg)](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
+[![ICYMI](../assets/2023mmdd/2023mmddicymi.jpg)](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
 
 Python on hardware is the Adafruit Python video-newsletter-podcast! The news comes from the Python community, Discord, Adafruit communities and more and is broadcast on ASK an ENGINEER Wednesdays. The complete Python on Hardware weekly videocast [playlist is here](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev). The video podcast is on [iTunes](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2), [YouTube](http://adafru.it/pohepisodes), [IGTV (Instagram TV](https://www.instagram.com/adafruit/channel/)), and [XML](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2).
 
@@ -358,7 +358,7 @@ Python on hardware is the Adafruit Python video-newsletter-podcast! The news com
 
 ## Codecademy "Learn Hardware Programming with CircuitPython"
 
-[![Codecademy CircuitPython](../assets/2022mmdd/codecademy_python-small.png)](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=pythononhardwarenewsletter)
+[![Codecademy CircuitPython](../assets/2023mmdd/codecademy_python-small.png)](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=pythononhardwarenewsletter)
 
 Codecademy, an online interactive learning platform used by more than 45 million people, has teamed up with Adafruit to create a coding course, “Learn Hardware Programming with CircuitPython”. The course is now available in the [Codecademy catalog](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=pythononhardwarenewsletter).
 
