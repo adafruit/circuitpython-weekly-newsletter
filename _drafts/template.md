@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2023-01-03 07:00:00 -0800
+date: 2023-01-10 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2022-12-27 Update for 2023
+Updated 2023-01-02 remove RISC-V conference
 
 News Sources
 
@@ -289,10 +289,6 @@ text - [site](url).
 text - [site](url).
 
 ## Upcoming events!
-
-[![RISC-V Summit](../assets/2023mmdd/2023mmddriscv.jpg)](https://events.linuxfoundation.org/riscv-summit/)
-
-RISC-V Global Summit, December 12-15, 2023 San Jose, California US - [Linux Foundation](https://events.linuxfoundation.org/riscv-summit/), [YouTube](https://youtu.be/VecaMNCuuF0) via [Twitter](https://twitter.com/risc_v/status/1564719040588926979).
 
 [![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
