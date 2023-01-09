@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2023-01-10 07:00:00 -0800
+date: 2023-01-17 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-01-02 remove RISC-V conference
+Updated 2023-01-09 - general cleanup
 
 News Sources
 
@@ -242,6 +242,10 @@ Here's this week's updated CircuitPython libraries:
 
 * [library](url)
 
+**Library Statistics**
+
+
+
 ## What’s the team up to this week?
 
 What is the team up to this week? Let’s check in!
@@ -292,7 +296,7 @@ text - [site](url).
 
 [![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
-The next MicroPython Meetup in Melbourne will be on December 28th – [Meetup](https://www.meetup.com/MicroPython-Meetup/). Slides from the October meeting are [here](https://docs.google.com/presentation/d/e/2PACX-1vQnJM1r7vFuRMq9bzHWXKyjvnmQsDRB30OMVE5Ujcgv75_NGg3prgQ_QzAtVyJoQEdM-x5HvgSrFXS9/pub?slide=id.p).
+The next MicroPython Meetup in Melbourne will be on January 25th – [Meetup](https://www.meetup.com/MicroPython-Meetup/). Slides from the October meeting are [here](https://docs.google.com/presentation/d/e/2PACX-1vQnJM1r7vFuRMq9bzHWXKyjvnmQsDRB30OMVE5Ujcgv75_NGg3prgQ_QzAtVyJoQEdM-x5HvgSrFXS9/pub?slide=id.p).
 
 [![FOSDEM 2023](../assets/2023mmdd/fosdem23.jpg)](https://fosdem.org/2023/)
 
@@ -304,7 +308,7 @@ PyCon US 2023 will be April 19-17, 2023, again in Salt Lake City, Utah USA - [Py
 
 **Send Your Events In**
 
-As for other events, with the COVID pandemic, most in-person events are postponed or held online. If you know of virtual events or upcoming events, please let us know on Twitter with hashtag #CircuitPython or email to cpnews(at)adafruit(dot)com.
+If you know of virtual events or upcoming events, please let us know via email to cpnews(at)adafruit(dot)com.
 
 ## Latest releases
 
