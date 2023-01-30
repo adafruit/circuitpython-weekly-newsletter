@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2023-01-31 07:00:00 -0800
+date: 2023-02-07 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-01-09 - general cleanup
+Updated 2023-01-30 - more stuff
 
 News Sources
 
@@ -79,6 +79,7 @@ John Park’s CircuitPython Parsec this week is on {subject} - [Adafruit Blog](l
 
 Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr).
 
+*********************************************
 ### The CircuitPython Show
 
 [![The CircuitPython Show](../assets/2023mmdd/cpshow.jpg)](https://circuitpythonshow.com/)
@@ -252,43 +253,43 @@ What is the team up to this week? Let’s check in!
 
 **Dan**
 
-[![title](../assets/2023mmdd/2023mmdddan.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdddan.jpg)](https://www.circuitpython.org/)
 
 text - [site](url).
 
 **Kattni**
 
-[![title](../assets/2023mmdd/2023mmddkattni.jpg)](url)
+[![title](../assets/2023mmdd/2023mmddkattni.jpg)](https://www.circuitpython.org/)
 
 text - [site](url).
 
 **Melissa**
 
-[![title](../assets/2023mmdd/2023mmddmelissa.jpg)](url)
+[![title](../assets/2023mmdd/2023mmddmelissa.jpg)](https://www.circuitpython.org/)
 
 text - [site](url).
 
 **Tim**
 
-[![title](../assets/2023mmdd/2023mmddtim.jpg)](url)
+[![title](../assets/2023mmdd/2023mmddtim.jpg)](https://www.circuitpython.org/)
 
 text - [site](url).
 
 **Jeff**
 
-[![title](../assets/2023mmdd/2023mmddjeff.jpg)](url)
+[![title](../assets/2023mmdd/2023mmddjeff.jpg)](https://www.circuitpython.org/)
 
 text - [site](url).
 
 **Scott**
 
-[![title](../assets/2023mmdd/2023mmddscott.jpg)](url)
+[![title](../assets/2023mmdd/2023mmddscott.jpg)](https://www.circuitpython.org/)
 
 text - [site](url).
 
 **Liz**
 
-[![title](../assets/2023mmdd/2023mmddliz.jpg)](url)
+[![title](../assets/2023mmdd/2023mmddliz.jpg)](https://www.circuitpython.org/)
 
 text - [site](url).
 
@@ -296,11 +297,11 @@ text - [site](url).
 
 [![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
-The next MicroPython Meetup in Melbourne will be on January 25th – [Meetup](https://www.meetup.com/MicroPython-Meetup/). Slides from the October meeting are [here](https://docs.google.com/presentation/d/e/2PACX-1vQnJM1r7vFuRMq9bzHWXKyjvnmQsDRB30OMVE5Ujcgv75_NGg3prgQ_QzAtVyJoQEdM-x5HvgSrFXS9/pub?slide=id.p).
+The next MicroPython Meetup in Melbourne will be on February 22nd – [Meetup](https://www.meetup.com/MicroPython-Meetup/). Slides from the October meeting are [here](https://docs.google.com/presentation/d/e/2PACX-1vQnJM1r7vFuRMq9bzHWXKyjvnmQsDRB30OMVE5Ujcgv75_NGg3prgQ_QzAtVyJoQEdM-x5HvgSrFXS9/pub?slide=id.p).
 
-[![FOSDEM 2023](../assets/2023mmdd/fosdem23.jpg)](https://fosdem.org/2023/)
+[![Unlock MicroPython on Arduino Webinar](../assets/2023mmdd/2023mmddwebinar.jpg)](https://elektor.clickmeeting.com/arduino-micropython-webinar-with-sebastian-romero/register)
 
-FOSDEM is a free event for software developers to meet, share ideas and collaborate. Every year, thousands of developers of free and open source software from all over the world gather at the event in Brussels. February 4-5, 2023 in Brussels, Belgium - [Fosdem](https://fosdem.org/2023/).
+Unlock the Power of MicroPython on an Arduino: Join a Live Webinar March 9, 2023 - [Elector](https://elektor.clickmeeting.com/arduino-micropython-webinar-with-sebastian-romero/register).
 
 [![PyCon US 2023](../assets/2023mmdd/pycon2023.jpg)](https://us.pycon.org/2023/)
 
