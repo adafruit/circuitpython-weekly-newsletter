@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-01-30 - more stuff
+Updated 2023-02-13 events
 
 News Sources
 
@@ -297,11 +297,15 @@ text - [site](url).
 
 [![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
-The next MicroPython Meetup in Melbourne will be on February 22nd – [Meetup](https://www.meetup.com/MicroPython-Meetup/). Slides from the October meeting are [here](https://docs.google.com/presentation/d/e/2PACX-1vQnJM1r7vFuRMq9bzHWXKyjvnmQsDRB30OMVE5Ujcgv75_NGg3prgQ_QzAtVyJoQEdM-x5HvgSrFXS9/pub?slide=id.p).
+The next MicroPython Meetup in Melbourne will be on February 22nd – [Meetup](https://www.meetup.com/MicroPython-Meetup/). 
 
 [![Unlock MicroPython on Arduino Webinar](../assets/2023mmdd/2023mmddwebinar.jpg)](https://elektor.clickmeeting.com/arduino-micropython-webinar-with-sebastian-romero/register)
 
 Unlock the Power of MicroPython on an Arduino: Join a Live Webinar March 9, 2023 - [Elector](https://elektor.clickmeeting.com/arduino-micropython-webinar-with-sebastian-romero/register).
+
+[![Hackaday Berlin 2023](../assets/2023mmdd/hackadayberlin23.jpg)](https://blog.adafruit.com/2023/02/08/hackaday-berlin-2023/)
+
+Hackaday Berlin 2023 has been scheduled for Saturday, March 25 - [Adafruit Blog](https://blog.adafruit.com/2023/02/08/hackaday-berlin-2023/) and [announcement](https://hackaday.com/2023/02/07/come-join-us-for-hackaday-berlin/).
 
 [![PyCon US 2023](../assets/2023mmdd/pycon2023.jpg)](https://us.pycon.org/2023/)
 
