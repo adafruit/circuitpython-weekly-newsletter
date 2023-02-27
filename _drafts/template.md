@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2023-02-07 07:00:00 -0800
+date: 2023-03-07 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-02-13 events
+Updated 2023-02-27 events
 
 News Sources
 
@@ -295,17 +295,21 @@ text - [site](url).
 
 ## Upcoming events!
 
-[![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
-
-The next MicroPython Meetup in Melbourne will be on February 22nd – [Meetup](https://www.meetup.com/MicroPython-Meetup/). 
-
 [![Unlock MicroPython on Arduino Webinar](../assets/2023mmdd/2023mmddwebinar.jpg)](https://elektor.clickmeeting.com/arduino-micropython-webinar-with-sebastian-romero/register)
 
-Unlock the Power of MicroPython on an Arduino: Join a Live Webinar March 9, 2023 - [Elector](https://elektor.clickmeeting.com/arduino-micropython-webinar-with-sebastian-romero/register).
+Unlock the Power of MicroPython on an Arduino: Join a Live Webinar March 9, 2023 - [Elector](https://elektor.clickmeeting.com/arduino-micropython-webinar-with-sebastian-romero/register)
+
+[![Munich RISC-V Meetup](../assets/2023mmdd/2023mmddrv.jpg)](https://riscv.org/event/munich-risc-v-meetup/)
+
+A Munich RISC-V Meetup, one day after the doors of Embedded World close on March 17th. RISC-V enthusiasts will get together in Munich, Bavaria - [RISCV.org](https://riscv.org/event/munich-risc-v-meetup/)
+
+[![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
+
+The next MicroPython Meetup in Melbourne will be on March 22nd – [Meetup](https://www.meetup.com/MicroPython-Meetup/). 
 
 [![Hackaday Berlin 2023](../assets/2023mmdd/hackadayberlin23.jpg)](https://blog.adafruit.com/2023/02/08/hackaday-berlin-2023/)
 
-Hackaday Berlin 2023 has been scheduled for Saturday, March 25 - [Adafruit Blog](https://blog.adafruit.com/2023/02/08/hackaday-berlin-2023/) and [announcement](https://hackaday.com/2023/02/07/come-join-us-for-hackaday-berlin/).
+Hackaday Berlin 2023 is scheduled for Saturday, March 25 - [Adafruit Blog](https://blog.adafruit.com/2023/02/08/hackaday-berlin-2023/) and [announcement](https://hackaday.com/2023/02/07/come-join-us-for-hackaday-berlin/).
 
 [![PyCon US 2023](../assets/2023mmdd/pycon2023.jpg)](https://us.pycon.org/2023/)
 
