@@ -1,6 +1,6 @@
 ## Steps to get the Python on Microcontrollers Newsletter from GitHub to Wordpress
 
-Anne – September 2, 2019
+Anne – September 2, 2019, tweaks March 6, 2023
 
 1.	Go to the newsletter GitHub site drafts directory https://github.com/adafruit/circuitpython-weekly-newsletter/blob/gh-pages/_drafts/
 2.	Rename the old newsletter from adafruit/circuitpython-weekly-newsletter/_drafts to ../_posts
@@ -43,8 +43,8 @@ f.	In the Events section, I usually add the country (and city of needed) to ensu
 25.	Ok, Newsletter complete.
 26.	Get one of the previous emails I’ve sent out. Replace the links with the current links for the weeks’ newsletter.
 a.	To circuit@adafruit.com
-b.	Subject: Newsletter for September xx, 2019
-c.	Here are the links for the Newsletter for September xx, 2019
+b.	Subject: Newsletter for September xx, 2023
+c.	Here are the links for the Newsletter for September xx, 2023
 d.	New link at top of post, the rest is all good.
 e.	Wordpress (browser link):  https://www.adafruitdaily.com/wp/wp-admin/post.php?post=12102&action=edit&classic-editor
 f.	WordPress Preview (link that Preview takes you to): https://www.adafruitdaily.com/?p=12102&preview=true
@@ -53,6 +53,6 @@ h.	If you notice any issues, please feel free to fix it in Wordpress or email ed
 i.	GitHub: https://github.com/adafruit/circuitpython-weekly-newsletter/blob/gh-pages/_drafts/2019-08-27-draft.md
 j.	Send
 27.	Go back to the GitHub _drafts folder and copy all the markdown in template.md
-28.	Create a new file 2019-09-xx-draft.md and copy in the template markdown and save.
+28.	Create a new file 2023-mm-dd-draft.md and copy in the template markdown and save.
 29.	Copy the link to the new draft newsletter 
-30.	BONUS! Create a new assets directory with the name 09xx2019 (you can add a README.md to keep the directory in GitHub. https://github.com/adafruit/circuitpython-weekly-newsletter/tree/gh-pages/assets. This has already been done for the 10th, 17th, and 24th.
+30.	BONUS! Create a new assets directory with the name 2023mmdd (you can add a README.md to keep the directory in GitHub. https://github.com/adafruit/circuitpython-weekly-newsletter/tree/gh-pages/assets.
