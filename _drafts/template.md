@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2023-03-21 07:00:00 -0800
+date: 2023-04-04 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-03-13 events
+Updated 2023-03-27 - events and misc
 
 News Sources
 
@@ -247,7 +247,7 @@ Here's this week's updated CircuitPython libraries:
 
 
 
-## What’s the team up to this week?
+## What’s the CircuitPython team up to this week?
 
 What is the team up to this week? Let’s check in!
 
@@ -295,17 +295,13 @@ text - [site](url).
 
 ## Upcoming events!
 
-[![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
-
-The next MicroPython Meetup in Melbourne will be on March 22nd – [Meetup](https://www.meetup.com/MicroPython-Meetup/). 
-
-[![Hackaday Berlin 2023](../assets/2023mmdd/hackadayberlin23.jpg)](https://blog.adafruit.com/2023/02/08/hackaday-berlin-2023/)
-
-Hackaday Berlin 2023 is scheduled for Saturday, March 25 - [Adafruit Blog](https://blog.adafruit.com/2023/02/08/hackaday-berlin-2023/) and [announcement](https://hackaday.com/2023/02/07/come-join-us-for-hackaday-berlin/).
-
 [![PyCon US 2023](../assets/2023mmdd/pycon2023.jpg)](https://us.pycon.org/2023/)
 
 PyCon US 2023 will be April 19-17, 2023, again in Salt Lake City, Utah USA - [PyCon US 2023](https://us.pycon.org/2023/).
+
+[![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
+
+The next MicroPython Meetup in Melbourne will be on April 26th – [Meetup](https://www.meetup.com/MicroPython-Meetup/). 
 
 [![EuroPython 2023](../assets/2023mmdd/ep23.jpg)](https://ep2023.europython.eu/)
 
