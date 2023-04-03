@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2023-04-04 07:00:00 -0800
+date: 2023-04-11 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-03-27 - events and misc
+Updated 2023-04-03 small changes
 
 News Sources
 
@@ -79,7 +79,6 @@ John Park’s CircuitPython Parsec this week is on {subject} - [Adafruit Blog](l
 
 Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr).
 
-*********************************************
 ### The CircuitPython Show
 
 [![The CircuitPython Show](../assets/2023mmdd/cpshow.jpg)](https://circuitpythonshow.com/)
@@ -297,7 +296,7 @@ text - [site](url).
 
 [![PyCon US 2023](../assets/2023mmdd/pycon2023.jpg)](https://us.pycon.org/2023/)
 
-PyCon US 2023 will be April 19-17, 2023, again in Salt Lake City, Utah USA - [PyCon US 2023](https://us.pycon.org/2023/).
+PyCon US 2023 will be April 19-27, 2023, again in Salt Lake City, Utah USA - [PyCon US 2023](https://us.pycon.org/2023/).
 
 [![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
@@ -331,19 +330,9 @@ One important feature of CircuitPython is translated control and error messages.
 
 Sign in with an existing account such as GitHub, Google or Facebook and start contributing through a simple web interface. No forks or pull requests needed! As always, if you run into trouble join us on [Discord](https://adafru.it/discord), we're here to help.
 
-## jobs.adafruit.com - Find a dream job, find great candidates!
-
-[![jobs.adafruit.com](../assets/2023mmdd/jobs.jpg)](https://jobs.adafruit.com/)
-
-[jobs.adafruit.com](https://jobs.adafruit.com/) has returned and folks are posting their skills (including CircuitPython) and companies are looking for talented makers to join their companies - from Digi-Key, to Hackaday, Micro Center, Raspberry Pi and more.
-
-**Job of the Week**
-
-text - [Adafruit Jobs Board](https://jobs.adafruit.com/).
-
 ## NUMBER thanks!
 
-[![NUMBER THANKS](../assets/2023mmdd/36kdiscord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/2023mmdd/37kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
