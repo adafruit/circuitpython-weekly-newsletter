@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2023-05-02 07:00:00 -0800
+date: 2023-05-09 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-04-13 Remove Codecademy per Teddy email 4/13/23
+Updated 2023-05-02 Event tweaks
 
 News Sources
 
@@ -294,13 +294,9 @@ text - [site](url).
 
 ## Upcoming events!
 
-[![PyCon US 2023](../assets/2023mmdd/pycon2023.jpg)](https://us.pycon.org/2023/)
+[![MicroPython Meetup](../assets/20230502/20230502mp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
-PyCon US 2023 will be April 19-27, 2023, again in Salt Lake City, Utah USA - [PyCon US 2023](https://us.pycon.org/2023/).
-
-[![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
-
-The next MicroPython Meetup in Melbourne will be on April 26th – [Meetup](https://www.meetup.com/MicroPython-Meetup/). 
+The next MicroPython Meetup in Melbourne will be on May 24th – [Meetup](https://www.meetup.com/MicroPython-Meetup/). From the  April 26th meeting - [Notes](https://docs.google.com/presentation/d/e/2PACX-1vS7oU-US5MN1bXTbPG4ZNFtVJuOYQx5GOdIOURQVP7ESSm08sz7M9q_vFXxCaihmjng2Sl2KwbtcGbQ/pub?slide=id.p) and [Video](https://www.youtube.com/watch?v=gKpc900G1DE).
 
 [![EuroPython 2023](../assets/2023mmdd/ep23.jpg)](https://ep2023.europython.eu/)
 
