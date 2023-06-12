@@ -27,6 +27,15 @@ News Sources
 - [https://opensource.com/tags/python](https://opensource.com/tags/python)
 - [Mastodon CircuitPython](https://octodon.social/tags/CircuitPython)
 
+Information Links
+
+- [Last weeks Stats & Subscribers](https://us10.admin.mailchimp.com/campaigns/show?id=569021) - Mailchimp (login needed)
+- [Last Week's Newsletter](https://www.adafruitdaily.com/category/circuitpython/) - adafruitdaily.com
+- New Boards: [Microcontrollers](https://circuitpython.org/downloads?sort-by=date-desc) and [Blinka](https://circuitpython.org/blinka?sort-by=date-desc). compare with [last week](https://www.adafruitdaily.com/category/circuitpython/)
+- [Team Updates](https://3.basecamp.com/3732686/buckets/4356693/questions/1994563901) - Basecamp, internal data
+- [Weblate latest graphic](https://hosted.weblate.org/widgets/circuitpython/#open) - crop and resize to 550px, name yyddmmweblate.jpg
+- Discord Users: Use /serverinfo in any channel to get the user count
+
 View this email in your browser. **Warning: Flashing Imagery**
 
 Welcome to the latest Python on Microcontrollers newsletter!  - *Ed.*
