@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-05-29 event added
+Updated 2023-06-12 Add info sources in prep for July
 
 News Sources
 
