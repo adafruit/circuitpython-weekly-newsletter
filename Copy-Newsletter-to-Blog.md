@@ -1,5 +1,7 @@
 ## Procedure for copying the Python for Microcontrollers Newsletter from Adafruit Daily to an ICYMI post on blogs.adafruit.com
 
+**Usually done on Tuesdays for Wednesday publication**
+
 1.	A good template for looking at the final result is looking at the previous weeks’ post on blog.adafruit.com
 
 2.	Copy all the image files to the Adafruit Blog Wordpress Media area
@@ -31,12 +33,13 @@ ICYMI (In case you missed it) – Tuesday’s Python on Microcontrollers Newslet
 
 The next newsletter goes out in a week and being subscribed the best way to keep up with all things Python for hardware.
 
-Over 6,606 subscribers worldwide!
+Over x,xxx subscribers worldwide!
+
 15.	Add Categories: ADAFRUIT DAILY, CIRCUITPYTHON, MICROPYTHON, PUBLICATIONS, PYTHON
 
 16.	Add Tags: ADAFRUIT DAILY, CIRCUITPYTHON, CIRCUITPYTHON DAY, MICROPYTHON, NEWSLETTER, PYTHON, PYTHON ON MICROCONTROLLERS
 
-17.	As far as the lower right Featured Image, you can search the Media Library and pick the purple Python on Microcontrollers banner or pick an image in the newsletter you’d like to highlight
+17.	As far as the lower right Featured Image, you can search the Media Library and pick the purple Python on Microcontrollers banner
 
 18.	Do a double check that all looks ok. Most of the copyedit was done in the adafruitdaily publication.
 
