@@ -25,7 +25,7 @@
 
 12.	The “Click this link to open this email in a browser”, if at the top of the text should be deleted.
 
-13.	Title the newsletter the same as the title of the adafruitdaily newsletter complete with social media tags. Important: Preface title with “ICYMI: “ and put hashtag #ICYMI in with the other hashtags. Example: “ICYMI: CircuitPython 5 is alive, Device Simulator and more! #Python #Adafruit #CircuitPython #PythonHardware #ICYMI @circuitpython @micropython @ThePSF @Adafruit”
+13.	Title the newsletter the same as the title of the adafruitdaily newsletter complete with social media tags. Important: Preface title with “ICYMI: “ and put hashtag #ICYMI in with the other hashtags. Example: “ICYMI: CircuitPython 5 is alive, Device Simulator and more! #Python #Adafruit #CircuitPython #PythonHardware #ICYMI @circuitpython @micropython @Adafruit”
 
 14.	Add the following text in normal paragraph mode to the top before the Newsletter heading
 
