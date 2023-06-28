@@ -41,7 +41,7 @@ Information Links
 
 View this email in your browser. **Warning: Flashing Imagery**
 
-Welcome to the latest Python on Microcontrollers newsletter!  - *Ed.*
+Welcome to the latest Python on Microcontrollers newsletter! *insert 2-3 sentences from editor (what's in overview, banter) - Ed.*
 
 We're on [Discord](https://discord.gg/HYqvREz), [Twitter](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), and for past newsletters - [view them all here](https://www.adafruitdaily.com/category/circuitpython/). If you're reading this on the web, [subscribe here](https://www.adafruitdaily.com/). Here's the news this week:
 
