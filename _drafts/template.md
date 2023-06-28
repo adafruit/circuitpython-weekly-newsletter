@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-06-20 add more info links
+Updated 2023-06-28 add more info links
 
 News Sources
 
