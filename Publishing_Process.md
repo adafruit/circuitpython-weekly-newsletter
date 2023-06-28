@@ -1,6 +1,6 @@
 ## Steps to get the Python on Microcontrollers Newsletter from GitHub to Adafruit Daily Wordpress
 
-Anne – September 2, 2019, tweaks March 6, 2023 and June 22, 2023
+Anne – September 2, 2019, tweaks March 6, 2023 and June 22 & 28, 2023
 
 1.	Go to the newsletter GitHub site drafts directory https://github.com/adafruit/circuitpython-weekly-newsletter/blob/gh-pages/_drafts/
 2.	Rename the old newsletter from adafruit/circuitpython-weekly-newsletter/_drafts to ../_posts
