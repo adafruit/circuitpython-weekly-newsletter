@@ -1,6 +1,6 @@
 ## Procedure for copying the Python for Microcontrollers Newsletter from Adafruit Daily to an ICYMI post on blogs.adafruit.com
 
-**Usually done on Tuesdays for Wednesday publication**
+**Usually done on Tuesdays for Wednesday 9:30 am publication**
 
 1.	A good template for looking at the final result is looking at the previous weeks’ post on blog.adafruit.com
 
