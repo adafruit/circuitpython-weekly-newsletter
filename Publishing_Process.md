@@ -11,7 +11,7 @@ Anne – September 2, 2019, tweaks March 6, 2023 and June 22, 2023
 > The CircuitPython Weekly Newsletter is a CircuitPython community-run newsletter emailed every Tuesday. The complete <a href="https://www.adafruitdaily.com/category/circuitpython/">archives are here</a>. It highlights the latest CircuitPython related news from around the web including Python and MicroPython developments. To contribute, edit next week’s draft <a href="https://github.com/adafruit/circuitpython-weekly-newsletter/tree/gh-pages/_drafts">on GitHub</a> and <a href="https://help.github.com/articles/editing-files-in-your-repository/">submit a pull request</a> with the changes. Join our <a href="https://adafru.it/discord">Discord</a> or <a href="https://forums.adafruit.com/viewforum.php?f=60">post to the forum</a> for any further questions.
 7.	The trick is to take that text and replace some strings in it to change the image links from GitHub to Wordpress. For this I use notepad++ but many text editors have a search and replace function.
 a.	Find the strings ../assets/20230711 (use the current date) and replace with 
-https://cdn-daily-blog.adafruitdaily.com/uploads/2019/09 (09 is the current month)
+https://cdn-daily-blog.adafruitdaily.com/uploads/2023/07 (07 is the current month)
 b.	Replace all instances. There should be the same number of replaces as there are images in the newsletter.
 8.	In the adafruitdaily.com wordpress https://www.adafruitdaily.com/wp/wp-admin/edit.php open a new post
 9.	Name the post first as the title in the header text of the draft markdown followed by the social media tags: #Python #Adafruit #CircuitPython #PythonHardware @circuitpython @micropython @ThePSF @Adafruit
