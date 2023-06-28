@@ -1,4 +1,4 @@
-## Steps to get the Python on Microcontrollers Newsletter from GitHub to Wordpress
+## Steps to get the Python on Microcontrollers Newsletter from GitHub to Adafruit Daily Wordpress
 
 Anne – September 2, 2019, tweaks March 6, 2023 and June 22, 2023
 
