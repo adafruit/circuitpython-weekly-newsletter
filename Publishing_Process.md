@@ -37,9 +37,9 @@ f.	In the Events section, I usually add the country (and city of needed) to ensu
 19.	Add tags: Newsletter, CircuitPython, MicroPython, Python
 20.	Use the Preview button, upper right
 21.	Read through once more, ensuring pictures, text, etc. all look ok. If there is something out of place, edit the text again.
-22.	When done with the second review, save another draft
-23.	Add the following “Read this email in your browser, click here!” in regular text at the top and the link text is the Permalink for this post just below the title in the editing window. PT added this recently to make it easier for email readers.
-24.	In the upper right Publish box, click edit next to Publish immediately. Change to publish Tuesday at 07 00. Double check the date then click Publish.
+22.	When done with the second review, save another draft.
+23. In the upper right Publish box, click edit next to Publish immediately. Change to publish date (Tuesday for Anne, Monday for Kattni) at 07 00. Double check the date then click Publish.
+24.	Copy the newsletter link above the newsletter text, highlight "View this Email" in the first line "View this email in your browser" and make those three words a hyperlink with the newsletter URL. PT added this to make it easier for email readers. Click "Update" button to save that change.
 25.	Ok, Newsletter complete.
 26.	Get one of the previous emails I’ve sent out. Replace the links with the current links for the weeks’ newsletter.
 a.	To circuit@adafruit.com
