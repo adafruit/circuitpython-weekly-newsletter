@@ -8,7 +8,6 @@ Here are the URLs used for adding the Friday bits to the newsletter:
 - https://learn.adafruit.com/guides/latest
 - https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md
 - https://github.com/adafruit/CircuitPython_Community_Bundle/blob/master/.gitmodules
-- https://github.com/adafruit/circuitpython/stargazers
 - https://adafruit-circuit-python.s3.amazonaws.com/index.html?prefix=adabot/bin/reports/
 
 Order in which to do things:
@@ -20,7 +19,6 @@ Order in which to do things:
 - Go to the CircuitPython Community Bundle tab, and do a Find In Page (ctrl+f or whatever fits the machine you’re using) for “submodule”, and it should provide you with a “number of matches” (currently 28). 
 - Add the number of Adafruit CircuitPython libraries from the Adafruit Bundle page to the number of submodules on the Community Bundle page.
 - Put that combined number into the CircuitPython Libraries section of the newsletter draft.
-- Check the Stargazers tab for the total number of CircuitPython stars, and add that at the bottom of the “Latest Releases” section in the newsletter draft.
 - In the S3 AWS bucket tab, click on the latest circuitpython_library_support_YYYYMMDD.txt link.
 - From the CircuitPython report page, scroll down to “Library updates in the last seven days”. Copy the bullet list from under the **New Libraries** header.
 - Paste that into the CircuitPython Libraries! section of the newsletter under “New libraries!” 
