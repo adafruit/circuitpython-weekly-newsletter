@@ -6,8 +6,8 @@ Here are the URLs used for adding the Friday bits to the newsletter:
 - https://github.com/adafruit/circuitpython-weekly-newsletter/tree/gh-pages/_drafts
 - https://github.com/adafruit/circuitpython-weekly-newsletter/tree/gh-pages/_posts
 - https://learn.adafruit.com/guides/latest
-- https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md
-- https://github.com/adafruit/CircuitPython_Community_Bundle/blob/master/.gitmodules
+- https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/main/circuitpython_library_list.md
+- https://github.com/adafruit/CircuitPython_Community_Bundle/blob/main/.gitmodules
 - https://adafruit-circuit-python.s3.amazonaws.com/index.html?prefix=adabot/bin/reports/
 
 Order in which to do things:
