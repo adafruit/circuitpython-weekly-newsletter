@@ -28,6 +28,6 @@ Order in which to do things:
 - In the newsletter draft, scroll up to “New Learn Guides!”
 - Below it is the format for including new Learn guides. You’ll go through the tabs you opened in step 4. And get the appropriate info from each page to include on one line per guide in the newsletter. (See past newsletters if you need clarification.)
 
-Push to master, and you’re done. Hopefully this is clear enough.
+Push to gh-pages, and you’re done. Hopefully this is clear enough.
 
 Update 2020-09-11 by Kattni
