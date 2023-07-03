@@ -12,10 +12,10 @@ title: Adafruit CircuitPython Weekly Newsletter
 ## Archive
 
 
-Older items that have been moved to "attic" are not rendered here.
-This is needed to keep the update time for github pages reasonable.
-The canonical site for the archives is
-[https://www.adafruitdaily.com/category/circuitpython/](https://www.adafruitdaily.com/category/circuitpython/)
+The previous years' content has been moved to the [circuitpython-weekly-newsletter-archives](https://github.com/adafruit/circuitpython-weekly-newsletter-archives) repository, and are not rendered here.
+This is needed to keep the update time for Github Pages and the size of this repo reasonable.
+The canonical site for the newsletter archives is
+[https://www.adafruitdaily.com/category/circuitpython/](https://www.adafruitdaily.com/category/circuitpython/).
 
 {% for post in site.posts%}
 [{{ post.title }}]({{ post.url | absolute_url }})
