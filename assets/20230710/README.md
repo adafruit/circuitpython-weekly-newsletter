@@ -1,6 +1,6 @@
-## July 4, 2023 CircuitPython Newsletter Assets
+## July 10, 2023 CircuitPython Newsletter Assets
 
-Please preface all asset filenames for this issue with 20230704, re. 20230704neopixel.jpg
+Please preface all asset filenames for this issue with 20230710, re. 20230710neopixel.jpg
 
 Please consider using JPG files for size. Use a .jpg file extension, not .JPG or .jfif, please.
 .png files are acceptable too. Please, not .PNG or .svg files.
