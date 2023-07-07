@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-07-03 Add CircuitPython Community Bundle to version numbers - Kattni
+Updated 2023-07-07 Add CircuitPython Community Bundle to version numbers, changed format of stream titles - Kattni
 
 News Sources
 
@@ -76,7 +76,7 @@ text - [site](url).
 
 Python on Hardware is all about building a cooperative ecosphere which allows contributions to be valued and to grow knowledge. Below are the streams within the last week focusing on the community.
 
-### CircuitPython Deep Dive Stream
+**CircuitPython Deep Dive Stream**
 
 [![Deep Dive](../assets/2023mmdd/2023mmdddeepdivet.jpg)](link)
 
@@ -84,7 +84,7 @@ Python on Hardware is all about building a cooperative ecosphere which allows co
 
 You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXBHlu9msoXq2jQN4JpCk8A).
 
-### CircuitPython Parsec
+**CircuitPython Parsec**
 
 [![CircuitPython Parsec](../assets/2023mmdd/2023mmddjp.jpg)](link)
 
