@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-07-07 Add CircuitPython Community Bundle to version numbers, changed format of stream titles - Kattni
+Updated 2023-07-14 remove EuroPython, add 2 new events - Kattni
 
 News Sources
 
@@ -311,9 +311,9 @@ text - [site](url).
 
 The next MicroPython Meetup in Melbourne will be on June 28th – [Meetup](https://www.meetup.com/micropython-meetup/events). From the May 24th meeting - [Notes](https://docs.google.com/presentation/d/e/2PACX-1vQ3rvNGR3NyBkSc6t1nXMoGvNuf9Btq10ZQR-4DagW5q4cbPtGMZXOoRRRo2wWOi2u7xH-Bf_HTBjb2/pub?slide=id.p).
 
-[![EuroPython 2023](../assets/2023mmdd/ep23.jpg)](https://ep2023.europython.eu/)
+[![PyCon AU](../assets/2023mmdd/pyconau.jpg)](https://2023.pycon.org.au/)
 
-EuroPython 2023 will be July 17-23, 2023, in Prague, Czech Republic and Remote - [EuroPython 2023](https://ep2023.europython.eu/).
+[PyCon AU](https://2023.pycon.org.au/) will be held August 18th - 22nd in Adelaide, Australia. The conference schedule was recently published and notable talks include [You can't do that in MicroPython](https://2023.pycon.org.au/program/F7JN7X/) by Matt Trentini and [10 Years of MicroPython](https://2023.pycon.org.au/program/ZDUVFF/) by Damien George. - [PyCon AU](https://2023.pycon.org.au/).
 
 [![PYCON UK 2023](../assets/2023mmdd/2023mmddpcuk.jpg)](https://2023.pyconuk.org/)
 
@@ -322,6 +322,10 @@ PyCon UK will be returning to Cardiff City Hall from Friday 22nd September to Mo
 [![Hackaday Supercon 2023](../assets/2023mmdd/supercon23.jpg)](https://blog.adafruit.com/2023/05/10/hackaday-supercon-2023-is-on-supercon-hackaday/)
 
 Hackaday has announced that the Hackaday Supercon is on for 2023, and will be taking place November 3 – 5 in Pasadena, California, USA. They’d like to hear your proposals for talks and workshops! The [Call for Speakers](https://docs.google.com/forms/d/e/1FAIpQLSfYDwIzWTHZ0_7d8GUznm3Z9w3y8aDcV1MVGSUyY1nTcdJ9Jw/viewform?usp=sf_link) and [Call for Workshops](https://docs.google.com/forms/d/e/1FAIpQLSeJIm0fWcrJIN8ge1K6Mvt2tfoFYOqre3isod5vKRGr-iyvJg/viewform?usp=sf_link) forms are online now, and you have until July 18th to sign up - [Adafruit Blog](https://blog.adafruit.com/2023/05/10/hackaday-supercon-2023-is-on-supercon-hackaday/) and [Hackaday](https://hackaday.com/2023/05/10/supercon-2023-is-on-we-want-you/).
+
+[![Pyjamas 2023](../assets/2023mmdd/pyjamas2023.jpg)](https://twitter.com/PyjamasConf/status/1675278222798495745)
+
+The Pyjamas Conference, the 24-hour online Python conference, will be returning for a fifth year. The Call for Papers will begin on September 2nd. - [Twitter](https://twitter.com/PyjamasConf/status/1675278222798495745).
 
 **Send Your Events In**
 
@@ -355,7 +359,7 @@ Sign in with an existing account such as GitHub, Google or Facebook and start co
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
-The Adafruit Discord community, where we do all our CircuitPython development in the open, reached over NUMBER humans - thank you!  Adafruit believes Discord offers a unique way for Python on hardware folks to connect. Join today at [https://adafru.it/discord](https://adafru.it/discord).
+The Adafruit Discord community, where we do all our CircuitPython development in the open, reached over NUMBER humans - thank you! Adafruit believes Discord offers a unique way for Python on hardware folks to connect. Join today at [https://adafru.it/discord](https://adafru.it/discord).
 
 ## ICYMI - In case you missed it
 
