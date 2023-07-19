@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-07-14 remove EuroPython, add 2 new events - Kattni
+Updated 2023-07-19 remove Add CircuitPython Parsec GitHub link - Paul
 
 News Sources
 
@@ -88,7 +88,7 @@ You can see the latest video and past videos on the Adafruit YouTube channel und
 
 [![CircuitPython Parsec](../assets/2023mmdd/2023mmddjp.jpg)](link)
 
-John Park’s CircuitPython Parsec this week is on {subject} - [Adafruit Blog](link) and [YouTube](link).
+John Park’s CircuitPython Parsec this week is on {subject} - [Adafruit Blog](link), [GitHub](https://github.com/jedgarpark/parsec) and [YouTube](link).
 
 Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr).
 
