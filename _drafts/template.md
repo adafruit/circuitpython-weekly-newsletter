@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2023-06-06 07:00:00 -0800
+date: 2023-08-07 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-07-19 remove Add CircuitPython Parsec GitHub link - Paul
+Updated 2023-07-28 - minor copyedits, events tweaks
 
 News Sources
 
@@ -70,6 +70,12 @@ text - [site](url).
 
 text - [site](url).
 
+## Feature
+
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
+
+text - [site](url).
+
 ## This Week's Python Streams
 
 [![Python Streams](../assets/2023mmdd/cccircuitpython.jpg)](https://circuitpython.org/)
@@ -78,9 +84,9 @@ Python on Hardware is all about building a cooperative ecosphere which allows co
 
 **CircuitPython Deep Dive Stream**
 
-[![Deep Dive](../assets/2023mmdd/2023mmdddeepdivet.jpg)](link)
+[![Deep Dive](../assets/2023mmdd/2023mmdddeepdive.jpg)](link)
 
-[This week](link), Tim streamed work on {subject}.
+[Last Friday](link), Scott streamed work on {subject}.
 
 You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXBHlu9msoXq2jQN4JpCk8A).
 
@@ -91,14 +97,6 @@ You can see the latest video and past videos on the Adafruit YouTube channel und
 John Park’s CircuitPython Parsec this week is on {subject} - [Adafruit Blog](link), [GitHub](https://github.com/jedgarpark/parsec) and [YouTube](link).
 
 Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr).
-
-### The CircuitPython Show
-
-[![The CircuitPython Show](../assets/2023mmdd/cpshow.jpg)](https://circuitpythonshow.com/)
-
-The CircuitPython Show is an independent podcast hosted by Paul Cutler, focusing on the people doing awesome things with CircuitPython. Each episode features Paul in conversation with a guest for a short interview – [CircuitPythonShow](https://circuitpythonshow.com/) and [Twitter](https://twitter.com/circuitpyshow).
-
-The latest episode was released (date) and features (guest).  They and Paul talk {subject} – [Show List](https://circuitpythonshow.com/episodes/all).
 
 ## Project of the Week
 
@@ -305,15 +303,15 @@ text - [site](url).
 
 text - [site](url).
 
-## Upcoming events!
-
-[![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
-
-The next MicroPython Meetup in Melbourne will be on June 28th – [Meetup](https://www.meetup.com/micropython-meetup/events). From the May 24th meeting - [Notes](https://docs.google.com/presentation/d/e/2PACX-1vQ3rvNGR3NyBkSc6t1nXMoGvNuf9Btq10ZQR-4DagW5q4cbPtGMZXOoRRRo2wWOi2u7xH-Bf_HTBjb2/pub?slide=id.p).
+## Upcoming Events!
 
 [![PyCon AU](../assets/2023mmdd/pyconau.jpg)](https://2023.pycon.org.au/)
 
-[PyCon AU](https://2023.pycon.org.au/) will be held August 18th - 22nd in Adelaide, Australia. The conference schedule was recently published and notable talks include [You can't do that in MicroPython](https://2023.pycon.org.au/program/F7JN7X/) by Matt Trentini and [10 Years of MicroPython](https://2023.pycon.org.au/program/ZDUVFF/) by Damien George. - [PyCon AU](https://2023.pycon.org.au/).
+[PyCon AU](https://2023.pycon.org.au/) will be held August 18th - 22nd in Adelaide, Australia. The conference schedule was recently published and notable talks include [You can't do that in MicroPython](https://2023.pycon.org.au/program/F7JN7X/) by Matt Trentini and [10 Years of MicroPython](https://2023.pycon.org.au/program/ZDUVFF/) by Damien George - [PyCon AU](https://2023.pycon.org.au/).
+
+[![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
+
+The next MicroPython Meetup in Melbourne will be on August 23rd – [Meetup](https://www.meetup.com/micropython-meetup/events). 
 
 [![PYCON UK 2023](../assets/2023mmdd/2023mmddpcuk.jpg)](https://2023.pyconuk.org/)
 
@@ -325,13 +323,13 @@ Hackaday has announced that the Hackaday Supercon is on for 2023, and will be ta
 
 [![Pyjamas 2023](../assets/2023mmdd/pyjamas2023.jpg)](https://twitter.com/PyjamasConf/status/1675278222798495745)
 
-The Pyjamas Conference, the 24-hour online Python conference, will be returning for a fifth year. The Call for Papers will begin on September 2nd. - [Twitter](https://twitter.com/PyjamasConf/status/1675278222798495745).
+The Pyjamas Conference, the 24-hour online Python conference, will be returning for a fifth year. The Call for Papers will begin on September 2nd - [Twitter](https://twitter.com/PyjamasConf/status/1675278222798495745).
 
 **Send Your Events In**
 
 If you know of virtual events or upcoming events, please let us know via email to cpnews(at)adafruit(dot)com.
 
-## Latest releases
+## Latest Releases
 
 CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [#.#.#-##.#](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
 
@@ -345,7 +343,7 @@ CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpyt
 
 [#,### Stars](https://github.com/adafruit/circuitpython/stargazers) Like CircuitPython? [Star it on GitHub!](https://github.com/adafruit/circuitpython)
 
-## Call for help -- Translating CircuitPython is now easier than ever!
+## Call for Help -- Translating CircuitPython is now easier than ever!
 
 [![CircuitPython translation statistics on weblate](../assets/2023mmdd/2023mmddweblate.jpg)](https://hosted.weblate.org/engage/circuitpython/)
 
@@ -353,7 +351,7 @@ One important feature of CircuitPython is translated control and error messages.
 
 Sign in with an existing account such as GitHub, Google or Facebook and start contributing through a simple web interface. No forks or pull requests needed! As always, if you run into trouble join us on [Discord](https://adafru.it/discord), we're here to help.
 
-## NUMBER thanks!
+## NUMBER Thanks!
 
 [![NUMBER THANKS](../assets/2023mmdd/37kdiscord.jpg)](https://adafru.it/discord)
 
