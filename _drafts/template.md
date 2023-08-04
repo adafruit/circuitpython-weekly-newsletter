@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-07-28 - minor copyedits, events tweaks
+Updated 2023-08-02 events tweaks
 
 News Sources
 
@@ -94,7 +94,7 @@ You can see the latest video and past videos on the Adafruit YouTube channel und
 
 [![CircuitPython Parsec](../assets/2023mmdd/2023mmddjp.jpg)](link)
 
-John Park’s CircuitPython Parsec this week is on {subject} - [Adafruit Blog](link), [GitHub](https://github.com/jedgarpark/parsec) and [YouTube](link).
+John Park’s CircuitPython Parsec this week is on {subject} - [Adafruit Blog](link) and [YouTube](link).
 
 Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr).
 
@@ -313,9 +313,17 @@ text - [site](url).
 
 The next MicroPython Meetup in Melbourne will be on August 23rd – [Meetup](https://www.meetup.com/micropython-meetup/events). 
 
+[![Espressif Developer Conference - DevCon23](../assets/2023mmdd/2023mmddedc.jpg)](https://devcon.espressif.com/)
+
+The supplier of popular ESP32 and ESP8266 microcontrollers, Espressif, announces their yearly Developers COnference. During the two-day online event, there will be nearly 30 talks created by Espressif technical experts and its partners, covering a wide range of topics, including Thread, the low-power features of ESP32-C6 and Wi-Fi 6, ESP-Mesh-Lite + ESP RainMaker Cloud solution, ESP-IDF, RUST, SquareLine Studio, AWS IoT, and more. September 12-13, 10:00-19:00 CEST - [devcon.espressif.com](https://devcon.espressif.com/).
+
 [![PYCON UK 2023](../assets/2023mmdd/2023mmddpcuk.jpg)](https://2023.pyconuk.org/)
 
 PyCon UK will be returning to Cardiff City Hall from Friday 22nd September to Monday 25th September 2023 - [PyCon UK](https://2023.pyconuk.org/).
+
+[![Maker Faire Bay Area](../assets/2023mmdd/2023mmddmfba.jpg)](https://www.eventbrite.com/e/maker-faire-bay-area-october-13-15-october-20-22-2023-tickets-673771979127)
+
+Maker Faire Bay Area will be October 13-15 & October 20-22, 2023 - [Eventbright](https://www.eventbrite.com/e/maker-faire-bay-area-october-13-15-october-20-22-2023-tickets-673771979127).
 
 [![Hackaday Supercon 2023](../assets/2023mmdd/supercon23.jpg)](https://blog.adafruit.com/2023/05/10/hackaday-supercon-2023-is-on-supercon-hackaday/)
 
