@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2023-08-07 07:00:00 -0800
+date: 2023-09-11 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-08-24 Insta tweak
+Updated 2023-09-11 minor tweaks
 
 News Sources
 
@@ -306,10 +306,6 @@ text - [site](url).
 
 ## Upcoming Events!
 
-[![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
-
-The next MicroPython Meetup in Melbourne will be on August 23rd – [Meetup](https://www.meetup.com/micropython-meetup/events). 
-
 [![Espressif Developer Conference - DevCon23](../assets/2023mmdd/2023mmddedc.jpg)](https://devcon.espressif.com/)
 
 The supplier of popular ESP32 and ESP8266 microcontrollers, Espressif, announces their yearly Developers Conference. During the two-day online event, there will be nearly 30 talks created by Espressif technical experts and its partners, covering a wide range of topics, including Thread, the low-power features of ESP32-C6 and Wi-Fi 6, ESP-Mesh-Lite + ESP RainMaker Cloud solution, ESP-IDF, RUST, SquareLine Studio, AWS IoT, and more. September 12-13, 10:00-19:00 CEST - [devcon.espressif.com](https://devcon.espressif.com/).
@@ -317,6 +313,10 @@ The supplier of popular ESP32 and ESP8266 microcontrollers, Espressif, announces
 [![PYCON UK 2023](../assets/2023mmdd/2023mmddpcuk.jpg)](https://2023.pyconuk.org/)
 
 PyCon UK will be returning to Cardiff City Hall from Friday 22nd September to Monday 25th September 2023 - [PyCon UK](https://2023.pyconuk.org/).
+
+[![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
+
+The next MicroPython Meetup in Melbourne will be on September 27th – [Meetup](https://www.meetup.com/micropython-meetup/events). 
 
 [![Maker Faire Bay Area](../assets/2023mmdd/2023mmddmfba.jpg)](https://www.eventbrite.com/e/maker-faire-bay-area-october-13-15-october-20-22-2023-tickets-673771979127)
 
