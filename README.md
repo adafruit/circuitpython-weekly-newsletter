@@ -1,7 +1,7 @@
 # Python for Microcontrollers Newsletter
 
 Content for the Adafruit Python for Microcontrollers newsletter. It's emailed out each week on
-Tuesdays. Sign up to get them [here](https://www.adafruitdaily.com/).
+Monday mornings (US time). Sign up to get them [here](https://www.adafruitdaily.com/).
 
 # Contribute!
 
