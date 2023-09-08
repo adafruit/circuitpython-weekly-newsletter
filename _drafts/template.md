@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2023-09-11 07:00:00 -0800
+date: 2023-09-18 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-09-11 minor tweaks
+Updated 2023-09-08 minor tweaks & add event
 
 News Sources
 
@@ -326,9 +326,13 @@ Maker Faire Bay Area will be October 13-15 & October 20-22, 2023 - [Eventbright]
 
 Hackaday has announced that the Hackaday Supercon is on for 2023, and will be taking place November 3 – 5 in Pasadena, California, USA - [Adafruit Blog](https://blog.adafruit.com/2023/05/10/hackaday-supercon-2023-is-on-supercon-hackaday/) and [Hackaday](https://hackaday.com/2023/05/10/supercon-2023-is-on-we-want-you/).
 
+[![PyLadiesCon](../assets/2023mmdd/2023mmddpl.jpg)](https://pretalx.com/pyladiescon-2023/cfp)
+
+The inaugural PyLadies Conference will take place December 1-3, 2023 - [pretalx](https://pretalx.com/pyladiescon-2023/cfp).
+
 [![Pyjamas 2023](../assets/2023mmdd/pyjamas2023.jpg)](https://twitter.com/PyjamasConf/status/1675278222798495745)
 
-The Pyjamas Conference, the 24-hour online Python conference, will be returning for a fifth year. The Call for Papers will begin on September 2nd - [Twitter](https://twitter.com/PyjamasConf/status/1675278222798495745).
+The Pyjamas Conference, the 24-hour online Python conference, will be returning for a fifth year on December 9-10. The Call for Papers began on September 2nd and extends to September 30th - [Twitter](https://twitter.com/PyjamasConf/status/1675278222798495745).
 
 **Send Your Events In**
 
