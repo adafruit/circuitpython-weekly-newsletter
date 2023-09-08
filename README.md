@@ -12,7 +12,7 @@ inside the `_drafts` directory directly in GitHub rather than fork/clone/branch/
 Each draft is in the filename yyyy-mm-dd-draft.md in [Markdown](https://www.markdownguide.org/) format.
 Once you are done editing it will ask if you want to make a Pull Request (PR). Do so and add a description.
 
-The post is queued up Monday afternoons after the CircuitPython weekly meeting.
+The post is queued up Friday afternoons.
 
 If editing is a bit much, post in the Issues, although an email is preferable and highly recommended.
 
