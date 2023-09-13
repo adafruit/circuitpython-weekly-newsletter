@@ -5,26 +5,16 @@ if needed.**
 
 This is the workflow for adding certain parts of the newsletter on Wednesday or Thursday afternoons.
 
-### Here are the URLs used for adding the Wed/Thu bits to the newsletter:
-- https://github.com/adafruit/circuitpython-weekly-newsletter/tree/gh-pages/_drafts
-- https://github.com/adafruit/circuitpython-weekly-newsletter/tree/gh-pages/_posts
-- https://learn.adafruit.com/guides/latest
-- https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/main/circuitpython_library_list.md
-- https://raw.githubusercontent.com/adafruit/CircuitPython_Community_Bundle/main/.gitmodules
-- https://adafruit-circuit-python.s3.amazonaws.com/index.html?prefix=adabot/bin/reports/
-- https://github.com/adafruit/circuitpython/releases
-- https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases
-- https://github.com/adafruit/CircuitPython_Community_Bundle/releases
-- https://micropython.org/download
-- https://www.python.org/downloads/
-- https://www.python.org/download/pre-releases/
-- https://github.com/adafruit/circuitpython/stargazers
-
 ### Open the current and previous newsletters:
+- URLS:
+  - https://github.com/adafruit/circuitpython-weekly-newsletter/tree/gh-pages/_drafts
+  - https://github.com/adafruit/circuitpython-weekly-newsletter/tree/gh-pages/_posts
 - Open up the current draft in a tab. (From /_drafts)
-- Open the most recent published newsletter in a separate tab. (From /_.posts)
+- Open the most recent published newsletter in a separate tab. The most recent newsletter may still be in /_drafts.
 
 ### Add new Learn Guides:
+- Open the following URL in a separate tab:
+  - https://learn.adafruit.com/guides/latest
 - Scroll down to the Learn guides in the most recent published newsletter.
 - Go to the Latest guides on Learn, determine where I left off from last week by looking at the most recently published newsletter. Then open all the new CircuitPython-related guides in tabs. (Sometimes I have to open a guide and check if it’s CP or not.)
 - In the newsletter draft, scroll to “New Learn Guides!”
@@ -32,6 +22,10 @@ This is the workflow for adding certain parts of the newsletter on Wednesday or 
 - You may need to add more lines for more guides, or remove some of the templated lines if there are less.
 
 ### Update the Libraries Section:
+- Open the following URLs in separate tabs:
+  - https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/main/circuitpython_library_list.md
+  - https://raw.githubusercontent.com/adafruit/CircuitPython_Community_Bundle/main/.gitmodules
+  - https://adafruit-circuit-python.s3.amazonaws.com/index.html?prefix=adabot/bin/reports/
 - Update the number of libraries:
   - Check the CircuitPython Library List in the Bundle repo to get the current number of Adafruit CircuitPython libraries. It is listed under the picture of Blinka.
   - Go to the CircuitPython Community Bundle tab, and do a Find In Page (cmd+f, ctrl+f, or whatever fits the machine you’re using) for “submodule”, and it will provide you with a “number of matches”. 
@@ -53,12 +47,36 @@ This is the workflow for adding certain parts of the newsletter on Wednesday or 
   - Paste it into the Libraries section under "Library PyPI Weekly Download Stats" header.
 
 ### Update the Latest Releases section:
+- Open the following URLs in separate tabs:
+  - https://github.com/adafruit/circuitpython/releases
+  - https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases
+  - https://github.com/adafruit/CircuitPython_Community_Bundle/releases
+  - https://micropython.org/download
+  - https://www.python.org/downloads/
+  - https://www.python.org/download/pre-releases/
+  - https://github.com/adafruit/circuitpython/stargazers
 - Scroll down to the Latest Releases section in the newsletter draft.
-- Use the rest of the open tabs to enter the appropriate information into this section. Follow the format of the template. The info available in the tabs fits the template.
+- Use the open tabs to enter the appropriate information into this section. Follow the format of the template. The info available in the tabs fits the template.
 - When entering the number of Stargazers, please include a `,` in the number, e.g, `3,456`, 
 - Note! Sometimes CircuitPython and Python do not have unstable releases. In that event, delete that part of the sentence, and only include the stable release.
 
 Commit, and submit a PR to the circuitpython-weekly-newsletter repo, tagging @thekitty as a reviewer. 
 Notify Anne on Slack as well.
+
+### Full URL List
+Consider creating a bookmark folder with the following, to make opening them all in tabs a simple task.
+- https://github.com/adafruit/circuitpython-weekly-newsletter/tree/gh-pages/_drafts
+- https://github.com/adafruit/circuitpython-weekly-newsletter/tree/gh-pages/_posts
+- https://learn.adafruit.com/guides/latest
+- https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/main/circuitpython_library_list.md
+- https://raw.githubusercontent.com/adafruit/CircuitPython_Community_Bundle/main/.gitmodules
+- https://adafruit-circuit-python.s3.amazonaws.com/index.html?prefix=adabot/bin/reports/
+- https://github.com/adafruit/circuitpython/releases
+- https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases
+- https://github.com/adafruit/CircuitPython_Community_Bundle/releases
+- https://micropython.org/download
+- https://www.python.org/downloads/
+- https://www.python.org/download/pre-releases/
+- https://github.com/adafruit/circuitpython/stargazers
 
 Update 2023-09-13 by Kattni
