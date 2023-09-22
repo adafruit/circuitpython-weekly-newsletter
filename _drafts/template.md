@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2023-09-25 07:00:00 -0800
+date: 2023-10-02 07:00:00 -0800
 categories: weekly
 ---
 
-- [ ] Kattni updates
+- [ ] Library and info updates
 - [ ] change date
 - [ ] update title
 - [ ] Feature story
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-09-11 remove past event
+Updated 2023-09-22 various changes (bye Kattni)
 
 News Sources
 
@@ -268,12 +268,6 @@ What is the team up to this week? Let’s check in!
 
 text - [site](url).
 
-**Kattni**
-
-[![title](../assets/2023mmdd/2023mmddkattni.jpg)](https://www.circuitpython.org/)
-
-text - [site](url).
-
 **Melissa**
 
 [![title](../assets/2023mmdd/2023mmddmelissa.jpg)](https://www.circuitpython.org/)
@@ -305,10 +299,6 @@ text - [site](url).
 text - [site](url).
 
 ## Upcoming Events!
-
-[![PYCON UK 2023](../assets/2023mmdd/2023mmddpcuk.jpg)](https://2023.pyconuk.org/)
-
-PyCon UK will be returning to Cardiff City Hall from Friday 22nd September to Monday 25th September 2023 - [PyCon UK](https://2023.pyconuk.org/).
 
 [![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
