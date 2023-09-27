@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-09-22 various changes (bye Kattni)
+Updated 2023-09-27 Small event change 
 
 News Sources
 
@@ -318,7 +318,7 @@ The inaugural PyLadies Conference will take place December 1-3, 2023 - [pretalx]
 
 [![Pyjamas 2023](../assets/2023mmdd/pyjamas2023.jpg)](https://twitter.com/PyjamasConf/status/1675278222798495745)
 
-The Pyjamas Conference, the 24-hour online Python conference, will be returning for a fifth year on December 9-10. The Call for Papers began on September 2nd and extends to September 30th - [Twitter](https://twitter.com/PyjamasConf/status/1675278222798495745).
+The Pyjamas Conference, the 24-hour online Python conference, will be returning for a fifth year on December 9-10.
 
 **Send Your Events In**
 
