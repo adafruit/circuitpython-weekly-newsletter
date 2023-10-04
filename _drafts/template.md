@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2023-10-09 07:00:00 -0800
+date: 2023-10-16 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-09-27 Small event change 
+Updated 2023-10-04 change MicroPython meetup to October
 
 News Sources
 
@@ -300,13 +300,13 @@ text - [site](url).
 
 ## Upcoming Events!
 
-[![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
-
-The next MicroPython Meetup in Melbourne will be on September 27th – [Meetup](https://www.meetup.com/micropython-meetup/events). 
-
 [![Maker Faire Bay Area](../assets/2023mmdd/2023mmddmfba.jpg)](https://www.eventbrite.com/e/maker-faire-bay-area-october-13-15-october-20-22-2023-tickets-673771979127)
 
 Maker Faire Bay Area will be October 13-15 & October 20-22, 2023 - [Eventbright](https://www.eventbrite.com/e/maker-faire-bay-area-october-13-15-october-20-22-2023-tickets-673771979127).
+
+[![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
+
+The next MicroPython Meetup in Melbourne will be on October 25th – [Meetup](https://www.meetup.com/micropython-meetup/events). 
 
 [![Hackaday Supercon 2023](../assets/2023mmdd/supercon23.jpg)](https://blog.adafruit.com/2023/05/10/hackaday-supercon-2023-is-on-supercon-hackaday/)
 
