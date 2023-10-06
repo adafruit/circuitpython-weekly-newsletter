@@ -199,7 +199,7 @@ text - [site](url).
 
 The number of supported microcontrollers and Single Board Computers (SBC) grows every week. This section outlines which boards have been included in CircuitPython or added to [CircuitPython.org](https://circuitpython.org/).
 
-This week, there were (#/no) new boards added!
+This week, there were (#/no) new boards added:
 
 - [Board name](url)
 - [Board name](url)
