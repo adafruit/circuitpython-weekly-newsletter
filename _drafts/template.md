@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2023-10-16 07:00:00 -0800
+date: 2023-10-23 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-10-04 change MicroPython meetup to October
+Updated 2023-10-13 remove Maker Faire Bay Area, move Info links to Publishing_Process.md
 
 News Sources
 
@@ -29,17 +29,6 @@ News Sources
 - [https://opensource.com/tags/python](https://opensource.com/tags/python)
 - [Raspberry Pi News](https://www.raspberrypi.com/news/)
 - Check Issues and PRs for input
-
-Information Links
-
-- [Last weeks Stats & Subscribers](https://us10.admin.mailchimp.com/campaigns/show?id=569021) - Mailchimp (login needed)
-- [Last Week's Newsletter](https://www.adafruitdaily.com/category/circuitpython/) - adafruitdaily.com
-- New CircuitPython Boards: [Microcontrollers](https://circuitpython.org/downloads?sort-by=date-desc) and [Blinka](https://circuitpython.org/blinka?sort-by=date-desc). Compare with [last week](https://www.adafruitdaily.com/category/circuitpython/)
-- [Team Updates](https://3.basecamp.com/3732686/buckets/4356693/questions/1994563901) - Basecamp, internal data
-- [Weblate latest graphic](https://hosted.weblate.org/widgets/circuitpython/#open) - crop and resize to 550px, name yyddmmweblate.jpg
-- Discord Users: Use **/serverinfo** in any channel to get the user count
-- For Weblate graphic, go [here](https://hosted.weblate.org/widgets/circuitpython/), click the last one then copy the full size, cut down via photo editor and resize to 550px
-- Get Deep Dive info from Adafruit YouTube [Live](https://studio.youtube.com/channel/UCpOlOeQjj7EsVnDh3zuCgsA/videos/live?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D) and CircuitPython Parsec from John Park posting on the [Adafruit Blog](https://blog.adafruit.com/?s=parsec)
 
 View this email in your browser. **Warning: Flashing Imagery**
 
@@ -264,45 +253,41 @@ What is the team up to this week? Let’s check in!
 
 **Dan**
 
-[![title](../assets/2023mmdd/2023mmdddan.jpg)](https://www.circuitpython.org/)
+[![Dan](../assets/2023mmdd/2023mmdddan.jpg)](https://www.circuitpython.org/)
 
 text - [site](url).
 
 **Melissa**
 
-[![title](../assets/2023mmdd/2023mmddmelissa.jpg)](https://www.circuitpython.org/)
+[![Melissa](../assets/2023mmdd/2023mmddmelissa.jpg)](https://www.circuitpython.org/)
 
 text - [site](url).
 
 **Tim**
 
-[![title](../assets/2023mmdd/2023mmddtim.jpg)](https://www.circuitpython.org/)
+[![Tim](../assets/2023mmdd/2023mmddtim.jpg)](https://www.circuitpython.org/)
 
 text - [site](url).
 
 **Jeff**
 
-[![title](../assets/2023mmdd/2023mmddjeff.jpg)](https://www.circuitpython.org/)
+[![Jeff](../assets/2023mmdd/2023mmddjeff.jpg)](https://www.circuitpython.org/)
 
 text - [site](url).
 
 **Scott**
 
-[![title](../assets/2023mmdd/2023mmddscott.jpg)](https://www.circuitpython.org/)
+[![Scott](../assets/2023mmdd/2023mmddscott.jpg)](https://www.circuitpython.org/)
 
 text - [site](url).
 
 **Liz**
 
-[![title](../assets/2023mmdd/2023mmddliz.jpg)](https://www.circuitpython.org/)
+[![Liz](../assets/2023mmdd/2023mmddliz.jpg)](https://www.circuitpython.org/)
 
 text - [site](url).
 
 ## Upcoming Events!
-
-[![Maker Faire Bay Area](../assets/2023mmdd/2023mmddmfba.jpg)](https://www.eventbrite.com/e/maker-faire-bay-area-october-13-15-october-20-22-2023-tickets-673771979127)
-
-Maker Faire Bay Area will be October 13-15 & October 20-22, 2023 - [Eventbright](https://www.eventbrite.com/e/maker-faire-bay-area-october-13-15-october-20-22-2023-tickets-673771979127).
 
 [![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
