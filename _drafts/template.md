@@ -14,20 +14,21 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-10-13 remove Maker Faire Bay Area, move Info links to Publishing_Process.md
+Updated 2023-10-25 Reorder news sources, add Adafruit Playground and add a new Playground Section per Ladyada
 
 News Sources
 
+- [Adafruit Playground](https://adafruit-playground.com/)
 - Twitter: [CircuitPython](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), [MicroPython](https://twitter.com/search?q=micropython&src=typed_query&f=live) and [Python](https://twitter.com/search?q=python&src=typed_query)
+- [Raspberry Pi News](https://www.raspberrypi.com/news/)
 - Mastodon [CircuitPython](https://octodon.social/tags/CircuitPython) and [MicroPython](https://octodon.social/tags/MicroPython)
+- [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
 - [MicroPython Meetup Blog](https://melbournemicropythonmeetup.github.io/)
-- [hackaday.io newest projects MicroPython](https://hackaday.io/projects?tag=micropython&sort=date) and [CircuitPython](https://hackaday.io/projects?tag=circuitpython&sort=date)
 - [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
-- [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
+- [hackaday.io newest projects MicroPython](https://hackaday.io/projects?tag=micropython&sort=date) and [CircuitPython](https://hackaday.io/projects?tag=circuitpython&sort=date)
 - [https://opensource.com/tags/python](https://opensource.com/tags/python)
-- [Raspberry Pi News](https://www.raspberrypi.com/news/)
 - Check Issues and PRs for input
 
 View this email in your browser. **Warning: Flashing Imagery**
@@ -91,6 +92,22 @@ Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlis
 ## Project of the Week
 
 [![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
+
+text - [site](url).
+
+**New Notes from Adafruit Playground**
+
+[Adafruit Playground](https://adafruit-playground.com/) is a new place for the community to post their projects and other making tips/tricks/techniques. Ad-free, it's an easy way to publish your work in a safe space for free.
+
+[![title](../assets/20231030/20231030-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/20231030/20231030-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/20231030/20231030-name.jpg)](url)
 
 text - [site](url).
 
