@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-10-25 Reorder news sources, add Adafruit Playground and add a new Playground Section per Ladyada
+Updated 2023-10-26 add Adafruit Playground tweaks
 
 News Sources
 
@@ -95,21 +95,21 @@ Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlis
 
 text - [site](url).
 
-**New Notes from Adafruit Playground**
+## New Notes from Adafruit Playground
 
 [Adafruit Playground](https://adafruit-playground.com/) is a new place for the community to post their projects and other making tips/tricks/techniques. Ad-free, it's an easy way to publish your work in a safe space for free.
 
 [![title](../assets/20231030/20231030-name.jpg)](url)
 
-text - [site](url).
+text - [Adafruit Playground](url).
 
 [![title](../assets/20231030/20231030-name.jpg)](url)
 
-text - [site](url).
+text - [Adafruit Playground](url).
 
 [![title](../assets/20231030/20231030-name.jpg)](url)
 
-text - [site](url).
+text - [Adafruit Playground](url).
 
 ## News from around the web!
 
