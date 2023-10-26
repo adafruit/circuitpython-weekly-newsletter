@@ -322,6 +322,10 @@ The inaugural PyLadies Conference will take place December 1-3, 2023 - [pretalx]
 
 The Pyjamas Conference, the 24-hour online Python conference, will be returning for a fifth year on December 9-10.
 
+[![PyCon US 2024](../assets/2023mmdd/pyconus24.jpg)](https://pycon.blogspot.com/2023/10/pycon-us-2024-launches.html)
+
+PyCon US 2024 Launches - May 15-23 in Pittsburgh, Pennsylvania US - [PyCon US](https://pycon.blogspot.com/2023/10/pycon-us-2024-launches.html).
+
 **Send Your Events In**
 
 If you know of virtual events or upcoming events, please let us know via email to cpnews(at)adafruit(dot)com.
