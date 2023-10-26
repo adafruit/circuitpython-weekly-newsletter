@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-10-26 add Adafruit Playground tweaks
+Updated 2023-10-26 add Adafruit Playground tweaks. PyCon US 24
 
 News Sources
 
