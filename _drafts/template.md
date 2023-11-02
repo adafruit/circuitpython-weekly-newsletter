@@ -107,15 +107,15 @@ What was the most popular, most clicked link, in [last week's newsletter](newsli
 
 [Adafruit Playground](https://adafruit-playground.com/) is a new place for the community to post their projects and other making tips/tricks/techniques. Ad-free, it's an easy way to publish your work in a safe space for free.
 
-[![title](../assets/20231030/20231030-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [Adafruit Playground](url).
 
-[![title](../assets/20231030/20231030-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [Adafruit Playground](url).
 
-[![title](../assets/20231030/20231030-name.jpg)](url)
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [Adafruit Playground](url).
 
