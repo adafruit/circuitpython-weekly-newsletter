@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2023-10-30 07:00:00 -0800
+date: 2023-11-06 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-10-26 add Adafruit Playground tweaks. PyCon US 24
+Updated 2023-11-2 Templeted changes, removed supercon
 
 News Sources
 
@@ -89,11 +89,19 @@ John Park’s CircuitPython Parsec this week is on {subject} - [Adafruit Blog](l
 
 Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr).
 
+**CircuitPython Weekly Meeting**
+
+CircuitPython Weekly Meeting for October 30, 2023 ([notes](file)) [on YouTube](link).
+
 ## Project of the Week
 
 [![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
+
+## Popular Last Week
+
+What was the most popular, most clicked link, in [last week's newsletter](newslink)? [title](url).
 
 ## New Notes from Adafruit Playground
 
@@ -184,12 +192,6 @@ text - [site](url).
 [![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 text - [site](url).
-
-PyDev of the Week: NAME on [Mouse vs Python]().
-
-CircuitPython Weekly Meeting for DATE ([notes]()) [on YouTube]().
-
-**#ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)? [title](url).**
 
 ## Coming Soon / New
 
@@ -308,11 +310,7 @@ text - [site](url).
 
 [![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
-The next MicroPython Meetup in Melbourne will be on October 25th – [Meetup](https://www.meetup.com/micropython-meetup/events). 
-
-[![Hackaday Supercon 2023](../assets/2023mmdd/supercon23.jpg)](https://blog.adafruit.com/2023/05/10/hackaday-supercon-2023-is-on-supercon-hackaday/)
-
-Hackaday has announced that the Hackaday Supercon is on for 2023, and will be taking place November 3 – 5 in Pasadena, California, USA - [Adafruit Blog](https://blog.adafruit.com/2023/05/10/hackaday-supercon-2023-is-on-supercon-hackaday/) and [Hackaday](https://hackaday.com/2023/05/10/supercon-2023-is-on-we-want-you/).
+The next MicroPython Meetup in Melbourne will be on November 22nd – [Meetup](https://www.meetup.com/micropython-meetup/events). 
 
 [![PyLadiesCon](../assets/2023mmdd/2023mmddpl.jpg)](https://pretalx.com/pyladiescon-2023/cfp)
 
@@ -324,7 +322,7 @@ The Pyjamas Conference, the 24-hour online Python conference, will be returning 
 
 [![PyCon US 2024](../assets/2023mmdd/pyconus24.jpg)](https://pycon.blogspot.com/2023/10/pycon-us-2024-launches.html)
 
-PyCon US 2024 Launches - May 15-23 in Pittsburgh, Pennsylvania US - [PyCon US](https://pycon.blogspot.com/2023/10/pycon-us-2024-launches.html).
+PyCon US 2024 Launches - May 15-23, 2024 in Pittsburgh, Pennsylvania US - [PyCon US](https://pycon.blogspot.com/2023/10/pycon-us-2024-launches.html).
 
 **Send Your Events In**
 
