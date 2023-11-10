@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-11-2 Templeted changes, removed supercon
+Updated 2023-11-10 tiny tweaks
 
 News Sources
 
@@ -38,6 +38,12 @@ Welcome to the latest Python on Microcontrollers newsletter! *insert 2-3 sentenc
 We're on [Discord](https://discord.gg/HYqvREz), [Twitter](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), and for past newsletters - [view them all here](https://www.adafruitdaily.com/category/circuitpython/). If you're reading this on the web, [subscribe here](https://www.adafruitdaily.com/). Here's the news this week:
 
 ## Headline
+
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
+
+text - [site](url).
+
+## Feature
 
 [![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
@@ -91,7 +97,7 @@ Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlis
 
 **CircuitPython Weekly Meeting**
 
-CircuitPython Weekly Meeting for October 30, 2023 ([notes](file)) [on YouTube](link).
+CircuitPython Weekly Meeting for {date} ([notes](file)) [on YouTube](link).
 
 ## Project of the Week
 
@@ -119,7 +125,7 @@ text - [Adafruit Playground](url).
 
 text - [Adafruit Playground](url).
 
-## News from around the web!
+## News from around the web
 
 [![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
@@ -222,7 +228,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 - [Adding a Single Board Computer to PlatformDetect for Blinka](https://learn.adafruit.com/adding-a-single-board-computer-to-platformdetect-for-blinka)
 - [Adding a Single Board Computer to Blinka](https://learn.adafruit.com/adding-a-single-board-computer-to-blinka)
 
-## New Learn Guides!
+## New Learn Guides
 
 [![New Learn Guides](../assets/2023mmdd/2023mmddlearn.jpg)](https://learn.adafruit.com/guides/latest)
 
@@ -232,11 +238,11 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 
 [title](url) from [name](url)
 
-## Updated Learn Guides!
+## Updated Learn Guides
 
 [title](url) from [name](url)
 
-## CircuitPython Libraries!
+## CircuitPython Libraries
 
 [![CircuitPython Libraries](../assets/2023mmdd/blinka.png)](https://circuitpython.org/libraries)
 
@@ -250,13 +256,13 @@ You can check out this [list of all the Adafruit CircuitPython libraries and dri
 
 The current number of CircuitPython libraries is **###**!
 
-**New Libraries!**
+**New Libraries**
 
 Here's this week's new CircuitPython libraries:
 
 * [library](url)
 
-**Updated Libraries!**
+**Updated Libraries**
 
 Here's this week's updated CircuitPython libraries:
 
@@ -268,7 +274,7 @@ Here's this week's updated CircuitPython libraries:
 
 ## What’s the CircuitPython team up to this week?
 
-What is the team up to this week? Let’s check in!
+What is the team up to this week? Let’s check in:
 
 **Dan**
 
@@ -306,7 +312,7 @@ text - [site](url).
 
 text - [site](url).
 
-## Upcoming Events!
+## Upcoming Events
 
 [![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
@@ -342,7 +348,7 @@ CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpyt
 
 [#,### Stars](https://github.com/adafruit/circuitpython/stargazers) Like CircuitPython? [Star it on GitHub!](https://github.com/adafruit/circuitpython)
 
-## Call for Help -- Translating CircuitPython is now easier than ever!
+## Call for Help -- Translating CircuitPython is now easier than ever
 
 [![CircuitPython translation statistics on weblate](../assets/2023mmdd/2023mmddweblate.jpg)](https://hosted.weblate.org/engage/circuitpython/)
 
@@ -350,7 +356,7 @@ One important feature of CircuitPython is translated control and error messages.
 
 Sign in with an existing account such as GitHub, Google or Facebook and start contributing through a simple web interface. No forks or pull requests needed! As always, if you run into trouble join us on [Discord](https://adafru.it/discord), we're here to help.
 
-## NUMBER Thanks!
+## NUMBER Thanks
 
 [![NUMBER THANKS](../assets/2023mmdd/37kdiscord.jpg)](https://adafru.it/discord)
 
@@ -366,7 +372,7 @@ Python on hardware is the Adafruit Python video-newsletter-podcast! The news com
 
 [The weekly community chat on Adafruit Discord server CircuitPython channel - Audio / Podcast edition](https://itunes.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016) - Audio from the Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET, this is the audio version on [iTunes](https://itunes.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016), Pocket Casts, [Spotify](https://adafru.it/spotify), and [XML feed](https://adafruit-podcasts.s3.amazonaws.com/circuitpython_weekly_meeting/audio-podcast.xml).
 
-## Contribute!
+## Contribute
 
 The CircuitPython Weekly Newsletter is a CircuitPython community-run newsletter emailed every Tuesday. The complete [archives are here](https://www.adafruitdaily.com/category/circuitpython/). It highlights the latest CircuitPython related news from around the web including Python and MicroPython developments. To contribute, edit next week's draft [on GitHub](https://github.com/adafruit/circuitpython-weekly-newsletter/tree/gh-pages/_drafts) and [submit a pull request](https://help.github.com/articles/editing-files-in-your-repository/) with the changes. You may also tag your information on Twitter with #CircuitPython. 
 
