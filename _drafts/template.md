@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-11-10 tiny tweaks
+Updated 2023-11-17 tweak sources
 
 News Sources
 
@@ -25,7 +25,7 @@ News Sources
 - [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
 - [python.org](https://www.python.org/)
 - [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
-- [MicroPython Meetup Blog](https://melbournemicropythonmeetup.github.io/)
+- Individuals: [Jeff Geerling](https://www.jeffgeerling.com/blog)
 - [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
 - [hackaday.io newest projects MicroPython](https://hackaday.io/projects?tag=micropython&sort=date) and [CircuitPython](https://hackaday.io/projects?tag=circuitpython&sort=date)
 - [https://opensource.com/tags/python](https://opensource.com/tags/python)
@@ -106,6 +106,8 @@ CircuitPython Weekly Meeting for {date} ([notes](file)) [on YouTube](link).
 text - [site](url).
 
 ## Popular Last Week
+
+[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
 
 What was the most popular, most clicked link, in [last week's newsletter](newslink)? [title](url).
 
