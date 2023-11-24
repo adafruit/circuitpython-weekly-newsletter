@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2023-11-20 07:00:00 -0800
+date: 2023-12-04 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-11-17 tweak sources
+Updated 2023-11-24 change Discord graphic for 28k
 
 News Sources
 
