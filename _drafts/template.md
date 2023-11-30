@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2023-12-04 07:00:00 -0800
+date: 2023-12-11 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-11-24 change Discord graphic for 28k
+Updated 2023-11-30 - add default text for last week entry
 
 News Sources
 
@@ -107,7 +107,7 @@ text - [site](url).
 
 ## Popular Last Week
 
-[![title](../assets/2023mmdd/2023mmdd-name.jpg)](url)
+[![Popular Last Week](../assets/2023mmdd/2023mmddlast.jpg)](url)
 
 What was the most popular, most clicked link, in [last week's newsletter](newslink)? [title](url).
 
