@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2023-12-11 07:00:00 -0800
+date: 2023-12-18 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-11-30 - add default text for last week entry
+Updated 2023-12-08 Remove past events
 
 News Sources
 
@@ -318,15 +318,7 @@ text - [site](url).
 
 [![MicroPython Meetup](../assets/2023mmdd/2023mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
-The next MicroPython Meetup in Melbourne will be on November 22nd – [Meetup](https://www.meetup.com/micropython-meetup/events). 
-
-[![PyLadiesCon](../assets/2023mmdd/2023mmddpl.jpg)](https://pretalx.com/pyladiescon-2023/cfp)
-
-The inaugural PyLadies Conference will take place December 1-3, 2023 - [pretalx](https://pretalx.com/pyladiescon-2023/cfp).
-
-[![Pyjamas 2023](../assets/2023mmdd/pyjamas2023.jpg)](https://twitter.com/PyjamasConf/status/1675278222798495745)
-
-The Pyjamas Conference, the 24-hour online Python conference, will be returning for a fifth year on December 9-10.
+The next MicroPython Meetup in Melbourne will be on December 27th – [Meetup](https://www.meetup.com/micropython-meetup/events). 
 
 [![PyCon US 2024](../assets/2023mmdd/pyconus24.jpg)](https://pycon.blogspot.com/2023/10/pycon-us-2024-launches.html)
 
