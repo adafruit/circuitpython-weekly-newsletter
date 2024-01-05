@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2024-01-08 07:00:00 -0800
+date: 2024-01-15 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2023-12-22 Add event, changes for 2024
+Updated 2024-01-05 one mmdd change
 
 News Sources
 
@@ -320,7 +320,7 @@ text.
 
 The next MicroPython Meetup in Melbourne will be on January 24th – [Meetup](https://www.meetup.com/micropython-meetup/events). 
 
-[![PyCascades 2024](../assets/20241225/pycascades24.jpg)](https://2024.pycascades.com/)
+[![PyCascades 2024](../assets/2024mmdd/pycascades24.jpg)](https://2024.pycascades.com/)
 
 PyCascades 2024 is back in Seattle, Washington, USA and online, April 5-8th at the University of Washington's Kane Hall. - [PyCascades](https://2024.pycascades.com/).
 
