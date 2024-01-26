@@ -318,7 +318,7 @@ text.
 
 [![MicroPython Meetup](../assets/2024mmdd/2024mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
-The next MicroPython Meetup in Melbourne will be on January 24th – [Meetup](https://www.meetup.com/micropython-meetup/events). 
+The next MicroPython Meetup in Melbourne will be on February 28th – [Meetup](https://www.meetup.com/micropython-meetup/events). 
 
 [![PyCascades 2024](../assets/2024mmdd/pycascades24.jpg)](https://2024.pycascades.com/)
 
