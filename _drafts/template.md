@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2024-02-05 07:00:00 -0800
+date: 2024-02-12 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2024-01-26 add europython
+Updated 2024-02-02 slight tweaks
 
 News Sources
 
@@ -322,15 +322,15 @@ The next MicroPython Meetup in Melbourne will be on February 28th – [Meetup](h
 
 [![PyCascades 2024](../assets/2024mmdd/pycascades24.jpg)](https://2024.pycascades.com/)
 
-PyCascades 2024 is back in Seattle, Washington, USA and online, April 5-8th at the University of Washington's Kane Hall. - [PyCascades](https://2024.pycascades.com/).
+PyCascades 2024 is back in Seattle, Washington, USA and online, April 5-8th at the University of Washington, Kane Hall - [PyCascades](https://2024.pycascades.com/).
 
 [![PyCon US 2024](../assets/2024mmdd/pyconus24.jpg)](https://pycon.blogspot.com/2024/10/pycon-us-2024-launches.html)
 
-PyCon US 2024 Launches - May 15-23, 2024 in Pittsburgh, Pennsylvania US - [PyCon US](https://pycon.blogspot.com/2024/10/pycon-us-2024-launches.html).
+PyCon US 2024 launches May 15-23, 2024 in Pittsburgh, Pennsylvania US - [PyCon US](https://pycon.blogspot.com/2024/10/pycon-us-2024-launches.html).
 
 [![EuroPython 2024](../assets/2024mmdd/europy24.jpg)](https://ep2024.europython.eu/)
 
-EuroPython is the oldest and longest running volunteer-led Python programming conference on the planet. This year it will be held July 8-14 in Prague. Call for Proposals, the Mentorship Programme, and the Financial Aid Programme will be starting in February 2024 - [EuroPython 2024](https://ep2024.europython.eu/).
+EuroPython is the oldest and longest running volunteer-led Python programming conference on the planet. This year it will be held July 8-14 in Prague. Call for Proposals, the Mentorship Programme, and the Financial Aid Programme will be starting this month - [EuroPython 2024](https://ep2024.europython.eu/).
 
 **Send Your Events In**
 
