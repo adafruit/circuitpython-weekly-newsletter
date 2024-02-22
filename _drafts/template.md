@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2024-02-02 slight tweaks
+Updated 2024-02-22 - add OHS
 
 News Sources
 
@@ -323,6 +323,10 @@ The next MicroPython Meetup in Melbourne will be on February 28th – [Meetup](h
 [![PyCascades 2024](../assets/2024mmdd/pycascades24.jpg)](https://2024.pycascades.com/)
 
 PyCascades 2024 is back in Seattle, Washington, USA and online, April 5-8th at the University of Washington, Kane Hall - [PyCascades](https://2024.pycascades.com/).
+
+[![2024 Open Hardware Summit](../assets/2024mmdd/2024mmddohs.jpg)](https://2024.oshwa.org/)
+
+The 2024 Open Hardware Summit will be taking place May 3 & 4, 2024 at Concordia University and lespacemaker in Montreal, Canada - [oshwa.org](https://2024.oshwa.org/).
 
 [![PyCon US 2024](../assets/2024mmdd/pyconus24.jpg)](https://pycon.blogspot.com/2024/10/pycon-us-2024-launches.html)
 
