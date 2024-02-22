@@ -28,7 +28,7 @@ News Sources
 - Individuals: [Jeff Geerling](https://www.jeffgeerling.com/blog)
 - [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
 - [hackaday.io newest projects MicroPython](https://hackaday.io/projects?tag=micropython&sort=date) and [CircuitPython](https://hackaday.io/projects?tag=circuitpython&sort=date)
-- [https://opensource.com/tags/python](https://opensource.com/tags/python)
+- [Google News Python](https://news.google.com/search?q=python&hl=en-US&gl=US&ceid=US%3Aen)
 - Check Issues and PRs for input
 
 View this email in your browser. **Warning: Flashing Imagery**
