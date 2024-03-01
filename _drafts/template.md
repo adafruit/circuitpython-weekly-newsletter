@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2024-02-22 - add OHS
+Updated 2024-03-01 - add Open Sauce and tweak Google link
 
 News Sources
 
@@ -28,7 +28,7 @@ News Sources
 - Individuals: [Jeff Geerling](https://www.jeffgeerling.com/blog)
 - [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
 - [hackaday.io newest projects MicroPython](https://hackaday.io/projects?tag=micropython&sort=date) and [CircuitPython](https://hackaday.io/projects?tag=circuitpython&sort=date)
-- [Google News Python](https://news.google.com/search?q=python&hl=en-US&gl=US&ceid=US%3Aen)
+- [Google News Python](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFY2TVY4U0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen)
 - Check Issues and PRs for input
 
 View this email in your browser. **Warning: Flashing Imagery**
@@ -331,6 +331,10 @@ The 2024 Open Hardware Summit will be taking place May 3 & 4, 2024 at Concordia 
 [![PyCon US 2024](../assets/2024mmdd/pyconus24.jpg)](https://pycon.blogspot.com/2024/10/pycon-us-2024-launches.html)
 
 PyCon US 2024 launches May 15-23, 2024 in Pittsburgh, Pennsylvania US - [PyCon US](https://pycon.blogspot.com/2024/10/pycon-us-2024-launches.html).
+
+[![Open Sauce](../assets/2024mmdd/os24.jpg)](https://opensauce.live/)
+
+Open Sauce, the Maker extravaganza, is returning to San Francisco, California June 15-16 - [Open Sauce](https://opensauce.live/).
 
 [![EuroPython 2024](../assets/2024mmdd/europy24.jpg)](https://ep2024.europython.eu/)
 
