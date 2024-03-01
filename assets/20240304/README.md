@@ -1,4 +1,4 @@
-## May 4, 2024 CircuitPython Newsletter Assets
+## March 4, 2024 CircuitPython Newsletter Assets
 
 Please preface all asset filenames for this issue with 20240304, re. 20240304neopixel.jpg
 
