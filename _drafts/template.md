@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Updated 2024-03-01 - add Open Sauce and tweak Google link
+Updated 2024-03-07 change MicroPython Meetup for March
 
 News Sources
 
@@ -318,7 +318,7 @@ text.
 
 [![MicroPython Meetup](../assets/2024mmdd/2024mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
-The next MicroPython Meetup in Melbourne will be on February 28th – [Meetup](https://www.meetup.com/micropython-meetup/events). 
+The next MicroPython Meetup in Melbourne will be on March 27th – [Meetup](https://www.meetup.com/micropython-meetup/events). 
 
 [![PyCascades 2024](../assets/2024mmdd/pycascades24.jpg)](https://2024.pycascades.com/)
 
