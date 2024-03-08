@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2024-03-11 07:00:00 -0800
+date: 2024-03-18 07:00:00 -0800
 categories: weekly
 ---
 
@@ -127,7 +127,7 @@ text - [Adafruit Playground](url).
 
 text - [Adafruit Playground](url).
 
-## News from around the web
+## News From Around the Web
 
 [![title](../assets/2024mmdd/2024mmdd-name.jpg)](url)
 
