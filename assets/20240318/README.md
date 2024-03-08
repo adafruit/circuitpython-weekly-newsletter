@@ -1,6 +1,6 @@
-## March 11, 2024 CircuitPython Newsletter Assets
+## March 18, 2024 CircuitPython Newsletter Assets
 
-Please preface all asset filenames for this issue with 20240311, re. 20240311neopixel.jpg
+Please preface all asset filenames for this issue with 20240318, re. 20240318neopixel.jpg
 
 Please consider using JPG files for size. Use a .jpg file extension, not .JPG or .jfif, please.
 .png files are acceptable too. Please, not .PNG or .svg files.
