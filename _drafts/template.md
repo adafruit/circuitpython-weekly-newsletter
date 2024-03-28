@@ -14,6 +14,8 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
+Last changed: March 28, 2024: Change Discord to 39k
+
 News Sources
 
 - [Adafruit Playground](https://adafruit-playground.com/)
@@ -366,7 +368,7 @@ Sign in with an existing account such as GitHub, Google or Facebook and start co
 
 ## NUMBER Thanks
 
-[![NUMBER THANKS](../assets/2024mmdd/38kdiscord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/2024mmdd/39kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
