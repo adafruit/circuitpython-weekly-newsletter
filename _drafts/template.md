@@ -280,39 +280,39 @@ What is the team up to this week? Let’s check in:
 
 **Dan**
 
-[![Dan](../assets/2024mmdd/2024mmdddan.jpg)](https://www.circuitpython.org/)
+[![Dan](../assets/20240401/20240401dan.jpg)](https://www.circuitpython.org/)
 
 text.
 
 **Melissa**
 
-[![Melissa](../assets/2024mmdd/2024mmddmelissa.jpg)](https://www.circuitpython.org/)
+[![Melissa](../assets/20240401/20240401melissa.jpg)](https://www.circuitpython.org/)
 
 text.
 
 **Tim**
 
-I've been updating Learn guide code and pages for new displayio API, although we've decided to change how the warnings are working so I am going back through to revert the changes I made to guide pages and we will hold off until further down the line when the backwards compatibility is removed entirely. 
+[![Tim](../assets/20240401/20240401tim.jpg)](https://www.circuitpython.org/)
 
-I've started building out a basic Tic Tac Toe game that will get integrated into a conference badge for PyCon. Lastly, I've managed to get working some example code that loads an RSA keypair and uses `adafruit_httpserver` to receive a message encrypted in the front end with the public key and then uses `adafruit_rsa` library to decrypt it in the backend and show the plain text to the user. 
+text.
 
 **Jeff**
 
-[![Jeff](../assets/2024mmdd/2024mmddjeff.jpg)](https://www.circuitpython.org/)
+[![Jeff](../assets/20240401/20240401jeff.jpg)](https://www.circuitpython.org/)
 
-I had a chance to do a project for myself using CircuitPython this week. It'll probably emerge as a Learn guide in the next month or two, but I'll spoiler it here: I made a video converter for an old Xerox 820 (8-bit CP/M computer) to HDMI using the Adafruit Feather RP2040 DVI. This is a very niche display (it is 560x240 pixels at 59Hz) but the technique might apply to other monochrome computers of the era.
-
-In the course of doing this, I put in a Pull Request to add a 640x240 video mode to picodvi. This is a very non-square resolution, but such modes were common in old computers; for instance, CGA featured a 640x200 mode that this would allow in letterboxed fashion.
-
-For those who may be immediately interested, I've published a version of the code as a [GitHub gist](https://gist.github.com/jepler/cf582975546f1aa0039ed88d3a991c66).
+text.
 
 **Scott**
 
-This week I wrapped up the update to ESP-IDF 5.2. It'll be released in CircuitPython 9.1. I'm continuing work on USB host featherwing support in CircuitPython after Thach added deinit functionality to TinyUSB. Thanks Thach!
+[![Scott](../assets/20240401/20240401scott.jpg)](https://www.circuitpython.org/)
+
+text.
 
 **Liz**
 
-This week I worked on a [project to control Elgato key lights with CircuitPython](https://learn.adafruit.com/circuitpython-elgato-wifi-light-controller). The Elgato lights use an app that accepts HTTP requests to control turning them on and off, brightness and color temperature. I used a Feather ESP32-S3 Reverse TFT to connect to WiFi and send the requests with the onboard buttons. I also added in a rotary encoder to dial in color temperature and brightness. This was really fun to work on and I might expand the project further if I have time by trying to use MDNS to automatically find the lights on the network.
+[![Liz](../assets/20240401/20240401liz.jpg)](https://www.circuitpython.org/)
+
+text.
 
 ## Upcoming Events
 
