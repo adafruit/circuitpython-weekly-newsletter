@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2024-04-01 07:00:00 -0800
+date: 2024-04-08 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: March 28, 2024: Change Discord to 39k
+Last changed: March 29, 2024: Change events
 
 News Sources
 
@@ -280,37 +280,37 @@ What is the team up to this week? Let’s check in:
 
 **Dan**
 
-[![Dan](../assets/20240401/20240401dan.jpg)](https://www.circuitpython.org/)
+[![Dan](../assets/2024mmdd/2024mmdddan.jpg)](https://www.circuitpython.org/)
 
 text.
 
 **Melissa**
 
-[![Melissa](../assets/20240401/20240401melissa.jpg)](https://www.circuitpython.org/)
+[![Melissa](../assets/2024mmdd/2024mmddmelissa.jpg)](https://www.circuitpython.org/)
 
 text.
 
 **Tim**
 
-[![Tim](../assets/20240401/20240401tim.jpg)](https://www.circuitpython.org/)
+[![Tim](../assets/2024mmdd/2024mmddtim.jpg)](https://www.circuitpython.org/)
 
 text.
 
 **Jeff**
 
-[![Jeff](../assets/20240401/20240401jeff.jpg)](https://www.circuitpython.org/)
+[![Jeff](../assets/2024mmdd/2024mmddjeff.jpg)](https://www.circuitpython.org/)
 
 text.
 
 **Scott**
 
-[![Scott](../assets/20240401/20240401scott.jpg)](https://www.circuitpython.org/)
+[![Scott](../assets/2024mmdd/2024mmddscott.jpg)](https://www.circuitpython.org/)
 
 text.
 
 **Liz**
 
-[![Liz](../assets/20240401/20240401liz.jpg)](https://www.circuitpython.org/)
+[![Liz](../assets/2024mmdd/2024mmddliz.jpg)](https://www.circuitpython.org/)
 
 text.
 
@@ -318,11 +318,7 @@ text.
 
 [![MicroPython Meetup](../assets/2024mmdd/2024mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
-The next MicroPython Meetup in Melbourne will be on March 27th – [Meetup](https://www.meetup.com/micropython-meetup/events). 
-
-[![PyCascades 2024](../assets/2024mmdd/pycascades24.jpg)](https://2024.pycascades.com/)
-
-PyCascades 2024 is back in Seattle, Washington, USA and online, April 5-8th at the University of Washington, Kane Hall - [PyCascades](https://2024.pycascades.com/).
+The next MicroPython Meetup in Melbourne will be on April 24th – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
 [![2024 Open Hardware Summit](../assets/2024mmdd/2024mmddohs.jpg)](https://2024.oshwa.org/)
 
