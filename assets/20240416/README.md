@@ -1,4 +1,4 @@
-## April 16, 2024 CircuitPython Newsletter Assets
+## April 16, 2024 Python on Microcontrollers Newsletter Assets
 
 Please preface all asset filenames for this issue with 20240416, re. 20240416neopixel.jpg
 
