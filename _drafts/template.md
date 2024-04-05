@@ -336,6 +336,10 @@ Open Sauce, the Maker extravaganza, is returning to San Francisco, California Ju
 
 EuroPython is the oldest and longest running volunteer-led Python programming conference on the planet. This year it will be held July 8-14 in Prague. Call for Proposals, the Mentorship Programme, and the Financial Aid Programme will be starting this month - [EuroPython 2024](https://ep2024.europython.eu/).
 
+[![PyOhio '24](../assets/2024mmdd/pyohio24.gif)](https://www.pyohio.org/2024/)
+
+PyOhio is being held July 27-28, 2024 in Cleveland, Ohio. The organizing team welcomes you to [submit your proposals to the CfP](https://www.pyohio.org/2024/speaking/cfp/) by May 21st - [PyOhio](https://www.pyohio.org/2024/).
+
 **Send Your Events In**
 
 If you know of virtual events or upcoming events, please let us know via email to cpnews(at)adafruit(dot)com.
