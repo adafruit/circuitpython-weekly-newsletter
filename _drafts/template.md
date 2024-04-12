@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2024-04-16 07:00:00 -0800
+date: 2024-04-22 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: April 5, 2024: Change events
+Last changed: April 12, 2024: Minor changes
 
 News Sources
 
@@ -115,15 +115,15 @@ What was the most popular, most clicked link, in [last week's newsletter](newsli
 
 [Adafruit Playground](https://adafruit-playground.com/) is a new place for the community to post their projects and other making tips/tricks/techniques. Ad-free, it's an easy way to publish your work in a safe space for free.
 
-[![title](../assets/2024mmdd/2024mmdd-name.jpg)](url)
+[![title](../assets/2024mmdd/2024mmddplay1.jpg)](url)
 
 text - [Adafruit Playground](url).
 
-[![title](../assets/2024mmdd/2024mmdd-name.jpg)](url)
+[![title](../assets/2024mmdd/2024mmddplay2.jpg)](url)
 
 text - [Adafruit Playground](url).
 
-[![title](../assets/2024mmdd/2024mmdd-name.jpg)](url)
+[![title](../assets/2024mmdd/2024mmddplay3.jpg)](url)
 
 text - [Adafruit Playground](url).
 
@@ -242,7 +242,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 
 ## Updated Learn Guides
 
-[title](url) from [name](url)
+[title](url)
 
 ## CircuitPython Libraries
 
@@ -334,9 +334,9 @@ Open Sauce, the Maker extravaganza, is returning to San Francisco, California Ju
 
 [![EuroPython 2024](../assets/2024mmdd/europy24.jpg)](https://ep2024.europython.eu/)
 
-EuroPython is the oldest and longest running volunteer-led Python programming conference on the planet. This year it will be held July 8-14 in Prague. Call for Proposals, the Mentorship Programme, and the Financial Aid Programme will be starting this month - [EuroPython 2024](https://ep2024.europython.eu/).
+EuroPython is the oldest and longest running volunteer-led Python programming conference on the planet. This year it will be held July 8-14 in Prague - [EuroPython 2024](https://ep2024.europython.eu/).
 
-[![PyOhio '24](../assets/2024mmdd/pyohio24.gif)](https://www.pyohio.org/2024/)
+[![PyOhio 24](../assets/2024mmdd/pyohio24.gif)](https://www.pyohio.org/2024/)
 
 PyOhio is being held July 27-28, 2024 in Cleveland, Ohio. The organizing team welcomes you to [submit your proposals to the CfP](https://www.pyohio.org/2024/speaking/cfp/) by May 21st - [PyOhio](https://www.pyohio.org/2024/).
 
