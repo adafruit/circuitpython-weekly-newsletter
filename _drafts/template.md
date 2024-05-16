@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: May 16,, 2024 - remove PyCon US '24
+Last changed: May 16, 2024 - remove PyCon US '24
 
 News Sources
 
