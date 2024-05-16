@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: May 3, 2024 - event changes
+Last changed: May 16,, 2024 - remove PyCon US '24
 
 News Sources
 
@@ -318,10 +318,6 @@ text.
 text.
 
 ## Upcoming Events
-
-[![PyCon US 2024](../assets/20240506/pyconus24.jpg)](https://pycon.blogspot.com/2024/10/pycon-us-2024-launches.html)
-
-PyCon US 2024 launches May 15-23, 2024 in Pittsburgh, Pennsylvania US - [PyCon US](https://pycon.blogspot.com/2024/10/pycon-us-2024-launches.html).
 
 [![MicroPython Meetup](../assets/20240506/20240506mp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
