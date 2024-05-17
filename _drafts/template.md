@@ -319,23 +319,23 @@ text.
 
 ## Upcoming Events
 
-[![MicroPython Meetup](../assets/20240506/20240506mp.png)](https://www.meetup.com/MicroPython-Meetup/)
+[![MicroPython Meetup](../assets/2024mmdd/2024mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
 The next MicroPython Meetup in Melbourne will be on May 22 – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
-[![Open Sauce](../assets/20240506/os24.jpg)](https://opensauce.live/)
+[![Open Sauce](../assets/2024mmdd/os24.jpg)](https://opensauce.live/)
 
 Open Sauce, the Maker extravaganza, is returning to San Francisco, California June 15-16 - [Open Sauce](https://opensauce.live/).
 
-[![EuroPython 2024](../assets/20240506/europy24.jpg)](https://ep2024.europython.eu/)
+[![EuroPython 2024](../assets/2024mmdd/europy24.jpg)](https://ep2024.europython.eu/)
 
 EuroPython is the oldest and longest running volunteer-led Python programming conference on the planet. This year it will be held July 8-14 in Prague - [EuroPython 2024](https://ep2024.europython.eu/).
 
-[![PyOhio 24](../assets/20240506/pyohio24.gif)](https://www.pyohio.org/2024/)
+[![PyOhio 24](../assets/2024mmdd/pyohio24.gif)](https://www.pyohio.org/2024/)
 
 PyOhio is being held July 27-28, 2024 in Cleveland, Ohio - [PyOhio](https://www.pyohio.org/2024/).
 
-[![Espressif DevCon24](../assets/20240506/devcon24.jpg)](https://devcon.espressif.com/)
+[![Espressif DevCon24](../assets/2024mmdd/devcon24.jpg)](https://devcon.espressif.com/)
 
 Espressif DevCon24 will be held Sep 3-5, 13:00-18:00 CEST. Call for presentations now - [Espressif](https://devcon.espressif.com/).
 
