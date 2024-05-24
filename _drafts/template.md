@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2024-05-27 07:00:00 -0800
+date: 2024-06-03 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: May 16, 2024 - remove PyCon US '24
+Last changed: May 24, 2024 - Event shuffling
 
 News Sources
 
@@ -36,7 +36,7 @@ News Sources
 
 View this email in your browser. **Warning: Flashing Imagery**
 
-Welcome to the latest Python on Microcontrollers newsletter! *insert 2-3 sentences from editor (what's in overview, banter)* - *Anne Barela, Ed.*
+Welcome to the latest Python on Microcontrollers newsletter! *insert 2-3 sentences from editor (what's in overview, banter)* - *Anne Barela, Editor*
 
 We're on [Discord](https://discord.gg/HYqvREz), [Twitter](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), and for past newsletters - [view them all here](https://www.adafruitdaily.com/category/circuitpython/). If you're reading this on the web, [subscribe here](https://www.adafruitdaily.com/). Here's the news this week:
 
@@ -319,13 +319,13 @@ text.
 
 ## Upcoming Events
 
-[![MicroPython Meetup](../assets/2024mmdd/2024mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
-
-The next MicroPython Meetup in Melbourne will be on May 22 – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
-
 [![Open Sauce](../assets/2024mmdd/os24.jpg)](https://opensauce.live/)
 
 Open Sauce, the Maker extravaganza, is returning to San Francisco, California June 15-16 - [Open Sauce](https://opensauce.live/).
+
+[![MicroPython Meetup](../assets/2024mmdd/2024mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
+
+The next MicroPython Meetup in Melbourne will be on June 26 – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
 [![EuroPython 2024](../assets/2024mmdd/europy24.jpg)](https://ep2024.europython.eu/)
 
