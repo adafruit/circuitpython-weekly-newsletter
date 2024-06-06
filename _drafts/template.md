@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: May 24, 2024 - Event shuffling
+Last changed: June 6, 2024 - Event shuffling
 
 News Sources
 
@@ -338,6 +338,10 @@ PyOhio is being held July 27-28, 2024 in Cleveland, Ohio - [PyOhio](https://www.
 [![Espressif DevCon24](../assets/2024mmdd/devcon24.jpg)](https://devcon.espressif.com/)
 
 Espressif DevCon24 will be held Sep 3-5, 13:00-18:00 CEST. Call for presentations now - [Espressif](https://devcon.espressif.com/).
+
+[![Maker Faire Bay Area](../assets/2024mmdd/mfbay2024.jpg)](https://makerfaire.com/bay-area/)
+
+Maker Faire Bay Area returns to Mare Island Naval Shipyard on October 18-20, 2024 - [Maker Faire](https://makerfaire.com/bay-area/).
 
 **Send Your Events In**
 
