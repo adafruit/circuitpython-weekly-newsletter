@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2024-06-17 07:00:00 -0800
+date: 2024-06-24 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: June 6, 2024 - Event shuffling
+Last changed: June 14, 2024 - Event shuffling
 
 News Sources
 
@@ -318,10 +318,6 @@ text.
 text.
 
 ## Upcoming Events
-
-[![Open Sauce](../assets/2024mmdd/os24.jpg)](https://opensauce.live/)
-
-Open Sauce, the Maker extravaganza, is returning to San Francisco, California June 15-16 - [Open Sauce](https://opensauce.live/).
 
 [![MicroPython Meetup](../assets/2024mmdd/2024mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
