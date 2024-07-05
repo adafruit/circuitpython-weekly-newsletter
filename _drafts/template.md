@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: June 14, 2024 - Event shuffling
+Last changed: July 5, 2024 - Event shuffling
 
 News Sources
 
