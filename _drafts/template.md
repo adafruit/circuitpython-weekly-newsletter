@@ -319,7 +319,7 @@ text.
 
 ## Upcoming Events
 
-[![MicroPython Meetup](../assets/20240701/20240701mp.png)](https://www.meetup.com/MicroPython-Meetup/)
+[![MicroPython Meetup](../assets/2024mmdd/2024mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
 The next MicroPython Meetup in Melbourne will be on July 24 – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). The June 2024 [Meeting Notes](https://melbournemicropythonmeetup.github.io/June-2024-Meetup/) and [Video](https://www.youtube.com/watch?v=2dKonAwLnB4).
 
