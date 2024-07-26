@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2024-07-22 07:00:00 -0800
+date: 2024-08-05 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: July 5, 2024 - Event shuffling
+Last changed: July 26, 2024 - Event shuffling
 
 News Sources
 
@@ -321,11 +321,7 @@ text.
 
 [![MicroPython Meetup](../assets/2024mmdd/2024mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
-The next MicroPython Meetup in Melbourne will be on July 24 – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). The June 2024 [Meeting Notes](https://melbournemicropythonmeetup.github.io/June-2024-Meetup/) and [Video](https://www.youtube.com/watch?v=2dKonAwLnB4).
-
-[![PyOhio 24](../assets/2024mmdd/pyohio24.gif)](https://www.pyohio.org/2024/)
-
-PyOhio is being held July 27-28, 2024 in Cleveland, Ohio - [PyOhio](https://www.pyohio.org/2024/).
+The next MicroPython Meetup in Melbourne will be on July 24 – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). The July 2024 [Video](https://www.youtube.com/watch?v=soQlLZ0JlCI).
 
 [![Espressif DevCon24](../assets/2024mmdd/devcon24.jpg)](https://devcon.espressif.com/)
 
@@ -363,7 +359,7 @@ Sign in with an existing account such as GitHub, Google or Facebook and start co
 
 ## NUMBER Thanks
 
-[![NUMBER THANKS](../assets/2024mmdd/39kdiscord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/2024mmdd/38kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
