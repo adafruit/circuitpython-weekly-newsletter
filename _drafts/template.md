@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2024-08-12 07:00:00 -0800
+date: 2024-08-19 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: July 26, 2024 - Event shuffling
+Last changed: August 9, 2024 - Event shuffling
 
 News Sources
 
@@ -330,6 +330,10 @@ Espressif DevCon24 will be held Sep 3-5, 13:00-18:00 CEST. Call for presentation
 [![Maker Faire Bay Area](../assets/2024mmdd/mfbay2024.jpg)](https://makerfaire.com/bay-area/)
 
 Maker Faire Bay Area returns to Mare Island Naval Shipyard on October 18-20, 2024 - [Maker Faire](https://makerfaire.com/bay-area/).
+
+[![SuperCon 2024](../assets/2024mmdd/2024mmddsc.jpg)](https://hackaday.com/2024/08/06/tickets-for-supercon-2024-go-on-sale-now/)
+
+Hackaday Superconference is an epic gathering of hardware hackers, makers, and tech enthusiasts happening November 1-3 in Pasadena, California - [Hackaday](https://hackaday.com/2024/08/06/tickets-for-supercon-2024-go-on-sale-now/) and [Eventbrite](https://www.eventbrite.com/e/2024-hackaday-superconference-tickets-965387338517).
 
 **Send Your Events In**
 
