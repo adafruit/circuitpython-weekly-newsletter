@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2024-08-19 07:00:00 -0800
+date: 2024-09-02 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: August 9, 2024 - Event shuffling
+Last changed: August 23, 2024 - Event shuffling
 
 News Sources
 
@@ -334,6 +334,10 @@ Maker Faire Bay Area returns to Mare Island Naval Shipyard on October 18-20, 202
 [![SuperCon 2024](../assets/2024mmdd/2024mmddsc.jpg)](https://hackaday.com/2024/08/06/tickets-for-supercon-2024-go-on-sale-now/)
 
 Hackaday Superconference is an epic gathering of hardware hackers, makers, and tech enthusiasts happening November 1-3 in Pasadena, California - [Hackaday](https://hackaday.com/2024/08/06/tickets-for-supercon-2024-go-on-sale-now/) and [Eventbrite](https://www.eventbrite.com/e/2024-hackaday-superconference-tickets-965387338517).
+
+[![PyLadies](../assets/2024mmdd/pyladiescon.png)](https://conference.pyladies.com/)
+
+PyLadies Conference (PyLadiesCon) is a transformative event designed to promote diversity, learning, and empowerment within the Python community. December 6-8, 2024 online - [PyLadies](https://conference.pyladies.com/).
 
 **Send Your Events In**
 
