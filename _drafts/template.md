@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2024-09-02 07:00:00 -0800
+date: 2024-09-09 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: August 23, 2024 - Event shuffling
+Last changed: August 30, 2024 - Event shuffling
 
 News Sources
 
@@ -321,11 +321,7 @@ text.
 
 [![MicroPython Meetup](../assets/2024mmdd/2024mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
-The next MicroPython Meetup in Melbourne will be on August 28 – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). The July 2024 [Video](https://www.youtube.com/watch?v=soQlLZ0JlCI).
-
-[![Espressif DevCon24](../assets/2024mmdd/devcon24.jpg)](https://devcon.espressif.com/)
-
-Espressif DevCon24 will be held Sep 3-5, 13:00-18:00 CEST. Call for presentations now - [Espressif](https://devcon.espressif.com/).
+The next MicroPython Meetup in Melbourne will be on September 25th – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). The August 2024 [Roundup](https://melbournemicropythonmeetup.github.io/August-2024-Meetup/).
 
 [![Maker Faire Bay Area](../assets/2024mmdd/mfbay2024.jpg)](https://makerfaire.com/bay-area/)
 
@@ -334,6 +330,10 @@ Maker Faire Bay Area returns to Mare Island Naval Shipyard on October 18-20, 202
 [![SuperCon 2024](../assets/2024mmdd/2024mmddsc.jpg)](https://hackaday.com/2024/08/06/tickets-for-supercon-2024-go-on-sale-now/)
 
 Hackaday Superconference is an epic gathering of hardware hackers, makers, and tech enthusiasts happening November 1-3 in Pasadena, California - [Hackaday](https://hackaday.com/2024/08/06/tickets-for-supercon-2024-go-on-sale-now/) and [Eventbrite](https://www.eventbrite.com/e/2024-hackaday-superconference-tickets-965387338517).
+
+[![PyCon AU](../assets/2024mmdd/2024mmddpau.jpg)](https://2024.pycon.org.au/)
+
+PyCon AU will be held from the 22nd to the 26th of November at the Melbourne Convention and Exhibition Centre (MCEC) in Narrm/Melbourne. Matt Trentini and Damien George will both be presennting on MicroPython - [PyCon AU](https://2024.pycon.org.au/).
 
 [![PyLadies](../assets/2024mmdd/pyladiescon.png)](https://conference.pyladies.com/)
 
