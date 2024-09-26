@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: August 30, 2024 - Event shuffling
+Last changed: September 26, 2024 - Event shuffling
 
 News Sources
 
@@ -237,6 +237,8 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 
 [![New Learn Guides](../assets/2024mmdd/2024mmddlearn.jpg)](https://learn.adafruit.com/guides/latest)
 
+The Adafruit Learning System has over 3,000 free guides for learning skills and building projects including using Python.
+
 [title](url) from [name](url)
 
 [title](url) from [name](url)
@@ -287,12 +289,6 @@ What is the team up to this week? Let’s check in:
 
 text.
 
-**Melissa**
-
-[![Melissa](../assets/2024mmdd/2024mmddmelissa.jpg)](https://www.circuitpython.org/)
-
-text.
-
 **Tim**
 
 [![Tim](../assets/2024mmdd/2024mmddtim.jpg)](https://www.circuitpython.org/)
@@ -319,13 +315,13 @@ text.
 
 ## Upcoming Events
 
-[![MicroPython Meetup](../assets/2024mmdd/2024mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
-
-The next MicroPython Meetup in Melbourne will be on September 25th – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). The August 2024 [Roundup](https://melbournemicropythonmeetup.github.io/August-2024-Meetup/).
-
 [![Maker Faire Bay Area](../assets/2024mmdd/mfbay2024.jpg)](https://makerfaire.com/bay-area/)
 
 Maker Faire Bay Area returns to Mare Island Naval Shipyard on October 18-20, 2024 - [Maker Faire](https://makerfaire.com/bay-area/).
+
+[![MicroPython Meetup](../assets/2024mmdd/2024mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
+
+The next MicroPython Meetup in Melbourne will be on October 23rd – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
 [![SuperCon 2024](../assets/2024mmdd/2024mmddsc.jpg)](https://hackaday.com/2024/08/06/tickets-for-supercon-2024-go-on-sale-now/)
 
