@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: September 26, 2024 - Event shuffling
+Last changed: September 27, 2024 - Event shuffling
 
 News Sources
 
@@ -113,6 +113,8 @@ text - [site](url).
 [![Popular Last Week](../assets/2024mmdd/2024mmddlast.jpg)](url)
 
 What was the most popular, most clicked link, in [last week's newsletter](newslink)? [title](url).
+
+Did you know you can read past issues of this newsletter in the Adafruit Daily Archive? [Check it out](https://www.adafruitdaily.com/category/circuitpython/).
 
 ## New Notes from Adafruit Playground
 
@@ -321,7 +323,7 @@ Maker Faire Bay Area returns to Mare Island Naval Shipyard on October 18-20, 202
 
 [![MicroPython Meetup](../assets/2024mmdd/2024mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
-The next MicroPython Meetup in Melbourne will be on October 23rd – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
+The next MicroPython Meetup in Melbourne will be on October 23rd – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). September's meeting notes are [here](https://melbournemicropythonmeetup.github.io/September-2024-Meetup/).
 
 [![SuperCon 2024](../assets/2024mmdd/2024mmddsc.jpg)](https://hackaday.com/2024/08/06/tickets-for-supercon-2024-go-on-sale-now/)
 
