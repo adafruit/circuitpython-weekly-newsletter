@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2024-10-21 07:00:00 -0800
+date: 2024-10-28 07:00:00 -0800
 categories: weekly
 ---
 
@@ -220,7 +220,7 @@ text - [site](url).
 
 The number of supported microcontrollers and Single Board Computers (SBC) grows every week. This section outlines which boards have been included in CircuitPython or added to [CircuitPython.org](https://circuitpython.org/).
 
-This week, there were (#/no) new boards added:
+This week there were (#/no) new boards added:
 
 - [Board name](url)
 - [Board name](url)
