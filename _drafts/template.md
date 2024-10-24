@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2024-10-28 07:00:00 -0800
+date: 2024-11-04 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: September 27, 2024 - Event shuffling
+Last changed: October 24, 2024 - Event shuffling
 
 News Sources
 
