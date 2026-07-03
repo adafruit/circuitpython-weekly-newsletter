@@ -318,13 +318,13 @@ text.
 
 ## Upcoming Events
 
-[![MicroPython Meetup](../assets/2026mmdd/2026mmddmp.png)](https://luma.com/micropython)
-
-The next MicroPython Meetup in Melbourne will be on June 24 – [Luma](https://luma.com/micropython). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
-
 [![EuroPython 2026](../assets/2026mmdd/eupy26.jpg)](https://ep2026.europython.eu/)
 
 [EuroPython 2026](https://ep2026.europython.eu/) is coming to Kraków, Poland 13-19 July, 2026. Join thousands of Python enthusiasts for a week of learning, networking, and community.
+
+[![MicroPython Meetup](../assets/2026mmdd/2026mmddmp.png)](https://luma.com/micropython)
+
+The next MicroPython Meetup in Melbourne will be on July 22 – [Luma](https://luma.com/micropython). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
 **Other Events This Year**
 
