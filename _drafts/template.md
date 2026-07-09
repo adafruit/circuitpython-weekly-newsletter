@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: July 3, 2026 copyedits
+Last changed: July 9, events
 
 News Sources
 
@@ -330,7 +330,9 @@ The next MicroPython Meetup in Melbourne will be on July 22 – [Luma](https://l
 
 * [PyOhio 2026](https://www.pyohio.org/2026/) is from 25 July through 26 July, 2026 this year in Cleveland, USA.
 * [HOPE 26 Conference](https://store.2600.com/products/tickets-to-hope-26) is from August 14th through 16th at the New Yorker Hotel, NY, NY.
-* [PyCon AU 2026](https://2026.pycon.org.au/) will be 26 Aug. 2026 – 30 Aug. 2026 in Brisbane, Australia
+* [PyCon AU 2026](https://2026.pycon.org.au/) will be 26 Aug. 2026 – 30 Aug. 2026 in Brisbane, Australia.
+* [PyConZA 2026](https://za.pycon.org/), South Africa's Python conference, will be 14–18 Oct at Belmont Square, Cape Town, South Africa.
+* [Espressif DevCon 2026](https://devcon.espressif.com/) will be November 3-4 in Milan, Italy  and online.
 
 If you know of virtual events or upcoming events, please let us know via email to cpnews(at)adafruit(dot)com.
 
