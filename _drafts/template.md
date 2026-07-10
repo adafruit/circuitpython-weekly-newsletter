@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2026-07-06 07:00:00 -0800
+date: 2026-07-20 07:00:00 -0800
 categories: weekly
 ---
 
@@ -360,7 +360,7 @@ Sign in with an existing account such as GitHub, Google or Facebook and start co
 
 ## NUMBER Thanks
 
-[![NUMBER THANKS](../assets/2026mmdd/39kdiscord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/2026mmdd/38kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
