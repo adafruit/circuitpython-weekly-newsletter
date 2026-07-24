@@ -1,4 +1,4 @@
-## AUgust 3, 2026 Python on Microcontrollers Newsletter Assets
+## August 3, 2026 Python on Microcontrollers Newsletter Assets
 
 Please preface all asset filenames for this issue with 20260803, re. 20260803neopixel.jpg
 
