@@ -318,10 +318,12 @@ text.
 
 ## Upcoming Events
 
-[![HOPE 26 Conference](../assets/20260727/hope26.png)](https://www.hope.net/)
+[![HOPE 26 Conference](../assets/2026mmdd/hope26.png)](https://www.hope.net/)
 
 The HOPE 26 Conference is from August 14th through 16th at the New Yorker Hotel, NY, NY - [2600.com](https://www.hope.net/).
 [![MicroPython Meetup](../assets/20260803/20260803mp.png)](https://luma.com/micropython)
+
+[![MicroPython Meetup](../assets/2026mmdd/2026mmdd.png)]([https://www.hope.net/](https://luma.com/micropython))
 
 The next MicroPython Meetup in Melbourne will be on August 26 – [Luma](https://luma.com/micropython). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
