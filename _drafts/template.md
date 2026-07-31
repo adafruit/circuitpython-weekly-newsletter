@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: July 17 link
+Last changed: July 31 events
 
 News Sources
 
@@ -318,21 +318,18 @@ text.
 
 ## Upcoming Events
 
-[![EuroPython 2026](../assets/2026mmdd/eupy26.jpg)](https://ep2026.europython.eu/)
+[![HOPE 26 Conference](../assets/20260727/hope26.png)](https://www.hope.net/)
 
-[EuroPython 2026](https://ep2026.europython.eu/) is coming to Kraków, Poland 13-19 July, 2026. Join thousands of Python enthusiasts for a week of learning, networking, and community.
+The HOPE 26 Conference is from August 14th through 16th at the New Yorker Hotel, NY, NY - [2600.com](https://www.hope.net/).
+[![MicroPython Meetup](../assets/20260803/20260803mp.png)](https://luma.com/micropython)
 
-[![MicroPython Meetup](../assets/2026mmdd/2026mmddmp.png)](https://luma.com/micropython)
-
-The next MicroPython Meetup in Melbourne will be on July 22 – [Luma](https://luma.com/micropython). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
+The next MicroPython Meetup in Melbourne will be on August 26 – [Luma](https://luma.com/micropython). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
 **Other Events This Year**
 
-* [PyOhio 2026](https://www.pyohio.org/2026/) is from 25 July through 26 July, 2026 this year in Cleveland, USA.
-* [HOPE 26 Conference](https://store.2600.com/products/tickets-to-hope-26) is from August 14th through 16th at the New Yorker Hotel, NY, NY.
 * [PyCon AU 2026](https://2026.pycon.org.au/) will be 26 Aug. 2026 – 30 Aug. 2026 in Brisbane, Australia.
 * [PyConZA 2026](https://za.pycon.org/), South Africa's Python conference, will be 14–18 Oct at Belmont Square, Cape Town, South Africa.
-* [Espressif DevCon 2026](https://devcon.espressif.com/) will be November 3-4 in Milan, Italy  and online.
+* [Espressif DevCon 2026](https://devcon.espressif.com/) will be November 3-4 in Milan, Italy and online.
 
 If you know of virtual events or upcoming events, please let us know via email to cpnews(at)adafruit(dot)com.
 
