@@ -1,5 +1,9 @@
 # Python for Microcontrollers Newsletter
 
+<!-- hy-mt2-i18n:start -->
+**English** · [中文](./README_zh-CN.md) · [日本語](./README_ja.md) · [Español](./README_es.md)
+<!-- hy-mt2-i18n:end -->
+
 Content for the Adafruit Python for Microcontrollers newsletter. It's emailed out each week on
 Monday mornings (US time). Sign up to get them [here](https://www.adafruitdaily.com/).
 
