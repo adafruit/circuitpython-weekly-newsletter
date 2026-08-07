@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2026-08-10 07:00:00 -0800
+date: 2026-08-17 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: July 31 events
+Last changed: Aug 7 event tweaks
 
 News Sources
 
@@ -127,9 +127,9 @@ What was the most popular, most clicked link, in [last week's newsletter](newsli
 
 Did you know you can read past issues of this newsletter in the Adafruit Daily Archive? [Check it out](https://www.adafruitdaily.com/category/circuitpython/).
 
-## New Notes from Adafruit Playground
+## Notes from Adafruit Playground
 
-[Adafruit Playground](https://adafruit-playground.com/) is a new place for the community to post their projects and other making tips/tricks/techniques. Ad-free, it's an easy way to publish your work in a safe space for free.
+[Adafruit Playground](https://adafruit-playground.com/) is a place for the community to post their projects and other making tips/tricks/techniques. Ad-free, it's an easy way to publish your work in a safe space for free.
 
 [![title](../assets/2026mmdd/2026mmddplay1.jpg)](url)
 
@@ -323,7 +323,7 @@ text.
 The HOPE 26 Conference is from August 14th through 16th at the New Yorker Hotel, NY, NY - [2600.com](https://www.hope.net/).
 [![MicroPython Meetup](../assets/20260803/20260803mp.png)](https://luma.com/micropython)
 
-[![MicroPython Meetup](../assets/2026mmdd/2026mmdd.png)]([https://www.hope.net/](https://luma.com/micropython))
+[![MicroPython Meetup](../assets/2026mmdd/2026mmddmp.png)]([https://luma.com/micropython](https://luma.com/micropython))
 
 The next MicroPython Meetup in Melbourne will be on August 26 – [Luma](https://luma.com/micropython). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
