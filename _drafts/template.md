@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2026-08-17 07:00:00 -0800
+date: 2026-08-24 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: Aug 7 event tweaks
+Last changed: Aug 14 event tweak
 
 News Sources
 
@@ -318,18 +318,18 @@ text.
 
 ## Upcoming Events
 
-[![HOPE 26 Conference](../assets/2026mmdd/hope26.png)](https://www.hope.net/)
-
-The HOPE 26 Conference is from August 14th through 16th at the New Yorker Hotel, NY, NY - [2600.com](https://www.hope.net/).
-[![MicroPython Meetup](../assets/20260803/20260803mp.png)](https://luma.com/micropython)
-
-[![MicroPython Meetup](../assets/2026mmdd/2026mmddmp.png)]([https://luma.com/micropython](https://luma.com/micropython))
+[![MicroPython Meetup](../assets/2026mmdd/2026mmddmp.png)](https://luma.com/micropython)
 
 The next MicroPython Meetup in Melbourne will be on August 26 – [Luma](https://luma.com/micropython). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
+[![PyCon AU 2026](../assets/2026mmdd/au26.jpg)](https://2026.pycon.org.au/)
+
+[PyCon AU 2026](https://2026.pycon.org.au/) will be 26 Aug. 2026 – 30 Aug. 2026 in Brisbane, Australia.
+
 **Other Events This Year**
 
-* [PyCon AU 2026](https://2026.pycon.org.au/) will be 26 Aug. 2026 – 30 Aug. 2026 in Brisbane, Australia.
+* [PyCon JP 2026](https://2026.pycon.jp/en) is August 21-22 at the International Conference Center Hiroshima with sprints the 23rd at Hiroshima University Higashi-Senda Campus.
+* [Maker Faire Bay Area](https://bayarea.makerfaire.com/) is September 26-28 at Mare Island, California.
 * [PyConZA 2026](https://za.pycon.org/), South Africa's Python conference, will be 14–18 Oct at Belmont Square, Cape Town, South Africa.
 * [Espressif DevCon 2026](https://devcon.espressif.com/) will be November 3-4 in Milan, Italy and online.
 
