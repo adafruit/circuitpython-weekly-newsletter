@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2026-09-14 07:00:00 -0800
+date: 2026-09-28 07:00:00 -0800
 categories: weekly
 ---
 
@@ -318,11 +318,11 @@ text.
 
 ## Upcoming Events
 
-[![MicroPython Meetup](../assets/20260907/20260907mp.png)](https://luma.com/micropython)
+[![MicroPython Meetup](../assets/2026mmdd/2026mmddmp.png)](https://luma.com/micropython)
 
 The next MicroPython Meetup in Melbourne will be on September 23 – [Luma](https://luma.com/micropython). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
-[![Maker Faire Bay Area](../assets/20260907/20260907mf.jpg)](https://bayarea.makerfaire.com/)
+[![Maker Faire Bay Area](../assets/2026mmdd/2026mmddmf.jpg)](https://bayarea.makerfaire.com/)
 
 [Maker Faire Bay Area](https://bayarea.makerfaire.com/) is September 26-28 at Mare Island, California.
 
