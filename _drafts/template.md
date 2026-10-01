@@ -148,6 +148,10 @@ Did you know you can read past issues of this newsletter in the Adafruit Daily A
 
 [Adafruit Playground](https://adafruit-playground.com/) is a place for the community to post their projects and other making tips/tricks/techniques. Ad-free, it's an easy way to publish your work in a safe space for free.
 
+[![Adafruit Marquee](../assets/20261006/20261006play3.jpg)](https://adafruit-playground.com/u/brubell/pages/adafruit-marquee)
+
+Adafruit Marquee allows you to visually create interfaces for e-paper/eink displays without writing any code or storing images or fonts, or rendering graphics directly on the device. Marquee is an Adafruit Playground Experiment and is still in active development. Features may change, break, or be removed without notice - [Adafruit Playground](https://adafruit-playground.com/u/brubell/pages/adafruit-marquee).
+
 [![Meshtastic-compatible full stack for CircuitPython](../assets/20261006/20261006play1.jpg)](https://adafruit-playground.com/u/fede2/pages/meshtastic-compatible-full-stack-in-for-circuitpython)
 
 Meshtastic-compatible full stack for CircuitPython - [Adafruit Playground](https://adafruit-playground.com/u/fede2/pages/meshtastic-compatible-full-stack-in-for-circuitpython).
@@ -155,10 +159,6 @@ Meshtastic-compatible full stack for CircuitPython - [Adafruit Playground](https
 [![AIR PRO](../assets/20261006/20261006play2.jpg)](https://adafruit-playground.com/u/ostgate/pages/air-pro-a-pip-boy-style-air-quality-monitor-with-qualia-s3-and-sen66)
 
 AIR PRO: a Pip-Boy style air quality monitor with Qualia S3 and SEN66 - [Adafruit Playground](https://adafruit-playground.com/u/ostgate/pages/air-pro-a-pip-boy-style-air-quality-monitor-with-qualia-s3-and-sen66).
-
-[![title](../assets/20261006/20261006play3.jpg)](url)
-
-text - [Adafruit Playground](url).
 
 ## News From Around the Web
 
