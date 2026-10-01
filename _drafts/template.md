@@ -190,9 +190,9 @@ text - [site](url).
 
 Raspberry Pi's RAM lock was built to stop scalpers, but it's blocking repairs too - [TechSpot](https://www.techspot.com/news/113953-raspberry-pi-blocks-ram-swaps-stop-resellers-selling.html).
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![Interactive floor](../assets/20261006/20261006yak.jpg)](https://x.com/Yakroo5077/status/2102727479136018820)
 
-text - [site](url).
+Yakroo108 turned a broken projector into an interactive floor, reusing the optical system and adding a Raspberry Pi, camera and computer vision with Python - [X](https://x.com/Yakroo5077/status/2102727479136018820).
 
 [![title](../assets/20261006/20261006-name.jpg)](url)
 
