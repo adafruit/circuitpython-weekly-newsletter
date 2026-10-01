@@ -186,9 +186,9 @@ text - [site](url).
 
 text - [site](url).
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![Raspberry Pi's RAM lock was built to stop scalpers, but it's blocking repairs too](../assets/20261006/20261006lock.jpg)](https://www.techspot.com/news/113953-raspberry-pi-blocks-ram-swaps-stop-resellers-selling.html)
 
-text - [site](url).
+Raspberry Pi's RAM lock was built to stop scalpers, but it's blocking repairs too - [TechSpot](https://www.techspot.com/news/113953-raspberry-pi-blocks-ram-swaps-stop-resellers-selling.html).
 
 [![title](../assets/20261006/20261006-name.jpg)](url)
 
