@@ -66,15 +66,15 @@ CircuitPython 11.0.0-alpha.1 is the new alpha release for CircuitPython 11.0.0. 
 
 text - [site](url).
 
-## Feature
+## ESP32-P4 Is Now ESP32-P4X Starting At Revision 3.x
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![ESP32-P4 is now ESP32-P4X starting at revision 3.x](../assets/20261006/20261006p4x.jpg)](https://community.home-assistant.io/t/esp32-p4-is-now-esp32-p4x-starting-at-revision-3-x/1014803)
 
-text - [site](url).
+Espressif is releasing revision 3.x of the ESP32-P4 as the "P4X." It runs at 400 MHz (up from 360 MHz), includes power fixes, and resolves an issue in revision 1.x chips: their hardware H.264 encoder only accepts the O_UYY_E_VYY pixel format, which almost no cameras output. That forces a slow software conversion that defeats the purpose of hardware acceleration, and it likely explains why CSI camera support never worked in ESPHome. The supply chain is now waiting for the new P4 chips to be available in quantity - [Home Assistant](https://community.home-assistant.io/t/esp32-p4-is-now-esp32-p4x-starting-at-revision-3-x/1014803).
 
-## Feature
+## Raspberry Pi Raises Prices Again on Two Configurations
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![Raspberry Pi Raises Prices Again](../assets/20261006/20261006raise.jpg)](url)
 
 text - [site](url).
 
