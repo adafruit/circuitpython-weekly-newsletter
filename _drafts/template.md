@@ -142,9 +142,9 @@ Did you know you can read past issues of this newsletter in the Adafruit Daily A
 
 [Adafruit Playground](https://adafruit-playground.com/) is a place for the community to post their projects and other making tips/tricks/techniques. Ad-free, it's an easy way to publish your work in a safe space for free.
 
-[![title](../assets/20261006/20261006play1.jpg)](url)
+[![Meshtastic-compatible full stack for CircuitPython](../assets/20261006/20261006play1.jpg)](https://adafruit-playground.com/u/fede2/pages/meshtastic-compatible-full-stack-in-for-circuitpython)
 
-text - [Adafruit Playground](url).
+Meshtastic-compatible full stack for CircuitPython - [Adafruit Playground](https://adafruit-playground.com/u/fede2/pages/meshtastic-compatible-full-stack-in-for-circuitpython).
 
 [![title](../assets/20261006/20261006play2.jpg)](url)
 
