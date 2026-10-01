@@ -90,11 +90,11 @@ Related: Raspberry Pi posts record first-half revenue as shipments and profit su
 
 text - [site](url).
 
-## Feature
+## ESP-Vim Brings Vim to ESP32 Microcontrollers
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![ESP-Vim](../assets/20261006/20261006vim.jpg)](https://hackaday.com/2026/10/01/the-whole-computer-is-vim/)
 
-text - [site](url).
+ESP-Vim, a project by Omwah, turns Vim into the firmware itself on ESP32 microcontrollers rather than a program running under an operating system. The device boots directly into the editor on an attached display, with filesystem access, git support, and MicroPython for light scripting. It requires an ESP32-S3 or P4 board with 16 MB of flash and at least 8 MB of PSRAM. Compatible boards include the S3 variant of the Cheap Yellow Display. A Bluetooth keyboard handles input - [Hackaday](https://hackaday.com/2026/10/01/the-whole-computer-is-vim/).
 
 ## This Week's Python Streams
 
