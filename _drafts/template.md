@@ -164,9 +164,9 @@ text - [site](url).
 
 The new book *Build Smart Projects with the XIAO ESP32-C3 Board* by Dr. Günter Spanner, uses MicroPython to take readers from their first experiments with the board to more advanced projects - [Elektor](https://www.elektormagazine.com/news/xiao-esp32-c3-projects-micropython).
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![Raspberry Pi OS: A Complete Guide to the New Control Centre](../assets/20261006/20261006bar.jpg)](https://raspberrytips.com/raspberry-pi-control-centre/)
 
-text - [site](url).
+Raspberry Pi OS: A Complete Guide to the New Control Centre - [RaspberryTips](https://raspberrytips.com/raspberry-pi-control-centre/).
 
 [![title](../assets/20261006/20261006-name.jpg)](url)
 
