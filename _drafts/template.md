@@ -82,6 +82,8 @@ Espressif is releasing revision 3.x of the ESP32-P4 as the "P4X." It runs at 400
 
 The Raspberry Pi 4 2GB version is now up to $67.50 USD while the Raspberry Pi 5 2GB is at $77.50 USD. That's a $12.50 increase in this round of pricing updates due to the RAM pricing situation in the industry - [Phoronix](https://www.phoronix.com/news/Raspberry-Pi-5-2GB-Price-77.50). Via [X](https://x.com/bretweber/status/2105597908934365624).
 
+Related: Raspberry Pi posts record first-half revenue as shipments and profit surge - [yahoo!finance](https://uk.finance.yahoo.com/news/raspberry-pi-posts-record-first-064500902.html).
+
 ## Feature
 
 [![title](../assets/20261006/20261006-name.jpg)](url)
