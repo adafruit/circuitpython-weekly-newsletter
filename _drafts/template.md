@@ -146,9 +146,9 @@ Did you know you can read past issues of this newsletter in the Adafruit Daily A
 
 Meshtastic-compatible full stack for CircuitPython - [Adafruit Playground](https://adafruit-playground.com/u/fede2/pages/meshtastic-compatible-full-stack-in-for-circuitpython).
 
-[![title](../assets/20261006/20261006play2.jpg)](url)
+[![AIR PRO](../assets/20261006/20261006play2.jpg)](https://adafruit-playground.com/u/ostgate/pages/air-pro-a-pip-boy-style-air-quality-monitor-with-qualia-s3-and-sen66)
 
-text - [Adafruit Playground](url).
+AIR PRO: a Pip-Boy style air quality monitor with Qualia S3 and SEN66 - [Adafruit Playground](https://adafruit-playground.com/u/ostgate/pages/air-pro-a-pip-boy-style-air-quality-monitor-with-qualia-s3-and-sen66).
 
 [![title](../assets/20261006/20261006play3.jpg)](url)
 
