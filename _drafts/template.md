@@ -136,11 +136,11 @@ CircuitPython Weekly Meeting for {date} ([notes](file)) [on YouTube](link).
 
 Bob Hammell has made a visualization for the Adafruit PyPortal displaying an animated flyover between any two locations (US only). Overhead aerial imagery captured along the route scrolls continuously across the screen, producing an uninterrupted, ever-changing view of the passing terrain using CircuitPython - [GitHub](https://github.com/rhammell/pyportal-flyover) and [hackster.io](https://www.hackster.io/rhammell/pyportal-flyover-viewer-1bc359).
 
-## Popular Last Week
+## Popular Two Weeks Ago
 
-[![Popular Last Week](../assets/20261006/20261006last.jpg)]()
+[![Popular Last Week](../assets/20261006/20261006last.jpg)](https://www.makeuseof.com/board-everyone-recommends-costs-60-what-buy-instead/)
 
-What was the most popular, most clicked link, in [last week's newsletter](newslink)? []().
+What was the most popular, most clicked link, in [last week's newsletter](https://www.adafruitdaily.com/2026/09/21/python-on-microcontrollers-newsletter-circuitpython-goes-turbo-with-new-versions-pi-desktop-overhaul-and-more/)? [The $15 board everyone recommends now costs $60, so here's what to buy instead](https://www.makeuseof.com/board-everyone-recommends-costs-60-what-buy-instead/).
 
 Did you know you can read past issues of this newsletter in the Adafruit Daily Archive? [Check it out](https://www.adafruitdaily.com/category/circuitpython/).
 
