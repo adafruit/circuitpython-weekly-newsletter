@@ -162,9 +162,9 @@ AIR PRO: a Pip-Boy style air quality monitor with Qualia S3 and SEN66 - [Adafrui
 
 ## News From Around the Web
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![ColecoJam](../assets/20261006/20261006jam.gif)](https://danthegeek.com/colecojam/)
 
-text - [site](url).
+ColecoJam is a Colecovision emulator for the Adafruit Fruit Jam. The project includes the emulator, a cartridge reader and a 3D printed case (video includes title screen in the upcoming release)- [Dan The Geek](https://danthegeek.com/colecojam/). Via [BlueSky](https://bsky.app/profile/cogliano.bsky.social/post/3mwove6mlak2e).
 
 [![New Book](../assets/20261006/20261006book.jpg)](https://www.elektormagazine.com/news/xiao-esp32-c3-projects-micropython)
 
