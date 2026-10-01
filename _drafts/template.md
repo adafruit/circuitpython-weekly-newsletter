@@ -60,11 +60,15 @@ CircuitPython 11.0.0-alpha.1 is the new alpha release for CircuitPython 11.0.0. 
 
 * The broadcom, litex, and renode ports have been removed.
 
-## Feature
+## Hubble Networks Allows Bluetooth Devices to Connect to Satellites
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![Hubble Networks](../assets/20261006/20261006hubble.jpg)](https://x.com/ycombinator/status/2102825313181040704)
 
-text - [site](url).
+Hubble's satellite network lets any Bluetooth device connect directly to orbit with just a software update. Cellular covers about 15% of Earth's landmass, and tracking anything beyond that has meant satellite hardware costing $25 or more per device. Hubble brings connectivity under 50 cents per device, which changes the math for billions of internet of things (IoT) devices - [X](https://x.com/ycombinator/status/2102825313181040704).
+
+[![Feather BLuetooth Antenna](../assets/20261006/20261006bt.jpg)](https://x.com/adafruit/status/2103160131403788658)
+
+Adafruit quickly posted a design to be Hubble compatible: "We’re giving our ESP32-C6 Feather a Hubble-friendly respin: w.FL, an edge-launch SMA, and a lil jumper cable. Bring a suitable antenna. No external power amp needed" - [X](https://x.com/adafruit/status/2103160131403788658).
 
 ## ESP32-P4 Is Now ESP32-P4X Starting At Revision 3.x
 
