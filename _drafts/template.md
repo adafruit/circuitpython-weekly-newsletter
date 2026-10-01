@@ -226,9 +226,9 @@ text - [site](url).
 
 text - [site](url).
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![Needle](../assets/20261006/20261006needle.jpg)](https://www.raspberrypi.com/news/turn-text-input-into-actions-with-needle-a-14mb-function-calling-llm/)
 
-text - [site](url).
+Turn text input into actions with Needle, a 14MB function-calling LLM for Raspberry Pi 5 - [Raspberry Pi News](https://www.raspberrypi.com/news/turn-text-input-into-actions-with-needle-a-14mb-function-calling-llm/).
 
 [![7 Advanced Python Tricks to Level Up Your Coding Skills](../assets/20261006/20261006seven.jpg)](https://www.kdnuggets.com/7-advanced-python-tricks-to-level-up-your-coding-skills)
 
