@@ -166,7 +166,7 @@ The new book *Build Smart Projects with the XIAO ESP32-C3 Board* by Dr. Günter 
 
 [![Raspberry Pi OS: A Complete Guide to the New Control Centre](../assets/20261006/20261006bar.jpg)](https://raspberrytips.com/raspberry-pi-control-centre/)
 
-Raspberry Pi OS: A Complete Guide to the New Control Centre - [RaspberryTips](https://raspberrytips.com/raspberry-pi-control-centre/).
+Raspberry Pi OS: A Complete Guide to the New Control Centre - [RaspberryTips](https://raspberrytips.com/raspberry-pi-control-centre/). Via [BlueSky](https://bsky.app/profile/raspberrytips.com/post/3mwjsdndeud2x).
 
 [![title](../assets/20261006/20261006-name.jpg)](url)
 
