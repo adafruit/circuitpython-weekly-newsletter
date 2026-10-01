@@ -41,11 +41,24 @@ Welcome to the latest Python on Microcontrollers newsletter! *insert 2-3 sentenc
 
 We're on [Discord](https://discord.gg/HYqvREz), [Twitter/X](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), [BlueSky](https://bsky.app/profile/circuitpython.org) and for past newsletters - [view them all here](https://www.adafruitdaily.com/category/circuitpython/). If you're reading this on the web, please [subscribe here](https://www.adafruitdaily.com/). Here's the news this week:
 
-## Headline
+## CircuitPython 11.0.0-alpha.1 Released
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![CircuitPython 11.0.0-alpha.1 Released](../assets/20261006/20261006cp11.jpg)](https://blog.adafruit.com/2026/09/24/circuitpython-11-0-0-alpha-1-released/)
 
-text - [site](url).
+CircuitPython 11.0.0-alpha.1 is the new alpha release for CircuitPython 11.0.0. Further features, changes, and bug fixes will be added before the final release of 11.0.0. Circuitpython 11 is now planned to be the next stable release after 10.3.x, instead of 10.4.0. There may be further 10.3.x releases for critical bug fixes if needed. CircuitPython libraries from the 10.x bundles are still compatible with CircuitPython 11.0.0 builds - [Adafruit Blog](https://blog.adafruit.com/2026/09/24/circuitpython-11-0-0-alpha-1-released/) and release notes - [GitHub](https://github.com/adafruit/circuitpython/releases/tag/11.0.0-alpha.1).
+
+**Highlights of changes since 10.4.0-alpha.2**
+
+* `import` now also looks for `filename.<arch>.mpy` architecture-specific machine-code files.
+* `hmac` and `hardwarekey` modules.
+* Isochronous USB IN support.
+* RP2350 `alarm` module.
+* Firmware size reductions.
+* Zephyr dynamic pin assignment.
+
+**Incompatibility warnings when upgrading to 11.0.0 from 10.x.x**
+
+* The broadcom, litex, and renode ports have been removed.
 
 ## Feature
 
