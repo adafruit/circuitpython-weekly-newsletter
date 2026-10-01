@@ -335,17 +335,17 @@ text.
 
 ## Upcoming Events
 
+[![PyConZA 2026](../assets/20261006/20261006sa.jpg)](https://za.pycon.org/)
+
+[PyConZA 2026](https://za.pycon.org/), South Africa's Python conference, will be 14–18 Oct at Belmont Square, Cape Town, South Africa.
+
 [![MicroPython Meetup](../assets/20261006/20261006mp.png)](https://luma.com/micropython)
 
-The next MicroPython Meetup in Melbourne will be on September 23 – [Luma](https://luma.com/micropython). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
+The next MicroPython Meetup in Melbourne will be on October 25th – [Luma](https://luma.com/micropython). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
-[![Maker Faire Bay Area](../assets/20261006/20261006mf.jpg)](https://bayarea.makerfaire.com/)
-
-[Maker Faire Bay Area](https://bayarea.makerfaire.com/) is September 26-28 at Mare Island, California.
 
 **Other Events This Year**
 
-* [PyConZA 2026](https://za.pycon.org/), South Africa's Python conference, will be 14–18 Oct at Belmont Square, Cape Town, South Africa.
 * [Espressif DevCon 2026](https://devcon.espressif.com/) will be November 3-4 in Milan, Italy and online.
 
 If you know of virtual events or upcoming events, please let us know via email to cpnews(at)adafruit(dot)com.
