@@ -194,9 +194,9 @@ Raspberry Pi's RAM lock was built to stop scalpers, but it's blocking repairs to
 
 Yakroo108 turned a broken projector into an interactive floor, reusing the optical system and adding a Raspberry Pi, camera and computer vision with Python - [X](https://x.com/Yakroo5077/status/2102727479136018820).
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![Jane Street CTO](../assets/20261006/20261006good.jpg)](https://www.efinancialcareers.com/news/jane-street-cto-everyone-knows-python-lots-of-people-aren-t-any-good-at-it)
 
-text - [site](url).
+Jane Street CTO: "Everyone knows some Python... lots of people aren't any good at it." - [efinancialcareers](https://www.efinancialcareers.com/news/jane-street-cto-everyone-knows-python-lots-of-people-aren-t-any-good-at-it).
 
 [![title](../assets/20261006/20261006-name.jpg)](url)
 
