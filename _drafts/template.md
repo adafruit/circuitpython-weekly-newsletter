@@ -210,9 +210,9 @@ text - [site](url).
 
 How to turn a Python script Into an AI agent - [KDnuggets](https://www.kdnuggets.com/how-to-turn-a-python-script-into-an-ai-agent).
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![Building a Local Voice-Controlled Hardware System with Python and Termux](../assets/20261006/20261006control.jpg)](https://www.sitepoint.com/building-a-local-voice-controlled-hardware-system-with-python-and-termux/)
 
-text - [site](url).
+Building a local Voice-Controlled hardware system with Python and Termux - [sitepoint](https://www.sitepoint.com/building-a-local-voice-controlled-hardware-system-with-python-and-termux/).
 
 [![title](../assets/20261006/20261006-name.jpg)](url)
 
