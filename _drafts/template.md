@@ -130,11 +130,11 @@ You can see the latest video and past videos on the Adafruit YouTube channel und
 
 CircuitPython Weekly Meeting for {date} ([notes](file)) [on YouTube](link).
 
-## Project of the Week: 
+## Project of the Week: PyPortal Flyover Viewer
 
-[![title](../assets/20261006/20261006potw.jpg)](url)
+[![PyPortal Flyover Viewer](../assets/20261006/20261006potw.jpg)](https://github.com/rhammell/pyportal-flyover)
 
-text - [site](url).
+Bob Hammell has made a visualization for the Adafruit PyPortal displaying an animated flyover between any two locations (US only). Overhead aerial imagery captured along the route scrolls continuously across the screen, producing an uninterrupted, ever-changing view of the passing terrain using CircuitPython - [GitHub](https://github.com/rhammell/pyportal-flyover) and [hackster.io](https://www.hackster.io/rhammell/pyportal-flyover-viewer-1bc359).
 
 ## Popular Last Week
 
