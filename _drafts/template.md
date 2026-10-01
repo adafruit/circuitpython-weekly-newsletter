@@ -206,9 +206,9 @@ text - [site](url).
 
 text - [site](url).
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![How to Turn a Python Script Into an AI Agent](../assets/20261006/20261006turn.jpg)](https://www.kdnuggets.com/how-to-turn-a-python-script-into-an-ai-agent)
 
-text - [site](url).
+How to turn a Python script Into an AI agent - [KDnuggets](https://www.kdnuggets.com/how-to-turn-a-python-script-into-an-ai-agent).
 
 [![title](../assets/20261006/20261006-name.jpg)](url)
 
