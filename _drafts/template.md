@@ -224,9 +224,9 @@ text - [site](url).
 
 text - [site](url).
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![7 Advanced Python Tricks to Level Up Your Coding Skills](../assets/20261006/20261006seven.jpg)](https://www.kdnuggets.com/7-advanced-python-tricks-to-level-up-your-coding-skills)
 
-text - [site](url).
+Seven advanced Python tricks to level up your coding skills - [KDnuggets](https://www.kdnuggets.com/7-advanced-python-tricks-to-level-up-your-coding-skills).
 
 ## Coming Soon / New
 
