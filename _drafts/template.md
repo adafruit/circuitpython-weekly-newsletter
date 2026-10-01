@@ -160,9 +160,9 @@ text - [Adafruit Playground](url).
 
 text - [site](url).
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![New Book](../assets/20261006/20261006book.jpg)](https://www.elektormagazine.com/news/xiao-esp32-c3-projects-micropython)
 
-text - [site](url).
+The new book *Build Smart Projects with the XIAO ESP32-C3 Board* by Dr. Günter Spanner, uses MicroPython to take readers from their first experiments with the board to more advanced projects - [Elektor](https://www.elektormagazine.com/news/xiao-esp32-c3-projects-micropython).
 
 [![title](../assets/20261006/20261006-name.jpg)](url)
 
