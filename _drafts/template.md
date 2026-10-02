@@ -104,9 +104,11 @@ Python on Hardware is all about building a cooperative ecosphere which allows co
 
 **CircuitPython Deep Dive Stream**
 
-[![Deep Dive](../assets/20261006/20261006deepdive.jpg)]()
+[![Deep Dive](../assets/20261006/20261006deepdive.jpg)](https://youtube.com/live/hZOT9NCrWAo)
 
-[Last Friday](), Scott streamed work on .
+[Last Friday](https://youtube.com/live/hZOT9NCrWAo), Scott streamed work on LLM PR polish with crit.md.
+
+[The week before](https://youtube.com/live/ZUMptACiXH4), Scott streamed work on Adaboot.
 
 You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXBHlu9msoXq2jQN4JpCk8A).
 
@@ -123,6 +125,8 @@ Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlis
 [![Deep Dive with Tim](../assets/20261006/20261006timdive.jpg)](https://youtube.com/live/g4jCmRKRblM)
 
 [Last week](https://youtube.com/live/g4jCmRKRblM), Tim streamed work on CircuitPython USB Host Software Defined Radio - FM & Ham.
+
+[The week before](https://youtube.com/live/uqm7OdLaJGQ), Tim worked on CircuitPython USB Host Camera.
 
 You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr).
 
