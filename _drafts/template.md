@@ -84,11 +84,11 @@ The Raspberry Pi 4 2GB version is now up to $67.50 USD while the Raspberry Pi 5 
 
 Related: Raspberry Pi posts record first-half revenue as shipments and profit surge - [yahoo!finance](https://uk.finance.yahoo.com/news/raspberry-pi-posts-record-first-064500902.html).
 
-## Feature
+## CircuitPython Gets 5GHz WiFi on ESP32-C5
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![5GHz WiFi on ESP32-C5](../assets/20261006/20261006chan.jpg)](https://mastodon.social/@anecdata@fosstodon.org/117298304944845573)
 
-text - [site](url).
+CircuitPythonista Anecdata posts "With fresh support for the ESP32-C5, CircuitPython now has 5GHz wifi capability for Stations, Access Points, and monitor mode. Interesting to see packets on channel 14 in the US." - [Mastodon](https://mastodon.social/@anecdata@fosstodon.org/117298304944845573) and [GitHub](https://gist.github.com/anecdata/c59d67a3aea4b3d45bc1326a43938837?permalink_comment_id=6372410#gistcomment-6372410)..
 
 ## ESP-Vim Brings Vim to ESP32 Microcontrollers
 
