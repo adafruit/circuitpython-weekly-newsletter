@@ -236,9 +236,9 @@ Seven advanced Python tricks to level up your coding skills - [KDnuggets](https:
 
 ## New
 
-[![title](../assets/20261006/20261006new1.jpg)](url)
+[![OpenArm](../assets/20261006/20261006new1.jpg)](https://github.com/enactic/OpenArm)
 
-text - [site](url).
+OpenArm is controlled by software running on a Linux PC (Ubuntu 22.04/24.04) and communicating using SocketCAN. The open-source software stack includes C++ and Python CAN-FD libraries, ROS 2, MoveIt2 configurations for bimanual operation, and Dora nodes for data collection and teleoperation - [GitHub](https://github.com/enactic/OpenArm) and [YouTube](https://youtu.be/QzJSBbF7zIE?si=3QB4OnALigfTvgjz). Via [CNX](https://www.cnx-software.com/2026/09/30/openarm-2-0-an-open-source-7-dof-robot-arm-with-qdd-joints-bilateral-force-feedback-in-hand-camera/).
 
 [![Avaota F2](../assets/20261006/20261006new2.jpg)](https://www.cnx-software.com/2026/10/02/avaota-f2-allwinner-v861-risc-v-sbc-targets-ai-cameras-with-ptz-and-audio-support/)
 
