@@ -226,9 +226,9 @@ Mi-Hole is a lightweight DNS filtering and monitoring appliance built on the ESP
 
 Motorizing a Shelly camera: Pan-tilt control with the ESP32 and MicroPython - [Draeger IT](https://draeger-it.blog/shelly-camera-motorisieren-pan-tilt-steuerung-mit-dem-esp32/). (German)
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![Move to Play](../assets/20261006/20261006belt.jpg)](https://www.instructables.com/Move-to-Play-Belt-Motion-Controllers-for-a-Two-Pla)
 
-text - [site](url).
+Move to Play: Belt motion controllers for a two-player Raspberry Pi game - [Instructables](https://www.instructables.com/Move-to-Play-Belt-Motion-Controllers-for-a-Two-Pla).
 
 [![Needle](../assets/20261006/20261006needle.jpg)](https://www.raspberrypi.com/news/turn-text-input-into-actions-with-needle-a-14mb-function-calling-llm/)
 
@@ -252,11 +252,19 @@ Avaota F2 is the first SBC based on an Allwinner V861 dual-core 64-bit RISC-V So
 
 The number of supported microcontrollers and Single Board Computers (SBC) grows every week. This section outlines which boards have been included in CircuitPython or added to [CircuitPython.org](https://circuitpython.org/).
 
-This week there were (#/no) new boards added:
+There were seven new boards added:
 
-- [Board name](url)
-- [Board name](url)
-- [Board name](url)
+- [Adafruit CLUE (Zephyr)](https://circuitpython.org/board/adafruit_clue_nrf52840_zephyr/) – Adafruit
+- [ESP32-C5-DevKitC-1-N8R8](https://circuitpython.org/board/espressif_esp32c5_devkitc_1_n8r8/) – Espressif
+- [ESP32-S3 Box 3](https://circuitpython.org/board/espressif_esp32s3_box_3/) – Espressif
+- [Nordic nRF54L15 Tag (Zephyr)](https://circuitpython.org/board/nordic_nrf54l15tag/) – Nordic Semiconductor
+- [Nordic nRF54LM20 Development Kit (Zephyr)](https://circuitpython.org/board/nordic_nrf54lm20dk/) – Nordic Semiconductor
+- [SiWx917 Wi-Fi 6 and Bluetooth LE Dev Kit](https://circuitpython.org/board/silabs_siwx917_dk2605a/) – Silicon Labs
+- [W55RP20-EVB-Pico](https://circuitpython.org/board/wiznet_w55rp20_evb_pico/) – WIZnet
+
+And one new board was added for Blinka:
+
+- [Tigard](https://circuitpython.org/blinka/securinghw_tigard/) – SecuringHardware.com
 
 *Note: For non-Adafruit boards, please use the support forums of the board manufacturer for assistance, as Adafruit does not have the hardware to assist in troubleshooting.*
 
