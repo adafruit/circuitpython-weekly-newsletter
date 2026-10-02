@@ -7,7 +7,7 @@ categories: weekly
 
 View this email in your browser. **Warning: Flashing Imagery**
 
-Welcome to the latest Python on Microcontrollers newsletter! Apologies for the newsletter not being out last week. A nasty early case of Influenza A. At least there were many neat developments in the last two weeks. CircuitPython is jumping from 10.3 to 11.0 with the addition of many improvements from CircuitPython Turbo. This includes speedups on single board computers using optimizations in the Blinka compatibility layer. How can Bluetooth reach space and back when it struggles over a few feet? The folks at Hubble Networks have figured it out and that may make the internet of things a much easier, connected thing. Espressif heard the concerns with the ESP32-P4 and are releasing an ESP32-P4X with many improvements, at the cost of needing redesigns in circuit boards. 
+Welcome to the latest Python on Microcontrollers newsletter! Apologies for the newsletter not being out last week. A nasty early case of Influenza A. At least there were many neat developments in the last two weeks. CircuitPython is jumping from 10.3 to 11.0 with the addition of many improvements from CircuitPython Turbo. This includes speedups on single board computers using optimizations in the Blinka compatibility layer. How can Bluetooth reach space and back when it struggles over a few feet? The folks at Hubble Network have figured it out and that may make the internet of things a much easier, connected thing. Espressif heard the concerns with the ESP32-P4 and iss releasing an ESP32-P4X with many improvements, at the cost of needing redesigns in circuit boards. 
 
 All of the news and more in this packed issue. Enjoy and please consider getting your vaccinations. - *Anne Barela, Editor*
 
@@ -17,7 +17,7 @@ We're on [Discord](https://discord.gg/HYqvREz), [Twitter/X](https://twitter.com/
 
 [![CircuitPython 11.0.0-alpha.1 Released](../assets/20261006/20261006cp11.jpg)](https://blog.adafruit.com/2026/09/24/circuitpython-11-0-0-alpha-1-released/)
 
-CircuitPython 11.0.0-alpha.1 is the new alpha release for CircuitPython 11.0.0. Further features, changes, and bug fixes will be added before the final release of 11.0.0. Circuitpython 11 is now planned to be the next stable release after 10.3.x, instead of 10.4.0. There may be further 10.3.x releases for critical bug fixes if needed. CircuitPython libraries from the 10.x bundles are still compatible with CircuitPython 11.0.0 builds - [Adafruit Blog](https://blog.adafruit.com/2026/09/24/circuitpython-11-0-0-alpha-1-released/) and release notes - [GitHub](https://github.com/adafruit/circuitpython/releases/tag/11.0.0-alpha.1).
+CircuitPython 11.0.0-alpha.1 is the new alpha release for CircuitPython 11.0.0. Further features, changes, and bug fixes will be added before the final release of 11.0.0. CircuitPython 11 is now planned to be the next stable release after 10.3.x, instead of 10.4.0. There may be further 10.3.x releases for critical bug fixes if needed. CircuitPython libraries from the 10.x bundles are still compatible with CircuitPython 11.0.0 builds - [Adafruit Blog](https://blog.adafruit.com/2026/09/24/circuitpython-11-0-0-alpha-1-released/) and release notes - [GitHub](https://github.com/adafruit/circuitpython/releases/tag/11.0.0-alpha.1).
 
 **Highlights of changes since 10.4.0-alpha.2**
 
@@ -32,15 +32,15 @@ CircuitPython 11.0.0-alpha.1 is the new alpha release for CircuitPython 11.0.0. 
 
 * The broadcom, litex, and renode ports have been removed.
 
-## Hubble Networks Allows Bluetooth Devices to Connect to Satellites
+## Hubble Network Allows Bluetooth Devices to Connect to Satellites
 
-[![Hubble Networks](../assets/20261006/20261006hubble.jpg)](https://x.com/ycombinator/status/2102825313181040704)
+[![Hubble Network](../assets/20261006/20261006hubble.jpg)](https://x.com/ycombinator/status/2102825313181040704)
 
 Hubble's satellite network lets any Bluetooth device connect directly to orbit with just a software update. Cellular covers about 15% of Earth's landmass, and tracking anything beyond that has meant satellite hardware costing $25 or more per device. Hubble brings connectivity under 50 cents per device, which changes the math for billions of internet of things (IoT) devices - [X](https://x.com/ycombinator/status/2102825313181040704).
 
-[![Feather BLuetooth Antenna](../assets/20261006/20261006bt.jpg)](https://x.com/adafruit/status/2103160131403788658)
+[![Feather Bluetooth Antenna](../assets/20261006/20261006bt.jpg)](https://x.com/adafruit/status/2103160131403788658)
 
-Adafruit quickly posted a design to be Hubble compatible: "We’re giving our ESP32-C6 Feather a Hubble-friendly respin: w.FL, an edge-launch SMA, and a lil jumper cable. Bring a suitable antenna. No external power amp needed" - [X](https://x.com/adafruit/status/2103160131403788658).
+Adafruit quickly posted a design to be Hubble compatible: "We're giving our ESP32-C6 Feather a Hubble-friendly respin: w.FL, an edge-launch SMA, and a lil jumper cable. Bring a suitable antenna. No external power amp needed" - [X](https://x.com/adafruit/status/2103160131403788658).
 
 ## ESP32-P4 Is Now ESP32-P4X Starting At Revision 3.x
 
@@ -60,7 +60,7 @@ Related: Raspberry Pi posts record first-half revenue as shipments and profit su
 
 [![5GHz WiFi on ESP32-C5](../assets/20261006/20261006chan.jpg)](https://mastodon.social/@anecdata@fosstodon.org/117298304944845573)
 
-CircuitPythonista Anecdata posts "With fresh support for the ESP32-C5, CircuitPython now has 5GHz wifi capability for Stations, Access Points, and monitor mode. Interesting to see packets on channel 14 in the US." - [Mastodon](https://mastodon.social/@anecdata@fosstodon.org/117298304944845573) and [GitHub](https://gist.github.com/anecdata/c59d67a3aea4b3d45bc1326a43938837?permalink_comment_id=6372410#gistcomment-6372410)..
+CircuitPythonista Anecdata posts "With fresh support for the ESP32-C5, CircuitPython now has 5GHz wifi capability for Stations, Access Points, and monitor mode. Interesting to see packets on channel 14 in the US." - [Mastodon](https://mastodon.social/@anecdata@fosstodon.org/117298304944845573) and [GitHub](https://gist.github.com/anecdata/c59d67a3aea4b3d45bc1326a43938837?permalink_comment_id=6372410#gistcomment-6372410).
 
 ## ESP-Vim Brings Vim to ESP32 Microcontrollers
 
@@ -100,7 +100,7 @@ Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlis
 
 [The week before](https://youtube.com/live/uqm7OdLaJGQ), Tim worked on CircuitPython USB Host Camera.
 
-You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr).
+You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://studio.youtube.com/playlist/PLjF7R1fz_OOXBHlu9msoXq2jQN4JpCk8A/videos).
 
 **CircuitPython Weekly Meeting**
 
@@ -114,9 +114,9 @@ Bob Hammell has made a visualization for the Adafruit PyPortal displaying an ani
 
 ## Popular Two Weeks Ago
 
-[![Popular Last Week](../assets/20261006/20261006last.jpg)](https://www.makeuseof.com/board-everyone-recommends-costs-60-what-buy-instead/)
+[![Popular two weeks ago](../assets/20261006/20261006last.jpg)](https://www.makeuseof.com/board-everyone-recommends-costs-60-what-buy-instead/)
 
-What was the most popular, most clicked link, in [last week's newsletter](https://www.adafruitdaily.com/2026/09/21/python-on-microcontrollers-newsletter-circuitpython-goes-turbo-with-new-versions-pi-desktop-overhaul-and-more/)? [The $15 board everyone recommends now costs $60, so here's what to buy instead](https://www.makeuseof.com/board-everyone-recommends-costs-60-what-buy-instead/).
+What was the most popular, most clicked link, in [in the last newsletter](https://www.adafruitdaily.com/2026/09/21/python-on-microcontrollers-newsletter-circuitpython-goes-turbo-with-new-versions-pi-desktop-overhaul-and-more/)? [The $15 board everyone recommends now costs $60, so here's what to buy instead](https://www.makeuseof.com/board-everyone-recommends-costs-60-what-buy-instead/).
 
 Did you know you can read past issues of this newsletter in the Adafruit Daily Archive? [Check it out](https://www.adafruitdaily.com/category/circuitpython/).
 
@@ -126,7 +126,7 @@ Did you know you can read past issues of this newsletter in the Adafruit Daily A
 
 [![Adafruit Marquee](../assets/20261006/20261006play3.jpg)](https://adafruit-playground.com/u/brubell/pages/adafruit-marquee)
 
-Adafruit Marquee allows you to visually create interfaces for e-paper/eink displays without writing any code or storing images or fonts, or rendering graphics directly on the device. Marquee is an Adafruit Playground Experiment and is still in active development. Features may change, break, or be removed without notice - [Adafruit Playground](https://adafruit-playground.com/u/brubell/pages/adafruit-marquee).
+Adafruit Marquee allows you to visually create interfaces for e-paper/eink displays without writing any code, storing images or fonts, or rendering graphics directly on the device. Marquee is an Adafruit Playground Experiment and is still in active development. Features may change, break, or be removed without notice - [Adafruit Playground](https://adafruit-playground.com/u/brubell/pages/adafruit-marquee).
 
 [![Meshtastic-compatible full stack for CircuitPython](../assets/20261006/20261006play1.jpg)](https://adafruit-playground.com/u/fede2/pages/meshtastic-compatible-full-stack-in-for-circuitpython)
 
@@ -140,11 +140,11 @@ AIR PRO: a Pip-Boy style air quality monitor with Qualia S3 and SEN66 - [Adafrui
 
 [![ColecoJam](../assets/20261006/20261006jam.gif)](https://danthegeek.com/colecojam/)
 
-ColecoJam is a Colecovision emulator for the Adafruit Fruit Jam. The project includes the emulator, a cartridge reader and a 3D printed case (video includes title screen in the upcoming release)- [Dan The Geek](https://danthegeek.com/colecojam/). Via [BlueSky](https://bsky.app/profile/cogliano.bsky.social/post/3mwove6mlak2e).
+ColecoJam is a ColecoVision emulator for the Adafruit Fruit Jam. The project includes the emulator, a cartridge reader and a 3D printed case (video includes title screen in the upcoming release) - [Dan The Geek](https://danthegeek.com/colecojam/). Via [BlueSky](https://bsky.app/profile/cogliano.bsky.social/post/3mwove6mlak2e).
 
 [![New Book](../assets/20261006/20261006book.jpg)](https://www.elektormagazine.com/news/xiao-esp32-c3-projects-micropython)
 
-The new book *Build Smart Projects with the XIAO ESP32-C3 Board* by Dr. Günter Spanner, uses MicroPython to take readers from their first experiments with the board to more advanced projects - [Elektor](https://www.elektormagazine.com/news/xiao-esp32-c3-projects-micropython).
+The new book *Build Smart Projects with the XIAO ESP32-C3 Board* by Dr. Günter Spanner uses MicroPython to take readers from their first experiments with the board to more advanced projects - [Elektor](https://www.elektormagazine.com/news/xiao-esp32-c3-projects-micropython).
 
 [![Raspberry Pi OS: A Complete Guide to the New Control Centre](../assets/20261006/20261006bar.jpg)](https://raspberrytips.com/raspberry-pi-control-centre/)
 
@@ -152,7 +152,7 @@ Raspberry Pi OS: A Complete Guide to the New Control Centre - [RaspberryTips](ht
 
 [![Python 3.15](../assets/20261006/20261006rp.jpg)](https://realpython.com/python315-new-features/)
 
-Python 3.15 is scheduled for release on October 1, 2026, as laid out in the release schedule. The final release candidate is already out, and the feature set is frozen, so now is a good time to see what the new version has in store for you. Real Python has a tutorial  on the new features - [Real Python](https://realpython.com/python315-new-features/).
+Python 3.15 is scheduled for release any day, as laid out in the release schedule. The final release candidate is already out, and the feature set is frozen, so now is a good time to see what the new version has in store for you. Real Python has a tutorial on the new features - [Real Python](https://realpython.com/python315-new-features/).
 
 [![Animate a Halloween skeleton](../assets/20261006/20261006skel.jpg)](https://www.raspberrypi.com/news/animate-a-halloween-skeleton-raspberry-pi-book-of-making-2027/)
 
@@ -184,11 +184,11 @@ Mass microcontroller ADC test: ATmega328P, ESP32, ESP32-S2, ESP32-C5, RP2040, RP
 
 [![How to Turn a Python Script Into an AI Agent](../assets/20261006/20261006turn.jpg)](https://www.kdnuggets.com/how-to-turn-a-python-script-into-an-ai-agent)
 
-How to turn a Python script Into an AI agent - [KDnuggets](https://www.kdnuggets.com/how-to-turn-a-python-script-into-an-ai-agent).
+How to turn a Python script into an AI agent - [KDnuggets](https://www.kdnuggets.com/how-to-turn-a-python-script-into-an-ai-agent).
 
 [![Building a Local Voice-Controlled Hardware System with Python and Termux](../assets/20261006/20261006control.jpg)](https://www.sitepoint.com/building-a-local-voice-controlled-hardware-system-with-python-and-termux/)
 
-Building a local Voice-Controlled hardware system with Python and Termux - [sitepoint](https://www.sitepoint.com/building-a-local-voice-controlled-hardware-system-with-python-and-termux/).
+Building voice-controlled hardware system with Python and Termux - [sitepoint](https://www.sitepoint.com/building-a-local-voice-controlled-hardware-system-with-python-and-termux/).
 
 [![Mi-Hole](../assets/20261006/20261006mi.jpg)](https://github.com/rogerleuthner/public-mi-hole)
 
@@ -214,7 +214,7 @@ Seven advanced Python tricks to level up your coding skills - [KDnuggets](https:
 
 [![OpenArm](../assets/20261006/20261006new1.jpg)](https://github.com/enactic/OpenArm)
 
-OpenArm is controlled by software running on a Linux PC (Ubuntu 22.04/24.04) and communicating using SocketCAN. The open-source software stack includes C++ and Python CAN-FD libraries, ROS 2, MoveIt2 configurations for bimanual operation, and Dora nodes for data collection and teleoperation - [GitHub](https://github.com/enactic/OpenArm) and [YouTube](https://youtu.be/QzJSBbF7zIE?si=3QB4OnALigfTvgjz). Via [CNX](https://www.cnx-software.com/2026/09/30/openarm-2-0-an-open-source-7-dof-robot-arm-with-qdd-joints-bilateral-force-feedback-in-hand-camera/).
+OpenArm, a 7-DOF open-source robot arm, is controlled by software running on a Linux PC (Ubuntu 22.04/24.04) and communicating using SocketCAN. The open-source software stack includes C++ and Python CAN-FD libraries, ROS 2, MoveIt2 configurations for bimanual operation, and Dora nodes for data collection and teleoperation - [GitHub](https://github.com/enactic/OpenArm) and [YouTube](https://youtu.be/QzJSBbF7zIE?si=3QB4OnALigfTvgjz). Via [CNX](https://www.cnx-software.com/2026/09/30/openarm-2-0-an-open-source-7-dof-robot-arm-with-qdd-joints-bilateral-force-feedback-in-hand-camera/).
 
 [![Avaota F2](../assets/20261006/20261006new2.jpg)](https://www.cnx-software.com/2026/10/02/avaota-f2-allwinner-v861-risc-v-sbc-targets-ai-cameras-with-ptz-and-audio-support/)
 
@@ -303,7 +303,7 @@ I've been working on adding features to the Zephyr port. First up was to impleme
 
 **Tim**
 
-My guides for the pixel dust sand simulation, and USB host cameras on the Fruit Jam are published. The next thing I'm working on is using SDR devices over USB host to listen to FM and Ham radio. These devices require bulk in transfers over the USB connection. Support for that was added first in the `Pico-PIO-USB` library, and now I'm working on the CircuitPython core side of it. I also recently got some of the Ikea matter compatible devices and have started tinkering to get them integrated with CircuitPython. The CircuitMatter implements support in CPython. I ported the most intensive crypto math into turbo compiled .mpy files which makes it fast enough to be practical under CircuitPython. I'll be working on adding the necessary crypto modules to the core to match their CPython counterpart APIs for a more permanent solution, but preliminary tests turning an LED on and off with this version are successful.
+My guides for the pixel dust sand simulation, and USB host cameras on the Fruit Jam are published. The next thing I'm working on is using SDR devices over USB host to listen to FM and Ham radio. These devices require bulk in transfers over the USB connection. Support for that was added first in the `Pico-PIO-USB` library, and now I'm working on the CircuitPython core side of it. I also recently got some of the Ikea Matter compatible devices and have started tinkering to get them integrated with CircuitPython. CircuitMatter implements support in CPython. I ported the most intensive crypto math into turbo compiled .mpy files which makes it fast enough to be practical under CircuitPython. I'll be working on adding the necessary crypto modules to the core to match their CPython counterpart APIs for a more permanent solution, but preliminary tests turning an LED on and off with this version are successful.
 
 **Scott**
 
