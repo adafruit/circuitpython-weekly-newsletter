@@ -269,15 +269,19 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 
 ## New Adafruit Learning System Guides
 
-[![New Learn Guides](../assets/20261006/20261006learn.jpg)](https://learn.adafruit.com/guides/latest)
+[![New Learn Guides](../assets/20261006/20261006learn.gif)](https://learn.adafruit.com/guides/latest)
 
 The [Adafruit Learning System](https://learn.adafruit.com/) has over 3,200 free guides for learning skills and building projects including using Python.
 
-[title](url) from [name](url)
+[CircuitPython Turbo Sushi Conveyor Belt](https://learn.adafruit.com/circuitpython-turbo-sushi-conveyor-belt) from [Liz Clark](https://learn.adafruit.com/u/BlitzCityDIY)
 
-[title](url) from [name](url)
+[CircuitPython POV Bike Wheel](https://learn.adafruit.com/circuitpython-pov-bike-wheel) from [Erin St Blaine](https://learn.adafruit.com/u/firepixie)
 
-[title](url) from [name](url)
+[PixelDust Digital Sand for CircuitPython](https://learn.adafruit.com/pixeldust-digital-sand-for-circuitpython) from [Tim C](https://learn.adafruit.com/u/Foamyguy)
+
+[USB Host Camera on Fruit Jam](https://learn.adafruit.com/usb-host-camera-on-fruit-jam) from [Tim C](https://learn.adafruit.com/u/Foamyguy)
+
+[MeshFruit Message Board](https://learn.adafruit.com/meshfruit-message-board) from [Ruiz Brothers](https://learn.adafruit.com/u/pixil3d)
 
 ## Updated Learn Guides
 
@@ -295,19 +299,21 @@ If you'd like to contribute to the CircuitPython project on the Python side of t
 
 You can check out this [list of all the Adafruit CircuitPython libraries and drivers available](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md). 
 
-The current number of CircuitPython libraries is **###**!
+The current number of CircuitPython libraries is **592**!
 
 **New Libraries**
 
 Here are this week's new CircuitPython libraries:
 
-* [library](url)
+* [adafruit/Adafruit_CircuitPython_USB_Host_Camera](https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_Camera)
+* [adafruit/Adafruit_CircuitPython_PicoTTS](https://github.com/adafruit/Adafruit_CircuitPython_PicoTTS)
 
 **Updated Libraries**
 
 Here are this week's updated CircuitPython libraries:
 
-* [library](url)
+* [adafruit/Adafruit_CircuitPython_BLE](https://github.com/adafruit/Adafruit_CircuitPython_BLE)
+* [adafruit/Adafruit_CircuitPython_Display_Text](https://github.com/adafruit/Adafruit_CircuitPython_Display_Text)
 
 ## What’s the CircuitPython team up to this week?
 
@@ -315,27 +321,21 @@ What is the team up to this week? Let’s check in:
 
 **Dan**
 
-[![Dan](../assets/20261006/20261006dan.jpg)](https://www.circuitpython.org/)
+I released CircuitPython 11.0.0-alpha.1 a couple of weeks ago. We decided to move toward CircuitPython 11.0.0 as the next release, instead of 10.4.0.
 
-text.
+I've been working on adding features to the Zephyr port. First up was to implement `neopixel_write` support on nRF devices. That is mostly done. Next up will be `pwmio`; NeoPixel already added partial support.
 
 **Tim**
 
-[![Tim](../assets/20261006/20261006tim.jpg)](https://www.circuitpython.org/)
-
-text.
+My guides for the pixel dust sand simulation, and USB host cameras on the Fruit Jam are published. The next thing I'm working on is using SDR devices over USB host to listen to FM and Ham radio. These devices require bulk in transfers over the USB connection. Support for that was added first in the `Pico-PIO-USB` library, and now I'm working on the CircuitPython core side of it. I also recently got some of the Ikea matter compatible devices and have started tinkering to get them integrated with CircuitPython. The CircuitMatter implements support in CPython. I ported the most intensive crypto math into turbo compiled .mpy files which makes it fast enough to be practical under CircuitPython. I'll be working on adding the necessary crypto modules to the core to match their CPython counterpart APIs for a more permanent solution, but preliminary tests turning an LED on and off with this version are successful.
 
 **Scott**
 
-[![Scott](../assets/20261006/20261006scott.jpg)](https://www.circuitpython.org/)
-
-text.
+This week the Zephyr bootloader changes were in. This makes a UF2 capable bootloader available for Zephyr boards. CircuitPython builds it as part of the full image. Now I'm dusting off Zephyr `analogio` changes and Ethernet support for both Zephyr and Espressif. They are both getting close to PR.
 
 **Liz**
 
-[![Liz](../assets/20261006/20261006liz.jpg)](https://www.circuitpython.org/)
-
-text.
+This week I worked on code for the [Pepper's Ghost Monster Eye guide](https://learn.adafruit.com/peppers-ghost-monster-eye). This guide uses the Monster Eyes Arduino library to display an animated eyeball on a 2.1" round display with the Qualia S3. Noe asked for a couple of features to be added to the library: the ability to switch eyeball graphics and the ability to have the eyeball move offscreen. I was able to add both of these and control them with the onboard buttons on the Qualia.
 
 ## Upcoming Events
 
@@ -347,7 +347,6 @@ text.
 
 The next MicroPython Meetup in Melbourne will be on October 25th – [Luma](https://luma.com/micropython). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
-
 **Other Events This Year**
 
 * [Espressif DevCon 2026](https://devcon.espressif.com/) will be November 3-4 in Milan, Italy and online.
@@ -356,17 +355,17 @@ If you know of virtual events or upcoming events, please let us know via email t
 
 ## Latest Releases
 
-CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [#.#.#-##.#](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
+CircuitPython's stable release is [10.3.1](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [11.0.0-alpha.1](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
 
-[2026####](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest Adafruit CircuitPython library bundle.
+[20261002](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest Adafruit CircuitPython library bundle.
 
-[2026####](https://github.com/adafruit/CircuitPython_Community_Bundle/releases/latest) is the latest CircuitPython Community library bundle.
+[20260923](https://github.com/adafruit/CircuitPython_Community_Bundle/releases/latest) is the latest CircuitPython Community library bundle.
 
-[v#.#.#](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
+[v1.29.0](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
 
-[#.#.#](https://www.python.org/downloads/) is the latest Python release. The latest pre-release version is [#.#.#](https://www.python.org/download/pre-releases/).
+[3.14.8](https://www.python.org/downloads/) is the latest Python release. The latest pre-release version is [3.15.0rc2](https://www.python.org/download/pre-releases/).
 
-[#,### Stars](https://github.com/adafruit/circuitpython/stargazers) Like CircuitPython? [Star it on GitHub!](https://github.com/adafruit/circuitpython)
+[4560 Stars](https://github.com/adafruit/circuitpython/stargazers) Like CircuitPython? [Star it on GitHub!](https://github.com/adafruit/circuitpython)
 
 ## Call for Help -- Translating CircuitPython is now easier than ever
 
