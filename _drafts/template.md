@@ -198,9 +198,9 @@ Yakroo108 turned a broken projector into an interactive floor, reusing the optic
 
 Jane Street CTO: "Everyone knows some Python... lots of people aren't any good at it." - [efinancialcareers](https://www.efinancialcareers.com/news/jane-street-cto-everyone-knows-python-lots-of-people-aren-t-any-good-at-it).
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![A Button That Sends Command+Shift+3](../assets/20261006/20261006but.jpg)](https://dev.to/devasservice/a-button-that-sends-commandshift3-2k5h)
 
-text - [site](url).
+A button that sends Command+Shift+3 using MicroPython - [DEV](https://dev.to/devasservice/a-button-that-sends-commandshift3-2k5h).
 
 [![title](../assets/20261006/20261006-name.jpg)](url)
 
