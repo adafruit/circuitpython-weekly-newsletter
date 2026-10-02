@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Featured story title here!"
+title: "CircuitPython 11 Alpha, Bluetooth to Space, New ESP32-P4s and More!"
 date: 2026-10-06 07:00:00 -0800
 categories: weekly
 ---
