@@ -234,15 +234,15 @@ Turn text input into actions with Needle, a 14MB function-calling LLM for Raspbe
 
 Seven advanced Python tricks to level up your coding skills - [KDnuggets](https://www.kdnuggets.com/7-advanced-python-tricks-to-level-up-your-coding-skills).
 
-## Coming Soon / New
+## New
 
 [![title](../assets/20261006/20261006new1.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/20261006/20261006new2.jpg)](url)
+[![Avaota F2](../assets/20261006/20261006new2.jpg)](https://www.cnx-software.com/2026/10/02/avaota-f2-allwinner-v861-risc-v-sbc-targets-ai-cameras-with-ptz-and-audio-support/)
 
-text - [site](url).
+Avaota F2 is the first SBC based on an Allwinner V861 dual-core 64-bit RISC-V SoC with 128MB on-chip DDR3 memory, support for 4K cameras, H.265 video codec, and a 1 TOPS AI accelerator - [CNX](https://www.cnx-software.com/2026/10/02/avaota-f2-allwinner-v861-risc-v-sbc-targets-ai-cameras-with-ptz-and-audio-support/).
 
 ## New Boards Supported by CircuitPython
 
