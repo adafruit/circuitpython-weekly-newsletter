@@ -222,9 +222,9 @@ Building a local Voice-Controlled hardware system with Python and Termux - [site
 
 Mi-Hole is a lightweight DNS filtering and monitoring appliance built on the ESP32-S3 and MicroPython - [GitHub](https://github.com/rogerleuthner/public-mi-hole) and [YouTube](https://www.youtube.com/watch?v=D5P4xrF4DOM).
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![Motorizing a Shelly camera](../assets/20261006/20261006motor.jpg)](https://draeger-it.blog/shelly-camera-motorisieren-pan-tilt-steuerung-mit-dem-esp32/)
 
-text - [site](url).
+Motorizing a Shelly camera: Pan-tilt control with the ESP32 and MicroPython - [Draeger IT](https://draeger-it.blog/shelly-camera-motorisieren-pan-tilt-steuerung-mit-dem-esp32/). (German)
 
 [![title](../assets/20261006/20261006-name.jpg)](url)
 
