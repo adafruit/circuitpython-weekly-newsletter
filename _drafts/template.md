@@ -112,17 +112,17 @@ You can see the latest video and past videos on the Adafruit YouTube channel und
 
 **CircuitPython Parsec**
 
-[![CircuitPython Parsec](../assets/20261006/20261006jp.jpg)]()
+[![CircuitPython Parsec](../assets/20261006/20261006jp.jpg)](https://blog.adafruit.com/2026/10/02/john-parks-circuitpython-parsec-surviving-sensor-drop-with-try-except/)
 
-John Park’s CircuitPython Parsec this week is on  - [Adafruit Blog]() and [YouTube]().
+John Park’s CircuitPython Parsec this week is on Surviving Sensor Drop with Try/Except - [Adafruit Blog](https://blog.adafruit.com/2026/10/02/john-parks-circuitpython-parsec-surviving-sensor-drop-with-try-except/) and [YouTube](https://youtu.be/yx6mMwcJToc?si=ZUpb9mVGdbWi1GwI).
 
 Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr).
 
 **Deep Dive with Tim**
 
-[![Deep Dive with Tim](../assets/20261006/20261006timdive.jpg)](url)
+[![Deep Dive with Tim](../assets/20261006/20261006timdive.jpg)](https://youtube.com/live/g4jCmRKRblM)
 
-[Last week](), Tim streamed work on .
+[Last week](https://youtube.com/live/g4jCmRKRblM), Tim streamed work on CircuitPython USB Host Software Defined Radio - FM & Ham.
 
 You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr).
 
