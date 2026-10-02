@@ -206,9 +206,9 @@ Jane Street CTO: "Everyone knows some Python... lots of people aren't any good a
 
 A button that sends Command+Shift+3 using MicroPython - [DEV](https://dev.to/devasservice/a-button-that-sends-commandshift3-2k5h).
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![Microcontroller ADC Test](../assets/20261006/20261006mass.jpg)](https://www.instructables.com/Mass-ADC-Testing-DNL-INL-ENOB-Ads1115-Mcp4728-Stab)
 
-text - [site](url).
+Mass microcontroller ADC test: ATmega328P, ESP32, ESP32-S2, ESP32-C5, RP2040, RP2350, SAMD21, SAMD51, RA4M1, NRF52840, STM32, IMXRT1062 and more - [Instructables](https://www.instructables.com/Mass-ADC-Testing-DNL-INL-ENOB-Ads1115-Mcp4728-Stab).
 
 [![How to Turn a Python Script Into an AI Agent](../assets/20261006/20261006turn.jpg)](https://www.kdnuggets.com/how-to-turn-a-python-script-into-an-ai-agent)
 
