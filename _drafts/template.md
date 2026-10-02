@@ -218,9 +218,9 @@ How to turn a Python script Into an AI agent - [KDnuggets](https://www.kdnuggets
 
 Building a local Voice-Controlled hardware system with Python and Termux - [sitepoint](https://www.sitepoint.com/building-a-local-voice-controlled-hardware-system-with-python-and-termux/).
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![Mi-Hole](../assets/20261006/20261006mi.jpg)](https://github.com/rogerleuthner/public-mi-hole)
 
-text - [site](url).
+Mi-Hole is a lightweight DNS filtering and monitoring appliance built on the ESP32-S3 and MicroPython - [GitHub](https://github.com/rogerleuthner/public-mi-hole) and [YouTube](https://www.youtube.com/watch?v=D5P4xrF4DOM).
 
 [![title](../assets/20261006/20261006-name.jpg)](url)
 
