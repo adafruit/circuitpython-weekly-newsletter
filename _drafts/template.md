@@ -283,10 +283,6 @@ The [Adafruit Learning System](https://learn.adafruit.com/) has over 3,200 free 
 
 [MeshFruit Message Board](https://learn.adafruit.com/meshfruit-message-board) from [Ruiz Brothers](https://learn.adafruit.com/u/pixil3d)
 
-## Updated Learn Guides
-
-[title](url)
-
 ## CircuitPython Libraries
 
 [![CircuitPython Libraries](../assets/20261006/blinka.png)](https://circuitpython.org/libraries)
