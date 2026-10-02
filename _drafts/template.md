@@ -5,39 +5,11 @@ date: 2026-10-05 07:00:00 -0800
 categories: weekly
 ---
 
-- [ ] Library and info updates
-- [ ] change date
-- [ ] update title
-- [ ] Feature story
-- [ ] Update [![](../assets/20261006/)]() for images
-- [ ] Update ICYDNCI
-- [ ] All images 550w max only
-- [ ] Link "View this email in your browser."
-
-News Sources
-
-- [Adafruit Playground](https://adafruit-playground.com/)
-- Twitter: [CircuitPython](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), [MicroPython](https://twitter.com/search?q=micropython&src=typed_query&f=live) and [Python](https://twitter.com/search?q=python&src=typed_query)
-- [Raspberry Pi News](https://www.raspberrypi.com/news/), [Pi Foundation](https://www.raspberrypi.org/blog/)
-- Mastodon [CircuitPython](https://mastodon.social/tags/CircuitPython) and [MicroPython](https://mastodon.social/tags/MicroPython)
-- BlueSky [CircuitPython](https://bsky.app/search?q=circuitpython), [MicroPython](https://bsky.app/search?q=micropython), [Raspberry Pi](https://bsky.app/search?q=raspberry+pi)
-- [Google News Python](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFY2TVY4U0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen), [Infoworld](https://www.infoworld.com/python/)
-- YouTube: [CircuitPython](https://www.youtube.com/results?search_query=circuitpython&sp=CAISBAgDEAE%253D), [MicroPython](https://www.youtube.com/results?search_query=micropython&sp=CAISBAgDEAE%253D), [Prof Gallaugher](https://www.youtube.com/@BuildWithProfG/videos)
-- [maker.io Python](https://www.digikey.com/en/maker/search-results?s=createdDate&t=python)
-- [hackster.io CircuitPython](https://www.hackster.io/search?q=circuitpython&i=projects&sort_by=most_recent) and [MicroPython](https://www.hackster.io/search?q=micropython&i=projects&sort_by=most_recent)
-- Instructables: [CircuitPython](https://www.instructables.com/search/?q=circuitpython&projects=all&sort=Newest), [MicroPython](https://www.instructables.com/search/?q=micropython&projects=all&sort=Newest), [Raspberry Pi Python](https://www.instructables.com/search/?q=raspberry+pi+python&projects=all&sort=Newest)
-- [hackaday CircuitPython](https://hackaday.com/blog/?s=circuitpython) and [MicroPython](https://hackaday.com/blog/?s=micropython)
-- [python.org](https://www.python.org/)
-- [Python Insider - dev team blog](https://blog.python.org/)
-- Individuals: [bret.dk](https://bret.dk/), [Jeff Geerling](https://www.jeffgeerling.com/blog), [Yakroo](https://x.com/Yakroo5077), [coXXect](https://coxxect.blogspot.com/)
-- Tom's Hardware: [CircuitPython](https://www.tomshardware.com/search?searchTerm=circuitpython&articleType=all&sortBy=publishedDate) and [MicroPython](https://www.tomshardware.com/search?searchTerm=micropython&articleType=all&sortBy=publishedDate) and [Raspberry Pi](https://www.tomshardware.com/search?searchTerm=raspberry%20pi&articleType=all&sortBy=publishedDate)
-- [hackaday.io newest projects MicroPython](https://hackaday.io/projects?tag=micropython&sort=date) and [CircuitPython](https://hackaday.io/projects?tag=circuitpython&sort=date)
-- hackaday.io - [CircuitPython](https://hackaday.io/search?term=circuitpython) and [MicroPython](https://hackaday.io/search?term=micropython)
-- [MicroPython Meeting](https://luma.com/micropython?k=c)
-
 View this email in your browser. **Warning: Flashing Imagery**
 
-Welcome to the latest Python on Microcontrollers newsletter! *insert 2-3 sentences from editor (what's in overview, banter)* - *Anne Barela, Editor*
+Welcome to the latest Python on Microcontrollers newsletter! Apologies for the newsletter not being out last week. A nasty early case of Influenza A. At least there were many neat developments in the last two weeks. CircuitPython is jumping from 10.3 to 11.0 with the addition of many improvements from CircuitPython Turbo. This includes speedups on single board computers using optimizations in the Blinka compatibility layer. How can Bluetooth reach space and back when it struggles over a few feet? The folks at Hubble Networks have figured it out and that may make the internet of things a much easier, connected thing. Espressif heard the concerns with the ESP32-P4 and are releasing an ESP32-P4X with many improvements, at the cost of needing redesigns in circuit boards. 
+
+All of the news and more in this packed issue. Enjoy and please consider getting your vaccinations. - *Anne Barela, Editor*
 
 We're on [Discord](https://discord.gg/HYqvREz), [Twitter/X](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), [BlueSky](https://bsky.app/profile/circuitpython.org) and for past newsletters - [view them all here](https://www.adafruitdaily.com/category/circuitpython/). If you're reading this on the web, please [subscribe here](https://www.adafruitdaily.com/). Here's the news this week:
 
