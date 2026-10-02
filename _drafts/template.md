@@ -182,9 +182,9 @@ Python 3.15 is scheduled for release on October 1, 2026, as laid out in the rele
 
 Animate a Halloween skeleton with Python — Raspberry Pi Book of Making 2027 - [Raspberry Pi News](https://www.raspberrypi.com/news/animate-a-halloween-skeleton-raspberry-pi-book-of-making-2027/).
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![Physical Computing at Boston College](../assets/20261006/20261006plant.gif)](https://mastodon.social/@gallaugher@mastodon.world/117368777308150945)
 
-text - [site](url).
+"It’s so fun to teach Physical Computing at Boston College. Last night was capacitive touch where students made living plants talk like Baby Groot when tapped, and accelerometers where they made magic wands and Goblets of Glory that play sound when tilted for a toast. All in CircuitPython." - [Mastodon](https://mastodon.social/@gallaugher@mastodon.world/117368777308150945).
 
 [![Raspberry Pi's RAM lock was built to stop scalpers, but it's blocking repairs too](../assets/20261006/20261006lock.jpg)](https://www.techspot.com/news/113953-raspberry-pi-blocks-ram-swaps-stop-resellers-selling.html)
 
