@@ -178,9 +178,9 @@ Raspberry Pi OS: A Complete Guide to the New Control Centre - [RaspberryTips](ht
 
 Python 3.15 is scheduled for release on October 1, 2026, as laid out in the release schedule. The final release candidate is already out, and the feature set is frozen, so now is a good time to see what the new version has in store for you. Real Python has a tutorial  on the new features - [Real Python](https://realpython.com/python315-new-features/).
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![Animate a Halloween skeleton](../assets/20261006/20261006skel.jpg)](https://www.raspberrypi.com/news/animate-a-halloween-skeleton-raspberry-pi-book-of-making-2027/)
 
-text - [site](url).
+Animate a Halloween skeleton with Python — Raspberry Pi Book of Making 2027 - [Raspberry Pi News](https://www.raspberrypi.com/news/animate-a-halloween-skeleton-raspberry-pi-book-of-making-2027/).
 
 [![title](../assets/20261006/20261006-name.jpg)](url)
 
