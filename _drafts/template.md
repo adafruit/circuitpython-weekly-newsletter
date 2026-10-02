@@ -174,9 +174,9 @@ The new book *Build Smart Projects with the XIAO ESP32-C3 Board* by Dr. Günter 
 
 Raspberry Pi OS: A Complete Guide to the New Control Centre - [RaspberryTips](https://raspberrytips.com/raspberry-pi-control-centre/). Via [BlueSky](https://bsky.app/profile/raspberrytips.com/post/3mwjsdndeud2x).
 
-[![title](../assets/20261006/20261006-name.jpg)](url)
+[![Python 3.15](../assets/20261006/20261006rp.jpg)](https://realpython.com/python315-new-features/)
 
-text - [site](url).
+Python 3.15 is scheduled for release on October 1, 2026, as laid out in the release schedule. The final release candidate is already out, and the feature set is frozen, so now is a good time to see what the new version has in store for you. Real Python has a tutorial  on the new features - [Real Python](https://realpython.com/python315-new-features/).
 
 [![title](../assets/20261006/20261006-name.jpg)](url)
 
