@@ -1,4 +1,4 @@
-## October 12, 2026 Python on Microcontrollers Newsletter Assets
+## October 19, 2026 Python on Microcontrollers Newsletter Assets
 
 Please preface all asset filenames for this issue with 20261019, re. 20261019neopixel.jpg
 
