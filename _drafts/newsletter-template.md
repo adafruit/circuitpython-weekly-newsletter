@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: Oct 23 cleanup template
+Last changed: Nov 12 cleanup template
 
 News Sources
 
