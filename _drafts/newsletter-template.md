@@ -316,6 +316,12 @@ text.
 
 text.
 
+**Mikey**
+
+[![Mikey](../assets/2026mmdd/2026mmddmikey.jpg)](https://www.circuitpython.org/)
+
+text.
+
 ## Upcoming Events
 
 [![MicroPython Meetup](../assets/2026mmdd/2026mmddmp.png)](https://luma.com/micropython)
