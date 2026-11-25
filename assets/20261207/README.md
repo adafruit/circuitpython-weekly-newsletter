@@ -1,6 +1,6 @@
-## November 30, 2026 Python on Microcontrollers Newsletter Assets
+## December 7, 2026 Python on Microcontrollers Newsletter Assets
 
-Please preface all asset filenames for this issue with 20261130, re. 20261130neopixel.jpg
+Please preface all asset filenames for this issue with 20261207, re. 20261207neopixel.jpg
 
 Please consider using JPG files for size. Use a .jpg file extension, not .JPG or .jfif, please.
 .png files are acceptable too. Please, not .PNG or .svg files.
